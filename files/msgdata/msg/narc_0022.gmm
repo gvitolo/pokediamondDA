@@ -1,71 +1,71 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0022_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, hi!\rI’m the president of the Pokétch\nCompany!\r</language>
+		<language name="English">Hej, hej!\rJeg er præsidenten for Poketch\nKompagni!\r</language>
 	</row>
 	<row id="narc_0022_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m developing a new Pokétch app,\nbut it’s not quite done.\rMy guess is that it will be ready\nwhen you get a Gym Badge.</language>
+		<language name="English">Jeg er ved at udvikle en ny Poketch app,\nMen det er ikke helt gjort.\rMit fik er, at det vil være klar\nNår du får et Gym Badge.</language>
 	</row>
 	<row id="narc_0022_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, hi!\nYour patience is rewarded!\rI’ve developed a new Pokétch app!\r</language>
+		<language name="English">Hej, hej!\nDin tålmodighed er belønnet!\rJeg har udviklet en ny Poketch app!\r</language>
 	</row>
 	<row id="narc_0022_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s the Memo Pad!\nIt’s... Well, it is what it is!</language>
+		<language name="English">Det er Memo Pad!\nDet er... Det er, hvad det er!</language>
 	</row>
 	<row id="narc_0022_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m developing a new Pokétch app,\nbut it’s not quite done.\rMy guess is that it will be ready\nwhen you get three Gym Badges.</language>
+		<language name="English">Jeg er ved at udvikle en ny Poketch app,\nMen det er ikke helt gjort.\rMit fik er, at det vil være klar\nNår du får tre Gym Badges.</language>
 	</row>
 	<row id="narc_0022_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, hi!\nYour patience is rewarded!\rI’ve developed another new Pokétch\napp!\r</language>
+		<language name="English">Hej, hej!\nDin tålmodighed er belønnet!\rJeg har udviklet en ny Poketch.\napp!\r</language>
 	</row>
 	<row id="narc_0022_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Having a map constantly displayed\nis convenient, no?\rYou can also mark things, so it’s\nthat much more useful.</language>
+		<language name="English">På have et kort konstant vises\nEr det ikke godt nok?\rDu kan også markedsføre ting, så det er\nSå er det bare nytteløst.</language>
 	</row>
 	<row id="narc_0022_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m developing a new Pokétch app,\nbut it’s not quite done.\rMy guess is that it will be ready\nwhen you get five Gym Badges.</language>
+		<language name="English">Jeg er ved at udvikle en ny Poketch app,\nMen det er ikke helt gjort.\rMit fik er, at det vil være klar\nNår du får fat i Gym Badges.</language>
 	</row>
 	<row id="narc_0022_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, hi!\nYour patience is rewarded!\rI’ve developed yet another new\nPokétch app!\r</language>
+		<language name="English">Hej, hej!\nDin tålmodighed er belønnet!\rJeg har udviklet endnu en ny\nPoketch app!\r</language>
 	</row>
 	<row id="narc_0022_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think it will be useful to know how\nmany people are communicating, like\fin the Union Room.</language>
+		<language name="English">Jeg tror, det vil være nyligt at vide, hvordan\nMange mennesker kommunikere, som\fI Union Room.</language>
 	</row>
 	<row id="narc_0022_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m developing a new Pokétch app,\nbut it’s not quite done.\rMy guess is that it will be ready\nwhen you get seven Gym Badges.</language>
+		<language name="English">Jeg er ved at udvikle en ny Poketch app,\nMen det er ikke helt gjort.\rMit fik er, at det vil være klar\nNår du får syv Gym Badges.</language>
 	</row>
 	<row id="narc_0022_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, hi!\nYour patience is rewarded!\rI’ve developed still yet another new\nPokétch app!\r</language>
+		<language name="English">Hej, hej!\nDin tålmodighed er belønnet!\rJeg har udviklet endnu en ny\nPoketch app!\r</language>
 	</row>
 	<row id="narc_0022_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Check type matchups so you can make\nall your attacks super effective!\rYou’ll become stronger than ever!</language>
+		<language name="English">Tjek type matchups så du kan gøre\nalle dine angreb super effektiv!\rDu bliver stærkere end nogensinde!</language>
 	</row>
 	<row id="narc_0022_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yup, all sorts of people will give\nyou Pokétch apps.\rEveryone gets super happy that way!</language>
+		<language name="English">Ja, alle mulige mennesker vil give\nDu Poketch apps.\rAll blaver super glade på den måde!</language>
 	</row>
 	<row id="narc_0022_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, yup, what to do?\rDo you think I should solicit new\nPokétch ideas?</language>
+		<language name="English">Hvad skal vi gøre?\rSynes du, jeg skal bede om nye\nPoketch ideer?</language>
 	</row>
 	<row id="narc_0022_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you can be sure I will keep\ndeveloping Pokétch apps.\rJust like Pokémon, my Pokétch is\nsomething that evolves!</language>
+		<language name="English">Åh, du kan være sikker på jeg vil holde\nudvikle Poketch apps.\rZLigesom Pokémon, min Pokétch er\nNoget, der udvikler sig sig!</language>
 	</row>
 	<row id="narc_0022_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pokétch Company.\rWe’re actually a family-run business,\nso we’re not very impressive.</language>
+		<language name="English">Velkommen til Poketch Company.\rVi er faktisk en familievirksomhed.\nSå vi er ikke særlig imponerende.</language>
 	</row>
 </body>

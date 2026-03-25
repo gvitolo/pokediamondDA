@@ -1,204 +1,204 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0446_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dr. Footstep: Pokémon are quite easy\nfor me to read.\rI need only to see their footprints,\nand their innermost thoughts are\frevealed to me!\rOh?\nYou are skeptical of my claim?\rThen, let your {STRVAR_1 0, 0} walk\nin front of me, right here.\rFrom its footprints, I will determine\nhow it feels about you.\r</language>
+		<language name="English">Dr. Footstep: Pokémon er ret nemme\nfor mig at læse.\rJeg behøver kun at se deres fodspor,\nog deres inderste tanker er\fåbenbaret for mig!\rÅh?\nEr du skeptisk over for min påstand?\rSå lad din {STRVAR_1 0, 0} gå\nforan mig, lige her.\rUd fra dens fodspor vil jeg bestemme\nhvordan det føles for dig.\r</language>
 	</row>
 	<row id="narc_0446_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dr. Footstep: Do you want to check\nthe feelings of your Pokémon again?\rThen, let your {STRVAR_1 0, 0} walk\nin front of me, right here.\rFrom its footprints, I will determine\nhow it feels about you.\r</language>
+		<language name="English">Dr. Footstep: Vil du tjekke\nfølelserne af din Pokémon igen?\rSå lad din {STRVAR_1 0, 0} gå\nforan mig, lige her.\rUd fra dens fodspor vil jeg bestemme\nhvordan det føles for dig.\r</language>
 	</row>
 	<row id="narc_0446_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dr. Footstep: ...And that is what\nyour {STRVAR_1 0, 0} thinks of you.</language>
+		<language name="English">Dr. Footstep: ...Og det er hvad\ndine {STRVAR_1 0, 0} tænker på dig.</language>
 	</row>
 	<row id="narc_0446_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dr. Footstep: ...Hmmm... {STRVAR_1 0, 0}\ndoesn’t leave any footprints.\rIt’s somewhat difficult for me to\ndetermine what its thoughts are.</language>
+		<language name="English">Dr. Footstep: ...Hmmm... {STRVAR_1 0, 0}\nefterlader ingen fodspor.\rDet er lidt svært for mig\nbestemme, hvad dens tanker er.</language>
 	</row>
 	<row id="narc_0446_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dr. Footstep: ...Hmm... {STRVAR_1 0, 0}\nhappens to be quite the silent type!</language>
+		<language name="English">Dr. Footstep: ...Hmm... {STRVAR_1 0, 0}\ntilfældigvis er den helt stille type!</language>
 	</row>
 	<row id="narc_0446_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dr. Footstep: ...And that is what\nyour {STRVAR_1 0, 0} thinks of you.\rI must say, your {STRVAR_1 0, 0} and\nyou share a very close bond.\fThis is for you.\r</language>
+		<language name="English">Dr. Footstep: ...Og det er hvad\ndine {STRVAR_1 0, 0} tænker på dig.\rJeg må sige, din {STRVAR_1 0, 0} og\ndu deler et meget tæt bånd.\fDette er til dig.\r</language>
 	</row>
 	<row id="narc_0446_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dr. Footstep: ...Hmmm... {STRVAR_1 0, 0}\ndoesn’t leave any footprints.\rIt’s somewhat difficult for me to\ndetermine what its thoughts are.\rHowever, your {STRVAR_1 0, 0} and\nyou obviously share a close bond.\fThis is for you.\r</language>
+		<language name="English">Dr. Footstep: ...Hmmm... {STRVAR_1 0, 0}\nefterlader ingen fodspor.\rDet er lidt svært for mig\nbestemme, hvad dens tanker er.\rMen din {STRVAR_1 0, 0} og\ndu deler åbenbart et tæt bånd.\fDette er til dig.\r</language>
 	</row>
 	<row id="narc_0446_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dr. Footstep: ...Hmm... {STRVAR_1 0, 0}\nhappens to be quite the silent type!\rHowever, your {STRVAR_1 0, 0} and\nyou obviously share a close bond.\fThis is for you.\r</language>
+		<language name="English">Dr. Footstep: ...Hmm... {STRVAR_1 0, 0}\ntilfældigvis er den helt stille type!\rMen din {STRVAR_1 0, 0} og\ndu deler åbenbart et tæt bånd.\fDette er til dig.\r</language>
 	</row>
 	<row id="narc_0446_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} received\nthe Footprint Ribbon.\r</language>
+		<language name="English">{STRVAR_1 3, 1} modtaget\nfodaftryksbåndet.\r</language>
 	</row>
 	<row id="narc_0446_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} put the Footprint Ribbon\non {STRVAR_1 0, 0}.</language>
+		<language name="English">{STRVAR_1 3, 1} sæt Footprint Ribbon\npå {STRVAR_1 0, 0}.</language>
 	</row>
 	<row id="narc_0446_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww... {STRVAR_1 3, 1} only plays with\nother Pokémon...\r{STRVAR_1 1, 2} feels neglected...\rMaybe {STRVAR_1 3, 1} doesn’t like\n{STRVAR_1 1, 2} very much?\r{STRVAR_1 1, 2} will try harder for\n{STRVAR_1 3, 1}.\rPlease be nicer to me!\r</language>
+		<language name="English">Aww... {STRVAR_1 3, 1} kun leger med\nandre Pokémon...\r{STRVAR_1 1, 2} føler sig tilsidesat...\rMåske {STRVAR_1 3, 1} ikke kan lide\n{STRVAR_1 1, 2} meget?\r{STRVAR_1 1, 2} vil prøve hårdere for\n{STRVAR_1 3, 1}.\rVær sødere mod mig!\r</language>
 	</row>
 	<row id="narc_0446_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Others say there are people who\naren’t very nice to Pokémon.\rI wonder about {STRVAR_1 3, 1}...\rWill {STRVAR_1 3, 1} look after\n{STRVAR_1 1, 2} nicely?\rWill I get to go all over with this\nTrainer?\rCan we be... Friends?\r</language>
+		<language name="English">Andre siger, at der er mennesker, der\ner ikke særlig rart for Pokémon.\rJeg undrer mig over {STRVAR_1 3, 1}...\rVilje {STRVAR_1 3, 1} passe på\n{STRVAR_1 1, 2} pænt?\rVil jeg komme til at gå over med det her\nTræner?\rKan vi være... Venner?\r</language>
 	</row>
 	<row id="narc_0446_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This adventure with {STRVAR_1 3, 1}\nis lots of fun.\r{STRVAR_1 1, 2} gets to go places where\nI can’t go by myself.\rI get to battle Pokémon I’ve never\never seen before.\rI’m gonna get stronger and stronger\nfor {STRVAR_1 3, 1}!\r</language>
+		<language name="English">Dette eventyr med {STRVAR_1 3, 1}\ner meget sjovt.\r{STRVAR_1 1, 2} kommer til at gå steder, hvor\nJeg kan ikke gå alene.\rJeg kommer til at kæmpe med Pokémon, som jeg aldrig har prøvet\nnogensinde set før.\rJeg bliver stærkere og stærkere\nfor {STRVAR_1 3, 1}!\r</language>
 	</row>
 	<row id="narc_0446_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2} and {STRVAR_1 3, 1} make\na perfectly matched combo!\rI’ve seen all sorts of people\nso far...\rBut {STRVAR_1 3, 1} understands\n{STRVAR_1 1, 2}’s feelings most!\rI’m a little hungry...\nYou can tell, right?\r</language>
+		<language name="English">{STRVAR_1 1, 2} og {STRVAR_1 3, 1} lave\nen perfekt afstemt kombination!\rJeg har set alle mulige mennesker\nindtil videre...\rMen {STRVAR_1 3, 1} forstår\n{STRVAR_1 1, 2}mest følelser!\rjeg er lidt sulten...\nDu kan fortælle, ikke?\r</language>
 	</row>
 	<row id="narc_0446_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I said there can be friendship\nbetween Pokémon and people, will\f{STRVAR_1 0, 0}’s friends understand?\rBut if you see {STRVAR_1 3, 1} and\n{STRVAR_1 1, 2}, you will understand.\rBecause {STRVAR_1 3, 1} and\n{STRVAR_1 1, 2} are friends!\r</language>
+		<language name="English">Hvis jeg sagde, kan der være venskab\nmellem Pokémon og mennesker, vil\f{STRVAR_1 0, 0}forstår vennerne?\rMen hvis du ser {STRVAR_1 3, 1} og\n{STRVAR_1 1, 2}, vil du forstå.\rFordi {STRVAR_1 3, 1} og\n{STRVAR_1 1, 2} er venner!\r</language>
 	</row>
 	<row id="narc_0446_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2} is bored...\nPlay with me more, more...\r{STRVAR_1 1, 2} and {STRVAR_1 3, 1},\nlet’s play nicer...\r</language>
+		<language name="English">{STRVAR_1 1, 2} keder sig...\nSpil med mig mere, mere...\r{STRVAR_1 1, 2} og {STRVAR_1 3, 1},\nlad os spille bedre...\r</language>
 	</row>
 	<row id="narc_0446_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gonna go with {STRVAR_1 3, 1} all over\nthe place...\rBe nice to {STRVAR_1 1, 2}...\nWarm and cuddly...\r</language>
+		<language name="English">Skal med {STRVAR_1 3, 1} over det hele\nstedet...\rVær sød at {STRVAR_1 1, 2}...\nVarm og kælen...\r</language>
 	</row>
 	<row id="narc_0446_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2} get strong, make\n{STRVAR_1 3, 1} happy.\rRound ones, square ones,\ntriangle ones, wobbly ones...\r{STRVAR_1 1, 2} wants to see different\nkinds of Pokémon...\r</language>
+		<language name="English">{STRVAR_1 1, 2} blive stærk, gøre\n{STRVAR_1 3, 1} lykkelig.\rrunde, firkantede,\ntrekantede, vaklende...\r{STRVAR_1 1, 2} ønsker at se anderledes\nslags Pokémon...\r</language>
 	</row>
 	<row id="narc_0446_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2} and {STRVAR_1 3, 1}\nmake a friendly combo.\r{STRVAR_1 3, 1}’s feelings, {STRVAR_1 1, 2}\ncan understand.\r{STRVAR_1 1, 2}’s feelings, {STRVAR_1 3, 1}\nunderstands!\r</language>
+		<language name="English">{STRVAR_1 1, 2} og {STRVAR_1 3, 1}\nlav en venlig kombination.\r{STRVAR_1 3, 1}sine følelser, {STRVAR_1 1, 2}\nkan forstå.\r{STRVAR_1 1, 2}sine følelser, {STRVAR_1 3, 1}\nforstår!\r</language>
 	</row>
 	<row id="narc_0446_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} makes {STRVAR_1 1, 2}\nvery proud!\r{STRVAR_1 0, 0} boasts to friends\nabout {STRVAR_1 3, 1}!\r{STRVAR_1 3, 1} and {STRVAR_1 1, 2} are\nbest of friends!\r</language>
+		<language name="English">{STRVAR_1 3, 1} gør {STRVAR_1 1, 2}\nmeget stolt!\r{STRVAR_1 0, 0} praler med venner\nom {STRVAR_1 3, 1}!\r{STRVAR_1 3, 1} og {STRVAR_1 1, 2} er\nbedste venner!\r</language>
 	</row>
 	<row id="narc_0446_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why does {STRVAR_1 3, 1} use only\nother Pokémon?\rAm I not needed much?\rWould I have been better off if\nI remained in the wild?\rNo, I should give this Trainer\na little more of a chance...\r</language>
+		<language name="English">Hvorfor gør {STRVAR_1 3, 1} kun brug\nandre Pokémons?\rEr der ikke meget brug for mig?\rVille jeg have været bedre stillet hvis\nJeg forblev i naturen?\rNej, jeg burde give denne træner\nlidt større chance...\r</language>
 	</row>
 	<row id="narc_0446_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Humans can’t understand the cries\nof Pokémon, nor our feelings.\rHowever, there are some among us\nthat understand human speech...\rHehehe, {STRVAR_1 3, 1}, you’re not bad\nfor a human.\r</language>
+		<language name="English">Mennesker kan ikke forstå råbene\naf Pokémon eller vores følelser.\rDer er dog nogle blandt os\nder forstår menneskelig tale...\rHehehe, {STRVAR_1 3, 1}, du er ikke dårlig\nfor et menneske.\r</language>
 	</row>
 	<row id="narc_0446_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If a Pokémon were to travel along,\nit would be limited as to where\fit could go.\rBut traveling with a human, a Pokémon\nwould be able to travel farther afield\fto more distant cities and lands.\rTraveling with {STRVAR_1 3, 1} has been\nrewarding and reassuring.\rAnd very entertaining...\r</language>
+		<language name="English">Hvis en Pokémon skulle rejse med,\ndet ville være begrænset med hensyn til hvor\fdet kunne gå.\rMen at rejse med et menneske, en Pokémon\nville være i stand til at rejse længere væk\ftil fjernere byer og lande.\rRejser med {STRVAR_1 3, 1} har været\ngivende og betryggende.\rOg meget underholdende...\r</language>
 	</row>
 	<row id="narc_0446_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some wild Pokémon frown upon others\nfor traveling with humans.\rThey jeer that the caught Pokémon\nhave “forgotten the wild.”\rBut that view is mistaken.\rThey have just never met a Trainer\nwho could be a great partner.\rA great partner like {STRVAR_1 3, 1},\nin other words...\r</language>
+		<language name="English">Nogle vilde Pokémon rynker på næsen af ​​andre\ntil at rejse med mennesker.\rDe håner, at den fangede Pokémon\nhar "glemt det vilde".\rMen den opfattelse er fejlagtig.\rDe har bare aldrig mødt en træner\nsom kunne være en god partner.\rEn god partner som {STRVAR_1 3, 1},\nmed andre ord...\r</language>
 	</row>
 	<row id="narc_0446_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} is...\nA remarkable human and Trainer.\rThat I can always perform the best\nany {STRVAR_1 0, 0} possibly can...\rI attribute that entirely to my\npartner {STRVAR_1 3, 1}.\rWhen we travel, I can see wild\nPokémon eyeing us enviously...\r</language>
+		<language name="English">{STRVAR_1 3, 1} er...\nEt bemærkelsesværdigt menneske og træner.\rAt jeg altid kan præstere det bedste\nenhver {STRVAR_1 0, 0} kan muligvis...\rDet tilskriver jeg helt min\npartner {STRVAR_1 3, 1}.\rNår vi rejser, kan jeg se vildt\nPokémon kigger misundeligt på os...\r</language>
 	</row>
 	<row id="narc_0446_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Does {STRVAR_1 3, 1} intend to ignore\nme forever?\rGive me more opportunities for me\nto shine...\r</language>
+		<language name="English">gør {STRVAR_1 3, 1} har til hensigt at ignorere\nmig for evigt?\rGiv mig flere muligheder for mig\nat skinne...\r</language>
 	</row>
 	<row id="narc_0446_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If a Pokémon is treated as a friend,\nit will return the sentiments.\rWe grow fonder of humans that treat\nus with kindness...\rDoes {STRVAR_1 3, 1} even like\n{STRVAR_1 1, 2}?\r</language>
+		<language name="English">Hvis en Pokémon behandles som en ven,\ndet vil returnere følelserne.\rVi bliver glade for mennesker, der behandler\nos med venlighed...\rgør {STRVAR_1 3, 1} endda gerne\n{STRVAR_1 1, 2}?\r</language>
 	</row>
 	<row id="narc_0446_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did {STRVAR_1 1, 2} get stronger?\nWho is responsible for making me so?\rIs it {STRVAR_1 3, 1}’s doing?\nIs the Trainer owed my thanks?\r</language>
+		<language name="English">Gjorde {STRVAR_1 1, 2} blive stærkere?\nHvem er ansvarlig for at gøre mig sådan?\rEr det {STRVAR_1 3, 1}laver?\nSkyldes træneren min tak?\r</language>
 	</row>
 	<row id="narc_0446_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} and {STRVAR_1 1, 2} are\nalike in some ways.\rIn humanspeak, we match up well.\nDoes {STRVAR_1 3, 1} think so, too?\r</language>
+		<language name="English">{STRVAR_1 3, 1} og {STRVAR_1 1, 2} er\nens på nogle måder.\rI humanspeak matcher vi godt.\ngør {STRVAR_1 3, 1} tror det også?\r</language>
 	</row>
 	<row id="narc_0446_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} is very impressive,\nespecially for a human.\rThe Trainer lets {STRVAR_1 1, 2} use\nevery bit of power properly.\rIt is a shame that {STRVAR_1 3, 1} is\nonly a human...\r</language>
+		<language name="English">{STRVAR_1 3, 1} er meget imponerende,\nisær for et menneske.\rTræneren lader {STRVAR_1 1, 2} bruge\nhver en smule magt ordentligt.\rDet er en skam det {STRVAR_1 3, 1} er\nkun et menneske...\r</language>
 	</row>
 	<row id="narc_0446_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That {STRVAR_1 3, 1}...\nWhat is that Trainer thinking?\rWhy make me join the team, then call\nupon me for nothing?\rAm I considered useless?\nIs the Trainer regretting having me?\rDoes the Trainer dare disrespect\nthis {STRVAR_1 0, 0} so easily?\r</language>
+		<language name="English">At {STRVAR_1 3, 1}...\nHvad tænker træneren på?\rHvorfor få mig til at slutte mig til holdet, så ring\npå mig for ingenting?\rBliver jeg betragtet som ubrugelig?\nFortryder træneren at have mig?\rTør Træneren ikke respektere\ndenne {STRVAR_1 0, 0} så nemt?\r</language>
 	</row>
 	<row id="narc_0446_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have little understanding of\n{STRVAR_1 3, 1} as a human...\r{STRVAR_1 3, 1} may not be too bad,\nconsidering that I, an oft-shunned\f{STRVAR_1 0, 0}, am one of the team...\rThat said, I don’t intend to be all\ncheerful around {STRVAR_1 3, 1}...\r</language>
+		<language name="English">jeg har lidt forståelse for\n{STRVAR_1 3, 1} som menneske...\r{STRVAR_1 3, 1} er måske ikke så dårligt,\ni betragtning af, at jeg, en ofte afskrækket\f{STRVAR_1 0, 0}, er en af ​​holdet...\rNår det er sagt, har jeg ikke tænkt mig at være alt\nmunter rundt {STRVAR_1 3, 1}...\r</language>
 	</row>
 	<row id="narc_0446_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our kind prefers to lurk in dark\nand dank places...\rBut being with {STRVAR_1 3, 1}, even\nbright and festive places seem less\fthreatening...\r{STRVAR_1 3, 1} has a strange\ncharisma...\r</language>
+		<language name="English">Vores slags foretrækker at lure i mørke\nog fugtige steder...\rMen at være med {STRVAR_1 3, 1}, endda\nlyse og festlige steder virker mindre\ftruer...\r{STRVAR_1 3, 1} har en mærkelig\nkarisma...\r</language>
 	</row>
 	<row id="narc_0446_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not for a moment did I think I would\nbe traveling with a human...\rIf my {STRVAR_1 0, 0} friends were to\nsee me now, they would be shocked.\rOr would they be envious of me...?\r</language>
+		<language name="English">Ikke et øjeblik troede jeg, at jeg ville\nat rejse med et menneske...\rHvis min {STRVAR_1 0, 0} venner skulle\nse mig nu, de ville blive chokerede.\rEller ville de være misundelige på mig...?\r</language>
 	</row>
 	<row id="narc_0446_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That {STRVAR_1 3, 1} is the most\nimpressive of humans.\rIt takes a lot to make me,\n{STRVAR_1 1, 2}, sunny and cheerful!\rAs a show of affection, I should\nchomp down on the Trainer’s neck...\rHahaha... Have no fear...\nI was merely joking...\r</language>
+		<language name="English">At {STRVAR_1 3, 1} er mest\nimponerende af mennesker.\rDer skal meget til at få mig til,\n{STRVAR_1 1, 2}, solrig og munter!\rSom et udtryk for hengivenhed burde jeg\nhug ned på trænerens hals...\rHahaha... Frygt ikke...\nJeg lavede bare sjov...\r</language>
 	</row>
 	<row id="narc_0446_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wooooooh...\n{STRVAR_1 1, 2} has nothing to do...\rKeep me too bored, and I’m liable\nto sneak up and bite...\r</language>
+		<language name="English">Woooooh...\n{STRVAR_1 1, 2} har intet at gøre...\rHold mig for kede af det, og jeg er ansvarlig\nat snige sig frem og bide...\r</language>
 	</row>
 	<row id="narc_0446_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is there any human that would grow\nto like us {STRVAR_1 0, 0}?\rWell? Does {STRVAR_1 3, 1} like\n{STRVAR_1 1, 2}?\r{STRVAR_1 1, 2} doesn’t like...\nWell, no, maybe not...\r</language>
+		<language name="English">Er der noget menneske, der ville vokse\nat kunne lide os {STRVAR_1 0, 0}?\rGodt? gør {STRVAR_1 3, 1} ligesom\n{STRVAR_1 1, 2}?\r{STRVAR_1 1, 2} kan ikke lide...\nNå, nej, måske ikke...\r</language>
 	</row>
 	<row id="narc_0446_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} treats me, {STRVAR_1 1, 2},\nnicely without being scared.\rBut {STRVAR_1 1, 2} will be even scarier\nfrom now on.\rThat’s what we {STRVAR_1 0, 0} do...\r</language>
+		<language name="English">{STRVAR_1 3, 1} behandler mig, {STRVAR_1 1, 2},\npænt uden at være bange.\rMen {STRVAR_1 1, 2} vil være endnu mere skræmmende\nfra nu af.\rDet er hvad vi {STRVAR_1 0, 0} gør...\r</language>
 	</row>
 	<row id="narc_0446_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2} is starting to forget\na little about being in the wild...\rBut {STRVAR_1 1, 2} isn’t feeling sad.\nIt’s never boring with {STRVAR_1 3, 1}...\r</language>
+		<language name="English">{STRVAR_1 1, 2} begynder at glemme\nlidt om at være i naturen...\rMen {STRVAR_1 1, 2} føler sig ikke trist.\nDet er aldrig kedeligt med {STRVAR_1 3, 1}...\r</language>
 	</row>
 	<row id="narc_0446_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are no Pokémon that dislike\nhumans...\rOnly humans that dislike Pokémon...\rWe {STRVAR_1 0, 0} are especially\nshunned...\rBut {STRVAR_1 3, 1} always treats me\nas a friend and partner...\r</language>
+		<language name="English">Der er ingen Pokémon, der ikke kan lide\nmennesker...\rKun mennesker, der ikke kan lide Pokémon...\rVi {STRVAR_1 0, 0} er især\nundgået...\rMen {STRVAR_1 3, 1} behandler mig altid\nsom ven og partner...\r</language>
 	</row>
 	<row id="narc_0446_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrrr... Hunh?\nThis is... Where?\r{STRVAR_1 3, 1}’s house, is this?\nIt’s not? Hnurrr...\rIf you don’t need me for anything,\ncan I go back to my Ball?\rHnurrr...\r</language>
+		<language name="English">Hnurrrr... Hunh?\nDet her er... Hvor?\r{STRVAR_1 3, 1}'s hus, er dette?\ner det ikke? Hnurrr...\rHvis du ikke har brug for mig til noget,\nkan jeg gå tilbage til min bold?\rHnurrr...\r</language>
 	</row>
 	<row id="narc_0446_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrr... Me? Uhm...\nI like to sleep most the time.\fOh, I like to eat, too. That’s next.\rBut what I really like is to think.\nI’m a very deep thinker.\rWhen I think about the future of the\n{STRVAR_1 0, 0} species...\r...Hnurrr...hunh?\nOh, I forget where the time goes.\rHnurrrr...\r</language>
+		<language name="English">Hnurrr... Mig? Uhm...\nJeg kan lide at sove for det meste.\fÅh, jeg kan også godt lide at spise. Det er det næste.\rMen det, jeg virkelig godt kan lide, er at tænke.\nJeg er en meget dyb tænker.\rNår jeg tænker på fremtiden for\n{STRVAR_1 0, 0} art...\r...Hnurrr...hunh?\nÅh, jeg glemmer, hvor tiden går.\rHnurrrr...\r</language>
 	</row>
 	<row id="narc_0446_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrr... Me? Uhm...\nThere are lots of kinds of moves.\rI like those Dark-type moves,\noh, and Dragon-type moves, too...\rHow would they be for this\n{STRVAR_1 0, 0}?\rWill they be for me?\nOr a no, no, no sort of thing?\rHnurrr...\r</language>
+		<language name="English">Hnurrr... Mig? Uhm...\nDer er mange slags bevægelser.\rJeg kan godt lide de mørke bevægelser,\nåh, og drage-lignende bevægelser også...\rHvordan ville de være til dette\n{STRVAR_1 0, 0}?\rVil de være noget for mig?\nEller et nej, nej, ingen slags ting?\rHnurrr...\r</language>
 	</row>
 	<row id="narc_0446_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrr... I don’t know how to begin\nsaying this...\rI liked living quietly before I met\n{STRVAR_1 3, 1}. Sssh.\rBut I’m getting to like traveling\nwith {STRVAR_1 3, 1}.\rI think I’m getting sort of funky.\nDo you think I’m sort of funky?\rNo? No funk for me?\nHnurrr...\r</language>
+		<language name="English">Hnurrr... Jeg ved ikke, hvordan jeg skal begynde\nsiger dette...\rJeg kunne godt lide at leve stille, før jeg mødtes\n{STRVAR_1 3, 1}. Sssh.\rMen jeg er ved at kunne lide at rejse\nmed {STRVAR_1 3, 1}.\rJeg synes, jeg er ved at blive lidt funky.\nSynes du, jeg er lidt funky?\rIngen? Ingen funk til mig?\nHnurrr...\r</language>
 	</row>
 	<row id="narc_0446_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrr... Me? Uhm...\nOther Pokémon, they say to me...\r“You’re not thinking, are you?”\nHow insulting they should say so.\rIt isn’t true what they say.\nThink, think, think, I do that.\rAll the time, I think hard how to help\n{STRVAR_1 3, 1}. I concentrate!\rHnurrr...\r</language>
+		<language name="English">Hnurrr... Mig? Uhm...\nAndre Pokémon, siger de til mig...\r"Du tænker ikke, vel?"\nHvor fornærmende skal de sige det.\rDet er ikke sandt, hvad de siger.\nTænk, tænk, tænk, det gør jeg.\rHele tiden tænker jeg hårdt på, hvordan man kan hjælpe\n{STRVAR_1 3, 1}. Jeg koncentrerer mig!\rHnurrr...\r</language>
 	</row>
 	<row id="narc_0446_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrr... I did not know that?\nI really don’t? What is this?\fI don’t know what to say?\fHnurrr...\r</language>
+		<language name="English">Hnurrr... det vidste jeg ikke?\ngør jeg virkelig ikke? Hvad er det her?\fJeg ved ikke hvad jeg skal sige?\fHnurrr...\r</language>
 	</row>
 	<row id="narc_0446_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrr... Well, I...\nI think I’m motivated.\fAs motivated as the average.\fBut it’s not so simple as that.\fHnurrr...\r</language>
+		<language name="English">Hnurrr... Nå, jeg...\nJeg tror, ​​jeg er motiveret.\fLige så motiveret som gennemsnittet.\fMen det er ikke så enkelt som det.\fHnurrr...\r</language>
 	</row>
 	<row id="narc_0446_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrr... How should I say this?\nWe both look out for each other.\fThat’s what we try to do, I think.\fThat is for the best.\fHnurrrr...\r</language>
+		<language name="English">Hnurrr... Hvordan skal jeg sige det?\nVi passer begge på hinanden.\fDet er det, vi prøver at gøre, tror jeg.\fDet er til det bedste.\fHnurrrr...\r</language>
 	</row>
 	<row id="narc_0446_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrr... How do I say?\nHow should I describe us?\rWe are the sound of both hands\nclapping.\r{STRVAR_1 3, 1} and I are together\nin synchronicity like twins.\rHnurrr...\r</language>
+		<language name="English">Hnurrr... Hvordan skal jeg sige?\nHvordan skal jeg beskrive os?\rVi er lyden af ​​begge hænder\nklapper.\r{STRVAR_1 3, 1} og jeg er sammen\ni synkronicitet som tvillinger.\rHnurrr...\r</language>
 	</row>
 	<row id="narc_0446_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hnurrr...\nWhat is left to say, I say?\rWe have come so far now, where can\nwe go but to see this through?\rHall of Fame...\nWords so sweet fall from my mouth.\rHnurrr...\r</language>
+		<language name="English">Hnurrr...\nHvad er der tilbage at sige, siger jeg?\rVi er nået så langt nu, hvor kan\ngår vi, men for at se dette igennem?\rHall of Fame...\nOrd så søde falder fra min mund.\rHnurrr...\r</language>
 	</row>
 	<row id="narc_0446_00050" index="50">
 		<attribute name="window_context_name">used</attribute>

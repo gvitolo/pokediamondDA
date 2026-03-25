@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0450_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The reservations were full up,\nbut they managed to get us in here.\rWe’re finally alone, the two of us,\nif you’d leave, that is.\rThis is something we don’t need\nanymore. Will you take it?\r</language>
+		<language name="English">Reservationerne var fyldt op,\nmen det lykkedes dem at få os herind.\rVi er endelig alene, os to,\nhvis du tager afsted, dvs.\rDet er noget, vi ikke har brug for\nlængere. Vil du tage den?\r</language>
 	</row>
 	<row id="narc_0450_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve always relied on the old\nCoin Toss to make any decision.</language>
+		<language name="English">Jeg har altid stolet på det gamle\nMøntkast for at træffe enhver beslutning.</language>
 	</row>
 	<row id="narc_0450_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Coin Toss is why we ended up in\nthis musty, old, and stinky suite...</language>
+		<language name="English">Det møntkast er grunden til, at vi endte i\ndenne muggen, gamle og stinkende suite...</language>
 	</row>
 	<row id="narc_0450_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We wanted to be together alone so\nwe could talk without being disturbed.\rWe really need this time together,\njust the two of us.</language>
+		<language name="English">Vi ville så gerne være sammen alene\nvi kunne snakke uden at blive forstyrret.\rVi har virkelig brug for denne tid sammen,\nkun os to.</language>
 	</row>
 </body>

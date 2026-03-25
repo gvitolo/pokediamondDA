@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0594_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0594_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

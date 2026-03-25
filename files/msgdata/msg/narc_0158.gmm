@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="narc_0158_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh?\nYour {STRVAR_1 0, 0}...\r</language>
+		<language name="English">Åh?\nDin {STRVAR_1 0, 0}...\r</language>
 	</row>
 	<row id="narc_0158_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It worked stupendously hard,\ndidn’t it?\rAs its reward, please give it this\nEffort Ribbon.\r</language>
+		<language name="English">Det arbejdede utroligt hårdt,\nikke?\rSom belønning skal du give det dette\nEffort Ribbon.\r</language>
 	</row>
 	<row id="narc_0158_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} received\nthe Effort Ribbon.\r</language>
+		<language name="English">{STRVAR_1 3, 1} modtaget\nindsatsbåndet.\r</language>
 	</row>
 	<row id="narc_0158_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} put the Effort Ribbon\non {STRVAR_1 0, 0}.</language>
+		<language name="English">{STRVAR_1 3, 1} sæt indsatsbåndet\n på {STRVAR_1 0, 0}.</language>
 	</row>
 	<row id="narc_0158_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It needs to work a little harder.\rIf it does, I’ll give your Pokémon\nsomething nice.</language>
+		<language name="English">Det skal arbejde lidt hårdere.\rHvis det gør, vil jeg give din Pokémon\nnoget godt.</language>
 	</row>
 	<row id="narc_0158_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! That Effort Ribbon looks \ngood on your {STRVAR_1 0, 0}!</language>
+		<language name="English">Åh! At Effort Ribbon ser \n godt ud på din {STRVAR_1 0, 0}!</language>
 	</row>
 	<row id="narc_0158_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunyshore Market is best known for\nits big selection of Seals.</language>
+		<language name="English">Sunyshore Market er bedst kendt for sit store udvalg af sæler.</language>
 	</row>
 	<row id="narc_0158_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, please, allow me a little of your\ntime, if you will. You won’t regret it.\r</language>
+		<language name="English">Ah, venligst, tillad mig lidt af din tid, hvis du vil. Du vil ikke fortryde det.\r</language>
 	</row>
 	<row id="narc_0158_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, please, allow me a little of your\ntime, if you will. You won’t regret it.\r...Oh, but, no, no, no!\nYou have no Seal Case?\rYou must return to the town with the\nruins and obtain a Seal Case!</language>
+		<language name="English">Ah, venligst, tillad mig lidt af din tid, hvis du vil. Du vil ikke fortryde det.\r...Åh, men nej, nej, nej!\nDu har ingen Seal Case?\rDu skal vende tilbage til byen med\nruinerne og få en Seal Case!</language>
 	</row>
 	<row id="narc_0158_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See the Seal Merchant there?\r</language>
+		<language name="English">Se Sælhandleren der?\r</language>
 	</row>
 	<row id="narc_0158_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">He didn’t have the Seals I wanted\ntoday... Maybe tomorrow, I guess.</language>
+		<language name="English">Han havde ikke de sæler, jeg ville have\ni dag... Måske i morgen, tror jeg.</language>
 	</row>
 	<row id="narc_0158_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">He came through with different Seals\ntoday! Just what I wanted to see!</language>
+		<language name="English">Han kom igennem med forskellige Seals\ni dag! Lige hvad jeg ville se!</language>
 	</row>
 </body>

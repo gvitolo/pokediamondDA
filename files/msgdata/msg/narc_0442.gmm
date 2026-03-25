@@ -1,31 +1,31 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0442_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw people riding their Bikes\nand using a log just like a bridge.</language>
+		<language name="English">Jeg så folk køre på deres cykler\nog bruge en træstamme ligesom en bro.</language>
 	</row>
 	<row id="narc_0442_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Am I stuck in the bog?\rOf course not. How silly!\nThis is a full-body mud pack.\rIf it weren’t, I would be squirming\nand struggling to get out!</language>
+		<language name="English">...Sidder jeg fast i mosen?\rSelvfølgelig ikke. Hvor dumt!\nDette er en mudderpakke til hele kroppen.\rHvis det ikke var, ville jeg vride mig\nog kæmper for at komme ud!</language>
 	</row>
 	<row id="narc_0442_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I caught a rare Pokémon in Pastoria’s\nGreat Marsh.\rYou definitely have to go.\nI recommend it without hesitation.</language>
+		<language name="English">Jeg fangede en sjælden Pokémon i Pastoria's\nStore Marsk.\rDu skal helt sikkert gå.\nJeg anbefaler det uden tøven.</language>
 	</row>
 	<row id="narc_0442_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re on constant patrol.\nIt’s safe here, even at night.</language>
+		<language name="English">Vi er på konstant patrulje.\nDet er sikkert her, selv om natten.</language>
 	</row>
 	<row id="narc_0442_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 212\nPastoria City</language>
+		<language name="English">Rt. 212\nPastoria by</language>
 	</row>
 	<row id="narc_0442_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shards Wanted\nTechnical Machines Offered</language>
+		<language name="English">Skår efterlyses\nTekniske maskiner tilbydes</language>
 	</row>
 	<row id="narc_0442_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rIf you get stuck in the bog, you can\ncount on being there a while.\rThere’s no need to panic.\nJust struggle and squirm for a bit.\rBicycles cannot be ridden on marshy\nground, incidentally.</language>
+		<language name="English">Træner tips\rGår du fast i mosen, kan du\nregne med at være der et stykke tid.\rDer er ingen grund til panik.\nBare kæmpe og vride lidt.\rCykler kan ikke køres på sumpet\njorden i øvrigt.</language>
 	</row>
 </body>

@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0174_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Victory Road...\nIt lives up to that lofty name...</language>
+		<language name="English">Victory Road...\nDen lever op til det høje navn...</language>
 	</row>
 	<row id="narc_0174_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...It broke me once, but that only\nadded to my resolve!</language>
+		<language name="English">...Det knækkede mig én gang, men det bidrog kun til min vilje!</language>
 	</row>
 </body>

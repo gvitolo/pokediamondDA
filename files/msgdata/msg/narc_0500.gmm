@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0500_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: ...I’d better take\nmy Bag and Journal, too...\r</language>
+		<language name="English">{STRVAR_1 3, 0}: ...Jeg må hellere tage\nmin taske og dagbog, også...\r</language>
 	</row>
 	<row id="narc_0500_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, hey, {STRVAR_1 3, 0}!\rWe’re going to the lake!\nI’ll be waiting on the road!\fIt’s a $10 million fine if you’re late!\r</language>
+		<language name="English">Åh, hej, {STRVAR_1 3, 0}!\rVi skal til søen!\nJeg venter på vejen!\fDet er en bøde på $10 millioner, hvis du kommer for sent!\r</language>
 	</row>
 	<row id="narc_0500_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a Wii!\nIt’s controlled by a Wii Remote!</language>
+		<language name="English">Det er en Wii!\nDen styres af en Wii-fjernbetjening!</language>
 	</row>
 	<row id="narc_0500_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} checked the PC screen.\rAdventure Rule No. 1\nThe X Button opens the menu!\rAdventure Rule No. 2\nRecord your progress with SAVE.\rThere is nothing else on here...</language>
+		<language name="English">{STRVAR_1 3, 0} tjekkede pc-skærmen.\rEventyrregel nr. 1\nX-knappen åbner menuen!\rEventyrregel nr. 2\nRegistrer dine fremskridt med SAVE.\rDer er ikke andet her...</language>
 	</row>
 </body>

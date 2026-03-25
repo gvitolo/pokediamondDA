@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0479_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I spend all my time reading here.\nMy son is an avid reader, too.\rI recently learned that the word\nuniverse meant time and space in\fan ancient language.</language>
+		<language name="English">Jeg bruger al min tid på at læse her.\nMin søn er også en ivrig læser.\rJeg lærte for nylig, at ordet\nunivers betød tid og rum i\fet gammelt sprog.</language>
 	</row>
 	<row id="narc_0479_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many old books here...\r“Space and the Galaxies”\n“The Beginning of Space”\f“Beyond Time and Space”...</language>
+		<language name="English">Der er mange gamle bøger her...\r"Rummet og galakserne"\n"Begyndelsen af ​​rummet"\f"Ud over tid og rum"...</language>
 	</row>
 	<row id="narc_0479_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many old books here...\r“The Secrets of Psychics”\n“The Hidden Powers of Pokémon”\f“What is Psychic Energy?”...</language>
+		<language name="English">Der er mange gamle bøger her...\r"De synske hemmeligheder"\n"Pokémons skjulte kræfter"\f"Hvad er psykisk energi?"...</language>
 	</row>
 </body>

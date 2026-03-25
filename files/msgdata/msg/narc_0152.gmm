@@ -7,10 +7,10 @@
 	</row>
 	<row id="narc_0152_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wanted to go to Celestic Town, but\nthere were some Pokémon in the way.</language>
+		<language name="English">Jeg ville gerne til Celestic Town, men der var nogle Pokémon i vejen.</language>
 	</row>
 	<row id="narc_0152_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There was a group of Pokémon blocking\nthe way up to Celestic Town.\rI think they’re gone now.</language>
+		<language name="English">Der var en gruppe Pokémon, der blokerede vejen op til Celestic Town.\rJeg tror, ​​de er væk nu.</language>
 	</row>
 </body>

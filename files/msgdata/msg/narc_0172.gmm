@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="narc_0172_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, hello. Would you like to hear\na trendy saying?</language>
+		<language name="English">Hej, hej. Kunne du tænke dig at høre et trendy ordsprog?</language>
 	</row>
 	<row id="narc_0172_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Very well...\rThe trendy thing to say for you\nwould be...\r{STRVAR_1 28, 0}!\rThat’s a trendy sort of thing\nto say.</language>
+		<language name="English">Meget godt...\rDet trendy at sige til dig\n ville være...\r{STRVAR_1 28, 0}!\rDet er en trendy slags ting\nat sige.</language>
 	</row>
 	<row id="narc_0172_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, come on now. With an attitude like\nthat, you’ll fall behind the times!</language>
+		<language name="English">Åh, kom nu. Med en holdning som den, kommer du bagud!</language>
 	</row>
 	<row id="narc_0172_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I hope you’ll use trendy sayings\nin a trendy way.</language>
+		<language name="English">Jeg håber, du vil bruge trendy ordsprog\npå en trendy måde.</language>
 	</row>
 	<row id="narc_0172_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, hello. Are you using trendy\nsayings?</language>
+		<language name="English">Hej, hej. Bruger du trendy ordsprog?</language>
 	</row>
 	<row id="narc_0172_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="narc_0115_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, now, you’re a Trainer?\rThat makes you both papa and mama\nto your Pokémon.\rYou know how having Pokémon around\nleads to new discoveries?\rIt’s the same for parents and kids.\nI’m always learning from my kids.</language>
+		<language name="English">Nå, nu er du træner?\rDet gør dig både til far og mor\n til din Pokémon.\rVed du, hvordan det at have Pokémon omkring\n fører til nye opdagelser?\rDet er det samme for forældre og børn.\nJeg lærer altid af mine børn.</language>
 	</row>
 	<row id="narc_0115_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,23 +10,23 @@
 	</row>
 	<row id="narc_0115_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Babies and Pokémon get along\nperfectly together.\rWhen babies take naps, Pokémon go\nto sleep right next to them.</language>
+		<language name="English">Babyer og Pokémon har det perfekt sammen.\rNår babyer sover i lur, går Pokémon i søvn lige ved siden af ​​dem.</language>
 	</row>
 	<row id="narc_0115_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I get bigger, I’m going to be\na Trainer, too!</language>
+		<language name="English">Når jeg bliver større, skal jeg også være træner!</language>
 	</row>
 	<row id="narc_0115_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I grow up, I want to become\na Pokémon coordinator.</language>
+		<language name="English">Når jeg bliver stor, vil jeg gerne blive Pokémon-koordinator.</language>
 	</row>
 	<row id="narc_0115_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...My sisters get all the attention.\nNo one even notices me.</language>
+		<language name="English">...Mine søstre får al opmærksomheden.\nIngen lægger mærke til mig.</language>
 	</row>
 	<row id="narc_0115_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, wow, you’re a Pokémon Trainer.\rHaving lots of Pokémon around is\na lot of responsibility.\rBut that also comes with a lot\nof fun!</language>
+		<language name="English">Åh, wow, du er en Pokémon-træner.\rAt have masser af Pokémon rundt er\net stort ansvar.\rMen det kommer også med en masse sjov!</language>
 	</row>
 	<row id="narc_0115_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>

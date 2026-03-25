@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0538_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a move that doubles in power\nif the Pokémon using it is poisoned,\fparalyzed, or burned.\rI’ve got the Technical Machine for\nit right here. You want it?\r</language>
+		<language name="English">Der er et træk, der fordobles i kraft\nhvis den Pokémon, der bruger den, bliver forgiftet,\flammet eller brændt.\rJeg har den tekniske maskine til\n lige her. Vil du have det?\r</language>
 	</row>
 	<row id="narc_0538_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Facade’s a good move for your\nPokémon to have.\rIt makes it tough for the opponent\nto use status-affecting moves.</language>
+		<language name="English">Facade er et godt træk for din\nPokémon at have.\rDet gør det svært for modstanderen\nat bruge statuspåvirkende træk.</language>
 	</row>
 </body>

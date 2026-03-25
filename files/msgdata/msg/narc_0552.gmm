@@ -6,27 +6,27 @@
 	</row>
 	<row id="narc_0552_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stench</language>
+		<language name="English">Stank</language>
 	</row>
 	<row id="narc_0552_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drizzle</language>
+		<language name="English">Støvregn</language>
 	</row>
 	<row id="narc_0552_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speed Boost</language>
+		<language name="English">Speed ​​Boost</language>
 	</row>
 	<row id="narc_0552_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Armor</language>
+		<language name="English">Kamprustning</language>
 	</row>
 	<row id="narc_0552_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sturdy</language>
+		<language name="English">Robust</language>
 	</row>
 	<row id="narc_0552_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Damp</language>
+		<language name="English">Fugtig</language>
 	</row>
 	<row id="narc_0552_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,23 +34,23 @@
 	</row>
 	<row id="narc_0552_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sand Veil</language>
+		<language name="English">Sand slør</language>
 	</row>
 	<row id="narc_0552_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Static</language>
+		<language name="English">Statisk</language>
 	</row>
 	<row id="narc_0552_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Volt Absorb</language>
+		<language name="English">Volt absorberer</language>
 	</row>
 	<row id="narc_0552_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water Absorb</language>
+		<language name="English">Vand absorberes</language>
 	</row>
 	<row id="narc_0552_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oblivious</language>
+		<language name="English">Uvidende</language>
 	</row>
 	<row id="narc_0552_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,19 +58,19 @@
 	</row>
 	<row id="narc_0552_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Compoundeyes</language>
+		<language name="English">Sammensatte øjne</language>
 	</row>
 	<row id="narc_0552_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Insomnia</language>
+		<language name="English">Søvnløshed</language>
 	</row>
 	<row id="narc_0552_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Color Change</language>
+		<language name="English">Farveændring</language>
 	</row>
 	<row id="narc_0552_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Immunity</language>
+		<language name="English">Immunitet</language>
 	</row>
 	<row id="narc_0552_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -78,19 +78,19 @@
 	</row>
 	<row id="narc_0552_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shield Dust</language>
+		<language name="English">Skjold Støv</language>
 	</row>
 	<row id="narc_0552_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Own Tempo</language>
+		<language name="English">Eget tempo</language>
 	</row>
 	<row id="narc_0552_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Suction Cups</language>
+		<language name="English">Sugekopper</language>
 	</row>
 	<row id="narc_0552_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Intimidate</language>
+		<language name="English">Skræmme</language>
 	</row>
 	<row id="narc_0552_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="narc_0552_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rough Skin</language>
+		<language name="English">Ru Hud</language>
 	</row>
 	<row id="narc_0552_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -106,31 +106,31 @@
 	</row>
 	<row id="narc_0552_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Levitate</language>
+		<language name="English">Levitere</language>
 	</row>
 	<row id="narc_0552_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Effect Spore</language>
+		<language name="English">Effekt Spore</language>
 	</row>
 	<row id="narc_0552_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Synchronize</language>
+		<language name="English">Synkroniser</language>
 	</row>
 	<row id="narc_0552_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clear Body</language>
+		<language name="English">Klar krop</language>
 	</row>
 	<row id="narc_0552_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Natural Cure</language>
+		<language name="English">Naturlig helbredelse</language>
 	</row>
 	<row id="narc_0552_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lightningrod</language>
+		<language name="English">Lynafleder</language>
 	</row>
 	<row id="narc_0552_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serene Grace</language>
+		<language name="English">Fredfyldt Grace</language>
 	</row>
 	<row id="narc_0552_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -138,59 +138,59 @@
 	</row>
 	<row id="narc_0552_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chlorophyll</language>
+		<language name="English">Klorofyl</language>
 	</row>
 	<row id="narc_0552_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Illuminate</language>
+		<language name="English">Belyse</language>
 	</row>
 	<row id="narc_0552_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trace</language>
+		<language name="English">Spor</language>
 	</row>
 	<row id="narc_0552_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huge Power</language>
+		<language name="English">Kæmpe Power</language>
 	</row>
 	<row id="narc_0552_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poison Point</language>
+		<language name="English">Giftpunkt</language>
 	</row>
 	<row id="narc_0552_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Inner Focus</language>
+		<language name="English">Indre fokus</language>
 	</row>
 	<row id="narc_0552_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magma Armor</language>
+		<language name="English">Magma rustning</language>
 	</row>
 	<row id="narc_0552_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water Veil</language>
+		<language name="English">Vandslør</language>
 	</row>
 	<row id="narc_0552_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magnet Pull</language>
+		<language name="English">Magnet træk</language>
 	</row>
 	<row id="narc_0552_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Soundproof</language>
+		<language name="English">Lydtæt</language>
 	</row>
 	<row id="narc_0552_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rain Dish</language>
+		<language name="English">Regnfad</language>
 	</row>
 	<row id="narc_0552_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sand Stream</language>
+		<language name="English">Sandstrøm</language>
 	</row>
 	<row id="narc_0552_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pressure</language>
+		<language name="English">Tryk</language>
 	</row>
 	<row id="narc_0552_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thick Fat</language>
+		<language name="English">Tykt Fedt</language>
 	</row>
 	<row id="narc_0552_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -198,11 +198,11 @@
 	</row>
 	<row id="narc_0552_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flame Body</language>
+		<language name="English">Flamme Krop</language>
 	</row>
 	<row id="narc_0552_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Run Away</language>
+		<language name="English">Løb væk</language>
 	</row>
 	<row id="narc_0552_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
@@ -214,19 +214,19 @@
 	</row>
 	<row id="narc_0552_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pickup</language>
+		<language name="English">Afhentning</language>
 	</row>
 	<row id="narc_0552_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Truant</language>
+		<language name="English">Pjækker</language>
 	</row>
 	<row id="narc_0552_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hustle</language>
+		<language name="English">Trængsel</language>
 	</row>
 	<row id="narc_0552_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cute Charm</language>
+		<language name="English">Sød charme</language>
 	</row>
 	<row id="narc_0552_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -238,7 +238,7 @@
 	</row>
 	<row id="narc_0552_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Forecast</language>
+		<language name="English">Vejrudsigt</language>
 	</row>
 	<row id="narc_0552_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
@@ -246,23 +246,23 @@
 	</row>
 	<row id="narc_0552_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shed Skin</language>
+		<language name="English">Skud hud</language>
 	</row>
 	<row id="narc_0552_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guts</language>
+		<language name="English">Indvolde</language>
 	</row>
 	<row id="narc_0552_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Marvel Scale</language>
+		<language name="English">Marvel skala</language>
 	</row>
 	<row id="narc_0552_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Liquid Ooze</language>
+		<language name="English">Flydende væske</language>
 	</row>
 	<row id="narc_0552_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Overgrow</language>
+		<language name="English">Overvokse</language>
 	</row>
 	<row id="narc_0552_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -274,15 +274,15 @@
 	</row>
 	<row id="narc_0552_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swarm</language>
+		<language name="English">Sværm</language>
 	</row>
 	<row id="narc_0552_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rock Head</language>
+		<language name="English">Klippehoved</language>
 	</row>
 	<row id="narc_0552_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drought</language>
+		<language name="English">Tørke</language>
 	</row>
 	<row id="narc_0552_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
@@ -290,47 +290,47 @@
 	</row>
 	<row id="narc_0552_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vital Spirit</language>
+		<language name="English">Vital Ånd</language>
 	</row>
 	<row id="narc_0552_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">White Smoke</language>
+		<language name="English">Hvid røg</language>
 	</row>
 	<row id="narc_0552_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pure Power</language>
+		<language name="English">Ren kraft</language>
 	</row>
 	<row id="narc_0552_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shell Armor</language>
+		<language name="English">Skalpanser</language>
 	</row>
 	<row id="narc_0552_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Air Lock</language>
+		<language name="English">Luftlås</language>
 	</row>
 	<row id="narc_0552_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tangled Feet</language>
+		<language name="English">Sammenfiltrede fødder</language>
 	</row>
 	<row id="narc_0552_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Motor Drive</language>
+		<language name="English">Motordrev</language>
 	</row>
 	<row id="narc_0552_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rivalry</language>
+		<language name="English">Rivalisering</language>
 	</row>
 	<row id="narc_0552_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steadfast</language>
+		<language name="English">Standhaftig</language>
 	</row>
 	<row id="narc_0552_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snow Cloak</language>
+		<language name="English">Snekappe</language>
 	</row>
 	<row id="narc_0552_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gluttony</language>
+		<language name="English">frådseri</language>
 	</row>
 	<row id="narc_0552_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
@@ -338,19 +338,19 @@
 	</row>
 	<row id="narc_0552_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unburden</language>
+		<language name="English">Aflast</language>
 	</row>
 	<row id="narc_0552_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heatproof</language>
+		<language name="English">Varmetæt</language>
 	</row>
 	<row id="narc_0552_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Simple</language>
+		<language name="English">Enkel</language>
 	</row>
 	<row id="narc_0552_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dry Skin</language>
+		<language name="English">Tør hud</language>
 	</row>
 	<row id="narc_0552_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -358,59 +358,59 @@
 	</row>
 	<row id="narc_0552_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iron Fist</language>
+		<language name="English">Jernnæve</language>
 	</row>
 	<row id="narc_0552_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poison Heal</language>
+		<language name="English">Gift Heal</language>
 	</row>
 	<row id="narc_0552_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Adaptability</language>
+		<language name="English">Tilpasningsevne</language>
 	</row>
 	<row id="narc_0552_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skill Link</language>
+		<language name="English">Færdighedslink</language>
 	</row>
 	<row id="narc_0552_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hydration</language>
+		<language name="English">Hydrering</language>
 	</row>
 	<row id="narc_0552_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Solar Power</language>
+		<language name="English">Solenergi</language>
 	</row>
 	<row id="narc_0552_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quick Feet</language>
+		<language name="English">Hurtige fødder</language>
 	</row>
 	<row id="narc_0552_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Normalize</language>
+		<language name="English">Normaliser</language>
 	</row>
 	<row id="narc_0552_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sniper</language>
+		<language name="English">Snigskytte</language>
 	</row>
 	<row id="narc_0552_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magic Guard</language>
+		<language name="English">Magisk vagt</language>
 	</row>
 	<row id="narc_0552_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No Guard</language>
+		<language name="English">Ingen vagt</language>
 	</row>
 	<row id="narc_0552_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stall</language>
+		<language name="English">Bås</language>
 	</row>
 	<row id="narc_0552_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Technician</language>
+		<language name="English">Tekniker</language>
 	</row>
 	<row id="narc_0552_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Leaf Guard</language>
+		<language name="English">Bladvagt</language>
 	</row>
 	<row id="narc_0552_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
@@ -418,31 +418,31 @@
 	</row>
 	<row id="narc_0552_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mold Breaker</language>
+		<language name="English">Skimmelsvamp</language>
 	</row>
 	<row id="narc_0552_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Super Luck</language>
+		<language name="English">Super held</language>
 	</row>
 	<row id="narc_0552_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aftermath</language>
+		<language name="English">Efterspil</language>
 	</row>
 	<row id="narc_0552_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Anticipation</language>
+		<language name="English">Forventning</language>
 	</row>
 	<row id="narc_0552_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Forewarn</language>
+		<language name="English">advare</language>
 	</row>
 	<row id="narc_0552_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unaware</language>
+		<language name="English">Uvidende</language>
 	</row>
 	<row id="narc_0552_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tinted Lens</language>
+		<language name="English">Tonet linse</language>
 	</row>
 	<row id="narc_0552_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
@@ -450,7 +450,7 @@
 	</row>
 	<row id="narc_0552_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slow Start</language>
+		<language name="English">Langsom start</language>
 	</row>
 	<row id="narc_0552_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
@@ -458,7 +458,7 @@
 	</row>
 	<row id="narc_0552_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Storm Drain</language>
+		<language name="English">Storm afløb</language>
 	</row>
 	<row id="narc_0552_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
@@ -470,11 +470,11 @@
 	</row>
 	<row id="narc_0552_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snow Warning</language>
+		<language name="English">Advarsel om sne</language>
 	</row>
 	<row id="narc_0552_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Honey Gather</language>
+		<language name="English">Honning Saml</language>
 	</row>
 	<row id="narc_0552_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
@@ -482,7 +482,7 @@
 	</row>
 	<row id="narc_0552_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reckless</language>
+		<language name="English">Hensynsløs</language>
 	</row>
 	<row id="narc_0552_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
@@ -490,10 +490,10 @@
 	</row>
 	<row id="narc_0552_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flower Gift</language>
+		<language name="English">Blomster gave</language>
 	</row>
 	<row id="narc_0552_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bad Dreams</language>
+		<language name="English">Dårlige drømme</language>
 	</row>
 </body>

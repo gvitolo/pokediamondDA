@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="narc_0534_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buck: Yo, if it isn’t {STRVAR_1 3, 0}!\rDon’t tell me you’re going to Stark\nMountain, too?\rYou’re pretty wimpy...\nYou’re sure you’re going to be OK?\rHeh, why am I asking you that?\nIt’s not like I care.\rAnyways, if we see each other on\nStark Mountain, the race is on to\fsee who gets the Magma Stone first!\r</language>
+		<language name="English">Buck: Yo, hvis det ikke er {STRVAR_1 3, 0}!\rFortæl mig ikke, at du også skal til Stark\nMountain?\rDu er ret pjattet...\nDu er sikker på, at du nok skal klare det?\rHeh, hvorfor spørger jeg dig om det?\nDet er ikke sådan, at jeg er ligeglad med hinanden på bjerget,\nA at\fse, hvem der får Magma-stenen først!\r</language>
 	</row>
 	<row id="narc_0534_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, traveling Trainer.\nIs your Bag full of items?\fOr is it full of dreams?</language>
+		<language name="English">Hej, rejsetræner.\nEr din taske fuld af ting?\fEller er den fuld af drømme?</language>
 	</row>
 	<row id="narc_0534_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainers who lose at the Battle\nTower come here to train.</language>
+		<language name="English">Trænere, der taber i Battle\nTower, kommer her for at træne.</language>
 	</row>
 	<row id="narc_0534_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve been exploring a long time,\nbut I know when I’m beaten.\rIt takes a better Trainer than me\nto explore the volcano thoroughly!</language>
+		<language name="English">Jeg har udforsket længe,\nmen jeg ved, hvornår jeg bliver slået.\rDet kræver en bedre træner end mig\nat udforske vulkanen grundigt!</language>
 	</row>
 	<row id="narc_0534_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m a Cameraman, obviously.\rHave you seen that TV program,\n“Search for the Red GYARADOS!”?\rYou know, “The mysterious\nappearance of a raging Pokémon in\fa lake”?\rYeah, that outstanding documentary!\nI filmed that!</language>
+		<language name="English">Jeg er naturligvis en kameramand.\rHar du set det tv-program,\n"Søg efter de røde GYARADOS!"?\rDu ved, "Den mystiske\optræden af ​​en rasende Pokémon in\fa-sø"?\rJa, den enestående dokumentar!\nJeg filmede den!</language>
 	</row>
 	<row id="narc_0534_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh man! Oh geez! Oh, this is bad!\nBut I’m a Cameraman, obviously!\rI have to stand firm and get this\non film for the world to see!</language>
+		<language name="English">Åh mand! Åh pys! Åh, det er slemt!\nMen jeg er selvfølgelig en kameramand!\rJeg er nødt til at stå fast og få denne\ikke film, så verden kan se!</language>
 	</row>
 	<row id="narc_0534_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m a Cameraman, obviously.\r“The Eruption of Stark Mountain?\nThe mystery of the fiery Pokémon\fasleep deep in the volcano!”\rI’ve had that documentary all mapped\nout in my head for a long time...\rBut I have nothing on film as of yet.\nSo much for that show.\rOh, well. The world’s a huge place.\nThere’re plenty of other mysteries!</language>
+		<language name="English">Jeg er åbenbart en kameramand.\r"The Eruption of Stark Mountain?\nMysteriet med den flammende Pokémon\sov dybt inde i vulkanen!"\rJeg har haft den dokumentar kortlagt\nud i mit hoved i lang tid...\rMen jeg har intet på film endnu.\nSå meget til det show.\rOh. Verden er et stort sted.\nDer er masser af andre mysterier!</language>
 	</row>
 	<row id="narc_0534_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Survival Area\nStaging Point</language>
+		<language name="English">Overlevelsesområde\nStaging Point</language>
 	</row>
 </body>

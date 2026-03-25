@@ -1,25 +1,25 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0466_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0466_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The only items you ever throw are\nPoké Balls!\rBut is that true?!\nI want people to think about that.\rThat’s why I give away the Technical\nMachine Fling.\r</language>
+		<language name="English">De eneste ting du nogensinde smider er\nPoké bolde!\rMen er det sandt?!\nDet vil jeg gerne have, at folk tænker over.\rDerfor giver jeg det tekniske væk\nMachine Fling.\r</language>
 	</row>
 	<row id="narc_0466_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Using that move, the Pokémon hurls\nwhatever item it’s holding at the foe.\rThe move’s effect depends on what\nitem is hurled.\rRemember, the move Fling fails if the\nPokémon isn’t holding anything.</language>
+		<language name="English">Ved at bruge det træk kaster Pokémonen\nuanset hvilken genstand den har hos fjenden.\rFlytningens effekt afhænger af hvad\nvaren slynges.\rHusk, flytningen Fling mislykkes, hvis\nPokémon rummer ikke noget.</language>
 	</row>
 	<row id="narc_0466_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I first started fishing, catching\nanything made me happy.\rBut those days are long gone now...\rNow I get annoyed if I can’t beat my\nrecord by even an inch...</language>
+		<language name="English">Da jeg først begyndte at fiske, fange\nnoget gjorde mig glad.\rMen de dage er for længst forbi nu...\rNu bliver jeg irriteret, hvis jeg ikke kan slå min\nrekord med endda en tomme...</language>
 	</row>
 	<row id="narc_0466_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can’t explain it.\nI get more easily agitated at night.</language>
+		<language name="English">Jeg kan ikke forklare det.\nJeg bliver lettere ophidset om natten.</language>
 	</row>
 	<row id="narc_0466_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -31,10 +31,10 @@
 	</row>
 	<row id="narc_0466_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIKACHU Fan Club\nPikapikapikah! Pikapika?</language>
+		<language name="English">PIKACHU Fanklub\nPikapikah! Pikapika?</language>
 	</row>
 	<row id="narc_0466_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Size Contest\nBig Pokémon Wanted!</language>
+		<language name="English">Pokémon størrelse konkurrence\nStor Pokémon søges!</language>
 	</row>
 </body>

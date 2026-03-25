@@ -59,7 +59,7 @@
 	</row>
 	<row id="narc_0370_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0370_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -71,15 +71,15 @@
 	</row>
 	<row id="narc_0370_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0370_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0370_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0370_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -188,7 +188,7 @@
 	</row>
 	<row id="narc_0370_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0370_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
@@ -196,11 +196,11 @@
 	</row>
 	<row id="narc_0370_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0370_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0370_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -241,7 +241,7 @@
 	</row>
 	<row id="narc_0370_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0370_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -266,11 +266,11 @@
 	</row>
 	<row id="narc_0370_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0370_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0370_00066" index="66">
 		<attribute name="window_context_name">used</attribute>

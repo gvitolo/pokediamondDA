@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="narc_0532_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I must bear down and train...\nAnd for that, time is unimportant.\rTherefore, I have no need for\na watch. Take this from me!\r</language>
+		<language name="English">Jeg må holde ud og træne...\nOg for det er tiden ligegyldig.\rDerfor har jeg ikke brug for\n vagt. Tag dette fra mig!\r</language>
 	</row>
 	<row id="narc_0532_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Analog or digital, use whichever\nwatch you prefer.\rThere are many kinds of Pokémon.\nUse whichever you like, too.</language>
+		<language name="English">Analog eller digital, brug det\nur, du foretrækker.\rDer er mange slags Pokémons.\nBrug også det, du kan lide.</language>
 	</row>
 	<row id="narc_0532_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

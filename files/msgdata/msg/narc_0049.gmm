@@ -1,43 +1,43 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0049_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah!\nThat’s Oreburgh’s Gym Badge!\rI see, I see!\nYou’ve defeated my son.\rBut that’s no surprise.\nHe still has much to learn.\rIn place of my son Roark, I, Byron,\nwill take your challenge!\r</language>
+		<language name="English">Ah!\nDet er Oreburgh ’s Gym Badge!\rJeg forstår!\nDu har besejret min søn.\rMen det er ingen overraskelse.\nHan har stadig meget at lære.\rI stedet for min søn Roark, jeg, Byron,\nvil tage din udfordring!\r</language>
 	</row>
 	<row id="narc_0049_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You were strong enough to take down\nmy prized team of Pokémon.\rIn recognition of that power,\nI give you this: the Mine Badge!\r</language>
+		<language name="English">Du var stærk nok til at tage ned\nMit værdifulde team af Pokémon.\rI anerkendelse af denne beføjelse,\nJeg giver dig dette: Mine Badge!\r</language>
 	</row>
 	<row id="narc_0049_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} received\nthe Mine Badge from Byron!</language>
+		<language name="English">{STRVAR_1 3, 0} modtaget\nMine Badge fra Byron!</language>
 	</row>
 	<row id="narc_0049_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Having the Mine Badge enables you to\nuse the hidden move Strength anytime\foutside of battle.\rAnd you now have six Gym Badges.\rThat means all Pokémon up to Lv. 70\nwill obey you without question.\rHere!\nTake this, too!\r</language>
+		<language name="English">At have mine Badge giver dig mulighed for at\nbruge den skjulte flytte Styrke når som helst\fuden for kamp.\rOg du har nu seks Gym Badges.\rDet betyder alle Pokémon op til Lv. 70\nvil adlyde dig uden tvivl.\rHer!\nTag også den her!\r</language>
 	</row>
 	<row id="narc_0049_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That {STRVAR_1 8, 0} contains the move\n{STRVAR_1 6, 1}.\rIf it hits, it may also lower the\ntarget’s Special Defense.</language>
+		<language name="English">At {STRVAR_1 8, 0} indeholder flytningen\n{STRVAR_1 6, 1}.\rHvis det rammer, kan det også sænke\nMålet er Special Defense.</language>
 	</row>
 	<row id="narc_0049_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gwahahahaha!\nThe Sinnoh region is vast!\rTough Trainers like you and\n{STRVAR_1 3, 1} crop up constantly\fto challenge the old guard!\rWith more young Trainers like my son\nand you two taking charge, the\ffuture of Pokémon is bright!\rBut I’m not stepping aside just yet!\rI merely need to rededicate myself\nto training on Iron Island.</language>
+		<language name="English">Gwahahaha!\nSinnoh-regionen er enorm!\rHårde trænere som dig og\n{STRVAR_1 3, 1} vokser konstant\fat udfordre den gamle vagt!\rMed flere unge trænere som min søn\nog I to tager styringen,\fFremtiden for Pokémon er lys!\rMen jeg går ikke endnu!\rJeg skal bare genhellige mig selv\ntil uddannelse på Iron Island.</language>
 	</row>
 	<row id="narc_0049_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, there!\nChamp-to-be!\rThe Gym Leader here uses Steel-type\nPokémon.\rSteel-type Pokémon have high Defense,\nso you’d have to hit them hard!</language>
+		<language name="English">Hey, der!\nChamp-to-be!\rGym Leader her bruger Steel- type\nPokémon.\rSteel- type Pokémon har højt forsvar,\nSå du skulle slå dem hårdt!</language>
 	</row>
 	<row id="narc_0049_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! {STRVAR_1 3, 0}!\nYou’ve beaten the Gym Leader!\rGood going!\nThat makes it six Gym Badges!\rI tell you what, you’re really turning\ninto one fine Trainer.\rIf you were to say you’re going to\ntry to become the Pokémon Champ...\rNo one’d laugh at you now!\nI’m in your corner, kiddo!</language>
+		<language name="English">Oh! {STRVAR_1 3, 0}!\nDu har slået Gym-lederen!\rGodt gået!\nDet gør det til seks Gym Badges!\rNu skal du høre, du virkelig drejer\ntil en fin træner.\rHvis du ville sige, at du kommer til\nforsøge at blive Pokémon Champ...\rIngen ville grine af dig nu!\nJeg er i dit hjørne, knægt!</language>
 	</row>
 	<row id="narc_0049_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Canalave City Pokémon Gym\nLeader: Byron\rCertified Trainers:\n{STRVAR_1 3, 1}</language>
+		<language name="English">Canalave City Pokémon Gym\nZLeder: Byron\rCertificerede undervisere:\n{STRVAR_1 3, 1}</language>
 	</row>
 	<row id="narc_0049_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Canalave City Pokémon Gym\nLeader: Byron\rCertified Trainers:\n{STRVAR_1 3, 0}\f{STRVAR_1 3, 1}</language>
+		<language name="English">Canalave City Pokémon Gym\nLeder: Byron\rCertificerede undervisere:\nZZ{STRVAR_1 3, 0}\fZZZZ{STRVAR_1 3, 1}</language>
 	</row>
 </body>

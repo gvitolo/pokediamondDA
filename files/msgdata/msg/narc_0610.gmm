@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0610_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0610_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Angermanland</language>
+		<language name="English">Ångermanland</language>
 	</row>
 	<row id="narc_0610_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -46,11 +46,11 @@
 	</row>
 	<row id="narc_0610_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">North Swedish Lapland</language>
+		<language name="English">Nordsvensk Lapland</language>
 	</row>
 	<row id="narc_0610_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">South Swedish Lapland</language>
+		<language name="English">Sydsvensk Lapland</language>
 	</row>
 	<row id="narc_0610_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -66,23 +66,23 @@
 	</row>
 	<row id="narc_0610_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oland</language>
+		<language name="English">Øland</language>
 	</row>
 	<row id="narc_0610_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ostergotland</language>
+		<language name="English">Östergötland</language>
 	</row>
 	<row id="narc_0610_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skane</language>
+		<language name="English">Skåne</language>
 	</row>
 	<row id="narc_0610_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smaland</language>
+		<language name="English">Småland</language>
 	</row>
 	<row id="narc_0610_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sodermanland</language>
+		<language name="English">Södermanland</language>
 	</row>
 	<row id="narc_0610_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -90,11 +90,11 @@
 	</row>
 	<row id="narc_0610_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Varmland</language>
+		<language name="English">Värmland</language>
 	</row>
 	<row id="narc_0610_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vasterbotten</language>
+		<language name="English">Västerbotten</language>
 	</row>
 	<row id="narc_0610_00024" index="24">
 		<attribute name="window_context_name">used</attribute>

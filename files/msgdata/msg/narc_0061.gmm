@@ -1,35 +1,35 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0061_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yay! I got a Pal Pad at the\nPokémon Wi-Fi Club downstairs!</language>
+		<language name="English">Yay! Jeg fik en Pal Pad på den\nPokémon Wi- Fi Club nedenunder!</language>
 	</row>
 	<row id="narc_0061_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Switch on the PC at any Pokémon\nCenter and connect to the\fPokémon Storage System.\rThat’s all you need to do to store\nor bring out your Pokémon.</language>
+		<language name="English">Tænd for pc ’en ved enhver Pokémon\nCentrér og tilslut til\fPokémon Storage System.\rDet er alt du skal gøre for at gemme\neller bringe ud din Pokémon.</language>
 	</row>
 	<row id="narc_0061_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm...\rWhat is your favorite kind of\nTrainer? Can you tell me?\r</language>
+		<language name="English">Hmmm...\rHvad er din favorit slags\nTrainer? Kan du fortælle mig det?\r</language>
 	</row>
 	<row id="narc_0061_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which kind of Trainer would you like\nto be?</language>
+		<language name="English">Hvilken slagger træer vil du have?\nPå være?</language>
 	</row>
 	<row id="narc_0061_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 14, 0} is the kind of\nTrainer you want to be?</language>
+		<language name="English">{STRVAR_1 14, 0} er den slags\nVil du være træner?</language>
 	</row>
 	<row id="narc_0061_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see! So {STRVAR_1 14, 0} is the\nkind of Trainer you like.\rIf that’s the case, others may come\nto see you in the same way.\r</language>
+		<language name="English">Javel! Så {STRVAR_1 14, 0} er\nEn slags træner, du kan lide.\rHvis det er tilfældet, kan andre komme.\nat se dig på samme måde.\r</language>
 	</row>
 	<row id="narc_0061_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, then I’ll just talk to you later!</language>
+		<language name="English">Okay, så taler vi sammen senere!</language>
 	</row>
 	<row id="narc_0061_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello! You’ve been mistaken for\n{STRVAR_1 14, 0}, haven’t you?\rBut I think you can also pass for\na different kind of Trainer.\rSo, how about telling me what kind of\nTrainer that you like?\r</language>
+		<language name="English">Hallo! Du har taget fejl.\n{STRVAR_1 14, 0}Har du ikke?\rMen jeg tror, du også kan passere for\nEn anden slags træner.\rHvad med at fortælle mig hvilken slags\nTræner, du kan lide?\r</language>
 	</row>
 </body>

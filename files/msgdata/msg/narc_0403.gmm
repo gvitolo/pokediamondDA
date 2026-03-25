@@ -2,51 +2,51 @@
 <body language="English">
 	<row id="narc_0403_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Make Pokémon migrate from\n{STRVAR_1 3, 1}’s Ruby Game Pak?</language>
+		<language name="English">Få Pokémon til at migrere fra\n{STRVAR_1 3, 1}'s Ruby Game Pak?</language>
 	</row>
 	<row id="narc_0403_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Make Pokémon migrate from\n{STRVAR_1 3, 1}’s Sapphire Game Pak?</language>
+		<language name="English">Få Pokémon til at migrere fra\n{STRVAR_1 3, 1}'s Sapphire Game Pak?</language>
 	</row>
 	<row id="narc_0403_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Make Pokémon migrate from\n{STRVAR_1 3, 1}’s Emerald Game Pak?</language>
+		<language name="English">Få Pokémon til at migrere fra\n{STRVAR_1 3, 1}'s Emerald Game Pak?</language>
 	</row>
 	<row id="narc_0403_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Make Pokémon migrate from\n{STRVAR_1 3, 1}’s FireRed Game Pak?</language>
+		<language name="English">Få Pokémon til at migrere fra\n{STRVAR_1 3, 1}'s FireRed Game Pak?</language>
 	</row>
 	<row id="narc_0403_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Make Pokémon migrate from\n{STRVAR_1 3, 1}’s LeafGreen Game Pak?</language>
+		<language name="English">Få Pokémon til at migrere fra\n{STRVAR_1 3, 1}'s LeafGreen Game Pak?</language>
 	</row>
 	<row id="narc_0403_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There aren’t six Pokémon in\nthe PC Boxes.</language>
+		<language name="English">Der er ikke seks Pokémon i\npc-boksene.</language>
 	</row>
 	<row id="narc_0403_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose the six Pokémon\nthat will migrate.</language>
+		<language name="English">Vælg venligst de seks Pokémon\nder vil migrere.</language>
 	</row>
 	<row id="narc_0403_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Game Card has already been\nstocked with six migrated Pokémon.\rPlease participate in a Catching\nShow at Pal Park.</language>
+		<language name="English">Dette spilkort er allerede\nopført med seks migrerede Pokémons.\rDeltag venligst i et Catching\nshow i Pal Park.</language>
 	</row>
 	<row id="narc_0403_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An Egg cannot migrate!</language>
+		<language name="English">Et æg kan ikke migrere!</language>
 	</row>
 	<row id="narc_0403_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon knows a hidden move.\nIt cannot migrate.</language>
+		<language name="English">Denne Pokémon kender et skjult træk.\nDen kan ikke migrere.</language>
 	</row>
 	<row id="narc_0403_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The six chosen Pokémon will migrate.</language>
+		<language name="English">De seks valgte Pokémon vil migrere.</language>
 	</row>
 	<row id="narc_0403_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon CANNOT be returned to the\nGame Boy Advance Game Pak. OK?</language>
+		<language name="English">Pokémon KAN IKKE returneres til\nGame Boy Advance Game Pak. OK?</language>
 	</row>
 	<row id="narc_0403_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
@@ -80,43 +80,43 @@
 	</row>
 	<row id="narc_0403_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon Ruby and\nPokémon Diamond...</language>
+		<language name="English">Gemmer data på Pokémon Ruby og\nPokémon Diamond...</language>
 	</row>
 	<row id="narc_0403_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon Ruby and\nPokémon Pearl...</language>
+		<language name="English">Gemmer data på Pokémon Ruby og\nPokémon Pearl...</language>
 	</row>
 	<row id="narc_0403_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon Sapphire and\nPokémon Diamond...</language>
+		<language name="English">Gemmer data om Pokémon Sapphire og\nPokémon Diamond...</language>
 	</row>
 	<row id="narc_0403_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon Sapphire and\nPokémon Pearl...</language>
+		<language name="English">Gemmer data på Pokémon Sapphire og\nPokémon Pearl...</language>
 	</row>
 	<row id="narc_0403_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon Emerald and\nPokémon Diamond...</language>
+		<language name="English">Gemmer data om Pokémon Emerald og\nPokémon Diamond...</language>
 	</row>
 	<row id="narc_0403_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon Emerald and\nPokémon Pearl...</language>
+		<language name="English">Gemmer data om Pokémon Emerald og\nPokémon Pearl...</language>
 	</row>
 	<row id="narc_0403_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon FireRed and\nPokémon Diamond...</language>
+		<language name="English">Gemmer data på Pokémon FireRed og\nPokémon Diamond...</language>
 	</row>
 	<row id="narc_0403_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon FireRed and\nPokémon Pearl...</language>
+		<language name="English">Gemmer data på Pokémon FireRed og\nPokémon Pearl...</language>
 	</row>
 	<row id="narc_0403_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon LeafGreen\nand Pokémon Diamond...</language>
+		<language name="English">Gemmer data om Pokémon LeafGreen\nog Pokémon Diamond...</language>
 	</row>
 	<row id="narc_0403_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving data on Pokémon LeafGreen\nand Pokémon Pearl...</language>
+		<language name="English">Gemmer data på Pokémon LeafGreen\nog Pokémon Pearl...</language>
 	</row>
 	<row id="narc_0403_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
@@ -125,43 +125,43 @@
 	</row>
 	<row id="narc_0403_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Six Pokémon safely migrated to\nthe Pokémon Diamond Game Card.</language>
+		<language name="English">Seks Pokémon migrerede sikkert til\nPokémon Diamond Game Card.</language>
 	</row>
 	<row id="narc_0403_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Six Pokémon safely migrated to\nthe Pokémon Pearl Game Card.</language>
+		<language name="English">Seks Pokémon migrerede sikkert til\nPokémon Pearl Game Card.</language>
 	</row>
 	<row id="narc_0403_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon may migrate from a Game Boy\nAdvance Game Pak only once a day.\rA full day hasn’t passed since\nPokémon migrated from this Game Pak.</language>
+		<language name="English">Pokémon kan migrere fra en Game Boy\nAdvance Game Pak kun én gang om dagen.\rDer er ikke gået en hel dag siden\nPokémon migrerede fra denne Game Pak.</language>
 	</row>
 	<row id="narc_0403_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are using a different Nintendo DS,\nor its internal clock has been altered.\rIf the game’s time setting is changed,\nyou will not be able to migrate\fPokémon for another 24 hours.\rWould you like to change your game’s\ntime setting to match the Nintendo DS?</language>
+		<language name="English">Du bruger en anden Nintendo DS,\neller dets interne ur er blevet ændret.\rHvis spillets tidsindstilling ændres,\nvil du ikke være i stand til at migrere\fPokémon i yderligere 24 timer.\rVil du ændre dit spils\ntidsindstilling, så den matcher Nintendo DS?</language>
 	</row>
 	<row id="narc_0403_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The game clock has been adjusted.\rPokémon cannot be made to migrate\nfor 24 hours.</language>
+		<language name="English">Spillets ur er blevet justeret.\rPokémon kan ikke fås til at migrere\ninden for 24 timer.</language>
 	</row>
 	<row id="narc_0403_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon CANNOT be returned to the\nGame Boy Advance Game Pak.\rMake Pokémon migrate to\nthe Pokémon Diamond Game Card?</language>
+		<language name="English">Pokémon KAN IKKE returneres til\nGame Boy Advance Game Pak.\rFå Pokémon til at migrere til\nPokémon Diamond Game Card?</language>
 	</row>
 	<row id="narc_0403_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon CANNOT be returned to the\nGame Boy Advance Game Pak.\rMake Pokémon migrate to\nthe Pokémon Pearl Game Card?</language>
+		<language name="English">Pokémon KAN IKKE returneres til\nGame Boy Advance Game Pak.\rFå Pokémon til at migrere til\nPokémon Pearl Game Card?</language>
 	</row>
 	<row id="narc_0403_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Save failed...</language>
+		<language name="English">Gem mislykkedes...</language>
 	</row>
 	<row id="narc_0403_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Error reading the Game Boy Advance\nGame Pak’s save file.\rThere may not be a file saved,\nor the save file may be corrupted.</language>
+		<language name="English">Fejl ved læsning af Game Boy Advance\nGame Paks gemmefil.\rDer er muligvis ikke gemt en fil,\og heller ikke gemmefilen er beskadiget.</language>
 	</row>
 	<row id="narc_0403_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon is not permitted to\nmigrate.</language>
+		<language name="English">Denne Pokémon har ikke tilladelse til at\nmigrere.</language>
 	</row>
 	<row id="narc_0403_00039" index="39">
 		<attribute name="window_context_name">garbage</attribute>
@@ -170,7 +170,7 @@
 	</row>
 	<row id="narc_0403_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Making adjustments...\nDo not turn off the power.</language>
+		<language name="English">Foretager justeringer...\nSluk ikke for strømmen.</language>
 	</row>
 	<row id="narc_0403_00041" index="41">
 		<attribute name="window_context_name">garbage</attribute>
@@ -188,7 +188,7 @@
 	</row>
 	<row id="narc_0403_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Item</language>
+		<language name="English">Punkt</language>
 	</row>
 	<row id="narc_0403_00045" index="45">
 		<attribute name="window_context_name">garbage</attribute>

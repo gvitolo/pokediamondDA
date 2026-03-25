@@ -1,35 +1,35 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0433_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Howdy, traveler!\rSome of our customers are rowdy\ntypes that want to battle.\rBut pay it no mind and stay a while.</language>
+		<language name="English">Hejsa, rejsende!\rNogle af vores kunder er larmende\ntyper, der vil kæmpe.\rMen pas på det og bliv et stykke tid.</language>
 	</row>
 	<row id="narc_0433_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How are ya doing?\nWhatcha having?\r’Course, all we ever have is\nMoomoo Milk.\rMoomoo Milk, $500.\nWant a bottle?</language>
+		<language name="English">Hvordan har du det?\nHvad har du?\r"Selvfølgelig er alt, hvad vi nogensinde har\nMoomoo mælk.\rMoomoo-mælk, $500.\nVil du have en flaske?</language>
 	</row>
 	<row id="narc_0433_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here’s your Moomoo Milk.\nEnjoy.\r</language>
+		<language name="English">Her er din Moomoo Milk.\nNyde.\r</language>
 	</row>
 	<row id="narc_0433_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh!\nYour Bag’s full, sweetie.</language>
+		<language name="English">Åh!\nDin taske er fuld, skat.</language>
 	</row>
 	<row id="narc_0433_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh!\nYou don’t have the money, sweetie.</language>
+		<language name="English">Åh!\nDu har ikke pengene, skat.</language>
 	</row>
 	<row id="narc_0433_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right, then.\rI should tell you, it’s not that we\ncan only get Moomoo Milk. No.\rWe choose to serve only Moomoo Milk.\nWe’re very particular about it.</language>
+		<language name="English">Okay, så.\rJeg skal sige dig, det er ikke, at vi\nkan kun få Moomoo Milk. Ingen.\rVi vælger kun at servere Moomoo Milk.\nVi er meget særlige omkring det.</language>
 	</row>
 	<row id="narc_0433_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Youngster, you’ve seen the\nPSYDUCK huddled outside?\rPSYDUCK are Pokémon that suffer from\nchronic headaches...\rI’m afraid we’ll have to wait for them\nto get better.</language>
+		<language name="English">Yngste, du har set\nPSYDUCK samlet udenfor?\rPSYDUCK er Pokémon, der lider af\nkronisk hovedpine...\rJeg er bange for, at vi bliver nødt til at vente på dem\nat få det bedre.</language>
 	</row>
 	<row id="narc_0433_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, well! So I hear you’ve relieved\nthe PSYDUCK of their headaches.\rThe person who gave you the\nSecretPotion must be quite the Trainer!</language>
+		<language name="English">Nå, godt! Så jeg hører, du er lettet\nderes hovedpines PSYDUCK.\rDen person, der gav dig\nSecretPotion må være ret træneren!</language>
 	</row>
 </body>

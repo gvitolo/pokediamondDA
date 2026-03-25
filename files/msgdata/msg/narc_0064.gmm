@@ -1,20 +1,20 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0064_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giving nicknames to Pokémon is\nthe way to go.\rIt makes you feel as if they’re your\nvery own.</language>
+		<language name="English">At give øgenavne til Pokémon er\nvejen til at gå.\rDet får dig til at føle, som om de er dine\nMeget egen.</language>
 	</row>
 	<row id="narc_0064_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But he named our PSYDUCK “Yellow”\njust because of its color...\rI don’t understand the logic behind\nthat at all.</language>
+		<language name="English">Men han kaldte vores PSYDUCK “Gul”\nBare på grund af farven...\rJeg forstår ikke logikken bag\nDet er det hele.</language>
 	</row>
 	<row id="narc_0064_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you catching Pokémon?\nHere, take this if you’d like.\r</language>
+		<language name="English">Fanger du Pokémon?\nTag den her, hvis du vil.\r</language>
 	</row>
 	<row id="narc_0064_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Dusk Ball is a Poké Ball designed\nfor use in darkness.\rIt works better if you use it at\nnight or in a cave.</language>
+		<language name="English">Dusk Ball er en Poké Ball designet\ntil brug i mørke.\rDet virker bedre, hvis du bruger det på\nnat eller i en hule.</language>
 	</row>
 	<row id="narc_0064_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

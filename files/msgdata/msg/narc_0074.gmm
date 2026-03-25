@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0074_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hiya! Your Pokémon could use some\ntoughening up.\rWhy not try training in\nthe Oreburgh Mine?</language>
+		<language name="English">Hej! Din Pokémon kunne bruge nogle\nDet er svært.\rHvorfor ikke prøve uddannelse i\nOreburgh-minen?</language>
 	</row>
 	<row id="narc_0074_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I always have a rotten time trying\nto decide which moves my Pokémon\fshould learn.</language>
+		<language name="English">Jeg har altid dårlig tid til at prøve.\nat beslutte, hvilke flytter min Pokémon\fJeg burde lære det.</language>
 	</row>
 	<row id="narc_0074_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You remind me so much of the time\nI got my first Pokémon.</language>
+		<language name="English">Du minder mig så meget af tiden\nJeg fik min første Pokémon.</language>
 	</row>
 </body>

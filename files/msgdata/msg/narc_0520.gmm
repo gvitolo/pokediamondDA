@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0520_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Someone gave me a Seal Case, but\nI can’t buy any Seals here.</language>
+		<language name="English">Nogen gav mig en Seal Case, men\nJeg kan ikke købe nogen Seal her.</language>
 	</row>
 	<row id="narc_0520_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you use a Repel, it keeps weak\nPokémon away from you.\rIt’s useful if you need to get\nsomewhere in a hurry.</language>
+		<language name="English">Hvis du bruger en Repel, holder den svage\nPokémon væk fra dig.\rDet er nyttigt, hvis du har brug for at komme et eller andet sted i en fart.</language>
 	</row>
 </body>

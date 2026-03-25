@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="narc_0318_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Geonet, the high-tech\nglobe!\r</language>
+		<language name="English">Velkommen til Geonet, den højteknologiske\nglobe!\r</language>
 	</row>
 	<row id="narc_0318_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you like to do?</language>
+		<language name="English">Hvad vil du gerne lave?</language>
 	</row>
 	<row id="narc_0318_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here, you may register the location\nof where you live.\rThat information may be provided to\nfriends and strangers through\rDS Wireless Communications or over\nNintendo WFC.\rWould you like to register your\nhome’s location area?</language>
+		<language name="English">Her kan du registrere placeringen\nhvor du bor.\rDenne information kan gives til\nvenner og fremmede gennem\rDS Wireless Communications eller over\nNintendo WFC.\rVil du registrere dit\nhjems placeringsområde?</language>
 	</row>
 	<row id="narc_0318_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select the location in which\nyou live.</language>
+		<language name="English">Vælg venligst det sted, hvor\du bor.</language>
 	</row>
 	<row id="narc_0318_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select the area in which\nyou live.</language>
+		<language name="English">Vælg venligst det område, du bor i.</language>
 	</row>
 	<row id="narc_0318_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once registered, you may not change\nyour registered location data.\rShould this location be registered\nas where you live?</language>
+		<language name="English">Når du først er registreret, må du ikke ændre\dine registrerede placeringsdata.\Skal denne placering registreres\når du bor?</language>
 	</row>
 	<row id="narc_0318_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,15 +34,15 @@
 	</row>
 	<row id="narc_0318_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0318_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0318_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEE LIST</language>
+		<language name="English">SE LISTE</language>
 	</row>
 	<row id="narc_0318_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,14 +50,14 @@
 	</row>
 	<row id="narc_0318_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0318_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your registered location:\n{STRVAR_1 36, 0}\n{STRVAR_1 37, 1}</language>
+		<language name="English">Din registrerede placering:\n{STRVAR_1 36, 0}\n{STRVAR_1 37, 1}</language>
 	</row>
 	<row id="narc_0318_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To display registered locations, line up\nthe cursor, and press the X Button.</language>
+		<language name="English">For at få vist registrerede placeringer skal du stille op\markøren og trykke på X-knappen.</language>
 	</row>
 </body>

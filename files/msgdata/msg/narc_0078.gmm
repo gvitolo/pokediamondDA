@@ -1,89 +1,89 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0078_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, is that a Pokédex?\nYou must be helping Professor Rowan?\rWhat’s your name?\r...\rOK, hello, {STRVAR_1 3, 0}.\nI’ll be sure to remember that name!\rMy name is Cynthia.\nI’m a Trainer just like you.\rI’ve been studying Pokémon mythology\nlately, just out of curiosity.\r</language>
+		<language name="English">Er det en Pokédex?\nDu må hjælpe professor Rowan?\rHvad hedder du?\r...\rOkay, hej, {STRVAR_1 3, 0}.\nJeg vil huske det navn!\rJeg hedder Cynthia.\nJeg er træner ligesom dig.\rJeg har studeret Pokémon mytologi\nFor nylig, af nysgerrighed.\r</language>
 	</row>
 	<row id="narc_0078_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here in Eterna City, there is a\nstatue of an ancient Pokémon.\rAccording to myth, it was an\nextremely powerful Pokémon.\rWho knows? You may encounter\nsomething like it while you’re\ftraveling with your Pokédex.\rTry using this.\nIt should help you on your way.\r</language>
+		<language name="English">Her i Eterna City, er der en\nstatue af en gammel Pokémon.\rIfølge myten var det en\nmeget kraftfuld Pokémon.\rHvem ved? Du kan støde på\nnoget lignende, mens du er\frejser med din Pokédex.\rPrøv at bruge den her.\nDet burde hjælpe dig på vej.\r</language>
 	</row>
 	<row id="narc_0078_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Remember, the hidden move\nCut can be used in the field.\rIt will let you go places that were\npreviously inaccessible to you.\rThat’s important for filling up your\nPokédex, right?\rThen luck be with you, young Trainer!\r</language>
+		<language name="English">Husk, det skjulte træk\nKlip kan bruges i marken.\rDet vil lade dig gå steder, der var\ntidligere utilgængelige for dig.\rDet er vigtigt for at fylde din\nPokédex, ikke?\rSå held og lykke, unge Trainer!\r</language>
 	</row>
 	<row id="narc_0078_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! You there, kid!\nStay away from that Pokémon statue!\rTeam Galactic is conducting an\nofficial investigation here!</language>
+		<language name="English">Hey! Du der, knægt!\nHold dig væk fra den Pokémon statue!\rTeam Galaktic udfører en\nDet er officielt her!</language>
 	</row>
 	<row id="narc_0078_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you! Yeah, you, Trainer!\rErrr...\nIt’s OK. Never mind. You look tough.\rI won’t take... Um, I’ll just let you\nkeep your Pokémon. Carry on!</language>
+		<language name="English">Hey, dig! Ja, dig, Trainer!\rErrr...\nDet er okay. Glem det. Du ser sej ud.\rJeg tager ikke... Jeg vil bare lade dig\nBehold din Pokémon. Fortsæt!</language>
 	</row>
 	<row id="narc_0078_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you seen our building?\rTeam Galactic is so stinking rich\nthat we can have one built instantly!</language>
+		<language name="English">Har du set vores bygning?\rTeam Galaktisk er så stinkende rig\nat vi kan få en bygget med det samme!</language>
 	</row>
 	<row id="narc_0078_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Since that Team Galactic building went\nup, the city’s atmosphere has gotten\fall creepy and tense.\rI don’t know what those people are\ndoing up in that place...</language>
+		<language name="English">Siden det hold Galaktiske Bygning gik\nop, byens atmosfære har fået\falle uhyggelig og anspændt.\rJeg ved ikke, hvad de mennesker er\nAt gøre op på det sted...</language>
 	</row>
 	<row id="narc_0078_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With Team Galactic gone, what’s going\nto happen to their building?</language>
+		<language name="English">Med Team Galaktic væk, hvad sker der\nat det sker for deres bygning?</language>
 	</row>
 	<row id="narc_0078_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My friend said Team Galactic took his\nfavorite Pokémon away.\rI don’t think he’s telling the truth.\nTeam Galactic looks so cool.\fThey don’t look like common thugs.</language>
+		<language name="English">Min ven sagde, at Team Galaktic tog hans.\nfavorit Pokémon væk.\rJeg tror ikke, han taler sandt.\nTeam Galaktic ser så cool ud.\fDe ligner ikke almindelige bøller.</language>
 	</row>
 	<row id="narc_0078_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you use Bike stands?\rIt looks so cool to hop off your Bike\nand then lean on it. It looks so smooth!</language>
+		<language name="English">Bruger du Cykelstativer?\rDet ser så cool at hoppe af din cykel\nOg læn dig på det. Det ser så glat ud!</language>
 	</row>
 	<row id="narc_0078_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’re visiting Eterna, you need to\nget yourself a Bicycle and take a\fride down the Cycling Road.</language>
+		<language name="English">Hvis du besøger Eterna, skal du\nFå dig en cykel og tage en\fride ned af Cykling Road.</language>
 	</row>
 	<row id="narc_0078_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0078_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They say this is an old city.\rIt doesn’t look it, though.\nNot with all these tall buildings.</language>
+		<language name="English">De siger, det er en gammel by.\rMen det ser ikke sådan ud.\nIkke med alle de høje bygninger.</language>
 	</row>
 	<row id="narc_0078_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eterna City’s not anything like it\nwas before, way back in the day.</language>
+		<language name="English">Eterna Byen er ikke noget lignende.\nvar før, langt tilbage på dagen.</language>
 	</row>
 	<row id="narc_0078_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They say this is a Pokémon that lived\nlong, long ago.</language>
+		<language name="English">De siger, at dette er en Pokémon, der levede\nFor længe siden.</language>
 	</row>
 	<row id="narc_0078_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, don’t tell me you don’t have\nan Explorer Kit?\rYou should have a word with the man\nnext door to the Pokémon Center.\r</language>
+		<language name="English">Sig ikke, at du ikke har\nEn Explorer Kit?\rDu burde tale med manden.\nVed siden af Pokémon Center.\r</language>
 	</row>
 	<row id="narc_0078_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, don’t tell me you don’t have\nan Explorer Kit?\rYou should have a word with the man\nnext door to the Pokémon Center.</language>
+		<language name="English">Sig ikke, at du ikke har\nEn Explorer Kit?\rDu burde tale med manden.\nVed siden af Pokémon Center.</language>
 	</row>
 	<row id="narc_0078_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Going underground with the Explorer\nKit is a blast, isn’t it?</language>
+		<language name="English">Går under jorden med Explorer\nKit er fantastisk, ikke?</language>
 	</row>
 	<row id="narc_0078_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, wow!\nYou got a Bicycle!\rYou can ride down Cycling Road\nand end up in Hearthome City.\rIt’s a fast and fun ride.\nYou should check it out!\r</language>
+		<language name="English">Åh, wow!\nDu har en cykel!\rDu kan ride ned ad Cykling Road\nOg ender i Hearthome City.\rDet er en hurtig og sjov tur.\nDu burde undersøge det!\r</language>
 	</row>
 	<row id="narc_0078_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, wow!\nYou got a Bicycle!\rYou can ride down Cycling Road\nand end up in Hearthome City.\rIt’s a fast and fun ride.\nYou should check it out!</language>
+		<language name="English">Åh, wow!\nDu har en cykel!\rDu kan ride ned ad Cykling Road\nOg ender i Hearthome City.\rDet er en hurtig og sjov tur.\nDu burde undersøge det!</language>
 	</row>
 	<row id="narc_0078_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It feels great riding a Bike with the\nwind in your face, doesn’t it?</language>
+		<language name="English">Det føles godt at køre en cykel med\nVinden i ansigtet, ikke?</language>
 	</row>
 	<row id="narc_0078_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -91,30 +91,30 @@
 	</row>
 	<row id="narc_0078_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eterna City Pokémon Gym\nLeader: Gardenia\fMaster of Vivid Plant Pokémon!</language>
+		<language name="English">Eterna City Pokémon Gym\nZLeder: Gardenia\fMaster af Vivid Plant Pokémon!</language>
 	</row>
 	<row id="narc_0078_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rad Rickshaw’s Cycle Shop\nGet On and Ride!</language>
+		<language name="English">Rad Rickshaws cykelbutik\nOp med dig!</language>
 	</row>
 	<row id="narc_0078_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Galactic Eterna Building\nWe Want Your Pokémon!</language>
+		<language name="English">Team Galaktisk Eterna bygning\nVi vil have din Pokémon!</language>
 	</row>
 	<row id="narc_0078_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Underground Man’s House\nGoin’ Down for Adventure!</language>
+		<language name="English">Underjordisk mandehus\nVi skal ned efter Eventyr!</language>
 	</row>
 	<row id="narc_0078_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eterna Condominiums\nName-Rating Services Available</language>
+		<language name="English">Eterna Condominiums\nName- Rating Services Tilgængelig</language>
 	</row>
 	<row id="narc_0078_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is some writing on the\nPokémon statue...\r...creation of DIA...\n...giver of time...\rIn laughter, there is tears...\nAnd, likewise...\rThe same time flows...\n...the blessing of DIA...\rThe text is barely legible and\nhas faded completely in places...</language>
+		<language name="English">Der er nogle skrift på\nPokémon statue...\r... skabelse af DIA...\n... giver tid...\rI latter er der tårer...\nOg også...\rSamme tid flyder...\n... DIA ’s velsignelse...\rTeksten er knap læselig og\nhar falmet helt på steder...</language>
 	</row>
 	<row id="narc_0078_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is some writing on the\nPokémon statue...\r...birth of PAL...\n...creator of parallel dimensions...\rAlive, yet not alive...\n...rifts in space...\rTo arrive in the same univer...\n...the blessing of PAL...\rThe text is barely legible and\nhas faded completely in places...</language>
+		<language name="English">Der er nogle skrift på\nPokémon statue...\r... fødsel af PAL...\n... skaber af parallelle dimensioner...\rI live, men ikke i live...\n... revner i rummet...\rAt ankomme i den samme enspænder...\n... PAL ’s velsignelse...\rTeksten er knap læselig og\nhar falmet helt på steder...</language>
 	</row>
 </body>

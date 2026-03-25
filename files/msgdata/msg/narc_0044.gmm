@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0044_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wi: We come from faraway land.\nI come see the Pokémon I trade.\rI worry if it growing properly.</language>
+		<language name="English">Vi kommer fra et fjernt land.\nJeg kommer og ser Pokémon I-handlen.\rJeg er bekymret, hvis det vokser ordentligt.</language>
 	</row>
 	<row id="narc_0044_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fi: I like look at Pokémon I get\nfrom friend in trade.\rIt make me remember my friend!</language>
+		<language name="English">Fi: Jeg kan lide at se på Pokémon Jeg får\nFra en ven i branchen.\rDet får mig til at huske min ven!</language>
 	</row>
 	<row id="narc_0044_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can trade Pokémon with people\naround the world on Nintendo WFC...\rJust hearing that gets my heart\nracing. Such exciting times!</language>
+		<language name="English">Du kan bytte Pokémon med folk\nover hele verden på Nintendo WFC...\rAt høre det får mit hjerte\nracing. Spændende tider!</language>
 	</row>
 	<row id="narc_0044_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you connect with people on\nNintendo WFC, it’s hard to\ftell if the world’s big or small.</language>
+		<language name="English">Når du forbinder med folk på\nNintendo WFC, det er svært at\fFortæl, om verden er stor eller lille.</language>
 	</row>
 </body>

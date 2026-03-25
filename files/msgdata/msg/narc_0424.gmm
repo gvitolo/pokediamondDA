@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0424_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You need a Bicycle to go out on\nCycling Road!</language>
+		<language name="English">Du skal bruge en cykel at gå ud på\nCykelvej!</language>
 	</row>
 	<row id="narc_0424_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You need a Bicycle to go out on\nCycling Road!\r</language>
+		<language name="English">Du skal bruge en cykel at gå ud på\nCykelvej!\r</language>
 	</row>
 	<row id="narc_0424_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Learn how to shift gears, and you’ll\nbe able to ride anywhere.</language>
+		<language name="English">Lær, hvordan du skifter gear, og du vil\nkunne ride overalt.</language>
 	</row>
 	<row id="narc_0424_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s a Bicycle without this?\rYou’ve got to have a Flag!\nIt’s a Pokémon Accessory!\r</language>
+		<language name="English">Hvad er en cykel uden denne?\rDu skal have et flag!\nDet er et Pokémon-tilbehør!\r</language>
 	</row>
 	<row id="narc_0424_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go through Mt. Coronet from here,\nand you can get to Hearthome City.\rHearthome is where they hold Pokémon\nContests.\rYou should dress up your Pokémon for\nContests with your Accessories.</language>
+		<language name="English">Gå gennem Mt. Coronet herfra,\nog du kan komme til Hearthome City.\rHearthome er hvor de holder Pokémon\nKonkurrencer.\rDu bør klæde din Pokémon på til\nKonkurrencer med dit tilbehør.</language>
 	</row>
 </body>

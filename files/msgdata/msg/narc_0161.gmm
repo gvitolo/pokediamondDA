@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0161_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’d heard that Team Galactic was\nup to no good.\rBut here in Sunyshore, we’ve never\neven seen any of them around.</language>
+		<language name="English">Jeg havde hørt, at Team Galactic ikke virkede.\rMen her i Sunyshore har vi aldrig\nengang set nogen af ​​dem i nærheden.</language>
 	</row>
 	<row id="narc_0161_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A long time ago, there was a boy\nnamed Cyrus who lived here.\rHe seemed to shun others, and he\npreferred the company of machines.\rHe was a brilliant student, I recall.\nI often wonder what became of him.</language>
+		<language name="English">For lang tid siden boede der en dreng ved navn Cyrus.\rHan så ud til at undgå andre, og han foretrak selskabet med maskiner.\rHan var en genial elev, husker jeg.\nJeg spekulerer ofte på, hvad der blev af ham.</language>
 	</row>
 </body>

@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="narc_0146_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoa, whoa, whoa! What have we here?\nYou are so not Team Galactic!\fAnd you’re a little kid to boot!\rThose things we made with the energy\nwe took from the Valley Windworks\fare already in Pastoria City.\rHuh?\nThat’s not what this is about?</language>
+		<language name="English">Hov, hov, hov! Hvad har vi her?\nDu er så ikke Team Galactic!\fOg du er et lille barn!\rDe ting, vi lavede med den energi,\nvi tog fra Valley Windworks\fer allerede i Pastoria City.\rHva?\nDet er ikke det, det handler om?</language>
 	</row>
 	<row id="narc_0146_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoa, whoa, whoa! What have we here?\nYou are so not Team Galactic!\rAnd you’re a little kid!\nUmmm... Are you maybe a visitor?\rIf you’re a visitor, you can get to\nour HQ by taking those stairs.\rHuh?\nThat’s not what this is about?</language>
+		<language name="English">Hov, hov, hov! Hvad har vi her?\nDu er så ikke Team Galactic!\rOg du er et lille barn!\nUmmm... Er du måske en besøgende?\rHvis du er en besøgende, kan du komme til\nvores hovedkvarter ved at tage de trapper.\rHva?\nDet er ikke det, det handler om?</language>
 	</row>
 	<row id="narc_0146_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoa, whoa, whoa! Hold it there!\nDo you have the key?\rI don’t know if you do or not, but\na Storage Key is safe with our guard\fin front of the HQ.\rHuh?\nThat’s not what this is about?</language>
+		<language name="English">Hov, hov, hov! Hold den der!\nHar du nøglen?\rJeg ved ikke, om du har eller ej, men\nen opbevaringsnøgle er sikker hos vores vagt foran hovedkvarteret.\rHva?\nDet er ikke det, det handler om?</language>
 	</row>
 	<row id="narc_0146_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoa, whoa, whoa!\nWhat’s going on here?\rAll my fellow Team Galactic members\nhave disappeared!\rBut nobody relieved me from guarding\nthe warehouse, so I’m staying put!\rHuh?\nThat’s not what this is about?</language>
+		<language name="English">Whoa, whoa, whoa!\nHvad sker der her?\rAlle mine andre Team Galactic-medlemmer\ner forsvundet!\rMen ingen fritog mig fra at bevogte\nlageret, så jeg bliver liggende!\rHva?\nDet er ikke det, det handler om?</language>
 	</row>
 	<row id="narc_0146_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The rust-encrusted door is locked.\nIt appears to take a special key.\n</language>
+		<language name="English">Den rustbeklædte dør er låst.\nDen ser ud til at tage en speciel nøgle.\n</language>
 	</row>
 	<row id="narc_0146_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The rust-encrusted door is locked.\nIt appears to take a special key.\rUse the Storage Key?</language>
+		<language name="English">Den rustbeklædte dør er låst.\nDen ser ud til at tage en speciel nøgle.\rBruger du opbevaringsnøglen?</language>
 	</row>
 	<row id="narc_0146_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} inserted and turned the\nStorage Key.\rThe rusty door creaked open!\rThe Storage Key snapped off inside\nthe keyhole...</language>
+		<language name="English">{STRVAR_1 3, 0} indsat og drejet\nopbevaringsnøglen.\rDen rustne dør knirkede op!\rOpbevaringsnøglen knækkede af inde i nøglehullet...</language>
 	</row>
 </body>

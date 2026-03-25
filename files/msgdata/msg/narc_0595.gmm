@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0595_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0595_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="narc_0595_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">North</language>
+		<language name="English">Nord</language>
 	</row>
 	<row id="narc_0595_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,11 +18,11 @@
 	</row>
 	<row id="narc_0595_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">South Australia</language>
+		<language name="English">Sydaustralien</language>
 	</row>
 	<row id="narc_0595_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tasmania</language>
+		<language name="English">Tasmanien</language>
 	</row>
 	<row id="narc_0595_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,6 +30,6 @@
 	</row>
 	<row id="narc_0595_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Western Australia</language>
+		<language name="English">Vestaustralien</language>
 	</row>
 </body>

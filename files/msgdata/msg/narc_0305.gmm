@@ -2,35 +2,35 @@
 <body language="English">
 	<row id="narc_0305_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Pokémon</language>
+		<language name="English">Flyt Pokémon</language>
 	</row>
 	<row id="narc_0305_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Items</language>
+		<language name="English">Flyt elementer</language>
 	</row>
 	<row id="narc_0305_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Compare Pokémon</language>
+		<language name="English">Sammenlign Pokémon</language>
 	</row>
 	<row id="narc_0305_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Get Pokétch</language>
+		<language name="English">Hent Pokétch</language>
 	</row>
 	<row id="narc_0305_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vocabulary system 1</language>
+		<language name="English">Ordforrådssystem 1</language>
 	</row>
 	<row id="narc_0305_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vocabulary system 2</language>
+		<language name="English">Ordforrådssystem 2</language>
 	</row>
 	<row id="narc_0305_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vocabulary system (sentence)</language>
+		<language name="English">Ordforrådssystem (sætning)</language>
 	</row>
 	<row id="narc_0305_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Current full</language>
+		<language name="English">Nuværende fuld</language>
 	</row>
 	<row id="narc_0305_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,11 +38,11 @@
 	</row>
 	<row id="narc_0305_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All words &amp; phrases</language>
+		<language name="English">Alle ord &amp;sætninger</language>
 	</row>
 	<row id="narc_0305_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trade demo</language>
+		<language name="English">Handel demo</language>
 	</row>
 	<row id="narc_0305_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="narc_0305_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ENDING</language>
+		<language name="English">SLUTNING</language>
 	</row>
 	<row id="narc_0305_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

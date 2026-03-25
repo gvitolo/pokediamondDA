@@ -1,78 +1,78 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0435_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hohoho...\nThey call me Grandma Wilma.\rI came out here by myself from\na town of Dragon Tamers.\rI can teach the strongest of all\nDragon-type moves to the tough\fPokémon of Sinnoh.\rWould you like me to teach that\nmove to one of your Pokémon?</language>
+		<language name="English">Hohoho...\nDe kalder mig bedstemor Wilma.\rJeg kom herud alene fra\nen by med Dragon Tamers.\rJeg kan undervise den stærkeste af alle\nDrage-type flytter til det hårde\fPokémon af Sinnoh.\rVil du have mig til at undervise i det\nflytte til en af ​​dine Pokémons?</language>
 	</row>
 	<row id="narc_0435_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, it is you again...\rWould you like me to teach the best\nDragon-type move I know to one of\fyour Pokémon?</language>
+		<language name="English">Ah, det er dig igen...\rVil du have mig til at undervise det bedste\nDrage-type træk jeg kender til en af\fdin Pokémon?</language>
 	</row>
 	<row id="narc_0435_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, perhaps if you change your\nmind, do come back.</language>
+		<language name="English">Nå, måske hvis du ændrer dit\nsind, kom tilbage.</language>
 	</row>
 	<row id="narc_0435_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nI like your sense of adventure.\rHowever, none of the Pokémon with\nyou now can learn the move.</language>
+		<language name="English">jeg ser...\nJeg kan godt lide din sans for eventyr.\rDog ingen af ​​Pokémonerne med\ndu kan nu lære bevægelsen.</language>
 	</row>
 	<row id="narc_0435_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fine, fine, now pick the Pokémon\nI should teach the move to.</language>
+		<language name="English">Fint, fint, vælg nu Pokémon\nJeg burde lære flytningen til.</language>
 	</row>
 	<row id="narc_0435_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry to disappoint you...\rThat Pokémon you have can learn this\nmove, but it hasn’t come to trust\fyou fully yet...\rUntil then, I can’t make it learn\nthis move.</language>
+		<language name="English">Undskyld at skuffe dig...\rDen Pokémon du har kan lære dette\nflytte, men det er ikke kommet til tillid\fdu helt endnu...\rIndtil da kan jeg ikke få det til at lære\ndette træk.</language>
 	</row>
 	<row id="narc_0435_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry to disappoint you...\nThat Pokémon can’t learn this move.</language>
+		<language name="English">Undskyld at skuffe dig...\nAt Pokémon ikke kan lære dette træk.</language>
 	</row>
 	<row id="narc_0435_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmmm...\rTeaching a move to an Egg is\na challenge that’s beyond me.</language>
+		<language name="English">Hmmmm...\rAt lære en flytning til et æg er\nen udfordring, der ligger uden for mig.</language>
 	</row>
 	<row id="narc_0435_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? That Pokémon already knows\n{STRVAR_1 6, 0}.</language>
+		<language name="English">Åh? Det ved den Pokémon allerede\n{STRVAR_1 6, 0}.</language>
 	</row>
 	<row id="narc_0435_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0435_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0435_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0435_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0435_00013" index="13">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0435_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0435_00015" index="15">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0435_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Draco Meteor’s destructive power\nis awe inspiring.\rHowever, using it will also lower\nthe Pokémon’s Special Attack.</language>
+		<language name="English">Draco Meteors destruktive kraft\ner ærefrygtindgydende.\rMen at bruge det vil også falde\nPokémons særlige angreb.</language>
 	</row>
 </body>

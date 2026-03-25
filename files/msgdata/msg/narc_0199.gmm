@@ -2,51 +2,51 @@
 <body language="English">
 	<row id="narc_0199_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your Pokémon?</language>
+		<language name="English">Hej og velkommen til\nPokémon Center.\rVi genopretter din trætte Pokémon\ntil fuld sundhed.\rVil du hvile din Pokémon?</language>
 	</row>
 	<row id="narc_0199_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, I’ll take your Pokémon for a few\nseconds.</language>
+		<language name="English">OK, jeg tager din Pokémon i et par\nsekunder.</language>
 	</row>
 	<row id="narc_0199_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for waiting.\rWe’ve restored your Pokémon to full\nhealth.\r</language>
+		<language name="English">Tak fordi du ventede.\rVi har genoprettet din Pokémon til fuld\nsundhed.\r</language>
 	</row>
 	<row id="narc_0199_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">Vi håber at se dig igen!</language>
 	</row>
 	<row id="narc_0199_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to...\r</language>
+		<language name="English">Hej og velkommen til\nPokémon Center.\rVi genopretter din trætte Pokémon\ntil fuld sundhed.\rVil du...\r</language>
 	</row>
 	<row id="narc_0199_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Th-that Trainer Card!\rThat sparkling color!\nAnd all those stars!\rI’ve seen several Trainers with Silver\nTrainer Cards up to now...\rBut you’re the first to top them\nwith that Trainer Card.\rPlease, {STRVAR_1 3, 0}, may I have\nthe honor of healing your Pokémon?</language>
+		<language name="English">Det der trænerkort!\rDen funklende farve!\nOg alle de stjerner!\rJeg har set adskillige trænere med sølv\nTrænerkort indtil nu...\rMen du er den første, der topper dem\nmed det trænerkort.\rVenligst, {STRVAR_1 3, 0}, må jeg få\næren af ​​at helbrede din Pokémon?</language>
 	</row>
 	<row id="narc_0199_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s great to see you, {STRVAR_1 3, 0}!\nYou want the usual, am I right?</language>
+		<language name="English">Det er dejligt at se dig, {STRVAR_1 3, 0}!\nDu vil have det sædvanlige, ikke sandt?</language>
 	</row>
 	<row id="narc_0199_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will be pleased to take your\nPokémon for a few seconds.</language>
+		<language name="English">Jeg vil med glæde tage din\nPokémon i et par sekunder.</language>
 	</row>
 	<row id="narc_0199_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for waiting.</language>
+		<language name="English">Tak fordi du ventede.</language>
 	</row>
 	<row id="narc_0199_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">Vi håber at se dig igen!</language>
 	</row>
 	<row id="narc_0199_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon may be infected with\nthe Pokérus.\rLittle is known about the Pokérus\nexcept that they are microscopic\flife-forms that attach to Pokémon.\rWhile infected, Pokémon are said to\ngrow exceptionally well.</language>
+		<language name="English">Din Pokémon kan være inficeret med\nPokémon.\rLidt er kendt om Pokérus\nbortset fra, at de er mikroskopiske\flife-former, der knytter sig til Pokémon.\rMens de er inficerede, siges Pokémon at\vokse usædvanligt godt.</language>
 	</row>
 	<row id="narc_0199_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} is out of battle-ready\nPokémon!\r{STRVAR_1 3, 0}’s vision dimmed!</language>
+		<language name="English">{STRVAR_1 3, 0} er ude af kampklar\nPokémon!\r{STRVAR_1 3, 0}s syn er dæmpet!</language>
 	</row>
 	<row id="narc_0199_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
@@ -55,43 +55,43 @@
 	</row>
 	<row id="narc_0199_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save the game?</language>
+		<language name="English">Vil du gemme spillet?</language>
 	</row>
 	<row id="narc_0199_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is already a saved file.\nIs it OK to overwrite it?</language>
+		<language name="English">Der er allerede en gemt fil.\nEr det OK at overskrive den?</language>
 	</row>
 	<row id="narc_0199_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Gemmer...\nSluk ikke for strømmen.</language>
 	</row>
 	<row id="narc_0199_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} saved the game.</language>
+		<language name="English">{STRVAR_1 3, 0}reddede spillet.</language>
 	</row>
 	<row id="narc_0199_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warning!\nThere is already a saved game file.\rIf you save now, the other file’s\nadventure, including items and\fPokémon, will be entirely lost.\rAre you sure you want to save now\nand overwrite the other save file?</language>
+		<language name="English">Advarsel!\nDer er allerede en gemt spilfil.\rHvis du gemmer nu, vil den anden fils\eventyr, inklusive elementer og\fPokémon, gå helt tabt.\rEr du sikker på, at du vil gemme nu\nog overskrive den anden gemte fil?</language>
 	</row>
 	<row id="narc_0199_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Save error.</language>
+		<language name="English">Gem fejl.</language>
 	</row>
 	<row id="narc_0199_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Gemmer...\nSluk ikke for strømmen.</language>
 	</row>
 	<row id="narc_0199_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is already a saved game file.\nIt is impossible to save.\rPlease refer to the Instruction\nBooklet for details.\rPress Up + SELECT + B Button on\nthe title screen if you want to erase\fthe current saved game file.</language>
+		<language name="English">Der er allerede en gemt spilfil.\nDet er umuligt at gemme.\rSe venligst vejledningen\nhæftet for detaljer.\rTryk på Op + VÆLG + B-knappen på\ntitelskærmen, hvis du vil slette\fden nuværende gemte spilfil.</language>
 	</row>
 	<row id="narc_0199_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving a lot of data...\nDon’t turn off the power.</language>
+		<language name="English">Gemmer en masse data...\nSluk ikke for strømmen.</language>
 	</row>
 	<row id="narc_0199_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Want to give a nickname to the\n{STRVAR_1 0, 0}?</language>
+		<language name="English">Vil du give et kaldenavn til\n{STRVAR_1 0, 0}?</language>
 	</row>
 	<row id="narc_0199_00023" index="23">
 		<attribute name="window_context_name">garbage</attribute>
@@ -100,59 +100,59 @@
 	</row>
 	<row id="narc_0199_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} obtained the Pokétch\napp {STRVAR_1 24, 1}.</language>
+		<language name="English">{STRVAR_1 3, 0} fik Pokétch\nappen {STRVAR_1 24, 1}.</language>
 	</row>
 	<row id="narc_0199_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Obtained the {STRVAR_1 8, 0}!</language>
+		<language name="English">Opnåede {STRVAR_1 8, 0}!</language>
 	</row>
 	<row id="narc_0199_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} installed the app on\nthe Pokétch.\r</language>
+		<language name="English">{STRVAR_1 3, 0} installerede appen på\nPokétch.\r</language>
 	</row>
 	<row id="narc_0199_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Too bad!\nThe Bag is full...</language>
+		<language name="English">Ærgerligt!\nSagen er fuld...</language>
 	</row>
 	<row id="narc_0199_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} obtained\nthe {COLOR 2}{STRVAR_1 8, 1}{COLOR 0}!</language>
+		<language name="English">{STRVAR_1 3, 0} opnået\n{COLOR 2}{STRVAR_1 8, 1}{COLOR 0}!</language>
 	</row>
 	<row id="narc_0199_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} obtained\nthe {COLOR 1}{STRVAR_1 8, 1}{COLOR 0}!</language>
+		<language name="English">{STRVAR_1 3, 0} opnået\n{COLOR 1}{STRVAR_1 8, 1}{COLOR 0}!</language>
 	</row>
 	<row id="narc_0199_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} put the {STRVAR_1 8, 1}\nin the {STRVAR_1 31, 2} Pocket.</language>
+		<language name="English">{STRVAR_1 3, 0} læg {STRVAR_1 8, 1}\ni {STRVAR_1 31, 2}-lommen.</language>
 	</row>
 	<row id="narc_0199_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} put away the\n{STRVAR_1 31, 1} in the Fashion Case.</language>
+		<language name="English">{STRVAR_1 3, 0} læg\n{STRVAR_1 31, 1} væk i Fashion Case.</language>
 	</row>
 	<row id="narc_0199_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} booted up the PC.\r</language>
+		<language name="English">{STRVAR_1 3, 0} startede pc'en op.\r</language>
 	</row>
 	<row id="narc_0199_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which PC should be accessed?</language>
+		<language name="English">Hvilken pc skal tilgås?</language>
 	</row>
 	<row id="narc_0199_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon Storage System\nwas accessed.\r</language>
+		<language name="English">Pokémon Storage System\nblev tilgået.\r</language>
 	</row>
 	<row id="narc_0199_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Accessed {STRVAR_1 3, 0}’s PC.\r</language>
+		<language name="English">Adgang til {STRVAR_1 3, 0}s pc.\r</language>
 	</row>
 	<row id="narc_0199_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rowan’s words echoed...\n{STRVAR_1 3, 0}! There’s a time and\fplace for everything! But not now.</language>
+		<language name="English">Rowans ord genlød...\n{STRVAR_1 3, 0}! Der er tid og sted for alt! Men ikke nu.</language>
 	</row>
 	<row id="narc_0199_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\nWhat do you need?</language>
+		<language name="English">Velkommen!\nHvad har du brug for?</language>
 	</row>
 	<row id="narc_0199_00038" index="38">
 		<attribute name="window_context_name">garbage</attribute>
@@ -161,79 +161,79 @@
 	</row>
 	<row id="narc_0199_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There! All happy and healthy!\nGood luck and take care!</language>
+		<language name="English">Der! Alle glade og sunde!\nHeld og lykke og pas på!</language>
 	</row>
 	<row id="narc_0199_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: {STRVAR_1 3, 0}!\nWelcome home.\rIt sounds like you had quite the\nexperience out there.\rMaybe you should take a quick\nrest so you can relax.\r...\n...</language>
+		<language name="English">Mor: {STRVAR_1 3, 0}!\nVelkommen hjem.\rDet lyder som om, du havde en rigtig\noplevelse derude.\rMåske skulle du tage et hurtigt\nhvil, så du kan slappe af.\r...\n...</language>
 	</row>
 	<row id="narc_0199_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh, yes, I heard from Professor\nRowan.\rHe said that a Pokémon’s energy is\nmeasured in HP (Hit Points).\rIf your Pokémon lose their HP,\nyou can restore it at any\fPokémon Center.\rIf you’re going to travel far away,\nthe smart Trainer stocks up on\fPotions at the Pokémon Mart.\rMake me proud, honey!\nTake care!</language>
+		<language name="English">Mor: Åh, godt! Du og din\nPokémon ser godt ud.\rÅh, ja, jeg hørte fra professor\nRowan.\rHan sagde, at en Pokémons energi\nmåles i HP (Hit Points).\rHvis din Pokémon mister deres HP,\nkan du gendanne den på ethvert\fPokémon Center.\nHvis du vil rejse langt væk,\nhvis du rejser langt væk,\n på Pokémon Mart.\rGør mig stolt, skat!\nPas på!</language>
 	</row>
 	<row id="narc_0199_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh yes, {STRVAR_1 3, 0}, your Pokémon\nwill faint if it runs out of HP.\rIf your Pokémon loses its HP, come\nhome before it faints.\rIt will be healed to full health by\ntaking a rest.\rWell, honey, make me proud!\nTake care!</language>
+		<language name="English">Mor: Åh, godt! Du og din\nPokémon ser godt ud.\rÅh ja, {STRVAR_1 3, 0}, din Pokémon\nvil besvime, hvis den løber tør for HP.\rHvis din Pokémon mister sin HP, så kom\nhjem, før den besvimer.\rDen vil blive helbredt til fuld sundhed ved\nat tage en pause, skat!\nHvil dig godt!</language>
 	</row>
 	<row id="narc_0199_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First, let’s restore your Pokémon\nto full health.</language>
+		<language name="English">Lad os først genoprette din Pokémon til fuld sundhed.</language>
 	</row>
 	<row id="narc_0199_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon have been healed\nto perfect health.</language>
+		<language name="English">Dine Pokémon er blevet helbredt\ntil perfekt helbred.</language>
 	</row>
 	<row id="narc_0199_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please visit a Pokémon Center when\nyour Pokémon’s HP goes down.\rIf you’re planning to travel any\ndistance, you should stock up on\fPotions at a Pokémon Mart.\rGood luck, Trainer!</language>
+		<language name="English">Besøg venligst et Pokémon-center, når\n din Pokémons HP går ned.\rHvis du planlægger at rejse til en hvilken som helst afstand, bør du fylde op\fPotions på en Pokémon Mart.\rHeld og lykke, træner!</language>
 	</row>
 	<row id="narc_0199_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a sweet scent in the air...</language>
+		<language name="English">Der er en sød duft i luften...</language>
 	</row>
 	<row id="narc_0199_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a sweet scent in the air...\r</language>
+		<language name="English">Der er en sød duft i luften...\r</language>
 	</row>
 	<row id="narc_0199_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The bark is slathered with Honey...</language>
+		<language name="English">Barken er strøet med honning...</language>
 	</row>
 	<row id="narc_0199_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The bark is slathered with Honey...\r</language>
+		<language name="English">Barken er slathered med honning...\r</language>
 	</row>
 	<row id="narc_0199_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slather the bark with Honey?</language>
+		<language name="English">Smør barken med honning?</language>
 	</row>
 	<row id="narc_0199_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The bark was slathered with Honey.</language>
+		<language name="English">Barken blev strøet med honning.</language>
 	</row>
 	<row id="narc_0199_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no Mail in the Mailbox.\r</language>
+		<language name="English">Der er ingen mail i postkassen.\r</language>
 	</row>
 	<row id="narc_0199_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Mail’s content will be lost.\nTake it back anyway?</language>
+		<language name="English">Mailens indhold vil gå tabt.\nVil du tage det tilbage alligevel?</language>
 	</row>
 	<row id="narc_0199_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not even a nibble...</language>
+		<language name="English">Ikke engang en bid...</language>
 	</row>
 	<row id="narc_0199_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon got away...</language>
+		<language name="English">Pokémon'en slap væk...</language>
 	</row>
 	<row id="narc_0199_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reeled it in too quickly...</language>
+		<language name="English">Vippede den ind for hurtigt...</language>
 	</row>
 	<row id="narc_0199_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Landed a Pokémon!</language>
+		<language name="English">Landede en Pokémon!</language>
 	</row>
 	<row id="narc_0199_00058" index="58">
 		<attribute name="window_context_name">garbage</attribute>
@@ -277,11 +277,11 @@
 	</row>
 	<row id="narc_0199_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} survived the poisoning.\nThe poison faded away!\r</language>
+		<language name="English">{STRVAR_1 1, 0} overlevede forgiftningen.\nGiften forsvandt!\r</language>
 	</row>
 	<row id="narc_0199_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s an air vent that exchanges\nthe underground tunnels’ air.</language>
+		<language name="English">Det er en luftventil, der udveksler\nluften i de underjordiske tunneler.</language>
 	</row>
 	<row id="narc_0199_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
@@ -293,11 +293,11 @@
 	</row>
 	<row id="narc_0199_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be nothing here...</language>
+		<language name="English">Der er vist ikke noget her...</language>
 	</row>
 	<row id="narc_0199_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The sweet scent faded for some\nreason...</language>
+		<language name="English">Den søde duft forsvandt af en eller anden grund...</language>
 	</row>
 	<row id="narc_0199_00072" index="72">
 		<attribute name="window_context_name">garbage</attribute>
@@ -306,11 +306,11 @@
 	</row>
 	<row id="narc_0199_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ride your Bike?</language>
+		<language name="English">Køre på din cykel?</language>
 	</row>
 	<row id="narc_0199_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Get off your Bike?</language>
+		<language name="English">Stå af din cykel?</language>
 	</row>
 	<row id="narc_0199_00075" index="75">
 		<attribute name="window_context_name">garbage</attribute>
@@ -319,214 +319,214 @@
 	</row>
 	<row id="narc_0199_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh?</language>
+		<language name="English">Åh?</language>
 	</row>
 	<row id="narc_0199_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0} hatched from the Egg!</language>
+		<language name="English">{STRVAR_1 0, 0} udklækket fra Ægget!</language>
 	</row>
 	<row id="narc_0199_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to nickname the newly\nhatched {STRVAR_1 0, 0}?</language>
+		<language name="English">Vil du give den nyligt\nskraverede {STRVAR_1 0, 0} et kaldenavn?</language>
 	</row>
 	<row id="narc_0199_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Repel’s effect wore off...</language>
+		<language name="English">Repels effekt forsvandt...</language>
 	</row>
 	<row id="narc_0199_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Obtained the {STRVAR_1 8, 0}!</language>
+		<language name="English">Opnåede {STRVAR_1 8, 0}!</language>
 	</row>
 	<row id="narc_0199_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Obtained the {STRVAR_1 8, 0} {STRVAR_1 51, 1}!</language>
+		<language name="English">Opnåede {STRVAR_1 8, 0} {STRVAR_1 51, 1}!</language>
 	</row>
 	<row id="narc_0199_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m very sorry.\rWe are working underground right now.\nIt’s off-limits to the public.\rPlease try later on.</language>
+		<language name="English">Jeg er meget ked af det.\rVi arbejder under jorden lige nu.\nDet er forbudt for offentligheden.\rPrøv venligst senere.</language>
 	</row>
 	<row id="narc_0199_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Digital Watch{COLOR 0} app displays\nthe current time.\r</language>
+		<language name="English">{COLOR 2}Digital Watch{COLOR 0}-appen viser\ndet aktuelle klokkeslæt.\r</language>
 	</row>
 	<row id="narc_0199_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Calculator{COLOR 0} app can handle\ncalculations up to ten digits.\r</language>
+		<language name="English">{COLOR 2}Lommeregner{COLOR 0}-appen kan håndtere\nberegninger op til ti cifre.\r</language>
 	</row>
 	<row id="narc_0199_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Memo Pad{COLOR 0} app can be used for\njotting down quick notes.\r</language>
+		<language name="English">{COLOR 2}Memo Pad{COLOR 0}-appen kan bruges til\n at skrive hurtige noter ned.\r</language>
 	</row>
 	<row id="narc_0199_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Pedometer{COLOR 0} app counts the number\nof steps you’ve walked.\r</language>
+		<language name="English">{COLOR 2}Pedometer{COLOR 0}-appen tæller antallet\naf skridt, du har gået.\r</language>
 	</row>
 	<row id="narc_0199_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Pokémon List{COLOR 0} app lets you\ncheck on the status of your team.\r</language>
+		<language name="English">{COLOR 2}Pokémon List{COLOR 0}-appen lader dig\ntjekke status for dit hold.\r</language>
 	</row>
 	<row id="narc_0199_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Friendship Checker{COLOR 0} app identifies\nthe Pokémon that like you.</language>
+		<language name="English">{COLOR 2}Friendship Checker{COLOR 0}-appen identificerer\nden Pokémon, der kan lide dig.</language>
 	</row>
 	<row id="narc_0199_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Dowsing Machine{COLOR 0} app locates\nunseeable items.\r</language>
+		<language name="English">{COLOR 2}Dowsing Machine{COLOR 0}-appen lokaliserer\nusynlige elementer.\r</language>
 	</row>
 	<row id="narc_0199_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Berry Searcher{COLOR 0} app indicates\nthe locations of ripe Berries.</language>
+		<language name="English">{COLOR 2}Berry Searcher{COLOR 0}-appen angiver\nplaceringerne af modne bær.</language>
 	</row>
 	<row id="narc_0199_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Day-Care Checker{COLOR 0} app shows\nthe Pokémon left with the Day Care.</language>
+		<language name="English">{COLOR 2}Day-Care Checker{COLOR 0}-appen viser\nden Pokémon, der er tilbage med dagplejen.</language>
 	</row>
 	<row id="narc_0199_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Pokémon History{COLOR 0} app shows\nthe most recently obtained Pokémon.</language>
+		<language name="English">{COLOR 2}Pokémon History{COLOR 0}-appen viser\nden senest opnåede Pokémon.</language>
 	</row>
 	<row id="narc_0199_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Counter{COLOR 0} app can be used\nto count up to 9,999.</language>
+		<language name="English">{COLOR 2}Counter{COLOR 0}-appen kan bruges\ntil at tælle op til 9.999.</language>
 	</row>
 	<row id="narc_0199_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Analog Watch{COLOR 0} app displays\nthe current time.</language>
+		<language name="English">{COLOR 2}Analog Watch{COLOR 0}-appen viser\nden aktuelle tid.</language>
 	</row>
 	<row id="narc_0199_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Marking Map{COLOR 0} app allows the\nplacement of markers.\r</language>
+		<language name="English">Appen {COLOR 2}Marking Map{COLOR 0} tillader\nplacering af markører.\r</language>
 	</row>
 	<row id="narc_0199_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Link Searcher{COLOR 0} app determines\nthe availability of wireless hot spots.\r</language>
+		<language name="English">{COLOR 2}Link Searcher{COLOR 0}-appen bestemmer\ntilgængeligheden af ​​trådløse hotspots.\r</language>
 	</row>
 	<row id="narc_0199_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Coin Toss{COLOR 0} app can be used\nto make fair decisions.</language>
+		<language name="English">{COLOR 2}Coin Toss{COLOR 0}-appen kan bruges\ntil at træffe retfærdige beslutninger.</language>
 	</row>
 	<row id="narc_0199_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Move Tester{COLOR 0} app is used to check\nhow moves match up.\r</language>
+		<language name="English">{COLOR 2}Move Tester{COLOR 0}-appen bruges til at kontrollere\nhvordan bevægelser matcher.\r</language>
 	</row>
 	<row id="narc_0199_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Calendar{COLOR 0} app is a monthly\ncalendar with date reminders.</language>
+		<language name="English">{COLOR 2}Calendar{COLOR 0}-appen er en månedlig\nkalender med datopåmindelser.</language>
 	</row>
 	<row id="narc_0199_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Dot Artist{COLOR 0} app gives players\nfree reign to their creativity.</language>
+		<language name="English">{COLOR 2}Dot Artist{COLOR 0}-appen giver spillere\n frit styre til deres kreativitet.</language>
 	</row>
 	<row id="narc_0199_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Roulette{COLOR 0} app can be customized\nto make an original roulette.</language>
+		<language name="English">{COLOR 2}Roulette{COLOR 0}-appen kan tilpasses\ntil at lave en original roulette.</language>
 	</row>
 	<row id="narc_0199_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Trainer Counter{COLOR 0} app tracks\nthe Pokémon Radar’s rankings.\r</language>
+		<language name="English">{COLOR 2}Trainer Counter{COLOR 0}-appen sporer\nPokémon Radars placeringer.\r</language>
 	</row>
 	<row id="narc_0199_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Kitchen Timer{COLOR 0} app is a 99-minute\ntimer.</language>
+		<language name="English">{COLOR 2}Køkkentimeren{COLOR 0}-appen er en 99-minutters\ntimer.</language>
 	</row>
 	<row id="narc_0199_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Color Changer{COLOR 0} app can change\nthe Pokétch display color.</language>
+		<language name="English">{COLOR 2}Color Changer{COLOR 0}-appen kan ændre\nPokétch-skærmfarven.</language>
 	</row>
 	<row id="narc_0199_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Matchup Checker{COLOR 0} app shows the\naffinity of Pokémon to each other.\r</language>
+		<language name="English">{COLOR 2}Matchup Checker{COLOR 0}-appen viser Pokémons\n-tilhørsforhold til hinanden.\r</language>
 	</row>
 	<row id="narc_0199_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Stopwatch{COLOR 0} app keeps precise\ntime.\r</language>
+		<language name="English">{COLOR 2}Stopur{COLOR 0}-appen holder præcis\ntiden.\r</language>
 	</row>
 	<row id="narc_0199_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {COLOR 2}Alarm Clock{COLOR 0} app operates\non a 24-hour system.\r</language>
+		<language name="English">{COLOR 2}Vækkeur{COLOR 0}-appen fungerer\ikke et 24-timers system.\r</language>
 	</row>
 	<row id="narc_0199_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Obtained {STRVAR_1 25, 0}.</language>
+		<language name="English">Opnået {STRVAR_1 25, 0}.</language>
 	</row>
 	<row id="narc_0199_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 25, 0} was sent to\nthe underground PC.</language>
+		<language name="English">{STRVAR_1 25, 0} blev sendt til\nden underjordiske pc.</language>
 	</row>
 	<row id="narc_0199_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“When the universe was created,\nits shards became this Plate.”\r</language>
+		<language name="English">Der er tekst indgraveret på bagsiden\naf den opnåede plade...\r"Da universet blev skabt, blev dens skår til denne plade."\r</language>
 	</row>
 	<row id="narc_0199_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“The power of defeated giants\ninfuses this Plate.”\r</language>
+		<language name="English">Der er tekst indgraveret på bagsiden\naf den opnåede plade...\r"Kraften fra besejrede giganter\ninfuserer denne plade."\r</language>
 	</row>
 	<row id="narc_0199_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“Two beings of time and space set\nfree from the Original One.”\r</language>
+		<language name="English">Der er tekst indgraveret på bagsiden\naf den opnåede plade...\r"To væsener af tid og rum er frigjort fra den oprindelige."\r</language>
 	</row>
 	<row id="narc_0199_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“Three beings were born to bind\ntime and space.”\r</language>
+		<language name="English">Der er tekst indgraveret på bagsiden\naf den opnåede plade...\r"Tre væsener blev født til at binde\ntid og rum."\r</language>
 	</row>
 	<row id="narc_0199_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“Two make matter, and three make\nspirit, shaping the world.”\r</language>
+		<language name="English">Der er tekst indgraveret på bagsiden\naf den opnåede plade...\r"To skaber materie og tre skaber\nsånd, der former verden."\r</language>
 	</row>
 	<row id="narc_0199_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“The Original One breathed alone\nbefore the universe came.”\r</language>
+		<language name="English">Der er tekst indgraveret på bagsiden\naf den opnåede plade...\r"Den originale åndede alene\nfør universet kom."\r</language>
 	</row>
 	<row id="narc_0199_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“The powers of Plates are shared\namong Pokémon.”\r</language>
+		<language name="English">Der er tekst indgraveret på bagsiden\naf den opnåede plade...\r"Pladernes kræfter er delt\namong Pokémon."\r</language>
 	</row>
 	<row id="narc_0199_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is text engraved in the back\nof the obtained Plate...\r“The rightful bearer of a Plate\ndraws from the Plate it holds.”\r</language>
+		<language name="English">Der er tekst indgraveret på bagsiden\naf den opnåede plade...\r"Den retmæssige bærer af en plade\ntegner fra den plade, den holder."\r</language>
 	</row>
 	<row id="narc_0199_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ball Capsules can’t be used because\nyou don’t have any Seals.\r</language>
+		<language name="English">Kuglekapsler kan ikke bruges, fordi\du ikke har nogen segl.\r</language>
 	</row>
 	<row id="narc_0199_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving the game again...\nDon’t turn off the power.</language>
+		<language name="English">Gemmer spillet igen...\nSluk ikke for strømmen.</language>
 	</row>
 	<row id="narc_0199_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good morning!\nWelcome to the Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your Pokémon?</language>
+		<language name="English">Godmorgen!\nVelkommen til Pokémon Center.\rVi genopretter din trætte Pokémon\ntil fuld sundhed.\rVil du hvile din Pokémon?</language>
 	</row>
 	<row id="narc_0199_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, and welcome to\nthe Pokémon Center.\rWe restore your tired Pokémon\nto full health.\rWould you like to rest your Pokémon?</language>
+		<language name="English">Hej og velkommen til\nPokémon Center.\rVi genopretter din trætte Pokémon\ntil fuld sundhed.\rVil du hvile din Pokémon?</language>
 	</row>
 	<row id="narc_0199_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}’s Azure Flute is making\na sound!\rWould you like to blow into the\nAzure Flute?</language>
+		<language name="English">{STRVAR_1 3, 0}s Azure Flute laver\na lyd!\rVil du blæse ind i\nAzure Flute?</language>
 	</row>
 	<row id="narc_0199_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} blew the Azure Flute.\r</language>
+		<language name="English">{STRVAR_1 3, 0} blæste i Azure Flute.\r</language>
 	</row>
 	<row id="narc_0199_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A glowing stairway appeared!</language>
+		<language name="English">En glødende trappe dukkede op!</language>
 	</row>
 	<row id="narc_0199_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Azure Flute echoed hollowly...\rIt appears to be meaningless using\nthe Azure Flute here...</language>
+		<language name="English">Azure-fløjten ekkoede hult...\rDet ser ud til at være meningsløst at bruge\nAzure-fløjten her...</language>
 	</row>
 	<row id="narc_0199_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} put the {STRVAR_1 8, 1}\nin the {COLOR 2}{STRVAR_1 27, 2}{COLOR 0} Pocket.\r</language>
+		<language name="English">{STRVAR_1 3, 0} anbring {STRVAR_1 8, 1}\ni lommen {COLOR 2}{STRVAR_1 27, 2}{COLOR 0}.\r</language>
 	</row>
 	<row id="narc_0199_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} put away the\n{STRVAR_1 31, 1} in the Fashion Case.\r</language>
+		<language name="English">{STRVAR_1 3, 0} læg\n{STRVAR_1 31, 1} væk i Fashion Case.\r</language>
 	</row>
 	<row id="narc_0199_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 25, 0} was sent to\nthe underground PC.\r</language>
+		<language name="English">{STRVAR_1 25, 0} blev sendt til\nden underjordiske pc.\r</language>
 	</row>
 </body>

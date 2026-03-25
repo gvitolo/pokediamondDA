@@ -1,35 +1,35 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0093_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You need a Bicycle to go out on\nCycling Road!</language>
+		<language name="English">Du har brug for en cykel til at gå ud på\nCykling Road!</language>
 	</row>
 	<row id="narc_0093_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You need a Bicycle to go out on\nCycling Road!\r</language>
+		<language name="English">Du har brug for en cykel til at gå ud på\nCykling Road!\r</language>
 	</row>
 	<row id="narc_0093_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Learn how to shift gears, and you’ll\nbe able to ride anywhere.</language>
+		<language name="English">Lær at skifte gear, og du vil\nvære i stand til at ride overalt.</language>
 	</row>
 	<row id="narc_0093_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}, long time, no see!\rOh? You look puzzled.\nYou’re wondering who I am.\rI’m Professor Rowan’s assistant and\n{STRVAR_1 3, 1}’s father.\rI’ve come a long way to help you on\nyour adventure at the professor’s\fbehest.\r{STRVAR_1 3, 0}, let me ask you,\nhow many Pokémon have you met?\r</language>
+		<language name="English">{STRVAR_1 3, 0}, lang tid, ingen se!\rOh? Du ser forbløffet.\nDu undrer dig over, hvem jeg er.\rI~m professor Rowan assistent og\n{STRVAR_1 3, 1}!\rI!ve komme en lang vej til at hjælpe dig på\nyour eventyr på professor \fbehest.\rZZZZ{STRVAR_1 3, 0}, lad mig spørge dig,\n hvor mange Pokémon har du mødt?\r</language>
 	</row>
 	<row id="narc_0093_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}, long time, no see!\rOh? You look puzzled.\nYou’re wondering who I am.\rI’m Professor Rowan’s assistant and\n{STRVAR_1 3, 1}’s father.\rI’ve come a long way to help you on\nyour adventure at the professor’s\fbehest.\r{STRVAR_1 3, 0}, let me ask you,\nhow many Pokémon have you met?\r</language>
+		<language name="English">{STRVAR_1 3, 0}, lang tid, ingen se!\rOh? Du ser forbløffet.\nDu undrer dig over, hvem jeg er.\rI~m professor Rowan assistent og\n{STRVAR_1 3, 1}!\rI!ve komme en lang vej til at hjælpe dig på\nyour eventyr på professor \fbehest.\rZZZZ{STRVAR_1 3, 0}, lad mig spørge dig,\n hvor mange Pokémon har du mødt?\r</language>
 	</row>
 	<row id="narc_0093_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, my!\nYou’ve met {STRVAR_1 52, 1} Pokémon!\rWonderful! Yes, bravo!\nProfessor Rowan should be delighted!\rHere is something for you!\r</language>
+		<language name="English">Du godeste!\nDu har mødt {STRVAR_1 52, 1} Pokémon!\rVidunderligt! Ja, bravo!\nProfessor Rowan burde være glad!\rHer er noget til dig!\r</language>
 	</row>
 	<row id="narc_0093_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon holding an Exp. Share\nwill be given some of the Exp. Points\ffrom battle.\rIt will get Exp. Points even if it\ndidn’t actually battle.\rI would say an Exp. Share is quite\nuseful for raising weak Pokémon.\rAlso, a Pokémon you get in a trade\nmay disobey you if it is too high\fin level.\rDon’t worry, though. It will obey if\nyou have enough Gym Badges.</language>
+		<language name="English">En Pokémon med en Exp.\nvil blive givet nogle af Exp. Points\ffra kamp.\rDet får Exp. Punkter, selv om det\nHan kæmpede ikke.\rJeg vil sige en Exp. Del er helt\nnyttigt til at øge svag Pokémon.\rOgså en Pokémon du får i en handel\nhvis det er for højt\fI niveau.\rMen bare rolig. Det vil adlyde hvis\nDu har nok Gym Badges.</language>
 	</row>
 	<row id="narc_0093_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve met only {STRVAR_1 52, 1} Pokémon?\rHmm...\nYou’ve got to find at least 35.\rIf you can’t, it will be tough to\ncomplete the Sinnoh Pokédex.</language>
+		<language name="English">Har du kun mødt {STRVAR_1 52, 1} Pokémon?\rHmm...\nDu skal finde mindst 35.\rHvis du ikke kan, vil det være svært at\nfuldføre Sinnoh Pokédex.</language>
 	</row>
 </body>

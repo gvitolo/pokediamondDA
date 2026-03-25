@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="narc_0304_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tamada Menu</language>
+		<language name="English">Tamada menu</language>
 	</row>
 	<row id="narc_0304_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,23 +10,23 @@
 	</row>
 	<row id="narc_0304_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Berries</language>
+		<language name="English">Bær</language>
 	</row>
 	<row id="narc_0304_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pail</language>
+		<language name="English">Spad</language>
 	</row>
 	<row id="narc_0304_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Box save</language>
+		<language name="English">Boks gem</language>
 	</row>
 	<row id="narc_0304_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Progress save</language>
+		<language name="English">Gem fremskridt</language>
 	</row>
 	<row id="narc_0304_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Outer save</language>
+		<language name="English">Udvendig redning</language>
 	</row>
 	<row id="narc_0304_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -74,15 +74,15 @@
 	</row>
 	<row id="narc_0304_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TV7</language>
+		<language name="English">moms</language>
 	</row>
 	<row id="narc_0304_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TV8</language>
+		<language name="English">TV</language>
 	</row>
 	<row id="narc_0304_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Park Data1</language>
+		<language name="English">Poke Park-data 1</language>
 	</row>
 	<row id="narc_0304_00021" index="21">
 		<attribute name="window_context_name">used</attribute>

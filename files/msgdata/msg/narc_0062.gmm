@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0062_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m going to become better friends\nwith this person I know, so I can\fregister her in my Pal Pad.\rOr, am I supposed to register people\nin my Pal Pad, and then become\ffriends with them?</language>
+		<language name="English">Jeg bliver bedre venner.\nmed denne person jeg kender, så jeg kan\fRegistrer hende i min Pal Pad.\rEller skal jeg registrere folk?\ni min Pal Pad, og derefter blive\fVenner med dem?</language>
 	</row>
 </body>

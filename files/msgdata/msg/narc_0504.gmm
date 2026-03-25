@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0504_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you hear?\rThe Pokémon Professor returned\nto the next town over.\rThey say he was gone for four long\nyears.\rI wonder if he found some amazing\nPokémon while he was gone?</language>
+		<language name="English">Hørte du?\rPokémon-professoren vendte tilbage\ntil næste by.\rDe siger, at han var væk i fire længe\når.\rGad vide om han fandt nogle fantastiske\nPokémon mens han var væk?</language>
 	</row>
 	<row id="narc_0504_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,6 +14,6 @@
 	</row>
 	<row id="narc_0504_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen, {STRVAR_1 3, 0}.\rDo you think I can be friends with\nPokémon like you are?</language>
+		<language name="English">Hør, hør, {STRVAR_1 3, 0}.\rTror du, jeg kan være venner med\nPokémon som du er?</language>
 	</row>
 </body>

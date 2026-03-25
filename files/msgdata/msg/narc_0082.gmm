@@ -1,48 +1,48 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0082_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0082_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When a Pokémon faints, it just means\nit doesn’t have the power to battle.\rBut it can still use hidden moves\noutside of battle!</language>
+		<language name="English">Når en Pokémon falmer, betyder det bare\nDet har ikke magt til at kæmpe.\rMen det kan stadig bruge skjulte bevægelser\nudenfor kampen!</language>
 	</row>
 	<row id="narc_0082_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Galactic took my Pokémon away.\nThey took other people’s, too.\rSomething should be done, but Team\nGalactic creeps everyone out...\rWhat are they doing to my Pokémon?</language>
+		<language name="English">Team Galactic tog min Pokémon væk.\nDe tog også andres.\rDer bør gøres noget, men Team\nGalaktiske kryb alle ud...\rHvad gør de ved min Pokémon?</language>
 	</row>
 	<row id="narc_0082_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got my Pokémon back!\rI’m so happy, I feel like riding my Bike\ndown Cycling Road together with it!</language>
+		<language name="English">Jeg fik min Pokémon tilbage!\rJeg er så glad, jeg har lyst til at ride på min cykel\nNed ad Cykling Road sammen med det!</language>
 	</row>
 	<row id="narc_0082_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUNEARY: Bunbun!</language>
+		<language name="English">Bunbun!</language>
 	</row>
 	<row id="narc_0082_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, you cute little Trainer!\nWhat kinds of Pokémon are with you?\rThis Pokétch app will show how\nclose your Pokémon feel to you.\r</language>
+		<language name="English">Hej, din død lille træner!\nHvilken slagger Pokémon er med dig?\rDenne Pokétch app vil vise, hvordan\nLuk din Pokémon føler for dig.\r</language>
 	</row>
 	<row id="narc_0082_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you spend enough time with them,\nall Pokémon will open up to you.</language>
+		<language name="English">Hvis du tilbringer nok tid med dem,\nAlle Pokémon vil åbne sig for dig.</language>
 	</row>
 	<row id="narc_0082_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, you cute little Trainer!\nWhat kinds of Pokémon are with you?\rOh, your {STRVAR_1 0, 0}...\r</language>
+		<language name="English">Hej, din søde lille træner!\nHvilken slags Pokémon er med dig?\rÅh, din {STRVAR_1 0, 0}...\r</language>
 	</row>
 	<row id="narc_0082_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems to like you.\nIt must be happy being with you.</language>
+		<language name="English">Det lader til at kunne lide dig.\nDet må være godt at være sammen med dig.</language>
 	</row>
 	<row id="narc_0082_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s becoming comfortable around\nyou, I think.</language>
+		<language name="English">Det er ved at blive behageligt.\nDig, tror jeg.</language>
 	</row>
 	<row id="narc_0082_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\nIt needs to get used to you more.</language>
+		<language name="English">Hmm...\nDen skal kun bruges til dig.</language>
 	</row>
 </body>

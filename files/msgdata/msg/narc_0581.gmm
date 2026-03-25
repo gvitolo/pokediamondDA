@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0581_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -58,37 +58,37 @@
 	</row>
 	<row id="narc_0581_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
 	</row>
 	<row id="narc_0581_00015" index="15">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
 	</row>
 	<row id="narc_0581_00016" index="16">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
 	</row>
 	<row id="narc_0581_00017" index="17">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
 	</row>
 	<row id="narc_0581_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
 	</row>
 	<row id="narc_0581_00019" index="19">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
 	</row>
 	<row id="narc_0581_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Normal Flag</language>
+		<language name="English">Normalt flag</language>
 	</row>
 	<row id="narc_0581_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -176,7 +176,7 @@
 	</row>
 	<row id="narc_0581_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s something written here...\rNumber of times my own Flag was\ntaken from the Secret Base: {STRVAR_1 55, 6}</language>
+		<language name="English">Der er skrevet noget her...\rAntal gange mit eget flag var\ntaget fra den hemmelige base: {STRVAR_1 55, 6}</language>
 	</row>
 	<row id="narc_0581_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -184,10 +184,10 @@
 	</row>
 	<row id="narc_0581_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s something written here...\rNumber of times the Secret Base\nwas moved: {STRVAR_1 55, 6}</language>
+		<language name="English">Der er skrevet noget her...\rAntal gange den hemmelige base\nblev flyttet: {STRVAR_1 55, 6}</language>
 	</row>
 	<row id="narc_0581_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s something written here...\rNumber of captured Flags registered\non the PC: {STRVAR_1 55, 6}</language>
+		<language name="English">Der er skrevet noget her...\rAntal registrerede fangede flag\npå pc'en: {STRVAR_1 55, 6}</language>
 	</row>
 </body>

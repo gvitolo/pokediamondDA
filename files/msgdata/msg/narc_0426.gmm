@@ -1,49 +1,49 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0426_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: Hi, {STRVAR_1 3, 0}!\nHow’s your Pokédex coming along?\rMe? I’m somewhere between fantastic\nand, uh, hopeless...\rBut this isn’t about me!\nI’ve got something nice for you.\r{STRVAR_1 3, 0}, choose which hand\nyou want.</language>
+		<language name="English">Dawn: Hej, {STRVAR_1 3, 0}!\nHvordan går det med din Pokédex?\rMig? Jeg er et sted imellem fantastisk\nog håbløst...\rMen det her handler ikke om mig!\nJeg har noget godt til dig.\r{STRVAR_1 3, 0}, vælg hvilken hånd\ndu ønsker.</language>
 	</row>
 	<row id="narc_0426_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: I see...\nYou want the Vs. Seeker.\rI’m impressed, {STRVAR_1 3, 0}.\nYou know what’s important.\r</language>
+		<language name="English">Dawn: Jeg kan se...\nDu vil have Vs. Søger.\rjeg er imponeret, {STRVAR_1 3, 0}.\nDu ved, hvad der er vigtigt.\r</language>
 	</row>
 	<row id="narc_0426_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: Using that Vs. Seeker, you can\nfind Trainers who want a rematch\fwith you.\rOh, {STRVAR_1 3, 0}, do you also have\na Pokétch?\rYup, you do.\nYou can have this too, then.\rYou deserve it for all your hard\nwork, {STRVAR_1 3, 0}.\r</language>
+		<language name="English">Dawn: Bruger det vs. Søger, du kan\nfinde trænere, der ønsker en omkamp\fmed dig.\rÅh, {STRVAR_1 3, 0}, har du også\nen Pokétch?\rJa, det gør du.\nDet kan du da også have.\rDu fortjener det for alt det hårde\narbejde, {STRVAR_1 3, 0}.\r</language>
 	</row>
 	<row id="narc_0426_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: The {STRVAR_1 24, 1} is\nsomething you should touch often.\rIt will tell you if there is an item\non the ground that you can’t see.\rIt will be especially useful inside\ndark caves.\rOK, let’s keep working on our\nPokédexes.\rProfessor Rowan is counting on us!\r</language>
+		<language name="English">Dawn: Den {STRVAR_1 24, 1} er\nnoget du bør røre ved ofte.\rDet vil fortælle dig, om der er en vare\npå jorden, som du ikke kan se.\rDet vil være særligt nyttigt indeni\nmørke huler.\rOK, lad os fortsætte med at arbejde på vores\nPokédex.\rProfessor Rowan regner med os!\r</language>
 	</row>
 	<row id="narc_0426_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: Hey, {STRVAR_1 3, 0}!\nHow’s your Pokédex coming along?\rMe? I’m always doing great!\n...I wish...\rBut that’s not important.\rLately, I’ve been experimenting with\na couple of neat tools.\r{STRVAR_1 3, 0}, I’ll share with you.\nChoose a hand!</language>
+		<language name="English">Lucas: Hej, {STRVAR_1 3, 0}!\nHvordan går det med din Pokédex?\rMig? Jeg har det altid godt!\n...jeg ville ønske...\rMen det er ikke vigtigt.\rPå det seneste har jeg eksperimenteret med\net par pæne værktøjer.\r{STRVAR_1 3, 0}, jeg deler med dig.\nVælg en hånd!</language>
 	</row>
 	<row id="narc_0426_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: Oh yeah.\nYou want the Vs. Seeker.\rYup, {STRVAR_1 3, 0}, you know what’s\nimportant.\r</language>
+		<language name="English">Lucas: Åh ja.\nDu vil have Vs. Søger.\rJa, {STRVAR_1 3, 0}, du ved hvad der er\nvigtig.\r</language>
 	</row>
 	<row id="narc_0426_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: Using that Vs. Seeker, you can\nfind Trainers who want to battle with\fyou again.\r{STRVAR_1 3, 0}, what about a Pokétch?\nDo you have one?\rYup, you do.\nYou can have this too, then.\rYou deserve it for all of your\neffort, {STRVAR_1 3, 0}.\r</language>
+		<language name="English">Lucas: Bruger den vs. Søger, du kan\nfind trænere, der vil kæmpe med\fdig igen.\r{STRVAR_1 3, 0}, hvad med en Pokétch?\nHar du en?\rJa, det gør du.\nDet kan du da også have.\rDu fortjener det for alle dine\nforsøg, {STRVAR_1 3, 0}.\r</language>
 	</row>
 	<row id="narc_0426_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: The {STRVAR_1 24, 1} is...\nJust try touching it.\rIt’ll alert you if there is an\nunseeable item on the ground.\rIt’s especially handy for finding\nthings in dark caves.\rOK, keep working on your Pokédex.\nProfessor Rowan is counting on us!\r</language>
+		<language name="English">Lucas: Den {STRVAR_1 24, 1} er...\nPrøv bare at røre ved den.\rDet vil advare dig, hvis der er en\nusynlig genstand på jorden.\rDet er især praktisk at finde\nting i mørke huler.\rOK, fortsæt med at arbejde på din Pokédex.\nProfessor Rowan regner med os!\r</language>
 	</row>
 	<row id="narc_0426_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0426_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That slope’s too slippery.\nYou’ll need a Bike to get up.\rYou don’t have a Bicycle?\nThere’s a Cycle Shop in Eterna City.</language>
+		<language name="English">Den skråning er for glat.\nDu skal bruge en cykel for at komme op.\rHar du ikke en cykel?\nDer er en cykelbutik i Eterna City.</language>
 	</row>
 	<row id="narc_0426_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you change gears on your Bicycle,\nyou can shoot right up that slope.</language>
+		<language name="English">Hvis du skifter gear på din cykel,\ndu kan skyde lige op ad den skråning.</language>
 	</row>
 	<row id="narc_0426_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -55,6 +55,6 @@
 	</row>
 	<row id="narc_0426_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rPokémon may become immobilized if\nthey are asleep or paralyzed.\rIf it happens to your Pokémon,\nit could be disastrous.\rIf your opponent’s Pokémon can’t\nmove, it’s a big opportunity!</language>
+		<language name="English">Træner tips\rPokémon kan blive immobiliseret, hvis\nde sover eller er lammet.\rHvis det sker med din Pokémon,\ndet kan være katastrofalt.\rHvis din modstanders Pokémon ikke kan\nflyt, det er en stor mulighed!</language>
 	</row>
 </body>

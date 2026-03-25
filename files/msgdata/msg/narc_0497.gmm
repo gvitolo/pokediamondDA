@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0497_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -6,6 +6,6 @@
 	</row>
 	<row id="narc_0497_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn</language>
+		<language name="English">Daggry</language>
 	</row>
 </body>

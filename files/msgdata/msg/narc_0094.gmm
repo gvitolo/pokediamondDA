@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0094_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Herb Shop, home of\neffective yet inexpensive medicine.</language>
+		<language name="English">Velkommen til Herb Shop, hjem for\neffektiv, men billig medicin.</language>
 	</row>
 	<row id="narc_0094_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Herbal meds work most impressively.\nBut your Pokémon won’t like them.\fThey’re horribly bitter and smelly!</language>
+		<language name="English">Urtemedicin virker meget imponerende.\nMen din Pokémon vil ikke kunne lide dem.\fDe er frygtelig bitre og lugter!</language>
 	</row>
 	<row id="narc_0094_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Someone ought to invent herbal\nmedicine that isn’t bitter.\rThat would be a medical breakthrough!</language>
+		<language name="English">Nogen burde opfinde urte\nMedicin, der ikke er bitter.\rDet ville være et medicinsk gennembrud!</language>
 	</row>
 </body>

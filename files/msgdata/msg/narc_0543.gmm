@@ -2,75 +2,75 @@
 <body language="English">
 	<row id="narc_0543_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Sniff...\nI do apologize.\rThis is an exclusive establishment\nopen only to a select few.\rYou might consider it a special stage\nfor the cream of the crop.\rIf you wish to enter, I suggest you\nstart by collecting lots of Ribbons.\r</language>
+		<language name="English">...Snif...\nJeg undskylder.\rDette er et eksklusivt etablissement\nåbent kun for nogle få udvalgte.\rDu kan betragte det som en speciel scene\nfor fløden af ​​afgrøden.\rHvis du ønsker at deltage, foreslår jeg, at du\nstarter med at samle masser af bånd.\r</language>
 	</row>
 	<row id="narc_0543_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Sniff...\nI do apologize.\rThis is an exclusive establishment\nopen only to a select few.\rYou might consider it a special stage\nfor the cream of the crop.\rIf you wish to enter, I suggest you\nstart by collecting lots of Ribbons...\r...Wait! Oh, my gosh!\nLook at all your Ribbons!\rI truly apologize for my rudeness.\nIt’s so out of character for me!\rIf you would be so kind, we would\nbe honored to invite you...\rOh, no, no! You really must join us\nas a full-fledged member!\r{STRVAR_1 3, 0} was made a member\nwithout any say in the decision!\r</language>
+		<language name="English">...Snif...\nJeg undskylder.\rDette er et eksklusivt etablissement\nåbent kun for nogle få udvalgte.\rDu kan betragte det som en speciel scene\nfor fløden af ​​grøden.\rHvis du ønsker at deltage, foreslår jeg, at du\nstarter med at samle en masse bånd...\r...Vent! Åh, gud!\nSe på alle dine bånd!\rJeg undskylder virkelig min uhøflighed.\nDet er så ude af karakter for mig!\rHvis du vil være så venlig, ville vi\nvære beæret over at invitere dig...\rÅh, nej, nej! Du skal virkelig slutte dig til os\nasom et fuldgyldigt medlem!\r{STRVAR_1 3, 0} blev gjort til medlem\nuden at sige noget om beslutningen!\r</language>
 	</row>
 	<row id="narc_0543_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome! We’ve looked forward to\nseeing you, {STRVAR_1 3, 0}.\rI do hope you will enjoy the luxurious\natmosphere and services that only\fwe can provide.</language>
+		<language name="English">Velkomst! Vi har glædet os til\n at se dig, {STRVAR_1 3, 0}.\rJeg håber, du vil nyde den luksuriøse\natmosfære og tjenester, som kun\fvi kan levere.</language>
 	</row>
 	<row id="narc_0543_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome.\rMay I interest you in top-grade\nRibbons we had specially imported?\rThese Ribbons are available only\nthrough us.\r{STRVAR_1 3, 0}, would you like one\nfor a Pokémon, perhaps?\rRight now, I can offer you\nthe Gorgeous Ribbon.\rFor a mere $10,000, you can be the\nproud owner of one.</language>
+		<language name="English">Velkommen.\rMå jeg interessere dig for førsteklasses\nBånd, vi har specielt importeret?\rDisse bånd er kun tilgængelige\ngennem os.\r{STRVAR_1 3, 0}, vil du måske have en\ntil en Pokémon?\rLige nu kan jeg tilbyde dig\ndet Gorgeous Ribbon, du kan være en ZDA0-ejer.\nfor en proud.</language>
 	</row>
 	<row id="narc_0543_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome.\rMay I interest you in top-grade\nRibbons we had specially imported?\rThese Ribbons are available only\nthrough us.\r{STRVAR_1 3, 0}, would you like one\nfor a Pokémon, perhaps?\rRight now, I can offer you\nthe Royal Ribbon.\rFor a mere $100,000, you can be\nthe proud owner of one.</language>
+		<language name="English">Velkommen.\rMå jeg interessere dig for topkvalitets\nbånd, vi har specielt importeret?\rDisse bånd er kun tilgængelige\ngennem os.\r{STRVAR_1 3, 0}, vil du måske have en\ntil en Pokémon?\rLige nu kan jeg tilbyde dig\nden Royal Ribbon.\nDen Z kan være en stolt ejer af.</language>
 	</row>
 	<row id="narc_0543_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome.\rMay I interest you in top-grade\nRibbons we had specially imported?\rThese Ribbons are available only\nthrough us.\r{STRVAR_1 3, 0}, would you like one\nfor a Pokémon, perhaps?\rRight now, I can offer you\nthe Gorgeous Royal Ribbon.\rFor a mere $999,999, you can be\nthe proud owner of one.</language>
+		<language name="English">Velkommen.\rMå jeg interessere dig for førsteklasses\nBånd, vi har specielt importeret?\rDisse bånd er kun tilgængelige\ngennem os.\r{STRVAR_1 3, 0}, vil du måske have en\ntil en Pokémon?\rLige nu kan jeg tilbyde dig\nden Gorgeous Royal Ribbon kan du kun være en ZDA-ejer.\rZ.</language>
 	</row>
 	<row id="narc_0543_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome...\nOoh! That’s a Gorgeous Royal Ribbon!\r{STRVAR_1 3, 0}, your {STRVAR_1 0, 2}\ncertainly looks gorgeous and royal!</language>
+		<language name="English">Velkommen...\nÅh! Det er et smukt kongeligt bånd!\r{STRVAR_1 3, 0}, din {STRVAR_1 0, 2}\n ser bestemt smuk og kongelig ud!</language>
 	</row>
 	<row id="narc_0543_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} bought\na Gorgeous Ribbon.\r</language>
+		<language name="English">{STRVAR_1 3, 0} købte\na Smukt bånd.\r</language>
 	</row>
 	<row id="narc_0543_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} put the Gorgeous Ribbon\non {STRVAR_1 0, 2}.</language>
+		<language name="English">{STRVAR_1 3, 0} sæt det smukke bånd\non {STRVAR_1 0, 2}.</language>
 	</row>
 	<row id="narc_0543_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} bought\na Royal Ribbon.\r</language>
+		<language name="English">{STRVAR_1 3, 0} købt\na Royal Ribbon.\r</language>
 	</row>
 	<row id="narc_0543_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} put the Royal Ribbon\non {STRVAR_1 0, 2}.</language>
+		<language name="English">{STRVAR_1 3, 0} sæt Royal Ribbon\non {STRVAR_1 0, 2}.</language>
 	</row>
 	<row id="narc_0543_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} bought\na Gorgeous Royal Ribbon.\r</language>
+		<language name="English">{STRVAR_1 3, 0} købte\na Gorgeous Royal Ribbon.\r</language>
 	</row>
 	<row id="narc_0543_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} put the Gorgeous Royal\nRibbon on {STRVAR_1 0, 2}.</language>
+		<language name="English">{STRVAR_1 3, 0} sæt det Gorgeous Royal\nbånd på {STRVAR_1 0, 2}.</language>
 	</row>
 	<row id="narc_0543_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, please, {STRVAR_1 3, 0}.\rYou shouldn’t joke about not\nhaving money.</language>
+		<language name="English">Åh, tak, {STRVAR_1 3, 0}.\rDu skal ikke spøge med, at du ikke\nhar penge.</language>
 	</row>
 	<row id="narc_0543_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see.\nPlease do visit again.</language>
+		<language name="English">Jeg kan se.\n Besøg venligst igen.</language>
 	</row>
 	<row id="narc_0543_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just being in here is a sign of\nstatus, just so you know.</language>
+		<language name="English">Bare det at være her er et tegn på\nstatus, bare så du ved det.</language>
 	</row>
 	<row id="narc_0543_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wish men would pay more attention\nto the way they dress themselves...</language>
+		<language name="English">Jeg ville ønske, at mænd ville være mere opmærksomme\npå den måde, de selv klæder sig på...</language>
 	</row>
 	<row id="narc_0543_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A woman worthy of being seen with\nPokémon... That’s what I hope to be.</language>
+		<language name="English">En kvinde, der er værdig til at blive set med\nPokémon... Det er, hvad jeg håber at blive.</language>
 	</row>
 	<row id="narc_0543_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

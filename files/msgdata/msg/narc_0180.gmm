@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="narc_0180_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Have you been keeping well?\rThank you for Mt. Coronet.\nI’m truly grateful.\rTogether, you and your Pokémon\novercame all the challenges you\ffaced, however difficult.\rIt means that you’ve triumphed\nover any personal weaknesses, too.\rThe power you learned...\nI can feel it emanating from you.\rBut that’s enough talk.\nLet’s get on with why you’re here.\rAs the Pokémon League Champion,\nI accept your challenge!\r</language>
+		<language name="English">Cynthia: Har du holdt det godt?\rTak for Mt. Coronet.\nJeg er virkelig taknemmelig.\rSammen overvandt du og din Pokémon alle de udfordringer, I stod over for, uanset hvor svære de end var.\rDet betyder, at du har sejret\nover alle de personlige svagheder, som du har lært... der kommer fra dig.\rMen det er nok snak.\nLad os komme videre med, hvorfor du er her.\rSom Pokémon League-mester,\n accepterer jeg din udfordring!\r</language>
 	</row>
 	<row id="narc_0180_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: That was excellent.\nTruly, an outstanding battle.\rYou gave the support your Pokémon\nneeded to maximize their power.\rAnd you guided them with certainty\nto secure victory.\rYou have both passion and\ncalculating coolness.\rTogether, you and your Pokémon \ncan overcome any challenge\fthat may come your way.\rThose are the impressions I got\nfrom our battle.\rI’m glad I got to take part in the\ncrowning of Sinnoh’s new Champion!\r</language>
+		<language name="English">Cynthia: Det var fremragende.\nVirkelig, en enestående kamp.\rDu gav den støtte, som din Pokémon\n havde brug for for at maksimere deres kraft.\rOg du guidede dem med sikkerhed\nfor at sikre sejren.\rDu har både passion og\nkalkulerende coolness.\rSammen kan du og din Pokémon komme\n over din udfordring. måde.\rDet er de indtryk, jeg fik\naf vores kamp.\rJeg er glad for, at jeg måtte deltage i\nkrowingen af Sinnohs nye Champion!\r</language>
 	</row>
 	<row id="narc_0180_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come with me.\nWe’ll take the lift.\r</language>
+		<language name="English">Kom med mig.\nVi tager liften.\r</language>
 	</row>
 	<row id="narc_0180_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
@@ -44,6 +44,6 @@
 	</row>
 	<row id="narc_0180_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: One look at you tells\nme many things about you.\rTogether, you and your Pokémon\novercame all the challenges you\ffaced, however difficult.\rIt means that you’ve triumphed over\nany personal weaknesses, too.\rThe power you learned...\nI can feel it from you.\rThat’s enough talking.\nLet’s get on with why you’re here.\rI, Cynthia, accept your challenge as\nthe Pokémon League Champion!\rThere won’t be any letup from me!\r</language>
+		<language name="English">Cynthia: Et blik på dig fortæller\n mig mange ting om dig.\rSammen overvandt du og din Pokémon alle de udfordringer, du\f mødte, uanset hvor svære de end var.\rDet betyder, at du også har sejret over\nenhver personlige svaghed.\rDen kraft, du lærte af dig. taler.\nLad os komme videre med, hvorfor du er her.\rJeg, Cynthia, accepterer din udfordring som\nPokémon League-mester!\rDer vil ikke være nogen opbremsning fra mig!\r</language>
 	</row>
 </body>

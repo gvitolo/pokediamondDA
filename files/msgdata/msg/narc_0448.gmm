@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0448_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that right? You’re a traveler?\nYes, it’s good to see other places!\r</language>
+		<language name="English">Er det rigtigt? Er du rejsende?\nJa, det er godt at se andre steder!\r</language>
 	</row>
 	<row id="narc_0448_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know about Mt. Moon in\nthe Kanto region?\rCLEFAIRY dancing under the moon...\nIt’s something I must see in my life.</language>
+		<language name="English">Kender du til Mt. Moon i\nKanto-regionen?\rCLEFAIRY danser under månen...\nDet er noget, jeg skal se i mit liv.</language>
 	</row>
 	<row id="narc_0448_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard of the Tin Tower\nin the Johto region?\rThe rainbow-colored Pokémon...\nI must see that during my lifetime.</language>
+		<language name="English">Har du hørt om Tin Tower\ni Johto-regionen?\rDen regnbuefarvede Pokémon...\nDet må jeg se i mit liv.</language>
 	</row>
 	<row id="narc_0448_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know about the Space Center\nin the Hoenn region?\rA rocket launching into space...\nI must see that during my lifetime.</language>
+		<language name="English">Kender du til Space Center\ni Hoenn-regionen?\rEn raket skyder ud i rummet...\nDet må jeg se i mit liv.</language>
 	</row>
 	<row id="narc_0448_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard of the Whirl Islands\nin the Johto region?\rThe silver-colored Pokémon...\nI must see that during my lifetime.</language>
+		<language name="English">Har du hørt om Whirl Islands\ni Johto-regionen?\rDen sølvfarvede Pokémon...\nDet må jeg se i mit liv.</language>
 	</row>
 </body>

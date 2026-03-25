@@ -1,16 +1,16 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0417_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Hey! {STRVAR_1 3, 1}!\nTell me you got a little tougher!\rMe? Do you even need to ask?\nOf course I got tougher!\rCome on!\nLet’s battle it out!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Hej! {STRVAR_1 3, 1}!\nFortæl mig, at du er blevet lidt hårdere!\rMig? Behøver du overhovedet at spørge?\nSelvfølgelig blev jeg hårdere!\rKom nu!\nLad os kæmpe ud!\r</language>
 	</row>
 	<row id="narc_0417_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Waah!\nWhat do you mean I lost?!\rWell, that’s it!\nThat’s the last time I’ll ever lose!\rI’m going to be the world’s toughest\nTrainer, and you know it!\rThe first thing to do is take on\nthe Oreburgh City Pokémon Gym!\rI’m gonna toughen up for that,\ntotally!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Waah!\nHvad mener du, jeg tabte?!\rNå, det er det!\nDet er sidste gang, jeg nogensinde taber!\rJeg skal være verdens hårdeste\nTræner, og du ved det!\rDen første ting at gøre er at tage på\nOreburgh City Pokémon Gym!\rDet vil jeg skærpe mig for,\nhelt!\r</language>
 	</row>
 	<row id="narc_0417_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know?\rThe first Pokémon to appear in\na battle is the one at the top left\fof your team list.</language>
+		<language name="English">Vidste du det?\rDen første Pokémon, der dukkede op i\nen kamp er den øverst til venstre\fpå din holdliste.</language>
 	</row>
 	<row id="narc_0417_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -22,10 +22,10 @@
 	</row>
 	<row id="narc_0417_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips!\rIf a Pokémon is about to evolve,\nit can be instantly stopped.\rPress the B Button during evolution\nto startle the Pokémon into stopping.\rThat is how evolution can be\ncanceled.</language>
+		<language name="English">Træner tips!\rHvis en Pokémon er ved at udvikle sig,\ndet kan stoppes øjeblikkeligt.\rTryk på B-knappen under udvikling\nfor at skræmme Pokémon'en til at stoppe.\rSådan kan evolution være\nannulleret.</language>
 	</row>
 	<row id="narc_0417_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips!\rPokémon moves use energy called\nPower Points, or PP for short.\rIf the PP of moves runs low, head for\nany Pokémon Center.</language>
+		<language name="English">Træner tips!\rPokémon-bevægelser bruger energi kaldet\nPower Points eller PP for kort.\rHvis PP for træk løber lavt, skal du gå efter\nethvert Pokémon Center.</language>
 	</row>
 </body>

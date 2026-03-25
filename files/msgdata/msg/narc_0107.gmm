@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="narc_0107_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have something for your Pokémon\nto hold. Take this {STRVAR_1 8, 0}.\r</language>
+		<language name="English">Jeg har noget til din Pokémon at holde. Tag denne {STRVAR_1 8, 0}.\r</language>
 	</row>
 	<row id="narc_0107_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon that’s holding the\n{STRVAR_1 8, 0} will regain HP\fa little by inflicting damage.\rIt was given to me when I was on\nvacation, but I already had one.</language>
+		<language name="English">Pokémonen, der holder\n{STRVAR_1 8, 0}en, vil genvinde HP\f lidt ved at påføre skade.\rDen blev givet til mig, da jeg var på ferie, men jeg havde allerede en.</language>
 	</row>
 	<row id="narc_0107_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

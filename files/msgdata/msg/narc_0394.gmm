@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="narc_0394_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE</language>
+		<language name="English">ENKELT</language>
 	</row>
 	<row id="narc_0394_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE</language>
+		<language name="English">DOBBELT</language>
 	</row>
 	<row id="narc_0394_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIX BATTLE</language>
+		<language name="English">MIX KAMP</language>
 	</row>
 	<row id="narc_0394_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MULTI BATTLE</language>
+		<language name="English">MULTI KAMP</language>
 	</row>
 	<row id="narc_0394_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="narc_0394_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHAT</language>
+		<language name="English">SNAK</language>
 	</row>
 	<row id="narc_0394_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

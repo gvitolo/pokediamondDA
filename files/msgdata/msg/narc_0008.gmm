@@ -1,56 +1,56 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0008_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EDIT</language>
+		<language name="English">REDIGER</language>
 	</row>
 	<row id="narc_0008_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUIT</language>
+		<language name="English">AFSLUT</language>
 	</row>
 	<row id="narc_0008_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SET</language>
+		<language name="English">VÆLG</language>
 	</row>
 	<row id="narc_0008_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REMOVE</language>
+		<language name="English">FJERN</language>
 	</row>
 	<row id="narc_0008_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SHIFT</language>
+		<language name="English">SKIFT</language>
 	</row>
 	<row id="narc_0008_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONFIRM</language>
+		<language name="English">BEKRÆFT</language>
 	</row>
 	<row id="narc_0008_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULLER</language>
 	</row>
 	<row id="narc_0008_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose a capsule.</language>
+		<language name="English">Vælg en kapsel.</language>
 	</row>
 	<row id="narc_0008_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you like to do?</language>
+		<language name="English">Hvad vil du gøre?</language>
 	</row>
 	<row id="narc_0008_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The capsule was removed.</language>
+		<language name="English">Kapslen blev fjernet.</language>
 	</row>
 	<row id="narc_0008_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Switch with which capsule?</language>
+		<language name="English">Skift med hvilken kapsel?</language>
 	</row>
 	<row id="narc_0008_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The capsules were switched.</language>
+		<language name="English">Kapslerne blev byttet om.</language>
 	</row>
 	<row id="narc_0008_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Finished editing the capsule.</language>
+		<language name="English">Færdig med at redigere kapslen.</language>
 	</row>
 	<row id="narc_0008_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,14 +58,14 @@
 	</row>
 	<row id="narc_0008_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit without changing the capsule\ndesign?</language>
+		<language name="English">Afslut uden at ændre kapslen\ndesign?</language>
 	</row>
 	<row id="narc_0008_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no more room!</language>
+		<language name="English">Der er ikke mere plads!</language>
 	</row>
 	<row id="narc_0008_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are no Seals left.</language>
+		<language name="English">Der er ingen Seals tilbage.</language>
 	</row>
 </body>

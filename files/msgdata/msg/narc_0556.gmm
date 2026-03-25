@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0556_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fly to where?</language>
+		<language name="English">Flyve hvorhen?</language>
 	</row>
 	<row id="narc_0556_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="narc_0556_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small path through a lush, green,\nwooded area. The densely grown trees\ngive off a thick aroma.</language>
+		<language name="English">En lille sti gennem en frodig, grøn,\nskovområde. De tætvoksne træer\nafgive en tyk aroma.</language>
 	</row>
 	<row id="narc_0556_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="narc_0556_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once one gets through the tunnel,\nthe city of Oreburgh is just a stone’s\nthrow away.</language>
+		<language name="English">Når man kommer gennem tunnelen,\nbyen Oreburgh er bare en stens\nsmide væk.</language>
 	</row>
 	<row id="narc_0556_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="narc_0556_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ravaged Path was hewn through\na rocky outcropping. It is a shortcut\nthat leads straight to Floaroma Town.</language>
+		<language name="English">Den hærgede sti blev hugget igennem\net klippefremspring. Det er en genvej\nder fører direkte til Floaroma Town.</language>
 	</row>
 	<row id="narc_0556_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A wide, wooden walkway spans a large\npond. Fishermen idle their time away\ndangling lines from the walkway.</language>
+		<language name="English">En bred gangbro af træ spænder over en stor\ndam. Fiskere går på tomgang\ndinglende liner fra gangbroen.</language>
 	</row>
 	<row id="narc_0556_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,19 +42,19 @@
 	</row>
 	<row id="narc_0556_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Near the entrance of Eterna Forest\nis a cabin whose keepers offer rest\nto weary travelers that stop by.</language>
+		<language name="English">Nær indgangen til Eterna-skoven\ner en hytte, hvis brugere tilbyder hvile\ntil trætte rejsende, der kigger forbi.</language>
 	</row>
 	<row id="narc_0556_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smoothly paved in asphalt, the Cycling\nRoad is heavenly for bicycle lovers.</language>
+		<language name="English">Glat brolagt i asfalt, Cycling\nVejen er himmelsk for cykelelskere.</language>
 	</row>
 	<row id="narc_0556_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Below the Cycling Road, one can see\nthe entrance to Wayward Cave.</language>
+		<language name="English">Nedenfor Cykelvejen kan man se\nindgangen til Wayward Cave.</language>
 	</row>
 	<row id="narc_0556_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Located at the foot of Mt. Coronet,\nthis road is carved into the rugged,\nrocky terrain.</language>
+		<language name="English">Beliggende ved foden af ​​Mt. Coronet,\ndenne vej er hugget ind i det barske,\nstenet terræn.</language>
 	</row>
 	<row id="narc_0556_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="narc_0556_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path made by clearing an overgrown\ncanyon between mountains. It is always\nshrouded by a dense fog.</language>
+		<language name="English">En sti lavet ved at rydde en tilgroet\nkløft mellem bjerge. Det er det altid\nindhyllet af en tæt tåge.</language>
 	</row>
 	<row id="narc_0556_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="narc_0556_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This narrow route is lined with deep,\ntall grass that tickles the noses of\npeople straying off the path.</language>
+		<language name="English">Denne smalle rute er omkranset af dybe,\nhøjt græs, der kildrer i næsen af\nmennesker, der forvilder sig af stien.</language>
 	</row>
 	<row id="narc_0556_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -90,19 +90,19 @@
 	</row>
 	<row id="narc_0556_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A mountain path that tunnels through\nMt. Coronet, one of the tallest\nmountains in Sinnoh.</language>
+		<language name="English">En bjergsti, der tunneler igennem\nMt. Coronet, en af ​​de højeste\nbjerge i Sinnoh.</language>
 	</row>
 	<row id="narc_0556_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tall, sturdy wall surrounds an\nexpansive estate that takes up nearly\nhalf of the road space.</language>
+		<language name="English">En høj, robust mur omgiver en\nekspansiv ejendom, der fylder næsten\nhalvdelen af ​​vejarealet.</language>
 	</row>
 	<row id="narc_0556_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beyond the wall, one can see the\nstately Pokémon Mansion and the\nowner’s prized garden behind it.\n</language>
+		<language name="English">Ud over væggen kan man se\nstatelige Pokémon Mansion og den\nejerens dyrebare have bagved.\n</language>
 	</row>
 	<row id="narc_0556_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This path weaves among deep puddles\nmade by the unending rainfall. It is\nwet and miserable for Trainers.</language>
+		<language name="English">Denne sti væver sig mellem dybe vandpytter\nlavet af den uendelige nedbør. Det er det\nvådt og elendigt for trænere.</language>
 	</row>
 	<row id="narc_0556_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -110,11 +110,11 @@
 	</row>
 	<row id="narc_0556_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Offshore boulders form a jetty that\nbecalms waves reaching the beach.\nA resort hotel overlooks the water.</language>
+		<language name="English">Offshore kampesten danner en anløbsbro, der\nbecalms bølger når stranden.\nEt resorthotel har udsigt over vandet.</language>
 	</row>
 	<row id="narc_0556_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In a small house on the beach lives\na single man who refers to himself as\nDr. Footstep.</language>
+		<language name="English">I et lille hus på stranden bor\nen enlig mand, der omtaler sig selv som\nDr. Footstep.</language>
 	</row>
 	<row id="narc_0556_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -122,11 +122,11 @@
 	</row>
 	<row id="narc_0556_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a cave hewn into the sheer\nrock wall at the roadside. The hole\nwas made by a Ruin Maniac.</language>
+		<language name="English">Der er en hule hugget ind i det rene\nklippevæg i vejkanten. Hullet\nblev lavet af en Ruin Maniac.</language>
 	</row>
 	<row id="narc_0556_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This area is always inundated by heavy\nrainfall. Only hardy Trainers that can\ntake the rain gather here.</language>
+		<language name="English">Dette område er altid oversvømmet af tunge\nnedbør. Kun hårdføre trænere, der kan\ntag regnen og saml her.</language>
 	</row>
 	<row id="narc_0556_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -134,15 +134,15 @@
 	</row>
 	<row id="narc_0556_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snow blows down from Mt. Coronet and\ngrows into a harsh, ceaseless blizzard.\nBe prepared for the worst.</language>
+		<language name="English">Sne blæser ned fra Mt. Coronet og\nvokser til en barsk, uophørlig snestorm.\nVær forberedt på det værste.</language>
 	</row>
 	<row id="narc_0556_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Despite its shortness, this road is\nrevered by fishing enthusiasts as a\ngreat, yet little known, fishing spot.</language>
+		<language name="English">På trods af dens korte, er denne vej\næret af fiskeentusiaster som en\nstor, men lidt kendt, fiskeplads.</language>
 	</row>
 	<row id="narc_0556_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A beautiful white-sand beach only five\nseconds on foot from Sandgem Town.\nA pleasant breeze blows from the sea.</language>
+		<language name="English">En smuk hvid sandstrand kun fem\nsekunder til fods fra Sandgem Town.\nEn behagelig brise blæser fra havet.</language>
 	</row>
 	<row id="narc_0556_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -154,15 +154,15 @@
 	</row>
 	<row id="narc_0556_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the end of the path stands the\ngateway to Pal Park.</language>
+		<language name="English">For enden af ​​stien står\nporten til Pal Park.</language>
 	</row>
 	<row id="narc_0556_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sandy beach extends from the road.\nThe beach is busy with avid Fishermen\nhappily casting at the water’s edge.</language>
+		<language name="English">En sandstrand strækker sig fra vejen.\nStranden er travl med ivrige fiskere\nstøber glad i vandkanten.</language>
 	</row>
 	<row id="narc_0556_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A man who loves fishing lives near\nhere. There is also a man who will\ncompare sizes of caught fish.</language>
+		<language name="English">En mand, der elsker at fiske, bor i nærheden\nher. Det er der også en mand, der vil\nsammenligne størrelser af fangede fisk.</language>
 	</row>
 	<row id="narc_0556_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -170,19 +170,19 @@
 	</row>
 	<row id="narc_0556_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With grass fields, rocky outcroppings,\nthe sea, and sandbars, this area is\nlike a miniature of the Sinnoh region.</language>
+		<language name="English">Med græsmarker, klippefremspring,\nhavet, og sandbanker, dette område er\nsom en miniature af Sinnoh-regionen.</language>
 	</row>
 	<row id="narc_0556_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The path makes its way up and down\namong rocky outcroppings. It is\nphysically challenging.</language>
+		<language name="English">Stien går op og ned\nblandt klippefremspring. Det er det\nfysisk udfordrende.</language>
 	</row>
 	<row id="narc_0556_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path that winds precariously along\nsheer cliffs that go right to the edge\nof the sea’s pounding waves.</language>
+		<language name="English">En sti, der snor sig usikkert\nrene klipper, der går helt ud til kanten\naf havets hamrende bølger.</language>
 	</row>
 	<row id="narc_0556_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a small island in the bay.\nAn odd man who speaks foreign\nlanguages lives there.</language>
+		<language name="English">Der er en lille ø i bugten.\nEn mærkelig mand, der taler fremmed\nsprog bor der.</language>
 	</row>
 	<row id="narc_0556_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
@@ -190,7 +190,7 @@
 	</row>
 	<row id="narc_0556_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This rough path is harshly raked by\na horizontally blowing sandstorm\ndriven by strong winds off the sea.</language>
+		<language name="English">Denne barske sti er hårdhændet\nen vandret blæsende sandstorm\ndrevet af hård vind fra havet.</language>
 	</row>
 	<row id="narc_0556_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -198,31 +198,31 @@
 	</row>
 	<row id="narc_0556_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sea route that stretches from west\nto east. There is an island that is\nrich with plant life along the way.</language>
+		<language name="English">En sørute, der strækker sig fra vest\nmod øst. Det er der en ø\nrig på planteliv undervejs.</language>
 	</row>
 	<row id="narc_0556_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A straight path bounded by the sea on\nboth sides. It leads to the Flower\nParadise.</language>
+		<language name="English">En lige sti afgrænset af havet videre\nbegge sider. Det fører til Blomsten\nParadis.</language>
 	</row>
 	<row id="narc_0556_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small town with the fresh scent\nof new leaves in the air. It feels\nlike a place where adventures start.</language>
+		<language name="English">En lille by med den friske duft\naf nye blade i luften. Det føles\nsom et sted, hvor eventyr starter.</language>
 	</row>
 	<row id="narc_0556_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your own home and your best friend’s\nhouse are located here.</language>
+		<language name="English">Dit eget hjem og din bedste vens\nhuset ligger her.</language>
 	</row>
 	<row id="narc_0556_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sandy town that is located right\nnext to a beach. It is redolent with\nthe salty scent of the sea.</language>
+		<language name="English">En sandby, der ligger rigtigt\nved siden af ​​en strand. Det er duftende med\nhavets salte duft.</language>
 	</row>
 	<row id="narc_0556_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prof. Rowan’s lab is the town’s\nlandmark. He conducts his\nstudies on Pokémon here.</language>
+		<language name="English">Prof. Rowans laboratorium er byens\nmilepæl. Han dirigerer sit\nundersøgelser af Pokémon her.</language>
 	</row>
 	<row id="narc_0556_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A town of flower lovers, Floaroma Town\nis always perfumed with the sweet\nscent of flowers.</language>
+		<language name="English">En by af blomsterelskere, Floaroma Town\ner altid parfumeret med det søde\nduft af blomster.</language>
 	</row>
 	<row id="narc_0556_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -230,7 +230,7 @@
 	</row>
 	<row id="narc_0556_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the center of town is the flower\nshop called Pick a Peck of Colors.</language>
+		<language name="English">I centrum af byen er blomsten\nbutik kaldet Pick a Peck of Colors.</language>
 	</row>
 	<row id="narc_0556_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
@@ -242,15 +242,15 @@
 	</row>
 	<row id="narc_0556_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beyond a path hemmed by stands of\ntrees, one can find the entrance\nto the Solaceon Ruins.</language>
+		<language name="English">Ud over en sti omkranset af bevoksninger af\ntræer, kan man finde indgangen\ntil Solaceon-ruinerne.</language>
 	</row>
 	<row id="narc_0556_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tiny town that preserves the history\nof Sinnoh and the old ways of life.</language>
+		<language name="English">En lille by, der bevarer historien\naf Sinnoh og de gamle måder at leve på.</language>
 	</row>
 	<row id="narc_0556_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the center of the town is a small\nshrine that dates to ancient times.</language>
+		<language name="English">I centrum af byen er en lille\nhelligdom, der dateres til oldtiden.</language>
 	</row>
 	<row id="narc_0556_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
@@ -258,19 +258,19 @@
 	</row>
 	<row id="narc_0556_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A city that attracts Trainers who\nknow there are other ways of enjoying\nPokémon than battling.</language>
+		<language name="English">En by, der tiltrækker Trænere, der\nved, at der er andre måder at nyde på\nPokémon end at kæmpe.</language>
 	</row>
 	<row id="narc_0556_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The most modernized city in the Sinnoh\nregion. It is bustling with people on\nthe go.</language>
+		<language name="English">Den mest moderniserede by i Sinnoh\nområde. Det myldrer med folk på\ngå.</language>
 	</row>
 	<row id="narc_0556_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokétch Company, the developer\nand manufacturer of the Pokétch, is\nlocated here.</language>
+		<language name="English">The Pokétch Company, udvikleren\nog producent af Pokétch, er\nplaceret her.</language>
 	</row>
 	<row id="narc_0556_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jubilife TV, Sinnoh’s TV network, is\nlocated here. It is an entertaining\nplace to visit.</language>
+		<language name="English">Jubilife TV, Sinnohs tv-netværk, er\nplaceret hende. Det er en underholdende\nsted at besøge.</language>
 	</row>
 	<row id="narc_0556_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
@@ -278,23 +278,23 @@
 	</row>
 	<row id="narc_0556_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Located here is the Trainers’ School.\nDrop in to study up on the basics of\nPokémon.</language>
+		<language name="English">Her ligger Trænerskolen.\nKig ind for at studere det grundlæggende i\nPokémon.</language>
 	</row>
 	<row id="narc_0556_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A port city that is bisected by a\ncanal. It has a distinctly exotic air\nof foreign culture.</language>
+		<language name="English">En havneby, der er gennemskåret af en\nkanal. Den har en udpræget eksotisk luft\naf fremmed kultur.</language>
 	</row>
 	<row id="narc_0556_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Head to the library if you want a\nworkout for the mind. Head to the Gym\nif you just want to work out.</language>
+		<language name="English">Gå til biblioteket, hvis du ønsker en\ntræning for sindet. Gå til gymnastiksalen\nhvis du bare vil træne.</language>
 	</row>
 	<row id="narc_0556_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Large ships can always be seen\nmoored at the town’s piers.</language>
+		<language name="English">Store skibe kan altid ses\nfortøjet ved byens moler.</language>
 	</row>
 	<row id="narc_0556_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A vibrant and energetic mining town\nthat is blessed with a precious natural\nresource.</language>
+		<language name="English">En levende og energisk mineby\nder er velsignet med en dyrebar naturlig\nressource.</language>
 	</row>
 	<row id="narc_0556_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -302,11 +302,11 @@
 	</row>
 	<row id="narc_0556_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a museum that specializes in\nexhibits related to the town’s coal\nmine.</language>
+		<language name="English">Der er et museum, der har specialiseret sig i\nudstillinger relateret til byens kul\nmine.</language>
 	</row>
 	<row id="narc_0556_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huge deposits of coal still sleep\nunderneath the ground. The entrance\nto the Oreburgh Coal Mine is here.</language>
+		<language name="English">Enorme forekomster af kul sover stadig\nunder jorden. Indgangen\ntil Oreburgh Coal Mine er her.</language>
 	</row>
 	<row id="narc_0556_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
@@ -314,7 +314,7 @@
 	</row>
 	<row id="narc_0556_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Cycle Shop is located here.\nThere is also a big building with\na slightly sinister atmosphere.</language>
+		<language name="English">Cykelbutikken ligger her.\nDer er også en stor bygning med\nen lidt uhyggelig atmosfære.</language>
 	</row>
 	<row id="narc_0556_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
@@ -322,7 +322,7 @@
 	</row>
 	<row id="narc_0556_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Gym is indispensable in any town that\nhas many people coming and going.\nThis city is no exception.</language>
+		<language name="English">Et fitnesscenter er uundværligt i enhver by\nhar mange mennesker kommer og går.\nDenne by er ingen undtagelse.</language>
 	</row>
 	<row id="narc_0556_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -330,23 +330,23 @@
 	</row>
 	<row id="narc_0556_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The entrance to Amity Square is here.\nThe square is a place where Trainers\ncan stroll peacefully with Pokémon.</language>
+		<language name="English">Indgangen til Amity Square er her.\nPladsen er et sted, hvor Trænere\nkan slentre fredeligt med Pokémon.</language>
 	</row>
 	<row id="narc_0556_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you care about the looks of your\nPokémon, head for the Contest Hall.\nFor toughness, go to the Gym.</language>
+		<language name="English">Hvis du bekymrer dig om dit udseende\nPokémon, tag mod konkurrencehallen.\nFor hårdhed, gå til gymnastiksalen.</language>
 	</row>
 	<row id="narc_0556_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a building here that is\nsymbolic of the city’s status as a\nplace where different cultures meet.</language>
+		<language name="English">Det er en bygning her\nsymbolsk for byens status som en\net sted, hvor forskellige kulturer mødes.</language>
 	</row>
 	<row id="narc_0556_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A nice fountain with benches, as well\nas the Pokémon Fan Club, are among\nthe city’s amenities.</language>
+		<language name="English">Et dejligt springvand med bænke\nsom Pokémon Fan Club, er blandt\nbyens faciliteter.</language>
 	</row>
 	<row id="narc_0556_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This city was originally founded to\nprotect the Great Marsh. It has grown\nnaturally over the years.</language>
+		<language name="English">Denne by blev oprindeligt grundlagt til\nbeskytte den store mose. Det er vokset\nnaturligt gennem årene.</language>
 	</row>
 	<row id="narc_0556_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
@@ -354,11 +354,11 @@
 	</row>
 	<row id="narc_0556_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a lookout that affords views\nof the Great Marsh. The gates to\nthe Safari Zone are also here.</language>
+		<language name="English">Der er en udkig, der giver udsigt\naf Den Store Marsk. Portene til\nSafari Zone er også her.</language>
 	</row>
 	<row id="narc_0556_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This city was made by carving out\nsteep, rocky mountains. Its isolation\nlimits its contact with other cities.</language>
+		<language name="English">Denne by blev lavet ved udskæring\nstejle, klippefyldte bjerge. Dens isolation\nbegrænser sin kontakt med andre byer.</language>
 	</row>
 	<row id="narc_0556_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
@@ -366,7 +366,7 @@
 	</row>
 	<row id="narc_0556_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the highest point in the city is\nTeam Galactic’s headquarters.</language>
+		<language name="English">På det højeste punkt i byen er\nTeam Galactics hovedkvarter.</language>
 	</row>
 	<row id="narc_0556_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
@@ -374,19 +374,19 @@
 	</row>
 	<row id="narc_0556_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Conveniently located right next door\nto the Game Corner is the Prize\nExchange.</language>
+		<language name="English">Bekvemt beliggende lige ved siden af\ntil Spillehjørnet er præmien\nUdveksle.</language>
 	</row>
 	<row id="narc_0556_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A port city that was built around the\nbay portion of the cape. It is criss-\ncrossed by elevated walkways.</language>
+		<language name="English">En havneby, der blev bygget op omkring\nbugten del af kappen. Det er kris-\nkrydset af forhøjede gangstier.</language>
 	</row>
 	<row id="narc_0556_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym is located atop a rocky\noutcropping. Down on the beach is\na festive bazaar.</language>
+		<language name="English">Gymnastiksalen er placeret på toppen af ​​en sten\nudskæring. Nede på stranden er\nen festlig basar.</language>
 	</row>
 	<row id="narc_0556_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Vista Lighthouse’s bright beacon\nilluminates the Sinnoh region.</language>
+		<language name="English">Vista Lighthouses lyse fyrtårn\noplyser Sinnoh-regionen.</language>
 	</row>
 	<row id="narc_0556_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
@@ -394,19 +394,19 @@
 	</row>
 	<row id="narc_0556_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym is at the heart of the city.\nTo the north is the Snowpoint Temple.</language>
+		<language name="English">Gymmet er i hjertet af byen.\nMod nord ligger Snowpoint-templet.</language>
 	</row>
 	<row id="narc_0556_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainers seeking to become the best\narrive here after enduring a long and\ngrueling journey.</language>
+		<language name="English">Trænere, der søger at blive den bedste\nankomme her efter at have udholdt en lang og\nopslidende rejse.</language>
 	</row>
 	<row id="narc_0556_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon League reception counter\nis located here. Only those who have\nbeaten all the Gyms may enter.</language>
+		<language name="English">Pokémon League-modtagelsesdisken\ner placeret her. Kun dem, der har\nslået alle Gyms kan komme ind.</language>
 	</row>
 	<row id="narc_0556_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Victory Road is the last and toughest\nof the challenges leading up to the\nPokémon League.</language>
+		<language name="English">Victory Road er den sidste og hårdeste\naf udfordringerne op til\nPokémon League.</language>
 	</row>
 	<row id="narc_0556_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
@@ -414,67 +414,67 @@
 	</row>
 	<row id="narc_0556_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moored at the pier is the ferry to\nSnowpoint City.</language>
+		<language name="English">Fortøjet ved molen ligger færgen til\nSnowpoint City.</language>
 	</row>
 	<row id="narc_0556_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The gateway to the Battle Park is\nlocated here.</language>
+		<language name="English">Porten til Battle Park er\nplaceret her.</language>
 	</row>
 	<row id="narc_0556_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One of the lakes that is symbolic of\nthe water-rich Sinnoh region. There is\nan odd legend associated with it.</language>
+		<language name="English">En af de søer, der er symbolsk for\nden vandrige Sinnoh-region. Der er\nen mærkelig legende forbundet med det.</language>
 	</row>
 	<row id="narc_0556_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is possible to enter the cave\nunderneath the lake from the\nisland in the middle.</language>
+		<language name="English">Det er muligt at komme ind i hulen\nunder søen fra\nøen i midten.</language>
 	</row>
 	<row id="narc_0556_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One of the lakes that is symbolic of\nthe water-rich Sinnoh region. There is\nan odd legend associated with it.</language>
+		<language name="English">En af de søer, der er symbolsk for\nden vandrige Sinnoh-region. Der er\nen mærkelig legende forbundet med det.</language>
 	</row>
 	<row id="narc_0556_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is possible to enter the cave\nunderneath the lake from the\nisland in the middle.</language>
+		<language name="English">Det er muligt at komme ind i hulen\nunder søen fra\nøen i midten.</language>
 	</row>
 	<row id="narc_0556_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A high-class restaurant is located\non a hill overlooking the lake.</language>
+		<language name="English">Der ligger en førsteklasses restaurant\npå en bakke med udsigt over søen.</language>
 	</row>
 	<row id="narc_0556_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One of the lakes that is symbolic of\nthe water-rich Sinnoh region. There is\nan odd legend associated with it.</language>
+		<language name="English">En af de søer, der er symbolsk for\nden vandrige Sinnoh-region. Der er\nen mærkelig legende forbundet med det.</language>
 	</row>
 	<row id="narc_0556_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is possible to enter the cave\nunderneath the lake from the\nisland in the middle.</language>
+		<language name="English">Det er muligt at komme ind i hulen\nunder søen fra\nøen i midten.</language>
 	</row>
 	<row id="narc_0556_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The fourth lake of Sinnoh that was\nkept secret.</language>
+		<language name="English">Det var den fjerde Sinnoh sø\nholdt hemmeligt.</language>
 	</row>
 	<row id="narc_0556_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beneath the lake’s surface is a cave\nwhere dimensions are distorted.</language>
+		<language name="English">Under søens overflade er en hule\nhvor dimensionerne er forvrænget.</language>
 	</row>
 	<row id="narc_0556_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Numerous wind turbines stand in the\nvicinity of the Valley Windworks.</language>
+		<language name="English">Talrige vindmøller står i\ni nærheden af ​​Valley Windworks.</language>
 	</row>
 	<row id="narc_0556_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winds blowing through the canyon feed\nthe wind turbines to generate clean\nelectricity.</language>
+		<language name="English">Vinde blæser gennem kløften foder\nvindmøllerne til at generere rent\nelektricitet.</language>
 	</row>
 	<row id="narc_0556_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A forest enveloped in chilly air.\nThick stands of trees turn the forest\ninto a natural maze.</language>
+		<language name="English">En skov indhyllet i kølig luft.\nTykke bevoksninger af træer vender skoven\nind i en naturlig labyrint.</language>
 	</row>
 	<row id="narc_0556_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deep in the forest is the Old Chateau.\nIt is falling into disrepair after\nbeing abandoned by its owner.</language>
+		<language name="English">Dybt inde i skoven ligger det gamle slot.\nDet forfalder bagefter\nbliver forladt af sin ejer.</language>
 	</row>
 	<row id="narc_0556_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The sprawling ironworks is located\nwith the forest at its back.</language>
+		<language name="English">Det vidtstrakte jernværk ligger\nmed skoven i ryggen.</language>
 	</row>
 	<row id="narc_0556_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
@@ -482,7 +482,7 @@
 	</row>
 	<row id="narc_0556_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sacred mountain that is capped the\nyear round with snow. A gigantic maze\nsprawls inside it.</language>
+		<language name="English">Et helligt bjerg, der er dækket af\nåret rundt med sne. En gigantisk labyrint\nspreder sig inde i den.</language>
 	</row>
 	<row id="narc_0556_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
@@ -494,23 +494,23 @@
 	</row>
 	<row id="narc_0556_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A rugged, seemingly indestructible rock\nmountain that is thickly blanketed by\nthe volcanic ash it spews.</language>
+		<language name="English">En robust, tilsyneladende uforgængelig klippe\nbjerg, der er tæt dækket af\nden vulkanske aske, den udsender.</language>
 	</row>
 	<row id="narc_0556_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Inside the mountain, fissures in spilled\nand hardened lava form enormous\ncaverns.</language>
+		<language name="English">Inde i bjerget, sprækker i spildt\nog hærdet lava form enorm\nhuler.</language>
 	</row>
 	<row id="narc_0556_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A speck of an island far from any\ncivilization. It is covered in an\nabundance of flowers.</language>
+		<language name="English">En plet af en ø langt fra nogen\ncivilisation. Den er dækket af en\noverflod af blomster.</language>
 	</row>
 	<row id="narc_0556_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small, ore-rich island that is\noff the coast of Eterna City.</language>
+		<language name="English">En lille, malmrig ø altså\nud for Eterna Citys kyst.</language>
 	</row>
 	<row id="narc_0556_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Inside the island are remnants of an\niron ore mining operation from the\npast.</language>
+		<language name="English">Inde på øen findes rester af en\njernmalmsdrift fra\nforbi.</language>
 	</row>
 	<row id="narc_0556_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
@@ -518,6 +518,6 @@
 	</row>
 	<row id="narc_0556_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower--where the best of\nthe best Trainers gather to test\ntheir skill--is located here.</language>
+		<language name="English">The Battle Tower--hvor det bedste af\nde bedste trænere samles for at teste\nderes færdigheder - er placeret her.</language>
 	</row>
 </body>

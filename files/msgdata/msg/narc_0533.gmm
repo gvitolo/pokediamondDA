@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="narc_0533_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} examined the ancient\ncave painting.\rMysterious designs cover a whole\nsection of the wall.\rThere are three strange things\nforming a triangle.\rIn the middle of them, a shining\nsphere?\rWhat is this all about?\r</language>
+		<language name="English">{STRVAR_1 3, 0} undersøgte det gamle\nhulemaleri.\rMystiske designs dækker en hel\nudsnit af væggen.\rDer er tre mærkelige ting\nder danner en trekant.\rI midten af ​​dem, en skinnende\nskugle?\rHvad handler det om?\r</language>
 	</row>
 	<row id="narc_0533_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The cave painting’s meaning seems\nto be this...\rThere existed a being...\rA being so powerful, it was\nconsidered a deity at the time.\rOpposing this powerful being\nwere three Pokémon.\rThe three kept balance with the\nbeing, as if they formed a triangle.\rIt’s an ancient legend of Sinnoh\nthat is still told in Celestic Town.\r</language>
+		<language name="English">Hulemaleriets betydning ser ud til\n at være denne...\rDer eksisterede et væsen...\rEt væsen så magtfuldt, at det blev\nbetragtet som en guddom på det tidspunkt.\rI modsætning til dette magtfulde væsen\nvar tre Pokémons.\rDe tre holdt balancen med\nvæsenet, som om de dannede en trekant.\rDet er stadig fortalt i en kelstisk legende om Sinnoh.</language>
 	</row>
 	<row id="narc_0533_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, yes. I found something useful.\nYou should take this.\rIt belonged to my granddaughter,\nbut she doesn’t use it anymore.\r</language>
+		<language name="English">Åh, ja. Jeg fandt noget nyttigt.\nDu burde tage dette.\rDet tilhørte mit barnebarn,\nmen hun bruger det ikke længere.\r</language>
 	</row>
 	<row id="narc_0533_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If a Pokémon learns Surf, it can\ncarry you across water and the sea.\rBut my granddaughter said something\nabout this hidden move...\rOh, yes! To use Surf outside of\nbattle, the Hearthome Gym Badge\fmust first be obtained.\rOn that matter, you will have to\nhandle it yourself, I’m afraid.\r</language>
+		<language name="English">Hvis en Pokémon lærer Surf, kan den\nbære dig over vand og hav.\rMen mit barnebarn sagde noget\nom dette skjulte træk...\rÅh, ja! For at bruge Surf uden for\nkamp, ​​skal Hearthome Gym Badge\f først anskaffes.\rI den sag skal du\n klare det selv, er jeg bange for.\r</language>
 	</row>
 	<row id="narc_0533_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} examined the ancient\ncave painting.\rMysterious designs cover a whole\nsection of the wall.\rThere are three strange things\nforming a triangle.\rIn the middle of them, a shining\nsphere?\rWhat is this all about?</language>
+		<language name="English">{STRVAR_1 3, 0} undersøgte det gamle\nhulemaleri.\rMystiske designs dækker en hel\nsektion af væggen.\rDer er tre mærkelige ting\nder danner en trekant.\rI midten af ​​dem, en skinnende\nskugle?\rHvad handler det her om?</language>
 	</row>
 </body>

@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="narc_0536_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wasn’t experienced enough for\nthe Battle Tower...\rTraining on Stark Mountain seems to\nbe the only sensible choice ...\rFor some reason, the best Trainers\nin Sinnoh seem to gather there.</language>
+		<language name="English">Jeg var ikke erfaren nok til\nBattle Tower...\rTræning på Stark Mountain ser ud til at være det eneste fornuftige valg ...\rAf en eller anden grund ser det ud til, at de bedste trænere\nin Sinnoh samles der.</language>
 	</row>
 	<row id="narc_0536_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In a Multi Battle, coordination with\nyour partner is vital.\rBy working together, one plus one\ncould become not just two, but even\fthree or four.\rBut one times one is always one.\nDo you understand that?</language>
+		<language name="English">I en multikamp er koordinering med\din partner afgørende.\rVed at arbejde sammen kan én plus én\n blive til ikke bare to, men endda\ftre eller fire.\rMen én gang er én altid én.\nForstår du det?</language>
 	</row>
 	<row id="narc_0536_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some say the universe was made by\nsomething born from an Egg...\rA man I met long ago told me that.</language>
+		<language name="English">Nogle siger, at universet blev skabt af\nnoget født fra et æg...\rEn mand, jeg mødte for længe siden, fortalte mig det.</language>
 	</row>
 </body>

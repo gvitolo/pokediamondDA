@@ -232,55 +232,55 @@
 	</row>
 	<row id="narc_0314_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FANCY</language>
+		<language name="English">ELEGANT</language>
 	</row>
 	<row id="narc_0314_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LITTLE</language>
+		<language name="English">LILLE</language>
 	</row>
 	<row id="narc_0314_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LIGHT</language>
+		<language name="English">LET</language>
 	</row>
 	<row id="narc_0314_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE</language>
+		<language name="English">DOBBELT</language>
 	</row>
 	<row id="narc_0314_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon:</language>
+		<language name="English">Antal Pokémon:</language>
 	</row>
 	<row id="narc_0314_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon level:</language>
+		<language name="English">Pokémon-niveau:</language>
 	</row>
 	<row id="narc_0314_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Total levels:</language>
+		<language name="English">Niveauer i alt:</language>
 	</row>
 	<row id="narc_0314_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Height:</language>
+		<language name="English">Højde:</language>
 	</row>
 	<row id="narc_0314_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Weight:</language>
+		<language name="English">Vægt:</language>
 	</row>
 	<row id="narc_0314_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Evolved Pokémon:</language>
+		<language name="English">Udviklet Pokémon:</language>
 	</row>
 	<row id="narc_0314_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Special Pokémon:</language>
+		<language name="English">Særlig Pokémon:</language>
 	</row>
 	<row id="narc_0314_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Same Pokémon:</language>
+		<language name="English">Samme Pokémon:</language>
 	</row>
 	<row id="narc_0314_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Same items:</language>
+		<language name="English">Samme ting:</language>
 	</row>
 	<row id="narc_0314_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
@@ -288,15 +288,15 @@
 	</row>
 	<row id="narc_0314_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max. {STRVAR_1 52, 0}</language>
+		<language name="English">Maks. {STRVAR_1 52, 0}</language>
 	</row>
 	<row id="narc_0314_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max. {STRVAR_1 52, 0}</language>
+		<language name="English">Maks. {STRVAR_1 52, 0}</language>
 	</row>
 	<row id="narc_0314_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max. {STRVAR_1 50, 0}’ {STRVAR_1 50, 1}”</language>
+		<language name="English">Maks. {STRVAR_1 50, 0}’ {STRVAR_1 50, 1}”</language>
 	</row>
 	<row id="narc_0314_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -304,7 +304,7 @@
 	</row>
 	<row id="narc_0314_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max. {STRVAR_1 51, 0} lbs.</language>
+		<language name="English">Maks. {STRVAR_1 51, 0} lbs.</language>
 	</row>
 	<row id="narc_0314_00076" index="76">
 		<attribute name="window_context_name">used</attribute>

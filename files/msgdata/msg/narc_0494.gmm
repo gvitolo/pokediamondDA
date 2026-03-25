@@ -1,60 +1,60 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0494_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTINUE</language>
+		<language name="English">FORTSÆTTE</language>
 	</row>
 	<row id="narc_0494_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NEW GAME</language>
+		<language name="English">NYT SPIL</language>
 	</row>
 	<row id="narc_0494_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MYSTERY GIFT</language>
+		<language name="English">MYSTERISK GAVE</language>
 	</row>
 	<row id="narc_0494_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LINK WITH POKéMON RANGER</language>
+		<language name="English">LINK MED POKéMON RANGER</language>
 	</row>
 	<row id="narc_0494_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIGRATE FROM RUBY</language>
+		<language name="English">MIGRERE FRA RUBY</language>
 	</row>
 	<row id="narc_0494_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIGRATE FROM SAPPHIRE</language>
+		<language name="English">MIGRER FRA SAPPHIRE</language>
 	</row>
 	<row id="narc_0494_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIGRATE FROM LEAF GREEN</language>
+		<language name="English">MIGRER FRA BLADGRØN</language>
 	</row>
 	<row id="narc_0494_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIGRATE FROM FIRE RED</language>
+		<language name="English">MIGRER FRA ILD RØD</language>
 	</row>
 	<row id="narc_0494_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIGRATE FROM EMERALD</language>
+		<language name="English">MIGRERE FRA EMERALD</language>
 	</row>
 	<row id="narc_0494_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PEDOMETER</language>
+		<language name="English">SKRIDTÆLLER</language>
 	</row>
 	<row id="narc_0494_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONNECT TO Wii</language>
+		<language name="English">FORBIND TIL Wii</language>
 	</row>
 	<row id="narc_0494_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NINTENDO WFC SETTINGS</language>
+		<language name="English">NINTENDO WFC-INDSTILLINGER</language>
 	</row>
 	<row id="narc_0494_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PLAYER</language>
+		<language name="English">SPILLER</language>
 	</row>
 	<row id="narc_0494_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TIME</language>
+		<language name="English">TID</language>
 	</row>
 	<row id="narc_0494_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0494_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BADGES</language>
+		<language name="English">MÆRKER</language>
 	</row>
 	<row id="narc_0494_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

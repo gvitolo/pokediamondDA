@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0404_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="narc_0404_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Item</language>
+		<language name="English">Punkt</language>
 	</row>
 	<row id="narc_0404_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="narc_0404_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0404_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="narc_0404_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokédex No.</language>
+		<language name="English">Pokédex nr.</language>
 	</row>
 	<row id="narc_0404_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="narc_0404_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Name</language>
+		<language name="English">Navn</language>
 	</row>
 	<row id="narc_0404_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0404_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ID No.</language>
+		<language name="English">ID-nr.</language>
 	</row>
 	<row id="narc_0404_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -78,11 +78,11 @@
 	</row>
 	<row id="narc_0404_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To Next Lv.</language>
+		<language name="English">Til næste Lv.</language>
 	</row>
 	<row id="narc_0404_00020" index="20">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0404_00021" index="21">
@@ -95,351 +95,351 @@
 	</row>
 	<row id="narc_0404_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAINER MEMO</language>
+		<language name="English">TRÆNERMEMO</language>
 	</row>
 	<row id="narc_0404_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Hardy{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Hardy{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Lonely{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Ensom{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Brave{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Modig{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Adamant{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Ubøjelig{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Naughty{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Fræk{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Bold{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Dristig{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Docile{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Føjelig{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Relaxed{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Afslappet{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Impish{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Impish{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Lax{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Lax{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Timid{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Himmel{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Hasty{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Forhastet{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Serious{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Alvorlig{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Jolly{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Jolly{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Naive{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Naiv{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Modest{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Beskeden{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Mild{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Mild{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Quiet{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Stille{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Bashful{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Blæst{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Rash{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Udslæt{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Calm{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Berolige{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Gentle{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Mild{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Sassy{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Sassy{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Careful{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Omhyggelig{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Quirky{COLOR 0} nature.</language>
+		<language name="English">{COLOR 2}Quirky{COLOR 0}natur.</language>
 	</row>
 	<row id="narc_0404_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nMet at Lv. {STRVAR_1 52, 3}.</language>
+		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nMødtes ved Lv.{STRVAR_1 52, 3}.</language>
 	</row>
 	<row id="narc_0404_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nApparently met at\nLv. {STRVAR_1 52, 3}.</language>
+		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nMødte tilsyneladende kl\nLv.{STRVAR_1 52, 3}.</language>
 	</row>
 	<row id="narc_0404_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nArrived at Lv. {STRVAR_1 52, 3}.</language>
+		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nAnkom til Lv.{STRVAR_1 52, 3}.</language>
 	</row>
 	<row id="narc_0404_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg obtained.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg hatched.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆg opnået.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆg klækket.</language>
 	</row>
 	<row id="narc_0404_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg obtained.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg apparently hatched.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆg opnået.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆgget er tilsyneladende klækket.</language>
 	</row>
 	<row id="narc_0404_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg received.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg hatched.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆg modtaget.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆg klækket.</language>
 	</row>
 	<row id="narc_0404_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg received.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg apparently hatched.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆg modtaget.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆgget er tilsyneladende klækket.</language>
 	</row>
 	<row id="narc_0404_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nHad a fateful encounter\nat Lv. {STRVAR_1 52, 3}.</language>
+		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nHavde et skæbnesvangert møde\nved Lv.{STRVAR_1 52, 3}.</language>
 	</row>
 	<row id="narc_0404_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nApparently had a\nfateful encounter at\nLv. {STRVAR_1 52, 3}.</language>
+		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nHavde åbenbart en\nskæbnesvangert møde kl\nLv.{STRVAR_1 52, 3}.</language>
 	</row>
 	<row id="narc_0404_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg obtained.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg hatched.\nFateful encounter.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆg opnået.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆg klækket.\nskæbnesvangert møde.</language>
 	</row>
 	<row id="narc_0404_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg obtained.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg apparently hatched.\nFateful encounter.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆg opnået.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆgget er tilsyneladende klækket.\nskæbnesvangert møde.</language>
 	</row>
 	<row id="narc_0404_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg arrived.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg hatched.\nFateful encounter.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆgget ankom.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆg klækket.\nskæbnesvangert møde.</language>
 	</row>
 	<row id="narc_0404_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg arrived.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg apparently hatched.\nFateful encounter.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆgget ankom.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆgget er tilsyneladende klækket.\nskæbnesvangert møde.</language>
 	</row>
 	<row id="narc_0404_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg obtained.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg hatched.\nFateful encounter.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆg opnået.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆg klækket.\nskæbnesvangert møde.</language>
 	</row>
 	<row id="narc_0404_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nEgg obtained.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nEgg apparently hatched.\nFateful encounter.</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\nÆg opnået.\n{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nÆgget er tilsyneladende klækket.\nskæbnesvangert møde.</language>
 	</row>
 	<row id="narc_0404_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nArrived at Lv. {STRVAR_1 52, 3}.</language>
+		<language name="English">{STRVAR_1 74, 1} {STRVAR_1 51, 2}, 20{STRVAR_1 51, 0}\n{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\nAnkom til Lv.{STRVAR_1 52, 3}.</language>
 	</row>
 	<row id="narc_0404_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes {COLOR 2}spicy{COLOR 0} food.</language>
+		<language name="English">Synes godt om{COLOR 2}krydret{COLOR 0}gal.</language>
 	</row>
 	<row id="narc_0404_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes {COLOR 2}dry{COLOR 0} food.</language>
+		<language name="English">Synes godt om{COLOR 2}tørre{COLOR 0}gal.</language>
 	</row>
 	<row id="narc_0404_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes {COLOR 2}sweet{COLOR 0} food.</language>
+		<language name="English">Synes godt om{COLOR 2}sød{COLOR 0}gal.</language>
 	</row>
 	<row id="narc_0404_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes {COLOR 2}bitter{COLOR 0} food.</language>
+		<language name="English">Synes godt om{COLOR 2}bitter{COLOR 0}gal.</language>
 	</row>
 	<row id="narc_0404_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes {COLOR 2}sour{COLOR 0} food.</language>
+		<language name="English">Synes godt om{COLOR 2}sur{COLOR 0}gal.</language>
 	</row>
 	<row id="narc_0404_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Happily eats anything.</language>
+		<language name="English">Spiser glad hvad som helst.</language>
 	</row>
 	<row id="narc_0404_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Loves to eat.</language>
+		<language name="English">Elsker at spise.</language>
 	</row>
 	<row id="narc_0404_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Often dozes off.</language>
+		<language name="English">Sover ofte.</language>
 	</row>
 	<row id="narc_0404_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Often scatters things.</language>
+		<language name="English">Spreder ofte ting.</language>
 	</row>
 	<row id="narc_0404_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Scatters things often.</language>
+		<language name="English">Spreder ting ofte.</language>
 	</row>
 	<row id="narc_0404_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes to relax.</language>
+		<language name="English">Kan lide at slappe af.</language>
 	</row>
 	<row id="narc_0404_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proud of its power.</language>
+		<language name="English">Stolt af sin magt.</language>
 	</row>
 	<row id="narc_0404_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes to thrash about.</language>
+		<language name="English">Kan lide at tæske om.</language>
 	</row>
 	<row id="narc_0404_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A little quick tempered.</language>
+		<language name="English">Lidt hurtig tempereret.</language>
 	</row>
 	<row id="narc_0404_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes to fight.</language>
+		<language name="English">Kan lide at slås.</language>
 	</row>
 	<row id="narc_0404_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quick tempered.</language>
+		<language name="English">Hurtigt hærdet.</language>
 	</row>
 	<row id="narc_0404_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sturdy body.</language>
+		<language name="English">Robust krop.</language>
 	</row>
 	<row id="narc_0404_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Capable of taking hits.</language>
+		<language name="English">Jeg står til at tage slag.</language>
 	</row>
 	<row id="narc_0404_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Highly persistent.</language>
+		<language name="English">Meget vedholdende.</language>
 	</row>
 	<row id="narc_0404_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good endurance.</language>
+		<language name="English">Gud udholdenhed.</language>
 	</row>
 	<row id="narc_0404_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good perseverance.</language>
+		<language name="English">Gud vedholdenhed.</language>
 	</row>
 	<row id="narc_0404_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes to run.</language>
+		<language name="English">Kan lide at løbe.</language>
 	</row>
 	<row id="narc_0404_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Alert to sounds.</language>
+		<language name="English">Alarm til lyde.</language>
 	</row>
 	<row id="narc_0404_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Impetuous and silly.</language>
+		<language name="English">Hestisk og fjollet.</language>
 	</row>
 	<row id="narc_0404_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Somewhat of a clown.</language>
+		<language name="English">Lidt af en klovn.</language>
 	</row>
 	<row id="narc_0404_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quick to flee.</language>
+		<language name="English">Hurtig til at flygte.</language>
 	</row>
 	<row id="narc_0404_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Highly curious.</language>
+		<language name="English">Meget nysgerrig.</language>
 	</row>
 	<row id="narc_0404_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mischievous.</language>
+		<language name="English">drilsk.</language>
 	</row>
 	<row id="narc_0404_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thoroughly cunning.</language>
+		<language name="English">Grundigt snedig.</language>
 	</row>
 	<row id="narc_0404_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Often lost in thought.</language>
+		<language name="English">Ofte fortabt i tankskib.</language>
 	</row>
 	<row id="narc_0404_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Very finicky.</language>
+		<language name="English">Meget kræsen.</language>
 	</row>
 	<row id="narc_0404_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strong willed.</language>
+		<language name="English">Stærk vilje.</language>
 	</row>
 	<row id="narc_0404_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Somewhat vain.</language>
+		<language name="English">Noget forgæves.</language>
 	</row>
 	<row id="narc_0404_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strongly defiant.</language>
+		<language name="English">Stærkt trodsig.</language>
 	</row>
 	<row id="narc_0404_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hates to lose.</language>
+		<language name="English">Hader ved tabe.</language>
 	</row>
 	<row id="narc_0404_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Somewhat stubborn.</language>
+		<language name="English">Lidt stædig.</language>
 	</row>
 	<row id="narc_0404_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\nA mysterious Pokémon\nEgg received from\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\nEn mystisk Pokémon\nÆg modtaget fra\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n</language>
 	</row>
 	<row id="narc_0404_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\nA mysterious Pokémon\nEgg obtained in\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\nEn mystisk Pokémon\nÆg opnået i\n{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n</language>
 	</row>
 	<row id="narc_0404_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\nA very mysterious\nPokémon Egg obtained\nat {COLOR 1}{STRVAR_1 4, 8}{COLOR 0}.\n</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\nEn meget mystisk\nPokémon Egg opnået\npå{COLOR 1}{STRVAR_1 4, 8}{COLOR 0}.\n</language>
 	</row>
 	<row id="narc_0404_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\nA very mysterious\nPokémon Egg that came\nfrom {COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n</language>
+		<language name="English">{STRVAR_1 74, 6} {STRVAR_1 51, 7}, 20{STRVAR_1 51, 5}\nEn meget mystisk\nPokémon-æg der kom\nfra{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n</language>
 	</row>
 	<row id="narc_0404_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“The Egg Watch”\nSounds can be heard\ncoming from inside!\nIt will hatch soon!</language>
+		<language name="English">"Æggeuret"\nLyde kan høres\nkommer indefra!\nDen klækker snart!</language>
 	</row>
 	<row id="narc_0404_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“The Egg Watch”\nIt appears to move\noccasionally. It may\nbe close to hatching.</language>
+		<language name="English">"Æggeuret"\nDet ser ud til at bevæge sig\nlejlighedsvis. Det kan\nvære tæt på at klække.</language>
 	</row>
 	<row id="narc_0404_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“The Egg Watch”\nWhat will hatch from\nthis? It doesn’t seem\nclose to hatching.</language>
+		<language name="English">"Æggeuret"\nHvad vil udklækkes fra\ndenne? Det synes ikke\ntæt på udklækning.</language>
 	</row>
 	<row id="narc_0404_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“The Egg Watch”\nIt looks like this Egg\nwill take a long time to\nhatch.</language>
+		<language name="English">"Æggeuret"\nDet ligner dette Æg\nvil tage lang tid at\nluge.</language>
 	</row>
 	<row id="narc_0404_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON SKILLS</language>
+		<language name="English">POKéMON FERDIGHEDER</language>
 	</row>
 	<row id="narc_0404_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
@@ -447,11 +447,11 @@
 	</row>
 	<row id="narc_0404_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Attack</language>
+		<language name="English">Angreb</language>
 	</row>
 	<row id="narc_0404_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Defense</language>
+		<language name="English">Forsvar</language>
 	</row>
 	<row id="narc_0404_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
@@ -463,11 +463,11 @@
 	</row>
 	<row id="narc_0404_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speed</language>
+		<language name="English">Hastighed</language>
 	</row>
 	<row id="narc_0404_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ability</language>
+		<language name="English">Evne</language>
 	</row>
 	<row id="narc_0404_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
@@ -507,15 +507,15 @@
 	</row>
 	<row id="narc_0404_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONDITION</language>
+		<language name="English">TILSTAND</language>
 	</row>
 	<row id="narc_0404_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SHEEN</language>
+		<language name="English">HUD</language>
 	</row>
 	<row id="narc_0404_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE MOVES</language>
+		<language name="English">KAMP BEVÆGER</language>
 	</row>
 	<row id="narc_0404_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
@@ -587,19 +587,19 @@
 	</row>
 	<row id="narc_0404_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0404_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER</language>
+		<language name="English">MAGT</language>
 	</row>
 	<row id="narc_0404_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ACCURACY</language>
+		<language name="English">NØJAGTIGHED</language>
 	</row>
 	<row id="narc_0404_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CATEGORY</language>
+		<language name="English">KATEGORI</language>
 	</row>
 	<row id="narc_0404_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
@@ -611,7 +611,7 @@
 	</row>
 	<row id="narc_0404_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH</language>
+		<language name="English">SKIFTE</language>
 	</row>
 	<row id="narc_0404_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
@@ -627,11 +627,11 @@
 	</row>
 	<row id="narc_0404_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HM moves can’t be\nforgotten now.</language>
+		<language name="English">HM-træk kan ikke være\nglemt nu.</language>
 	</row>
 	<row id="narc_0404_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTEST MOVES</language>
+		<language name="English">KONKURRENCE FLYTTER</language>
 	</row>
 	<row id="narc_0404_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
@@ -643,15 +643,15 @@
 	</row>
 	<row id="narc_0404_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">APPEAL POINTS</language>
+		<language name="English">ANKEPUNKTER</language>
 	</row>
 	<row id="narc_0404_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0404_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Close window.</language>
+		<language name="English">Luk vinduet.</language>
 	</row>
 	<row id="narc_0404_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
@@ -659,68 +659,68 @@
 	</row>
 	<row id="narc_0404_00164" index="164">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="narc_0404_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FAVORITE FOOD</language>
+		<language name="English">FAVORITMAD</language>
 	</row>
 	<row id="narc_0404_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes it {COLOR 2}spicy{COLOR 0}.</language>
+		<language name="English">Kan lide det{COLOR 2}krydret{COLOR 0}.</language>
 	</row>
 	<row id="narc_0404_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes it {COLOR 2}dry{COLOR 0}.</language>
+		<language name="English">Kan lide det{COLOR 2}tørre{COLOR 0}.</language>
 	</row>
 	<row id="narc_0404_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes it {COLOR 2}sweet{COLOR 0}.</language>
+		<language name="English">Kan lide det{COLOR 2}sød{COLOR 0}.</language>
 	</row>
 	<row id="narc_0404_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes it {COLOR 2}bitter{COLOR 0}.</language>
+		<language name="English">Kan lide det{COLOR 2}bitter{COLOR 0}.</language>
 	</row>
 	<row id="narc_0404_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Likes it {COLOR 2}sour{COLOR 0}.</language>
+		<language name="English">Kan lide det{COLOR 2}sur{COLOR 0}.</language>
 	</row>
 	<row id="narc_0404_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eats anything.</language>
+		<language name="English">Spiser hvad som helst.</language>
 	</row>
 	<row id="narc_0404_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Coolness was enhanced!</language>
+		<language name="English">Køligheden blev forbedret!</language>
 	</row>
 	<row id="narc_0404_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Toughness was enhanced!</language>
+		<language name="English">Sejheden blev forbedret!</language>
 	</row>
 	<row id="narc_0404_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beauty was enhanced!</language>
+		<language name="English">Skønhed blev forbedret!</language>
 	</row>
 	<row id="narc_0404_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cuteness was enhanced!</language>
+		<language name="English">Cuteness blev forbedret!</language>
 	</row>
 	<row id="narc_0404_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smartness was enhanced!</language>
+		<language name="English">Smartness blev forbedret!</language>
 	</row>
 	<row id="narc_0404_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nothing changed!</language>
+		<language name="English">Intet ændret sig!</language>
 	</row>
 	<row id="narc_0404_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It won’t eat any more...</language>
+		<language name="English">Den spiser ikke mere...</language>
 	</row>
 	<row id="narc_0404_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RIBBONS</language>
+		<language name="English">BÅND</language>
 	</row>
 	<row id="narc_0404_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
@@ -728,11 +728,11 @@
 	</row>
 	<row id="narc_0404_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0404_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Ribbons:</language>
+		<language name="English">Antal bånd:</language>
 	</row>
 	<row id="narc_0404_00183" index="183">
 		<attribute name="window_context_name">used</attribute>

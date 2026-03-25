@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0578_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="narc_0578_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0578_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -46,15 +46,15 @@
 	</row>
 	<row id="narc_0578_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 10, 0} was placed.</language>
+		<language name="English">De {STRVAR_1 10, 0} blev placeret.</language>
 	</row>
 	<row id="narc_0578_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can’t be placed here.</language>
+		<language name="English">Det kan ikke placeres her.</language>
 	</row>
 	<row id="narc_0578_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 10, 0} was\nreturned to the PC.</language>
+		<language name="English">De {STRVAR_1 10, 0} var\nvendt tilbage til pc'en.</language>
 	</row>
 	<row id="narc_0578_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,15 +62,15 @@
 	</row>
 	<row id="narc_0578_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t remove a Big Boulder.</language>
+		<language name="English">Du kan ikke fjerne en Big Boulder.</language>
 	</row>
 	<row id="narc_0578_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t move a Big Boulder.</language>
+		<language name="English">Du kan ikke flytte en Big Boulder.</language>
 	</row>
 	<row id="narc_0578_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are able to remove {STRVAR_1 51, 0} more\nBig Boulder.</language>
+		<language name="English">Du er i stand til at fjerne {STRVAR_1 51, 0} mere\nStor Boulder.</language>
 	</row>
 	<row id="narc_0578_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -78,7 +78,7 @@
 	</row>
 	<row id="narc_0578_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are no decoration goods stored\non your PC.</language>
+		<language name="English">Der er ingen dekorationsvarer opbevaret\npå din pc.</language>
 	</row>
 	<row id="narc_0578_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -102,6 +102,6 @@
 	</row>
 	<row id="narc_0578_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are able to remove {STRVAR_1 51, 0} more\nBig Boulders.</language>
+		<language name="English">Du er i stand til at fjerne {STRVAR_1 51, 0} mere\nStore kampesten.</language>
 	</row>
 </body>

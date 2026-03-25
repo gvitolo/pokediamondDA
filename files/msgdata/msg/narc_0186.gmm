@@ -2,99 +2,99 @@
 <body language="English">
 	<row id="narc_0186_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Park!\rIt’s your first time, isn’t it?\nPlease step this way.\r</language>
+		<language name="English">Velkommen til Battle Park!\rDet er din første gang, ikke?\nVær venlig at gå denne vej.\r</language>
 	</row>
 	<row id="narc_0186_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Since this is your first visit, you\nneed to be given a Point Card.\rPoint Cards are used only in\nthe Battle Park.\rHere you go.\r</language>
+		<language name="English">Da dette er dit første besøg, skal du have udleveret et Point Card.\rPoint Cards bruges kun i Battle Park.\rHer du går.\r</language>
 	</row>
 	<row id="narc_0186_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you need information on the Point\nCard, please ask the receptionist\fnext to me.\rI’m the one to ask if you need any\ninformation on the facilities here\fin the Battle Park.\rFor information on the battle rules\nused at the Battle Park, please ask\fthe receptionist across from me.\r</language>
+		<language name="English">Hvis du har brug for oplysninger på Point\nCard, så spørg receptionisten\fved siden af ​​mig.\rDet er mig, der spørger, hvis du har brug for information om faciliteterne her\fi Battle Park.\rFor information om kampreglerne\nbrugt i Battle Park, bedes du spørge\freceptionisten overfor mig.\r</language>
 	</row>
 	<row id="narc_0186_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Park!\rIf you need any information on the\nfacilities, I’m the one to ask.\r</language>
+		<language name="English">Velkommen til Battle Park!\rHvis du har brug for information om\nfaciliteterne, er jeg den, der skal spørge.\r</language>
 	</row>
 	<row id="narc_0186_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you like me to explain?</language>
+		<language name="English">Hvad vil du have mig til at forklare?</language>
 	</row>
 	<row id="narc_0186_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Park is a place where\nTrainers may enjoy battles.\rThere are two facilities in\nthe Battle Park: the Exchange Service\fCorner and the Battle Tower.\r</language>
+		<language name="English">Battle Park er et sted, hvor trænere kan nyde kampe.\rDer er to faciliteter i Battle Park: Exchange Service\fhjørnet og Battle Tower.\r</language>
 	</row>
 	<row id="narc_0186_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Exchange Service Corner is the\nbuilding that looks like a castle.\rThere, you may exchange the BP\n(Battle Points) you’ve earned for\fitems.\rFabulous prizes are offered, so\nplease do visit the Exchange Service\fCorner when you save up BP.\r</language>
+		<language name="English">Exchange Service Corner er bygningen, der ligner et slot.\rDer kan du bytte de BP\n(Battle Points), du har optjent, for\fgenstande.\rFantastiske præmier tilbydes, så besøg venligst Exchange Service\fhjørnet, når du sparer BP op.\r</language>
 	</row>
 	<row id="narc_0186_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower is the building\nat the back of the Battle Park.\rThe tower has four sets of Battle\nRooms for different kinds of battles.\rThe Single Battle Rooms are for\nconducting one-on-one battles.\rThe Double Battle Rooms are for\ntwo-on-two battles.\rThe Multi Battle Rooms are for\ntag team battles with a partner.\rThe Wi-Fi Battle Rooms are for\nbattling other Trainers from around\fthe world.\r</language>
+		<language name="English">Battle Tower er bygningen\npå bagsiden af Battle Park.\rTårnet har fire sæt Battle\nRooms til forskellige slags kampe.\rEnkelt Battle Rooms er til\nafvikling af en-til-en kampe.\rDobbelt Battle Rooms er for\nto-mod-to-kampe.\rSlaget er\rMultiværelsespartneren. Wi-Fi Battle Rooms er til kamp mod andre trænere fra hele verden.\r</language>
 	</row>
 	<row id="narc_0186_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Park!\rI can explain how the Point Card and\nthe BP (Battle Points) work.\r</language>
+		<language name="English">Velkommen til Battle Park!\rJeg kan forklare, hvordan Point Card og\nBP (Battle Points) fungerer.\r</language>
 	</row>
 	<row id="narc_0186_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you like me to explain?</language>
+		<language name="English">Hvad vil du have mig til at forklare?</language>
 	</row>
 	<row id="narc_0186_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Every Trainer visiting the Battle Park\nis provided with a Point Card that\fconfirms their challenger status.\rThe Point Card stores BP (Battle\nPoints) that you earn from battling\fin the Battle Tower.\r</language>
+		<language name="English">Hver træner, der besøger Battle Park\n, er forsynet med et pointkort, som bekræfter deres udfordrerstatus.\rPunktkortet gemmer BP (Battle\nPoints), som du tjener ved at kæmpe\fi Battle Tower.\r</language>
 	</row>
 	<row id="narc_0186_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BP, short for Battle Points, are used\nonly in the Battle Park.\rYou will earn BP by hitting certain\nperformance targets battling at\fthe Battle Tower.\rThe BP can be traded for prizes at\nthe Exchange Service Corner.\r</language>
+		<language name="English">BP, en forkortelse for Battle Points, bruges kun i Battle Park.\rDu vil tjene BP ved at ramme bestemte\npræstationsmål, der kæmper ved\f Battle Tower.\rBP’en kan byttes til præmier i\n Exchange Service Corner.\r</language>
 	</row>
 	<row id="narc_0186_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Park!\rI can give you a rundown of the\nbattle rules that are used at\fthe Battle Tower.\r</language>
+		<language name="English">Velkommen til Battle Park!\rJeg kan give dig en oversigt over de kampregler, der bruges i Battle Tower.\r</language>
 	</row>
 	<row id="narc_0186_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you like me to explain?</language>
+		<language name="English">Hvad vil du have mig til at forklare?</language>
 	</row>
 	<row id="narc_0186_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the Battle Tower, you may enter\nPokémon in battles that are capped\fat Lv. 50.\rPokémon up to Lv. 50 may be entered\nwith a few exceptions.\rPokémon above Lv. 50 may also be\nentered, but their level will be\fcut to Lv. 50 in the Battle Tower.\rThe reduced level will be restored\nwhen you leave the Battle Tower.\rPlease keep in mind that your\nopponents will not use Pokémon below\fLv. 50.\r</language>
+		<language name="English">I Battle Tower kan du deltage i Pokémon i kampe, der er begrænset ved Lv. 50.\rPokémon op til Lv. 50 kan indtastes\nmed få undtagelser.\rPokémon over Lv. 50 kan også indtastes, men deres niveau vil blive skåret ned til Lv. 50 i Battle Tower.\rDet reducerede niveau vil blive genoprettet\nnår du forlader Battle Tower.\rHusk venligst, at dine\nmodstandere ikke vil bruge Pokémon under\fLv. 50.\r</language>
 	</row>
 	<row id="narc_0186_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excluding Eggs and certain exotic\nPokémon, virtually every species of\fPokémon may enter the Battle Tower.\rPlease be aware that the number of\nPokémon you may enter will depend\fon the course you challenge.\rYou are also permitted to take only\none of each kind of Pokémon into\fthe Battle Tower.\r</language>
+		<language name="English">Med undtagelse af æg og visse eksotiske Pokémon kan praktisk talt alle arter af Pokémon komme ind i Battle Tower.\rVær opmærksom på, at antallet af\nPokémon, du kan deltage i, afhænger\f af den bane, du udfordrer.\rDu har også tilladelse til kun at tage\nén af hver slags Pokémon i\rtårnet.</language>
 	</row>
 	<row id="narc_0186_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon may not be holding the\nsame kind of item in the Battle\fTower.\rPlease be sure the Pokémon entering\nthe Battle Tower are all holding\fdifferent items.\r</language>
+		<language name="English">Din Pokémon har muligvis ikke den samme slags genstande i Battle Tower.\rVær venlig at sikre dig, at Pokémonerne, der kommer ind i Battle Tower, alle har forskellige genstande.\r</language>
 	</row>
 	<row id="narc_0186_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good luck!</language>
+		<language name="English">Held og lykke!</language>
 	</row>
 	<row id="narc_0186_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Park!</language>
+		<language name="English">Velkommen til Battle Park!</language>
 	</row>
 	<row id="narc_0186_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0186_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE PARK</language>
+		<language name="English">SLAGSPARK</language>
 	</row>
 	<row id="narc_0186_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXCHANGE SERVICE CORNER</language>
+		<language name="English">BYTTESERVICEHJØRNE</language>
 	</row>
 	<row id="narc_0186_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE TOWER</language>
+		<language name="English">SLAGTÅRNET</language>
 	</row>
 	<row id="narc_0186_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POINT CARD</language>
+		<language name="English">PUNKT KORT</language>
 	</row>
 	<row id="narc_0186_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -102,18 +102,18 @@
 	</row>
 	<row id="narc_0186_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEVEL LIMIT</language>
+		<language name="English">NIVEAUGRÆNSE</language>
 	</row>
 	<row id="narc_0186_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPECIES &amp; NUMBERS</language>
+		<language name="English">ART OG TAL</language>
 	</row>
 	<row id="narc_0186_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HOLD ITEMS</language>
+		<language name="English">HOLD VARER</language>
 	</row>
 	<row id="narc_0186_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s up ahead.\rI wonder what kind of Trainers\nare waiting there?</language>
+		<language name="English">Battle Tower er fremme.\rJeg spekulerer på, hvilken slags trænere\nder venter der?</language>
 	</row>
 </body>

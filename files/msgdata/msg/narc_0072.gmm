@@ -1,99 +1,99 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0072_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello! Welcome to the Oreburgh\nMining Museum!</language>
+		<language name="English">Hallo! Velkommen til Oreburgh\nMinemuseet!</language>
 	</row>
 	<row id="narc_0072_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, hello!\nHow are you?\rI study Pokémon Fossils!\nMe! Right here and now!\r</language>
+		<language name="English">Hallo, hallo!\nHvordan går det?\rJeg studerer Pokémon Fossils!\nMig! Lige her og nu!\r</language>
 	</row>
 	<row id="narc_0072_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have a Fossil for me, yes?\nShall I turn it into a Pokémon?</language>
+		<language name="English">Du har en Fossil til mig, ikke?\nSkal jeg gøre det til en Pokémon?</language>
 	</row>
 	<row id="narc_0072_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Fossil should I turn back\ninto a Pokémon? Choose! Now!</language>
+		<language name="English">Hvilken Fossil skal jeg vende tilbage\nI en Pokémon? Vælg! Nu!</language>
 	</row>
 	<row id="narc_0072_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, I will do that! Turn that Fossil\nback into a Pokémon, surely I will!</language>
+		<language name="English">Okay, det gør jeg! Drej den Fossil\nTilbage til en Pokémon, sikkert jeg vil!</language>
 	</row>
 	<row id="narc_0072_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t wish that I extract any\nPokémon from a Fossil. Fine, then!</language>
+		<language name="English">Du ønsker ikke, at jeg udtrækker nogen\nPokémon fra Fossil. Fint!</language>
 	</row>
 	<row id="narc_0072_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am in the process of extracting\nyour Pokémon from a Fossil.\rYou go outside, yes, please. Now!\nTime alone is what I now need. NOW!!!</language>
+		<language name="English">Jeg er ved at udvinde\ndin Pokémon fra en Fossil.\rDu går udenfor, ja, tak. Nu!\nJeg har brug for tid alene. Nu!</language>
 	</row>
 	<row id="narc_0072_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You were gone too long!\nYou kept us waiting! Unacceptable!\rThis is your {STRVAR_1 0, 0}!\nYou be good to it, OK!\r</language>
+		<language name="English">Du var væk for længe!\nDu lod os vente! Uacceptabelt!\rDette er din {STRVAR_1 0, 0}!\nVær god ved det, OK!\r</language>
 	</row>
 	<row id="narc_0072_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} received\nthe {STRVAR_1 0, 1}!\r</language>
+		<language name="English">{STRVAR_1 3, 0} modtaget\n{STRVAR_1 0, 1}!\r</language>
 	</row>
 	<row id="narc_0072_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give a nickname to the {STRVAR_1 0, 1}\nyou received?</language>
+		<language name="English">Giv et øgenavn til {STRVAR_1 0, 1}\nHar du modtaget?</language>
 	</row>
 	<row id="narc_0072_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But, no, I cannot do this!\nYou have too many Pokémon with you!\rI must hold it for you, so come back,\nyou, and take it away, please.</language>
+		<language name="English">Men nej, jeg kan ikke gøre det!\nDu har for mange Pokémon med dig!\rJeg må holde den for dig, så kom tilbage.\nTag den væk.</language>
 	</row>
 	<row id="narc_0072_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it is a Fossil that you obtain,\nbring it to me if you must.</language>
+		<language name="English">Hvis det er en Fossil, du får,\nGiv mig den, hvis du skal.</language>
 	</row>
 	<row id="narc_0072_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">On the verge of a breakthrough,\nI am, to achieve extraction from\fFossils.\rFrom Fossils I can extract Pokémon,\nbut not yet, not yet.</language>
+		<language name="English">På randen af et gennembrud,\nJeg er, at opnå udvinding fra\fFossils.\rFra Fossils kan jeg udtrække Pokémon,\nMen ikke endnu.</language>
 	</row>
 	<row id="narc_0072_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoa! So this is coal?\nI never expected something this big!</language>
+		<language name="English">Whoa! Så det er kul?\nJeg havde aldrig forventet noget så stort!</language>
 	</row>
 	<row id="narc_0072_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! The Pokémon that carried this\nmust be terribly strong!</language>
+		<language name="English">Wow! Pokémon, der bar dette\nMå være frygtelig stærk!</language>
 	</row>
 	<row id="narc_0072_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, how about that!\rThe Oreburgh Mine extends\nunder the seafloor!</language>
+		<language name="English">Hvad siger du så?\rOreburgh minen strækker sig\nunder havbunden!</language>
 	</row>
 	<row id="narc_0072_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How Coal Is Made   1\r“In a time long before history,\nvegetative matter was swept along\rby rain and rivers. It came to be\nburied under the ground.”</language>
+		<language name="English">Hvordan kul er lavet 1\r“I en tid lang før historien,\nVegetativ sag blev fejet sammen\raf regn og floder. Det kom til\nbegravet under jorden ”.</language>
 	</row>
 	<row id="narc_0072_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How Coal Is Made   2\r“The buried plant matter was\nforced ever deeper under the ground\rdue to tremors and fissures caused\nby the shifting landmasses.”</language>
+		<language name="English">Hvordan kul er lavet 2\r“Den begravede plante stof var\ntvunget stadig dybere under jorden\rpå grund af rystelser og sprækker forårsaget\naf de skiftende landmasser ”.</language>
 	</row>
 	<row id="narc_0072_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How Coal Is Made   3\r“Deep under the ground, the\nplant matter was subjected to heavy\rpressure and the heat of magma.\nIt gradually turned into coal.”</language>
+		<language name="English">Hvordan kul er lavet 3\r“Dybt under jorden,\nplantemateriale blev udsat for tunge\rtryk og magmaens varme.\nDet blev efterhånden til kul ”.</language>
 	</row>
 	<row id="narc_0072_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Samples of coal from different regions\nare displayed.</language>
+		<language name="English">Prøver af kul fra forskellige regioner\nvises.</language>
 	</row>
 	<row id="narc_0072_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The box contains categorized samples\nof coal.</language>
+		<language name="English">Æsken indeholder kategoriserede prøver\naf kul.</language>
 	</row>
 	<row id="narc_0072_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Different kinds of lamps are\ndisplayed.\rThey appear to have been worn\non someone’s head while underground.</language>
+		<language name="English">Forskellige typer af lygter er\nvises.\rDe synes at have været slidt\npå nogens hoved, mens de er under jorden.</language>
 	</row>
 	<row id="narc_0072_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Badly scarred wooden tools are\ndisplayed.\rThey apparently dug out coal using\nthese tools in the olden days.</language>
+		<language name="English">Stort arret træ værktøj er\nvises.\rDe tilsyneladende gravet ud kul ved hjælp af\nDisse værktøjer i gamle dage.</language>
 	</row>
 	<row id="narc_0072_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The everyday items and tools of\npast mine workers are displayed.</language>
+		<language name="English">De daglige elementer og værktøjer\nDer vises minearbejdere.</language>
 	</row>
 </body>

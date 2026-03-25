@@ -1,27 +1,27 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0032_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, thank you for taking the time\nout of your busy day to visit us.\rTo which floor may I take you?</language>
+		<language name="English">Hej, tak fordi du tog dig tid\nud af din travle dag til at besøge os.\rHvilken etage skal du på?</language>
 	</row>
 	<row id="narc_0032_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I look forward to serving you again.</language>
+		<language name="English">Jeg ser frem til at tjene dig igen.</language>
 	</row>
 	<row id="narc_0032_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Certainly.\nElevator going up.\r</language>
+		<language name="English">Selvfølgelig.\nElevatoren stiger.\r</language>
 	</row>
 	<row id="narc_0032_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Certainly.\nElevator going down.\r</language>
+		<language name="English">Selvfølgelig.\nElevatoren går ned.\r</language>
 	</row>
 	<row id="narc_0032_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry, we are already on that floor.</language>
+		<language name="English">Undskyld, vi er allerede på den etage.</language>
 	</row>
 	<row id="narc_0032_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here we are!</language>
+		<language name="English">Så er vi hende!</language>
 	</row>
 </body>

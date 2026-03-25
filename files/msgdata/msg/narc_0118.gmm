@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="narc_0118_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hiya!\nOh, you’re a Trainer!\rThat means you’re using Pokémon\nBoxes! I love meeting end users!\rOh, what’s up?\nWhy that astonished look?\rOh, right, sorry!\nThere I go running my mouth again!\rMy name’s Bebe!\rYou know the PC Pokémon Boxes?\nI’m the system administrator!</language>
+		<language name="English">Hej!\nÅh, du er en træner!\rDet betyder, at du bruger Pokémon\nBoxes! Jeg elsker at møde slutbrugere!\rÅh, hvad sker der?\nHvorfor det forbløffede blik?\rÅh, ikke sandt, undskyld!\nDer løber jeg i munden igen!\rJeg hedder Bebe!\rKender du PC Pokémon-boksene?\nJeg er systemadministratoren!</language>
 	</row>
 	<row id="narc_0118_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bebe: My buddy Bill developed the\nbasic storage system.\rI tinkered with it here and there\nto make it easier for me to use.</language>
+		<language name="English">Bebe: Min kammerat Bill udviklede det grundlæggende lagringssystem.\rJeg pillede ved det her og der\nfor at gøre det nemmere for mig at bruge.</language>
 	</row>
 	<row id="narc_0118_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bebe: Hiya! Been a long time!\nHow’s it going? Using the PC Boxes?\rOh? Now lookie here, that’s a National\nPokédex I’m seeing. Good for you!\rYou’ll be using my Boxes like crazy\nif you’re using that now.\rWell, I always thought a good Trainer\nought to juggle Boxes smartly, though\fI shouldn’t be the one to say so.\rOh yeah, do you want a Pokémon named\nEEVEE?</language>
+		<language name="English">Bebe: Hej! Det er længe siden!\nHvordan går det? Bruger du pc-boksene?\rÅh? Se her, det er en National\nPokédex, jeg ser. Godt for dig!\rDu kommer til at bruge mine Boxes som en sindssyg\nhvis du bruger det nu.\rNå, jeg har altid troet, at en god træner\nskulle jonglere med Boxes smart, selvom\f jeg ikke burde være den, der siger det.\rÅh ja, vil du have en Pokémon ved navn\nEEVEE?</language>
 	</row>
 	<row id="narc_0118_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bebe: So, do you want that EEVEE\nthat I’ve got?</language>
+		<language name="English">Bebe: Så vil du have den EEVEE\n, som jeg har?</language>
 	</row>
 	<row id="narc_0118_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bebe: Here you go!\nNow, you be good to it.\r</language>
+		<language name="English">Bebe: Værsgo!\nNu skal du være god til det.\r</language>
 	</row>
 	<row id="narc_0118_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} obtained\nan EEVEE!\r</language>
+		<language name="English">{STRVAR_1 3, 0} fået\nen EEVEE!\r</language>
 	</row>
 	<row id="narc_0118_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to give a nickname\nto the EEVEE that Bebe gave you?</language>
+		<language name="English">Kunne du tænke dig at give et kaldenavn\n til den EEVEE, som Bebe gav dig?</language>
 	</row>
 	<row id="narc_0118_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bebe: Here you go!\rWait, I can’t do that! You can’t\ntake any more Pokémon with you!\rRight about now, my Pokémon Boxes\ncome in handy!</language>
+		<language name="English">Bebe: Værsgo!\rVent, det kan jeg ikke! Du kan ikke tage flere Pokémon med dig!\rLige nu er mine Pokémon-bokse nyttige!</language>
 	</row>
 	<row id="narc_0118_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bebe: Oh, OK...\nGuess I’ll have to raise it myself.</language>
+		<language name="English">Bebe: Åh, okay...\nJeg bliver nødt til at hæve det selv.</language>
 	</row>
 	<row id="narc_0118_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bebe: That EEVEE I gave you,\nI got it from a good mate in Johto.\rWho knows how many EEVEE he’s raised\nover the years.</language>
+		<language name="English">Bebe: Den EEVEE, jeg gav dig,\nden fik jeg af en god makker i Johto.\rHvem ved, hvor mange EEVEE han har opfostret gennem årene.</language>
 	</row>
 </body>

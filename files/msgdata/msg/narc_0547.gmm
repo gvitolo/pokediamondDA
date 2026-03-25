@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0547_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All I need to be happy is my TV.\nThat’s all I need.\rI learn so much just sitting here.\nI absorb knowledge!\rI learned about the Pokétch app\nMarking Map, for instance.\rThey say the Marking Map can track\nPokémon that travel around.\r...I’ve never met any traveling\nPokémon, but I’ve heard about them.</language>
+		<language name="English">Alt, hvad jeg behøver for at være glad, er mit tv.\nDet er alt, hvad jeg har brugt for.\rJeg lærer så meget bare at sidde her.\nJeg absorberer viden!\rJeg lærte f.eks. om Pokétch-appen\nMarking Map.\rDe siger, at Marking Map kan spore\nPokémon, der rejser rundt.\r...Jeg rejser rundt.\r...Jeg har aldrig mødt nogen.</language>
 	</row>
 	<row id="narc_0547_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s big trouble!\nThey’re saying the volcano’ll erupt!\rI might even have to leave here!</language>
+		<language name="English">Der er store problemer!\nDe siger, at vulkanen vil gå i udbrud!\rJeg bliver måske endda nødt til at gå herfra!</language>
 	</row>
 </body>

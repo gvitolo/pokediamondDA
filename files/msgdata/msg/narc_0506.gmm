@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0506_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If a Pokémon loses all its HP,\nit can’t battle anymore.\rI’m buying lots of Potions to avoid\nhaving that happen!</language>
+		<language name="English">Hvis en Pokémon mister al sin HP,\ndet kan ikke kæmpe mere.\rJeg køber masser af potions for at undgå\nat det sker!</language>
 	</row>
 	<row id="narc_0506_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

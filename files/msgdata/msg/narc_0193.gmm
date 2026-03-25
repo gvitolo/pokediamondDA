@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="narc_0193_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JUMP</language>
+		<language name="English">SPRINGE</language>
 	</row>
 	<row id="narc_0193_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UP</language>
+		<language name="English">OP</language>
 	</row>
 	<row id="narc_0193_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,35 +14,35 @@
 	</row>
 	<row id="narc_0193_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEFT</language>
+		<language name="English">VENSTRE</language>
 	</row>
 	<row id="narc_0193_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RIGHT</language>
+		<language name="English">HØJRE</language>
 	</row>
 	<row id="narc_0193_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent!</language>
+		<language name="English">Fremragende!</language>
 	</row>
 	<row id="narc_0193_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good!</language>
+		<language name="English">God!</language>
 	</row>
 	<row id="narc_0193_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miss!</language>
+		<language name="English">Gå glip af!</language>
 	</row>
 	<row id="narc_0193_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Dance Competition is ready to\nget under way!\rCan the backup dancers flawlessly\nfollow the main dancer’s steps?!\rOK! Everybody, let’s dance!\nStart the music!\r</language>
+		<language name="English">Dansekonkurrencen er klar til at\ngå i gang!\rKan backupdanserne fejlfrit\nfølge hoveddanserens trin?!\rOK! Alle sammen, lad os danse!\nStart musikken!\r</language>
 	</row>
 	<row id="narc_0193_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Perform {STRVAR_1 50, 0} steps as the main dancer!{COLOR 0}</language>
+		<language name="English">{COLOR 2}Udfør {STRVAR_1 50, 0} trin som hoveddanser!{COLOR 0}</language>
 	</row>
 	<row id="narc_0193_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 1}Copy the Pokémon before you!{COLOR 0}</language>
+		<language name="English">{COLOR 1}Kopiér Pokémon’en før dig!{COLOR 0}</language>
 	</row>
 	<row id="narc_0193_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
@@ -81,14 +81,14 @@
 	</row>
 	<row id="narc_0193_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s it for the Dance Competition!\rLeading in points right now is\n{STRVAR_1 3, 0}!\rCan anyone turn things around in the\nActing Competition?\r</language>
+		<language name="English">Det var det for Dansekonkurrencen!\rAt føre i point lige nu er\n{STRVAR_1 3, 0}!\rKan nogen vende tingene i\nSkuespillerkonkurrencen?\r</language>
 	</row>
 	<row id="narc_0193_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome! Thanks for joining our\npractice Contest!\rFeel free to practice all you want\nand train for the big show!\rI’ll be taking part to practice up\non being an MC!\r</language>
+		<language name="English">Velkomst! Tak fordi du deltog i vores\nøvelseskonkurrence!\rDu er velkommen til at øve alt hvad du vil\nog træne til det store show!\rJeg deltager for at øve mig på at blive MC!\r</language>
 	</row>
 	<row id="narc_0193_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Looks like everyone’s here, so let’s\nget on with our dance practice!\r{STRVAR_1 1, 0}, you need to dance just\nlike the main dancer.\rAfter dancing twice, the main dancer\nswitches with a backup dancer.\rYou get to be the main dancer last.\nDo a dance that no one can imitate!\rOK! Start it up!\r</language>
+		<language name="English">Det ser ud til, at alle er her, så lad os\n komme videre med vores danseøvelse!\r{STRVAR_1 1, 0}, du skal danse ligesom hoveddanseren.\rEfter at have danset to gange, skifter hoveddanseren med en backupdanser.\rDu skal være hoveddanseren sidst.\nLav en dans, som ingen kan efterligne!\rOK! Start den!\r</language>
 	</row>
 </body>

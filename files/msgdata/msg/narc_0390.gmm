@@ -54,7 +54,7 @@
 	</row>
 	<row id="narc_0390_yes" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0390_here_goes" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -274,7 +274,7 @@
 	</row>
 	<row id="narc_0390_no" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0390_sigh" index="69">
 		<attribute name="window_context_name">used</attribute>

@@ -1,28 +1,28 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0617_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">まったく　けはいを　かんじさせずに\nいどうする。ポッポや　オニスズメの\nたまごを　まるのみ　してしまう。</language>
+		<language name="English">まったく　けはいを　かんじさせずに\nいどうする。ポッポや　オニスズメの\nたまごを　まるのみ　してしまう.</language>
 	</row>
 	<row id="narc_0617_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moving silently and stealthily, it eats\nthe eggs of birds, such as PIDGEY\nand SPEAROW, whole.</language>
+		<language name="English">Den bevæger sig lydløst og snigende og æder\næg fra fugle, såsom PIDGEY\nog SPEAROW, hel.</language>
 	</row>
 	<row id="narc_0617_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Il se déplace en silence pour dévorer des\nœufs de ROUCOOL ou de PIAFABEC.</language>
+		<language name="English">Il se déplace en stilhed pour dévorer des\nœufs de ROUCOOL eller de PIAFABEC.</language>
 	</row>
 	<row id="narc_0617_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dieses POKéMON kann sich lautlos bewegen.\nSeine Nahrung sind die Eier von VOGEL-\nPOKéMON.</language>
+		<language name="English">Dieses POKéMON kan sich lautlos bevæge sig.\nSeine Nahrung synd die Eier von VOGEL-\nPOKéMAN.</language>
 	</row>
 	<row id="narc_0617_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Si muove in modo silenzioso e furtivo.\nSi nutre di uova di uccelli come PIDGEY\ne SPEAROW, che ingoia intere.</language>
+		<language name="English">Si muove in mode silenzioso og furtivo.\nSi nutre di uova di uccelli kommer PIDGEY\ne SPEAROW, che ingoia intere.</language>
 	</row>
 	<row id="narc_0617_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Es muy silencioso y cauteloso.\nCome huevos de pájaros como\nlos de PIDGEY y SPEAROW.</language>
+		<language name="English">Es muy silencioso y cauteloso.\nKom huevos de pájaros como\nlos de PIDGEY og SPEAROW.</language>
 	</row>
 	<row id="narc_0617_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,15 +30,15 @@
 	</row>
 	<row id="narc_0617_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When several of these Pokémon gather,\ntheir electricity can build and cause\nlightning storms.</language>
+		<language name="English">Når flere af disse Pokémon samles,\nderes elektricitet kan bygge og forårsage\ntordenvejr.</language>
 	</row>
 	<row id="narc_0617_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quand plusieurs de ces POKéMON\nse réunissent, ils provoquent de\ngigantesques orages.</language>
+		<language name="English">Quand plusieurs de ces POKéMAN\nse réunissent, ils provoquent de\ngigantesques orages.</language>
 	</row>
 	<row id="narc_0617_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wenn sich mehrere dieser POKéMON\nversammeln, kann ihre Energie Blitzgewitter\nerzeugen.</language>
+		<language name="English">Wenn sich mehrere dieser POKéMAN\nversammeln, kan ihre Energie Blitzgewitter\nerzeugen.</language>
 	</row>
 	<row id="narc_0617_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="narc_0617_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">While lulling its enemies with its vacant\nlook, this wily Pokémon will use\npsychokinetic powers.</language>
+		<language name="English">Mens lulling sine fjender med sin ledige\nse, denne listige Pokémon vil bruge\npsykokinetiske kræfter.</language>
 	</row>
 	<row id="narc_0617_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,11 +62,11 @@
 	</row>
 	<row id="narc_0617_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dieses POKéMON lullt Gegner mit\nhypnotisierendem Blick ein, bevor es\nPSYKRAFT einsetzt.</language>
+		<language name="English">Dieses POKéMON lullt Gegner mit\nhypnotiserendem Blick ein, bevor es\nPSYKRAFT ansat.</language>
 	</row>
 	<row id="narc_0617_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mentre calma il nemico con il suo sguardo\nvacuo, questo POKéMON astuto usa poteri\npsicocinetici.</language>
+		<language name="English">Mentre calma il nemico con il suo sguardo\nvakuum, questo POKéMON astuto usa poteri\npsicocinetici.</language>
 	</row>
 	<row id="narc_0617_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -78,7 +78,7 @@
 	</row>
 	<row id="narc_0617_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its body is light, and its legs are\nincredibly powerful. It can clear\nAyers Rock in one leap.</language>
+		<language name="English">Dens krop er let, og dens ben er\nutrolig kraftfuld. Det kan klare\nAyers Rock i ét spring.</language>
 	</row>
 	<row id="narc_0617_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="narc_0617_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sein Körper ist leicht und seine Beine\nextrem kräftig. Es kommt mit einem\nSprung über den Ayers Rock.</language>
+		<language name="English">Sein Körper ist leicht und seine Beine\nekstrem kräftig. Es kommt mit enem\nAffjedret over den Ayers Rock.</language>
 	</row>
 	<row id="narc_0617_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -102,19 +102,19 @@
 	</row>
 	<row id="narc_0617_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It appears in large numbers by seashores.\nAt night, its central core flashes with a\nred light.</language>
+		<language name="English">Den optræder i stort antal ved kyster.\nOm natten blinker dens centrale kerne med en\nrødt lys.</language>
 	</row>
 	<row id="narc_0617_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">On peut voir des STARI en grand nombre\nprès des côtes. La nuit, le centre de son\ncorps clignote d’une lumière rouge.</language>
+		<language name="English">På peut voir des STARI en grand nombre\nprès des côtes. La nuit, sonens centrum\ncorps clignote d’une lumière rouge.</language>
 	</row>
 	<row id="narc_0617_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Es taucht in großer Anzahl an Ufern auf.\nNachts leuchtet der Kern in seiner Mitte\nrot auf.</language>
+		<language name="English">Es taucht in großer Anzahl an Ufern auf.\nNachts leuchtet der Kern i noter Mitte\nrot auf.</language>
 	</row>
 	<row id="narc_0617_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Se ne trovano molti in riva al mare.\nDi notte, il nucleo al centro del corpo\nlampeggia di una luce rossa.</language>
+		<language name="English">Se ne trovano molti i riva al mare.\nBemærk, il nucleo al centro del corpo\nlampeggia di una luce rossa.</language>
 	</row>
 	<row id="narc_0617_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -126,19 +126,19 @@
 	</row>
 	<row id="narc_0617_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the distant past, it was somewhat\nstronger than the horribly weak\ndescendants that exist today.</language>
+		<language name="English">I en fjern fortid var det noget\nstærkere end de frygtelig svage\nefterkommere, der findes i dag.</language>
 	</row>
 	<row id="narc_0617_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">La puissance de cette créature a\nbeaucoup régressé au fil des siècles.</language>
+		<language name="English">La puissance de cette creature a\nbeaucoup régressé au fil des siècles.</language>
 	</row>
 	<row id="narc_0617_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Die urzeitlichen Vorfahren dieses POKéMON\nwaren sehr viel stärker als ihre heutigen\nNachkommen.</language>
+		<language name="English">Die urzeitlichen Vorfahren dieses POKéMAN\nwaren sehr viel stärker als ihre heutigen\nNachkommen.</language>
 	</row>
 	<row id="narc_0617_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Anticamente era molto più forte\ndell’odierno discendente, che è\ndebolissimo.</language>
+		<language name="English">Anticamente æra molto più forte\ndell’odierno discendente, che è\ndebolissimo.</language>
 	</row>
 	<row id="narc_0617_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -150,11 +150,11 @@
 	</row>
 	<row id="narc_0617_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To keep its pitch-black tail hidden, it\nlives quietly in the darkness. It is never\nfirst to attack.</language>
+		<language name="English">For at holde den kulsorte hale skjult skal den\nlever stille i mørket. Det er det aldrig\nførst til at angribe.</language>
 	</row>
 	<row id="narc_0617_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pour cacher sa queue noire, il vit\ndiscrètement dans l’obscurité.\nIl n’attaque jamais le premier.</language>
+		<language name="English">Pour cacher sa queue noire, il vit\ndiskretion dans l’obscurité.\nIl n'attaque jamais le premier.</language>
 	</row>
 	<row id="narc_0617_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -162,7 +162,7 @@
 	</row>
 	<row id="narc_0617_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vive rintanato nell’oscurità per\nnascondere la coda nera come la pece.\nNon attacca mai per primo.</language>
+		<language name="English">Vive rintanato nell’oscurità pr\nnascondere la coda nera come la pece.\nNon attacca mai per primo.</language>
 	</row>
 	<row id="narc_0617_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -174,11 +174,11 @@
 	</row>
 	<row id="narc_0617_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Usually docile, but if disturbed while\nsipping honey, it chases off the intruder\nwith its horn.</language>
+		<language name="English">Normalt føjelig, men hvis forstyrret mens\nnipper til honning og jager den ubudne gæst af\nmed sit horn.</language>
 	</row>
 	<row id="narc_0617_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Le plus souvent docile, il chasse les\nintrus avec sa corne s’il est attaqué\nquand il mange du miel.</language>
+		<language name="English">Le plus souvent føjelig, il chasse les\nintrus avec sa corne s’il est attaqué\nquand il mange du miel.</language>
 	</row>
 	<row id="narc_0617_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -190,7 +190,7 @@
 	</row>
 	<row id="narc_0617_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Suele ser dócil, pero si se le molesta\nmientras succiona miel, perseguirá\ncon su cuerno al intruso.</language>
+		<language name="English">Suele ser dócil, men jeg se le molesta\nmientras succiona miel, perseguirá\ncon su cuerno al intruso.</language>
 	</row>
 	<row id="narc_0617_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -198,11 +198,11 @@
 	</row>
 	<row id="narc_0617_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vicious in nature, it drives PIDGEY from\ntheir nests and feasts on the eggs that\nare left behind.</language>
+		<language name="English">Ondskabsfuld af natur driver den PIDGEY fra\nderes reder og fester på æggene, der\ner efterladt.</language>
 	</row>
 	<row id="narc_0617_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">De nature agressive, il chasse les\nROUCOOL de leurs nids et dévore\nles œufs abandonnés.</language>
+		<language name="English">Naturen aggressiv, il chasse les\nROUCOOL de leurs nids et dévore\nles œufs abandonnés.</language>
 	</row>
 	<row id="narc_0617_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
@@ -210,11 +210,11 @@
 	</row>
 	<row id="narc_0617_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Di spirito malevolo, spinge i PIDGEY a\nlasciare il proprio nido per poi avventarsi\nsulle uova incustodite.</language>
+		<language name="English">Di spirito malevolo, spinge og PIDGEY a\nlasciare il proprio nido per poi avventarsi\nsulle uova incusstodite.</language>
 	</row>
 	<row id="narc_0617_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Es malvado por naturaleza. Saca a los\nPIDGEY de sus nidos para devorar sus\nhuevos.</language>
+		<language name="English">Es malvado por naturaleza. Saca a los\nPIDGEY de sus nidos for devorar sus\nhuevos.</language>
 	</row>
 	<row id="narc_0617_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -222,7 +222,7 @@
 	</row>
 	<row id="narc_0617_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Before food becomes scarce in wintertime,\nits habit is to hoard food in many hidden\nlocations.</language>
+		<language name="English">Før mad bliver knap om vinteren,\ndens vane er at hamstre mad i mange skjulte\nsteder.</language>
 	</row>
 	<row id="narc_0617_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -230,11 +230,11 @@
 	</row>
 	<row id="narc_0617_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steht der Winter vor der Türe, hortet es\nNahrung an vielen verschiedenen nur ihm\nbekannten Orten.</language>
+		<language name="English">Steht der Winter vor der Türe, hortet es\nNahrung an vielen verschiedenen nur ihm\nkendten Orten.</language>
 	</row>
 	<row id="narc_0617_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Per prepararsi all’inverno, è sua abitudine\naccumulare il cibo in diversi nascondigli.</language>
+		<language name="English">Per prepararsi all’inverno, è sua abitudine\nakkumulere il cibo i diversi nascondigli.</language>
 	</row>
 	<row id="narc_0617_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -246,7 +246,7 @@
 	</row>
 	<row id="narc_0617_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To corner prey, they check each other’s\nlocation using barks that only they can\nunderstand.</language>
+		<language name="English">For at hjørne byttet tjekker de hinandens\nplacering ved hjælp af gøen, som kun de kan\nforstå.</language>
 	</row>
 	<row id="narc_0617_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
@@ -270,11 +270,11 @@
 	</row>
 	<row id="narc_0617_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It rides upon ocean winds as if it were\na glider. In the winter, it hides food\naround its nest.</language>
+		<language name="English">Den rider på havvinde, som om den var\net svævefly. Om vinteren gemmer den mad\nomkring sin rede.</language>
 	</row>
 	<row id="narc_0617_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Il utilise les vents marins à la façon\nd’un planeur. En hiver, il cache de la\nnourriture autour de son nid.</language>
+		<language name="English">Jeg udnytter åbningerne til marins à la façon\nd'un planeur. En hiver, il cache de la\nnurriture autour de son nid.</language>
 	</row>
 	<row id="narc_0617_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
@@ -282,11 +282,11 @@
 	</row>
 	<row id="narc_0617_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vola sulle onde dell’oceano come\nun deltaplano. D’inverno, nasconde\ncibo vicino al nido.</language>
+		<language name="English">Vola sulle onde dell'oceano come\nen deltaplano. D'inverno, nasconde\ncibo vicino al nido.</language>
 	</row>
 	<row id="narc_0617_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vuela y planea siguiendo la brisa\noceánica. En invierno esconde comida\ncerca de su nido.</language>
+		<language name="English">Vuela y planea siguiendo la brisa\noceanica. En invierno esconde comida\ncerca de su nido.</language>
 	</row>
 	<row id="narc_0617_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
@@ -294,7 +294,7 @@
 	</row>
 	<row id="narc_0617_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It sleeps for 20 hours every day. Making\ndrowsy those that see it is one of\nits abilities.</language>
+		<language name="English">Den sover 20 timer hver dag. Fremstilling\ndøsige dem, der ser det er en af\ndens evner.</language>
 	</row>
 	<row id="narc_0617_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -302,15 +302,15 @@
 	</row>
 	<row id="narc_0617_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Es schläft 20 Stunden am Tag. Eine\nseiner Fähigkeiten liegt darin, diejenigen,\ndenen es begegnet, schläfrig zu machen.</language>
+		<language name="English">Es schläft 20 Stunden am Tag. Ene\nnoter Fähigkeiten ligger darin, diejenigen,\ndenen es begegnet, schläfrig zu machen.</language>
 	</row>
 	<row id="narc_0617_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dorme 20 ore al giorno. Una delle sue\nabilità è far venire sonnolenza a chi lo\nosserva.</language>
+		<language name="English">Dorme 20 ore al giorno. Una delle sagsøge\nabilità è far venire sonnolenza a chi lo\nosserva.</language>
 	</row>
 	<row id="narc_0617_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Se pasa 20 horas al día durmiendo.\nUna de sus habilidades es hacer que\nle entre sueño al que tiene al lado.</language>
+		<language name="English">Se pasa 20 timer al día durmiendo.\nUna de sus habilidades es hacer que\nle entre sueño al que tiene al lado.</language>
 	</row>
 	<row id="narc_0617_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
@@ -318,11 +318,11 @@
 	</row>
 	<row id="narc_0617_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its flowers give off a relaxing fragrance.\nThe stronger its aroma, the healthier\nthe ROSELIA is.</language>
+		<language name="English">Dens blomster afgiver en afslappende duft.\nJo stærkere dens aroma, jo sundere\nROSELIA er.</language>
 	</row>
 	<row id="narc_0617_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ses fleurs dégagent un parfum relaxant.\nPlus fort est cet arôme, et plus ROSELIA\nest en bonne santé.</language>
+		<language name="English">Ses fleurs dégagent og parfume afslappende.\nPlus fort est cet arôme, et plus ROSELIA\nest en bonne santé.</language>
 	</row>
 	<row id="narc_0617_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -330,7 +330,7 @@
 	</row>
 	<row id="narc_0617_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dai suoi fiori si diffonde una fragranza\nrilassante. Più intenso è il profumo,\npiù questo POKéMON è forte.</language>
+		<language name="English">Dai suoi fiori si difffonde una fragranza\nrilassante. Più intenso è il profumo,\npiù questo POKéMAN è forte.</language>
 	</row>
 	<row id="narc_0617_00083" index="83">
 		<attribute name="window_context_name">used</attribute>

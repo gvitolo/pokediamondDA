@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0048_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Poké Ball that makes it easy to\ncatch the same kinds of Pokémon...\rWell, that’s the Repeat Ball!</language>
+		<language name="English">En Poké Ball, der gør det nemt at\nfange de samme slags Pokémon...\rDet er Repeat Ball!</language>
 	</row>
 	<row id="narc_0048_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What should I buy for an outing to\nIron Island, I wonder?</language>
+		<language name="English">Hvad skal jeg købe for en udflugt til\nIron Island, mon?</language>
 	</row>
 </body>

@@ -1,31 +1,31 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0510_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, so that Rowan fellow is back?\nHe’s quite the remarkable man.\rHe’s been studying Pokémon since way,\nway back.\rMy son and grandchild help Rowan\nwith his studies now.</language>
+		<language name="English">Ah, så den Rowan fyr er tilbage?\nHan er en ganske bemærkelsesværdig mand.\rHan har studeret Pokémon siden,\nhelt tilbage.\rMin søn og barnebarn hjælper Rowan\nmed sine studier nu.</language>
 	</row>
 	<row id="narc_0510_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, my!\nYou’ve got a National Pokédex?\fHow fantastic is that?!\rRowan should be delighted.\nIt will greatly help his research.\rBut, young Trainer...\nYou should know this.\rIn this world, there are 300...\nNo, 400...\rNo, no, no! There’re a lot more\nkinds of Pokémon than that!</language>
+		<language name="English">Åh, min!\nHar du en National Pokédex?\fHvor fantastisk er det?!\rRowan burde glæde sig.\nDet vil i høj grad hjælpe hans forskning.\rMen, unge træner...\nDu burde vide dette.\rI denne verden er der 300...\nNej, 400...\rNej, nej, nej! Der er meget mere\nslags Pokémon end det!</language>
 	</row>
 	<row id="narc_0510_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?\r...\rOh...\nYou’re {STRVAR_1 3, 0}?\rHey, you’re doing that Pokédex thingy\nfor the professor!\rWow! That’s the same as my big\nsister! Go for it!</language>
+		<language name="English">Hvem er du?\r...\rÅh...\nDu er {STRVAR_1 3, 0}?\rHej, du laver den der Pokédex-ting\nfor professoren!\rWow! Det er det samme som min store\nsøster! Gå efter det!</language>
 	</row>
 	<row id="narc_0510_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?\r...\rOh...\nYou’re {STRVAR_1 3, 0}?\rYou’re doing that Pokédex thingy\nfor the professor!\rWow! That’s the same as my big\nbrother! Go for it!</language>
+		<language name="English">Hvem er du?\r...\rÅh...\nDu er {STRVAR_1 3, 0}?\rDu laver den der Pokédex-ting\nfor professoren!\rWow! Det er det samme som min store\nbror! Gå efter det!</language>
 	</row>
 	<row id="narc_0510_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, hi, {STRVAR_1 3, 0}!\rThere was news on TV saying there\nis a massive outbreak of Pokémon!\rThat’d be great for filling up your\nPokédex!</language>
+		<language name="English">Åh, hej, {STRVAR_1 3, 0}!\rDer var nyheder på tv der sagde\ner et massivt udbrud af Pokémon!\rDet ville være fantastisk til at fylde din\nPokédex!</language>
 	</row>
 	<row id="narc_0510_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me see...\nWhat did that news say now...?\r{STRVAR_1 4, 1}! They said there’s\na whole bunch of {STRVAR_1 0, 2} there!\r{STRVAR_1 3, 0}, you have to hurry!\rI want you to do better than my\nsister Dawn!</language>
+		<language name="English">Lad mig se...\nHvad sagde den nyhed nu...?\r{STRVAR_1 4, 1}! De sagde, at der er\nen hel flok {STRVAR_1 0, 2} der!\r{STRVAR_1 3, 0}, du skal skynde dig!\rJeg vil have dig til at gøre det bedre end min\nsøster Dawn!</language>
 	</row>
 	<row id="narc_0510_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me see...\nWhat did that news say now...?\r{STRVAR_1 4, 1}! They said there’s\na whole bunch of {STRVAR_1 0, 2} there!\r{STRVAR_1 3, 0}, you have to hurry!\rI want you to do better than my\nbrother Lucas!</language>
+		<language name="English">Lad mig se...\nHvad sagde den nyhed nu...?\r{STRVAR_1 4, 1}! De sagde, at der er\nen hel flok {STRVAR_1 0, 2} der!\r{STRVAR_1 3, 0}, du skal skynde dig!\rJeg vil have dig til at gøre det bedre end min\nbror Lucas!</language>
 	</row>
 </body>

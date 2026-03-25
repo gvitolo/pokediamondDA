@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0059_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Badges that Pokémon Gyms give\nyou are a measure of a Trainer’s\fworth.\rBy getting more Badges, you get to\nbuy more items in Poké Marts.</language>
+		<language name="English">De Badges, Pokémon Gymnasiegiver\ndu er et mål for en Trainer ’s\fVærd.\rVi at få flere Badges, du kommer til\nkolbe flere elementer i Poké Marts.</language>
 	</row>
 	<row id="narc_0059_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Poké Mart girls are so pretty,\nthey leave me tongue tied.\rThey sell all sorts of great items,\nso I get even more flustered...</language>
+		<language name="English">Poké Mart pigerne er så smukke,\nDe lader mig være i fred.\rDe sælger alle mulige gode ting,\nSå jeg bliver endnu mere...</language>
 	</row>
 </body>

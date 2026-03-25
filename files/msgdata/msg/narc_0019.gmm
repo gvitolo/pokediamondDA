@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0019_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’re catching a Pokémon,\nyou have to get its HP down.\rIf you don’t, Poké Balls won’t be\nvery effective.</language>
+		<language name="English">Hvis du fanger en Pokémon,\nDu er nødt til at få sin HP ned.\rHvis du ikke gør, Poké Balls vil ikke være\nmeget effektiv.</language>
 	</row>
 	<row id="narc_0019_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I need Potions most of all!\rIf my Pokémon faints, my eyes grow\ndim and I can’t see!</language>
+		<language name="English">Jeg har mest brug for Potions!\rHvis min Pokémon falmer, mine øjne vokser\nDim og jeg kan ikke se!</language>
 	</row>
 </body>

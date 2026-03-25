@@ -2,99 +2,99 @@
 <body language="English">
 	<row id="narc_0183_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Oh, hey, {STRVAR_1 3, 1}!\nWhat took you so long?\fI’m fining you $100 million!\rListen up. I’m going to become\nthe greatest Trainer ever.\rThat’s why I’m here--to toughen\nup myself and my Pokémon!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Åh, hej, {STRVAR_1 3, 1}!\nHvad tog dig så lang tid?\fJeg giver dig en bøde på 100 millioner dollars!\rHør nu. Jeg vil blive\nden bedste træner nogensinde.\rDet er derfor, jeg er her – for at skærpe\n mig selv og min Pokémon!\r</language>
 	</row>
 	<row id="narc_0183_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hehehe! Sorry!\nI couldn’t help overhearing that.\rBut the greatest Trainer ever?!\nThat’s going to be really tough.\fBecause you’re talking about me!\rTo prove that, I’m going to the\nvolcano right now.\rYou look puzzled. You really don’t\nknow anything, do you?\rAll right, I’ll tell you.\nThis is the Battle Zone, OK?\rAt the far end, there’s a volcano.\rAnd deep inside the volcano, there’s\nsupposed to be a treasure.\r</language>
+		<language name="English">Hehehe! Undskyld!\nJeg kunne ikke lade være med at overhøre det.\rMen den bedste træner nogensinde?!\nDet bliver virkelig hårdt.\fFordi du taler om mig!\rFor at bevise det, tager jeg til\nvulkanen lige nu.\rDu ser forvirret ud. Du ved virkelig ikke noget, gør du?\rOkay, det skal jeg fortælle dig.\nDette er Battle Zone, OK?\rLængst ude er der en vulkan.\rOg dybt inde i vulkanen skal der\n være en skat.\r</language>
 	</row>
 	<row id="narc_0183_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: So?\nWhat’s the big deal?\rIf I find that treasure first, that’ll\nmake me the greatest Trainer ever?\rThat’s what I’ll do, {STRVAR_1 3, 1}!\nAnd you too, stranger!\fI’m gonna get the treasure first!\rBut before that, I’m going to the\nBattle Tower! See ya!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Så?\nHvad er det store problem?\rHvis jeg finder den skat først, vil det gøre mig til den bedste træner nogensinde?\rDet er det, jeg vil gøre, {STRVAR_1 3, 1}!\nOg du også, fremmede!\fJeg skal hente skatten først til det!\rBatt før det!\rBatt før det! Vi ses!\r</language>
 	</row>
 	<row id="narc_0183_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That guy...\nHe can’t stay still, can he?\r</language>
+		<language name="English">Den fyr...\nHan kan vel ikke blive stille, vel?\r</language>
 	</row>
 	<row id="narc_0183_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Anyways, howdy, I’m Buck.\nSheesh, that punk can’t beat me.\rSo, do you know that zippity-doodah\nof a Trainer?\rYou should chase after that guy\nand tell him not to underestimate\fthe volcano.\rOh, but you know what?\rYou’d better shape up at the\nBattle Tower first, too.\rI don’t like your chances of getting\nto the volcano, otherwise.\rBe seeing you!\r</language>
+		<language name="English">Anyways, hej, jeg er Buck.\nSheesh, den punker kan ikke slå mig.\rSå, kender du den zippity-doodah\naf en Trainer?\rDu burde jagte efter den fyr\nog fortælle ham, at han ikke skal undervurdere\fvulkanen.\rÅh, figuren, men du ved hvad, først, hvad? også.\rJeg kan ikke lide dine chancer for at komme\n til vulkanen, ellers.\rVi ses!\r</language>
 	</row>
 	<row id="narc_0183_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Howdy, Trainer!\nYou have a Pokédex, do you?\rI bet the person who gave you that\nis waiting for you to fill that\fPokédex completely.</language>
+		<language name="English">Hej, træner! Du har en Pokédex, har du?</language>
 	</row>
 	<row id="narc_0183_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Howdy, Trainer!\nYou have a Pokédex, do you?\rHere’s my advice: go out and\nchallenge other Trainers!\rThey’ll often have different Pokémon,\nso your Pokédex should fill up fast!</language>
+		<language name="English">Hej træner!\nDu har en Pokédex, har du?\rHer er mit råd: gå ud og\nudfordr andre trænere!\rDe vil ofte have forskellige Pokémons,\nså din Pokédex burde blive fyldt op hurtigt!</language>
 	</row>
 	<row id="narc_0183_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The way the Battle Tower looms...\rIt really is a wall that stands\nbefore every Trainer.</language>
+		<language name="English">Sådan som Battle Tower truer...\rDet er virkelig en væg, der står\nfor enhver træner.</language>
 	</row>
 	<row id="narc_0183_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve battled many Trainers over\nthe years.\rI’ve gained some confidence in my\nskill levels, too.\rBut the world is still a huge place.\nIt’s not easy to win in life!</language>
+		<language name="English">Jeg har kæmpet mod mange trænere i løbet af årene.\rJeg har også fået en vis selvtillid i mine\nfærdighedsniveauer.\rMen verden er stadig et kæmpe sted.\nDet er ikke let at vinde i livet!</language>
 	</row>
 	<row id="narc_0183_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Because of the volcano, the land\naround here is craggy.\rThe rough terrain and all the ups\nand downs make it hard to hike.</language>
+		<language name="English">På grund af vulkanen er landet\nomkring forrevne.\rDet barske terræn og alle op- og nedture gør det svært at vandre.</language>
 	</row>
 	<row id="narc_0183_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon League’s Elite Four\ncome here sometimes!</language>
+		<language name="English">Pokémon Leagues Elite Four\nkommer her nogle gange!</language>
 	</row>
 	<row id="narc_0183_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon are from Sinnoh,\naren’t they?\rThey’re not what we’re used to\nseeing around here.</language>
+		<language name="English">Dine Pokémon er fra Sinnoh,\nikke sandt?\rDe er ikke, hvad vi er vant til at\nse her omkring.</language>
 	</row>
 	<row id="narc_0183_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no end to becoming tough!\rI just made that up, but it sounds\nkind of cool, huh?</language>
+		<language name="English">Der er ingen ende på at blive hård!\rJeg har lige fundet på det, men det lyder\nmeget fedt, hva’?</language>
 	</row>
 	<row id="narc_0183_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s up? Do you want to sail to\nSnowpoint City?</language>
+		<language name="English">Hvad sker der? Vil du sejle til Snowpoint City?</language>
 	</row>
 	<row id="narc_0183_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aye, right!\nIt’s anchors aweigh, then!\r</language>
+		<language name="English">Ja, rigtigt!\nDet er ankre vejer altså!\r</language>
 	</row>
 	<row id="narc_0183_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, right. You’d rather just fly\neverywhere in some big hurry.</language>
+		<language name="English">Åh, rigtigt. Du vil hellere bare flyve overalt i en eller anden stor hast.</language>
 	</row>
 	<row id="narc_0183_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whenever I go to a new place, I get\nexcited over what I might discover.\rBut places I’ve visited before...\rEven those places thrill me with\nnew discoveries!</language>
+		<language name="English">Hver gang jeg tager til et nyt sted, bliver jeg spændt på, hvad jeg måske opdager.\rMen steder, jeg har besøgt før...\rSelv de steder begejstrer mig med\nnye opdagelser!</language>
 	</row>
 	<row id="narc_0183_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm!\nA Super Rod is really good!\rWouldn’t you agree?</language>
+		<language name="English">Hmm!\nEn Super Rod er rigtig god!\rVil du ikke være enig?</language>
 	</row>
 	<row id="narc_0183_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm!\nWe’re of identical minds!\rHmm!\nTake this {STRVAR_1 8, 0}!\r</language>
+		<language name="English">Hmm!\nVi er af samme sind!\rHmm!\nTag dette {STRVAR_1 8, 0}!\r</language>
 	</row>
 	<row id="narc_0183_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wherever there’s water, try your\nluck at fishing.</language>
+		<language name="English">Uanset hvor der er vand, så prøv fiskelykken.</language>
 	</row>
 	<row id="narc_0183_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t you like to fish?</language>
+		<language name="English">Kan du ikke lide at fiske?</language>
 	</row>
 	<row id="narc_0183_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s that?\nAny advice for fishing?\rWell, I’ll tell you.\nIt’s all about the rod and technique!</language>
+		<language name="English">Hvad er det?\nNoen råd til fiskeriet?\rNå, det skal jeg fortælle dig.\nDet handler om stangen og teknikken!</language>
 	</row>
 	<row id="narc_0183_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fight Area\nBattles Galore</language>
+		<language name="English">Kampområde\nKlage i massevis</language>
 	</row>
 	<row id="narc_0183_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Park Ahead\nWhere Trainers Train</language>
+		<language name="English">Battle Park Ahead\nHvor trænere træner</language>
 	</row>
 	<row id="narc_0183_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -102,10 +102,10 @@
 	</row>
 	<row id="narc_0183_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Hey, {STRVAR_1 3, 1}!\rYou’re not the only one who’s getting\ntougher, you know!\rI’ll prove it to you!\nGet ready to battle!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Hej, {STRVAR_1 3, 1}!\rDu er ikke den eneste, der bliver\n hårdere, ved du!\rJeg skal bevise det for dig!\nGør dig klar til kamp!\r</language>
 	</row>
 	<row id="narc_0183_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: ...!\nIt’s OK, though.\r{STRVAR_1 3, 1}, the tougher you get,\nthe tougher we can get, too.\rThere’s no end to Pokémon.\nThat’s what I’m saying, {STRVAR_1 3, 1}.</language>
+		<language name="English">{STRVAR_1 3, 0}: ...!\nDet er dog OK.\r{STRVAR_1 3, 1}, jo hårdere du bliver,\n jo hårdere kan vi også blive.\rDer er ingen ende på Pokémon.\nDet er det, jeg siger, {STRVAR_1 3, 1}.</language>
 	</row>
 </body>

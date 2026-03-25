@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="narc_0125_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\nI don’t get challenged very often!\rThe glory you are now beholding is\nthe Pastoria Gym Leader!\rThat’s right, I’m Crasher Wake!\rMy Pokémon were toughened up by\nstormy white waters!\rThey’ll take everything you can throw\nat them and then pull you under!\rVictory will be ours!\nCome on, let’s get it done!\r</language>
+		<language name="English">Velkommen!\nJeg bliver ikke udfordret ret tit!\rHerligheden, du nu ser, er Pastoria Gym Leader!\rDet er rigtigt, I'm Crasher Wake!\rMine Pokémon blev hærdet af\nstormende hvide vande!\rDe tager alt hvad du kan, og så trækker du dig! vores!\nKom så, lad os få det gjort!\r</language>
 	</row>
 	<row id="narc_0125_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems the undertow pulled me\nunder...\rBut I had a great time battling\nwith you!\rYou’ve earned this!\r</language>
+		<language name="English">Det ser ud til, at undertow trak mig under...\rMen jeg havde en fantastisk tid med at kæmpe\nmed dig!\rDu har fortjent dette!\r</language>
 	</row>
 	<row id="narc_0125_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} received\nthe Fen Badge from Wake!</language>
+		<language name="English">{STRVAR_1 3, 0} modtog\n Fen-mærket fra Wake!</language>
 	</row>
 	<row id="narc_0125_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You need that Fen Badge to use the\nhidden move Defog outside of battle.\rThis is a special reward from me in\nrecognition of your team’s power.\r</language>
+		<language name="English">Du skal bruge det Fen-emblem for at bruge det skjulte træk Defog uden for kamp.\rDette er en særlig belønning fra mig som en anerkendelse af dit holds magt.\r</language>
 	</row>
 	<row id="narc_0125_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That {STRVAR_1 8, 0} contains the\nmove {STRVAR_1 6, 1}.\rIt inflicts double the damage on\ntargets with less than half their\fHP left.\rUse it to end battles decisively!</language>
+		<language name="English">Det {STRVAR_1 8, 0} indeholder bevægelsen {STRVAR_1 6, 1}.\rDet påfører målene dobbelt så stor skade med mindre end halvdelen af ​​deres\fHP tilbage.\rBrug den til at afslutte kampe afgørende!</language>
 	</row>
 	<row id="narc_0125_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The styles of battling and winning\nare as widely varied as Trainers are.\rDo you want to know how I battle?\nI battle so I can say I had fun at\fthe end, whether I win or lose!</language>
+		<language name="English">Stilene til at kæmpe og vinde\ner lige så vidt forskellige, som trænere er.\rVil du vide, hvordan jeg kæmper?\nJeg kæmper, så jeg kan sige, at jeg havde det sjovt til sidst, uanset om jeg vinder eller taber!</language>
 	</row>
 	<row id="narc_0125_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym Leader Wake... Uh, I mean\nCrasher Wake, is a master of\fWater-type Pokémon.\rI’d say you’ve got guts if you try\nto face down Water types with Fire-\for Ground-type Pokémon!\rBut that part I’ll leave up to you!\nGo and have some good battles!</language>
+		<language name="English">Gym Leader Wake... Øh, jeg mener\nCrasher Wake, er en mester i\fvand-type Pokémon.\rJeg vil sige, at du har mod, hvis du prøver\nat se vandtyper nedad med Fire-\feller Ground-type Pokémon!\rMen den del vil jeg overlade til dig!\nGod kamp!</language>
 	</row>
 	<row id="narc_0125_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! {STRVAR_1 3, 0}!\nYou’ve beaten the Gym Leader!\rSo, how was it?\rDid you enjoy your battle against\nWake... I mean Crasher Wake?\rSure, winning is important, but\ndon’t forget to have fun, too!\rI think Wake... I mean Crasher Wake,\nshowed you what I mean by fun.</language>
+		<language name="English">Åh! {STRVAR_1 3, 0}!\nDu har slået Gym-lederen!\rSå, hvordan var det?\rNyd du din kamp mod\nWake... Jeg mener Crasher Wake?\rSelvfølgelig er det vigtigt at vinde, men\nglem ikke også at have det sjovt!\rJeg tror Wake... Jeg mener Crasher Wake, hvad jeg mente med sjovt,\n.</language>
 	</row>
 	<row id="narc_0125_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pastoria City Pokémon Gym\nLeader: Crasher Wake\rCertified Trainers:\n{STRVAR_1 3, 0}</language>
+		<language name="English">Pastoria City Pokémon Gym\nleder: Crasher Wake\rcertificerede trænere:\n{STRVAR_1 3, 0}</language>
 	</row>
 	<row id="narc_0125_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pastoria City Pokémon Gym\nLeader: Crasher Wake\rCertified Trainers:\n{STRVAR_1 3, 0}\f{STRVAR_1 3, 1}</language>
+		<language name="English">Pastoria City Pokémon Gym\nleder: Crasher Wake\rcertificerede trænere:\n{STRVAR_1 3, 0}\f{STRVAR_1 3, 1}</language>
 	</row>
 </body>

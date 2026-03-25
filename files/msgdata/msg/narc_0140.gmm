@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="narc_0140_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the fabulous Veilstone\nDepartment Store.</language>
+		<language name="English">Velkommen til det fantastiske Veilstone\nvarehus.</language>
 	</row>
 	<row id="narc_0140_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This department store knows how to\nensure customer satisfaction.\rThey really look after you once you\nbecome a regular customer.</language>
+		<language name="English">Dette varehus ved, hvordan det\nsikrer kundetilfredshed.\rDe passer virkelig på dig, når du\n bliver en fast kunde.</language>
 	</row>
 	<row id="narc_0140_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I like the formal air of a luxury\ndepartment store.</language>
+		<language name="English">Jeg kan godt lide den formelle luft i et luksusvarehus.</language>
 	</row>
 	<row id="narc_0140_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I made an Accessory modeled after\nthe Pokémon of a Trainer I met.\rWould you like one?\r</language>
+		<language name="English">Jeg lavede et tilbehør efter\n den Pokémon fra en træner, jeg mødte.\rVil du have en?\r</language>
 	</row>
 	<row id="narc_0140_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a {STRVAR_1 31, 0}.\rIt will give your Pokémon a\ndifferent look for Contests.</language>
+		<language name="English">Det er en {STRVAR_1 31, 0}.\rDet vil give din Pokémon et anderledes udseende til konkurrencer.</language>
 	</row>
 	<row id="narc_0140_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Discover a new you!\nVeilstone Department Store</language>
+		<language name="English">Opdag et nyt dig!\nVeilstone Department Store</language>
 	</row>
 	<row id="narc_0140_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

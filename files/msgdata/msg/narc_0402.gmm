@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="narc_0402_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONFIRM</language>
+		<language name="English">BEKRÆFTE</language>
 	</row>
 	<row id="narc_0402_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0402_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -118,27 +118,27 @@
 	</row>
 	<row id="narc_0402_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose a Pokémon.</language>
+		<language name="English">Vælg en Pokémon.</language>
 	</row>
 	<row id="narc_0402_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move to where?</language>
+		<language name="English">Flytte hvorhen?</language>
 	</row>
 	<row id="narc_0402_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give to which Pokémon?</language>
+		<language name="English">Giv til hvilken Pokémon?</language>
 	</row>
 	<row id="narc_0402_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use on which Pokémon?</language>
+		<language name="English">Brug på hvilken Pokémon?</language>
 	</row>
 	<row id="narc_0402_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teach which Pokémon?</language>
+		<language name="English">Lær hvilken Pokémon?</language>
 	</row>
 	<row id="narc_0402_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose Pokémon and confirm.</language>
+		<language name="English">Vælg Pokémon og bekræft.</language>
 	</row>
 	<row id="narc_0402_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
@@ -147,199 +147,199 @@
 	</row>
 	<row id="narc_0402_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use on which Pokémon?</language>
+		<language name="English">Brug på hvilken Pokémon?</language>
 	</row>
 	<row id="narc_0402_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do what with\n{STRVAR_1 1, 0}?</language>
+		<language name="English">Gør hvad med\n{STRVAR_1 1, 0}?</language>
 	</row>
 	<row id="narc_0402_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do what with\nan item?</language>
+		<language name="English">Gør hvad med\nan element?</language>
 	</row>
 	<row id="narc_0402_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do what with\nthe Mail?</language>
+		<language name="English">Gør hvad med\nmailen?</language>
 	</row>
 	<row id="narc_0402_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Restore\nwhich move?</language>
+		<language name="English">Gendan\nhvilket træk?</language>
 	</row>
 	<row id="narc_0402_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boost the PP\nof which move?</language>
+		<language name="English">Forøg PP\naf hvilket træk?</language>
 	</row>
 	<row id="narc_0402_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Set this\ncustomized Ball?</language>
+		<language name="English">Vil du indstille denne\ntilpassede bold?</language>
 	</row>
 	<row id="narc_0402_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Send the removed Mail to\nyour PC?</language>
+		<language name="English">Send den fjernede mail til\din pc?</language>
 	</row>
 	<row id="narc_0402_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes</language>
+		<language name="English">Ja</language>
 	</row>
 	<row id="narc_0402_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0402_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Mail was sent to your PC.</language>
+		<language name="English">Mailen blev sendt til din pc.</language>
 	</row>
 	<row id="narc_0402_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If the Mail is removed, its written\nmessage will be lost. Is that OK?</language>
+		<language name="English">Hvis mailen fjernes, vil dens skrevne\nbesked gå tabt. Er det okay?</language>
 	</row>
 	<row id="narc_0402_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes</language>
+		<language name="English">Ja</language>
 	</row>
 	<row id="narc_0402_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0402_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your PC’s Mailbox is full.</language>
+		<language name="English">Din pc's postkasse er fuld.</language>
 	</row>
 	<row id="narc_0402_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail was taken from the\nPokémon.</language>
+		<language name="English">Mail blev taget fra\nPokémon.</language>
 	</row>
 	<row id="narc_0402_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} wants to learn the\nmove {STRVAR_1 6, 1}.\rHowever, {STRVAR_1 1, 0} already\nknows four moves.\rShould a move be deleted and\nreplaced with {STRVAR_1 6, 1}?</language>
+		<language name="English">{STRVAR_1 1, 0}ønsker at lære \nbevægelsen{STRVAR_1 6, 1}.\rMen{STRVAR_1 1, 0}allerede\nkender fire træk.\rSkal et træk slettes og\nerstattes med{STRVAR_1 6, 1}?</language>
 	</row>
 	<row id="narc_0402_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes</language>
+		<language name="English">Ja</language>
 	</row>
 	<row id="narc_0402_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0402_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop trying to teach\n{STRVAR_1 6, 1}?</language>
+		<language name="English">Stop med at prøve at undervise\n{STRVAR_1 6, 1}?</language>
 	</row>
 	<row id="narc_0402_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes</language>
+		<language name="English">Ja</language>
 	</row>
 	<row id="narc_0402_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0402_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} did not learn the\nmove {STRVAR_1 6, 1}.</language>
+		<language name="English">{STRVAR_1 1, 0}lærte ikke det\ntræk{STRVAR_1 6, 1}.</language>
 	</row>
 	<row id="narc_0402_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which move should be\nforgotten?</language>
+		<language name="English">Hvilket træk skal\nglemmes?</language>
 	</row>
 	<row id="narc_0402_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1, {PAUSE 20}2, and{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Poof!{WAIT 3}{WAIT 5}\r{STRVAR_1 1, 0} forgot how to\nuse {STRVAR_1 6, 1}.\rAnd...</language>
+		<language name="English">1, {PAUSE 20}2, og{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Pøj!{WAIT 3}{WAIT 5}\r{STRVAR_1 1, 0}glemte hvordan man\nbruger{STRVAR_1 6, 1}.\rOg...</language>
 	</row>
 	<row id="narc_0402_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} learned\n{STRVAR_1 6, 1}!{WAIT 4}{WAIT 2}</language>
+		<language name="English">{STRVAR_1 1, 0}lært\n{STRVAR_1 6, 1}!{WAIT 4}{WAIT 2}</language>
 	</row>
 	<row id="narc_0402_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} and {STRVAR_1 6, 1}\nare not compatible.\r{STRVAR_1 6, 1} can’t be learned.</language>
+		<language name="English">{STRVAR_1 1, 0}og{STRVAR_1 6, 1}\nEr ikke kompatibel.\r{STRVAR_1 6, 1}kan ikke læres.</language>
 	</row>
 	<row id="narc_0402_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} already knows\n{STRVAR_1 6, 1}.</language>
+		<language name="English">{STRVAR_1 1, 0}ved allerede\n{STRVAR_1 6, 1}.</language>
 	</row>
 	<row id="narc_0402_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0}’s HP was restored\nby {STRVAR_1 52, 1} point(s).</language>
+		<language name="English">{STRVAR_1 1, 0}'s HP blev gendannet\naf{STRVAR_1 52, 1}punkt(er).</language>
 	</row>
 	<row id="narc_0402_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} was cured of its\npoisoning.</language>
+		<language name="English">{STRVAR_1 1, 0}blev helbredt for dens\nforgiftning.</language>
 	</row>
 	<row id="narc_0402_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} was cured of\nparalysis.</language>
+		<language name="English">{STRVAR_1 1, 0}blev helbredt for\nlammelse.</language>
 	</row>
 	<row id="narc_0402_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0}’s\nburn was healed.</language>
+		<language name="English">{STRVAR_1 1, 0}'s\nforbrændingen blev helbredt.</language>
 	</row>
 	<row id="narc_0402_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} was\nthawed out.</language>
+		<language name="English">{STRVAR_1 1, 0}blev\noptøet.</language>
 	</row>
 	<row id="narc_0402_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PP was restored.</language>
+		<language name="English">PP blev genoprettet.</language>
 	</row>
 	<row id="narc_0402_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0}\nregained health.</language>
+		<language name="English">{STRVAR_1 1, 0}\ngenvundet helbred.</language>
 	</row>
 	<row id="narc_0402_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0}\nbecame healthy.</language>
+		<language name="English">{STRVAR_1 1, 0}\nblev sund.</language>
 	</row>
 	<row id="narc_0402_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 0}’s PP\nincreased.</language>
+		<language name="English">{STRVAR_1 6, 0}'s PP\nstigning.</language>
 	</row>
 	<row id="narc_0402_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} snapped out of its\nconfusion.</language>
+		<language name="English">{STRVAR_1 1, 0}slap ud af sin\nforvirring.</language>
 	</row>
 	<row id="narc_0402_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} got over its\ninfatuation.</language>
+		<language name="English">{STRVAR_1 1, 0}kom over sin\nforelskelse.</language>
 	</row>
 	<row id="narc_0402_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0}’s base {STRVAR_1 13, 1}\nrose!</language>
+		<language name="English">{STRVAR_1 1, 0}'s base{STRVAR_1 13, 1}\nrose!</language>
 	</row>
 	<row id="narc_0402_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This can’t be used until a new\nBadge is obtained.</language>
+		<language name="English">Dette kan ikke bruges, før et nyt\nmærke er opnået.</language>
 	</row>
 	<row id="narc_0402_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Must remove Mail before the\nPokémon is allowed to hold an item.</language>
+		<language name="English">Skal fjerne Mail, før\nPokémon får lov til at holde et element.</language>
 	</row>
 	<row id="narc_0402_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} is already holding\n{STRVAR_1 8, 1}.\rWould you like to switch the\ntwo items?</language>
+		<language name="English">{STRVAR_1 1, 0}holder allerede\n{STRVAR_1 8, 1}.\rVil du skifte de\nto elementer?</language>
 	</row>
 	<row id="narc_0402_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes</language>
+		<language name="English">Ja</language>
 	</row>
 	<row id="narc_0402_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0402_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} isn’t holding\nanything.</language>
+		<language name="English">{STRVAR_1 1, 0}holder ikke\nat.</language>
 	</row>
 	<row id="narc_0402_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Received the {STRVAR_1 8, 1}\nfrom {STRVAR_1 1, 0}.</language>
+		<language name="English">Modtog{STRVAR_1 8, 1}\nfra{STRVAR_1 1, 0}.</language>
 	</row>
 	<row id="narc_0402_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Bag is full.</language>
+		<language name="English">Tasken er fuld.</language>
 	</row>
 	<row id="narc_0402_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 1} was taken and\nreplaced with the {STRVAR_1 8, 2}.</language>
+		<language name="English">De{STRVAR_1 8, 1}blev taget og\nerstattet med{STRVAR_1 8, 2}.</language>
 	</row>
 	<row id="narc_0402_00085" index="85">
 		<attribute name="window_context_name">garbage</attribute>
@@ -373,7 +373,7 @@
 	</row>
 	<row id="narc_0402_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0}\nwoke up.</language>
+		<language name="English">{STRVAR_1 1, 0}\nvågnede op.</language>
 	</row>
 	<row id="narc_0402_00092" index="92">
 		<attribute name="window_context_name">garbage</attribute>
@@ -417,7 +417,7 @@
 	</row>
 	<row id="narc_0402_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than two Pokémon\nmay enter.</language>
+		<language name="English">Der må ikke deltage mere end to Pokémon\n.</language>
 	</row>
 	<row id="narc_0402_00101" index="101">
 		<attribute name="window_context_name">garbage</attribute>
@@ -426,7 +426,7 @@
 	</row>
 	<row id="narc_0402_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re already surfing.</language>
+		<language name="English">Du surfer allerede.</language>
 	</row>
 	<row id="narc_0402_00103" index="103">
 		<attribute name="window_context_name">garbage</attribute>
@@ -435,11 +435,11 @@
 	</row>
 	<row id="narc_0402_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t use that here.</language>
+		<language name="English">Det kan du ikke bruge her.</language>
 	</row>
 	<row id="narc_0402_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It won’t have any effect.</language>
+		<language name="English">Det vil ikke have nogen effekt.</language>
 	</row>
 	<row id="narc_0402_00106" index="106">
 		<attribute name="window_context_name">garbage</attribute>
@@ -448,7 +448,7 @@
 	</row>
 	<row id="narc_0402_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Two Pokémon are needed.</language>
+		<language name="English">To Pokémon er nødvendige.</language>
 	</row>
 	<row id="narc_0402_00108" index="108">
 		<attribute name="window_context_name">garbage</attribute>
@@ -462,91 +462,91 @@
 	</row>
 	<row id="narc_0402_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} became more friendly.\rHowever, its base {STRVAR_1 13, 1} fell!</language>
+		<language name="English">{STRVAR_1 1, 0}blev mere venlig.\rMen dens base{STRVAR_1 13, 1}faldt!</language>
 	</row>
 	<row id="narc_0402_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} adores you!\rIts base {STRVAR_1 13, 1} fell!</language>
+		<language name="English">{STRVAR_1 1, 0}forguder dig!\rDens base{STRVAR_1 13, 1}faldt!</language>
 	</row>
 	<row id="narc_0402_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} became more friendly.\rIts base {STRVAR_1 13, 1} can’t go lower.</language>
+		<language name="English">{STRVAR_1 1, 0}blev mere venlig.\rDens base{STRVAR_1 13, 1}kan ikke gå lavere.</language>
 	</row>
 	<row id="narc_0402_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} is already in battle!</language>
+		<language name="English">{STRVAR_1 1, 0}er allerede i kamp!</language>
 	</row>
 	<row id="narc_0402_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} has no energy left\nto battle!</language>
+		<language name="English">{STRVAR_1 1, 0}har ingen energi tilbage\ntil kamp!</language>
 	</row>
 	<row id="narc_0402_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} can’t be switched out!</language>
+		<language name="English">{STRVAR_1 1, 0}kan ikke skiftes ud!</language>
 	</row>
 	<row id="narc_0402_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An Egg can’t battle!</language>
+		<language name="English">Et æg kan ikke kæmpe!</language>
 	</row>
 	<row id="narc_0402_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t switch {STRVAR_1 3, 0}’s\nPokémon with one of yours!</language>
+		<language name="English">Du kan ikke skifte{STRVAR_1 3, 0}’s\nPokémon med en af ​​dine!</language>
 	</row>
 	<row id="narc_0402_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} was given the\n{STRVAR_1 8, 1} to hold.</language>
+		<language name="English">{STRVAR_1 1, 0}fik den\n{STRVAR_1 8, 1}at holde.</language>
 	</row>
 	<row id="narc_0402_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Three Pokémon are needed.</language>
+		<language name="English">Tre Pokémon er nødvendige.</language>
 	</row>
 	<row id="narc_0402_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Four Pokémon are needed.</language>
+		<language name="English">Fire Pokémon er nødvendige.</language>
 	</row>
 	<row id="narc_0402_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Five Pokémon are needed.</language>
+		<language name="English">Fem Pokémon er nødvendige.</language>
 	</row>
 	<row id="narc_0402_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Six Pokémon are needed.</language>
+		<language name="English">Seks Pokémon er nødvendige.</language>
 	</row>
 	<row id="narc_0402_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than one Pokémon\nmay enter.</language>
+		<language name="English">Ikke mere end én Pokémon\nmå deltage.</language>
 	</row>
 	<row id="narc_0402_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than three Pokémon\nmay enter.</language>
+		<language name="English">Der må ikke deltage mere end tre Pokémon\n.</language>
 	</row>
 	<row id="narc_0402_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than four Pokémon\nmay enter.</language>
+		<language name="English">Der må ikke deltage mere end fire Pokémon\n.</language>
 	</row>
 	<row id="narc_0402_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than five Pokémon\nmay enter.</language>
+		<language name="English">Der må ikke deltage mere end fem Pokémon\n.</language>
 	</row>
 	<row id="narc_0402_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail was transferred from\nthe Mailbox.</language>
+		<language name="English">Mail blev overført fra\npostkassen.</language>
 	</row>
 	<row id="narc_0402_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon is holding an item.\nIt cannot hold Mail.</language>
+		<language name="English">Denne Pokémon holder en genstand.\nDen kan ikke indeholde Mail.</language>
 	</row>
 	<row id="narc_0402_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule was set.</language>
+		<language name="English">Boldkapslen blev sat.</language>
 	</row>
 	<row id="narc_0402_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Two capsules can’t be set.</language>
+		<language name="English">To kapsler kan ikke indstilles.</language>
 	</row>
 	<row id="narc_0402_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This can’t be used on\nthat Pokémon.</language>
+		<language name="English">Dette kan ikke bruges på\ndenne Pokémon.</language>
 	</row>
 	<row id="narc_0402_00132" index="132">
 		<attribute name="window_context_name">garbage</attribute>
@@ -580,7 +580,7 @@
 	</row>
 	<row id="narc_0402_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not enough HP...</language>
+		<language name="English">Ikke nok HP...</language>
 	</row>
 	<row id="narc_0402_00139" index="139">
 		<attribute name="window_context_name">garbage</attribute>
@@ -614,35 +614,35 @@
 	</row>
 	<row id="narc_0402_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH</language>
+		<language name="English">SKIFTE</language>
 	</row>
 	<row id="narc_0402_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUMMARY</language>
+		<language name="English">OVERSIGT</language>
 	</row>
 	<row id="narc_0402_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ITEM</language>
+		<language name="English">PUNKT</language>
 	</row>
 	<row id="narc_0402_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAIL</language>
+		<language name="English">POST</language>
 	</row>
 	<row id="narc_0402_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">READ</language>
+		<language name="English">LÆSE</language>
 	</row>
 	<row id="narc_0402_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TAKE</language>
+		<language name="English">TAGE</language>
 	</row>
 	<row id="narc_0402_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STORE</language>
+		<language name="English">BUTIK</language>
 	</row>
 	<row id="narc_0402_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0402_00153" index="153">
 		<attribute name="window_context_name">garbage</attribute>
@@ -655,7 +655,7 @@
 	</row>
 	<row id="narc_0402_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO ENTRY</language>
+		<language name="English">INGEN ADGANG</language>
 	</row>
 	<row id="narc_0402_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
@@ -679,7 +679,7 @@
 	</row>
 	<row id="narc_0402_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TAKE</language>
+		<language name="English">TAGE</language>
 	</row>
 	<row id="narc_0402_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
@@ -699,79 +699,79 @@
 	</row>
 	<row id="narc_0402_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SET</language>
+		<language name="English">SÆT</language>
 	</row>
 	<row id="narc_0402_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NOT ENTERED</language>
+		<language name="English">IKKE INDGIVET</language>
 	</row>
 	<row id="narc_0402_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BANNED</language>
+		<language name="English">FORBUDT</language>
 	</row>
 	<row id="narc_0402_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIRST</language>
+		<language name="English">FØRST</language>
 	</row>
 	<row id="narc_0402_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SECOND</language>
+		<language name="English">ANDEN</language>
 	</row>
 	<row id="narc_0402_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">THIRD</language>
+		<language name="English">TREDJE</language>
 	</row>
 	<row id="narc_0402_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FOURTH</language>
+		<language name="English">FJERDE</language>
 	</row>
 	<row id="narc_0402_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIFTH</language>
+		<language name="English">FEMTE</language>
 	</row>
 	<row id="narc_0402_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SIXTH</language>
+		<language name="English">SJETTE</language>
 	</row>
 	<row id="narc_0402_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABLE!</language>
+		<language name="English">I stand til!</language>
 	</row>
 	<row id="narc_0402_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNABLE!</language>
+		<language name="English">UKUNNE!</language>
 	</row>
 	<row id="narc_0402_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEARNED</language>
+		<language name="English">LÆRT</language>
 	</row>
 	<row id="narc_0402_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABLE!</language>
+		<language name="English">I stand til!</language>
 	</row>
 	<row id="narc_0402_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNABLE!</language>
+		<language name="English">UKUNNE!</language>
 	</row>
 	<row id="narc_0402_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABLE!</language>
+		<language name="English">I stand til!</language>
 	</row>
 	<row id="narc_0402_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNABLE!</language>
+		<language name="English">UKUNNE!</language>
 	</row>
 	<row id="narc_0402_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Identical Pokémon are not permitted.</language>
+		<language name="English">Identiske Pokémon er ikke tilladt.</language>
 	</row>
 	<row id="narc_0402_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Pokémon are holding identical\nitems.</language>
+		<language name="English">Nogle Pokémon har identiske\nemner.</language>
 	</row>
 	<row id="narc_0402_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The total of all party members’\nlevels has gone over {STRVAR_1 52, 0}.</language>
+		<language name="English">Summen af ​​alle partimedlemmers\nniveauer er gået over{STRVAR_1 52, 0}.</language>
 	</row>
 	<row id="narc_0402_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
@@ -779,11 +779,11 @@
 	</row>
 	<row id="narc_0402_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ATTACK</language>
+		<language name="English">ANGREB</language>
 	</row>
 	<row id="narc_0402_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DEFENSE</language>
+		<language name="English">FORSVAR</language>
 	</row>
 	<row id="narc_0402_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
@@ -795,7 +795,7 @@
 	</row>
 	<row id="narc_0402_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPEED</language>
+		<language name="English">HASTIGHED</language>
 	</row>
 	<row id="narc_0402_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
@@ -807,18 +807,18 @@
 	</row>
 	<row id="narc_0402_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} was elevated to\nLv. {STRVAR_1 52, 1}.{WAIT 4}{WAIT 2}</language>
+		<language name="English">{STRVAR_1 1, 0}blev forhøjet til\nLv.{STRVAR_1 52, 1}.{WAIT 4}{WAIT 2}</language>
 	</row>
 	<row id="narc_0402_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} learned\n{STRVAR_1 6, 1}!{WAIT 4}{WAIT 2}</language>
+		<language name="English">{STRVAR_1 1, 0}lært\n{STRVAR_1 6, 1}!{WAIT 4}{WAIT 2}</language>
 	</row>
 	<row id="narc_0402_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule will be detached.\nWill that be OK?</language>
+		<language name="English">Kuglekapslen vil blive løsnet.\nVil det være i orden?</language>
 	</row>
 	<row id="narc_0402_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can’t be used when you have\nsomeone with you.</language>
+		<language name="English">Det kan ikke bruges, når du har\n nogen med dig.</language>
 	</row>
 </body>

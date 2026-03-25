@@ -2,47 +2,47 @@
 <body language="English">
 	<row id="narc_0109_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, hello!\nHow, I say, do you do?\rI am the Pokémon Fan Club Chairman!\nIndeed, yes I am!\rWhen you wish to treat your Pokémon\nto a treat, what, I say, do you do?\rIf I may say so, and I will, I feed\nPoffins to my Pokémon!\rAnd why, I say, would I do that?\rBecause the giving of Poffins is\na way of expressing your love!\rFor example! If I were to give a\nSweet Poffin, the Pokémon eating it\fwould become more cute!\rFor example! A Spicy Poffin will add\nto the coolness of a Pokémon!\rIn such ways I say that Poffins have\nnothing but goodness for Pokémon!\rTherefore!\rI declare this Poffin Case to be\na gift from me to you!\r</language>
+		<language name="English">Hej, hej!\nHvordan, siger jeg, gør du det?\rJeg er Pokémon Fan Club Chairman!\nJa, det er jeg!\rNår du ønsker at forkæle din Pokémon\n med en godbid, hvad siger jeg så, gør du?\rHvis jeg må sige det, og jeg vil, så fodrer jeg med min Pokémon! sige, ville jeg gøre det?\rFordi det at give Poffins er\n en måde at udtrykke din kærlighed på!\rFor eksempel! Hvis jeg skulle give en\nSweet Poffin, ville den Pokémon, der spiste den, blive mere sød!\rFor eksempel! En krydret Poffin vil føje\ntil en Pokémons coolhed!\rPå sådanne måder siger jeg, at Poffins ikke har andet end godhed for Pokémon!\rDerfor!\rJeg erklærer denne Poffin Case for at være\nen gave fra mig til dig!\r</language>
 	</row>
 	<row id="narc_0109_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I urge you to fill it with Poffins\nand be generous in dispensing them\fto your Pokémon!</language>
+		<language name="English">Jeg opfordrer dig indtrængende til at fylde den med Poffins\nog være generøs med at uddele dem\f til din Pokémon!</language>
 	</row>
 	<row id="narc_0109_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nationwide, there are other fan\nclubs, but we are number one!\rAnd why are we number one?\nBecause I brag more than anyone!\rBut now I can’t brag as much...\rPeople started complaining, so\nI’ve had to curtail my bragging...</language>
+		<language name="English">På landsplan er der andre fanklubber, men vi er nummer ét!\rOg hvorfor er vi nummer ét?\nFordi jeg praler mere end nogen anden!\rMen nu kan jeg ikke prale så meget...\rFolk begyndte at brokke sig, så\njeg har været nødt til at indskrænke min pral...</language>
 	</row>
 	<row id="narc_0109_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pokémon Fan Club!\nOh, your {STRVAR_1 0, 0}...\r</language>
+		<language name="English">Velkommen til Pokémon Fan Club!\nÅh, din {STRVAR_1 0, 0}...\r</language>
 	</row>
 	<row id="narc_0109_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It simply adores you!\nWhy, I feel like I’m intruding!</language>
+		<language name="English">Det forguder dig simpelthen!\nHvorfor, jeg føler, at jeg trænger mig på!</language>
 	</row>
 	<row id="narc_0109_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s very friendly toward you.\nI can tell you treat it kindly.</language>
+		<language name="English">Den er meget venlig mod dig.\nJeg kan fortælle dig, at du behandler den venligt.</language>
 	</row>
 	<row id="narc_0109_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s quite friendly to you.\nIt must be happy being with you.</language>
+		<language name="English">Det er ret venligt over for dig.\nDet må være godt at være sammen med dig.</language>
 	</row>
 	<row id="narc_0109_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s warming up to you.\nThat’s my impression.</language>
+		<language name="English">Det varmer dig.\nDet er mit indtryk.</language>
 	</row>
 	<row id="narc_0109_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s feeling neutral toward you.\nIt’s up to you to change that.</language>
+		<language name="English">Det føles neutralt over for dig.\nDet er op til dig at ændre på det.</language>
 	</row>
 	<row id="narc_0109_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\nIt seems to dislike you a little.</language>
+		<language name="English">Hmm...\nDet lader til at det ikke kan lide dig lidt.</language>
 	</row>
 	<row id="narc_0109_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, my... I think this one really\nhasn’t taken too kindly to you.</language>
+		<language name="English">Åh, min... jeg tror, ​​at denne her virkelig ikke har taget så venligt imod dig.</language>
 	</row>
 	<row id="narc_0109_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="narc_0109_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUNEARY: Kukuuh.</language>
+		<language name="English">BUNEAR: Kukuuh.</language>
 	</row>
 	<row id="narc_0109_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

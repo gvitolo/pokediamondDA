@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="narc_0316_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0316_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -62,83 +62,83 @@
 	</row>
 	<row id="narc_0316_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose a Pokémon.</language>
+		<language name="English">Vælg en Pokémon.</language>
 	</row>
 	<row id="narc_0316_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} is\nselected.</language>
+		<language name="English">{STRVAR_1 1, 0} er\nvalgt.</language>
 	</row>
 	<row id="narc_0316_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUMMARY</language>
+		<language name="English">OVERSIGT</language>
 	</row>
 	<row id="narc_0316_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRADE</language>
+		<language name="English">HANDLE</language>
 	</row>
 	<row id="narc_0316_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0316_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Communicating. Please standby...</language>
+		<language name="English">Kommunikerer.Venligst standby...</language>
 	</row>
 	<row id="narc_0316_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trade {STRVAR_1 1, 0} in return for\n{STRVAR_1 1, 1}?</language>
+		<language name="English">Vil du bytte {STRVAR_1 1, 0} til gengæld for\n{STRVAR_1 1, 1}?</language>
 	</row>
 	<row id="narc_0316_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0316_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0316_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The trade has\nbeen canceled.</language>
+		<language name="English">Handelen er annulleret.</language>
 	</row>
 	<row id="narc_0316_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cancel trading?</language>
+		<language name="English">Vil du annullere handel?</language>
 	</row>
 	<row id="narc_0316_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0316_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0316_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Waiting for your friend to finish...</language>
+		<language name="English">Venter på, at din ven er færdig...</language>
 	</row>
 	<row id="narc_0316_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your friend apparently wants to\ntrade a Pokémon with you.</language>
+		<language name="English">Din ven vil åbenbart\nhandle en Pokémon med dig.</language>
 	</row>
 	<row id="narc_0316_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} will be sent to\n{STRVAR_1 3, 1}.</language>
+		<language name="English">{STRVAR_1 1, 0} vil blive sendt til\n{STRVAR_1 3, 1}.</language>
 	</row>
 	<row id="narc_0316_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take care, {STRVAR_1 1, 0}!</language>
+		<language name="English">Pas på, {STRVAR_1 1, 0}!</language>
 	</row>
 	<row id="narc_0316_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1} sent over\n{STRVAR_1 1, 0}!</language>
+		<language name="English">{STRVAR_1 3, 1} sendt over\n{STRVAR_1 1, 0}!</language>
 	</row>
 	<row id="narc_0316_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take good care of {STRVAR_1 1, 0}!</language>
+		<language name="English">Pas godt på {STRVAR_1 1, 0}!</language>
 	</row>
 	<row id="narc_0316_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you trade that Pokémon, you’ll\nget stuck in your adventure!</language>
+		<language name="English">Hvis du bytter den Pokémon, vil du sidde fast i dit eventyr!</language>
 	</row>
 	<row id="narc_0316_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
@@ -147,7 +147,7 @@
 	</row>
 	<row id="narc_0316_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule will become detached.\nIs that OK?</language>
+		<language name="English">Kuglekapslen vil blive løsnet.\nEr det OK?</language>
 	</row>
 	<row id="narc_0316_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -163,7 +163,7 @@
 	</row>
 	<row id="narc_0316_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ITEM</language>
+		<language name="English">PUNKT</language>
 	</row>
 	<row id="narc_0316_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -191,10 +191,10 @@
 	</row>
 	<row id="narc_0316_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0316_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">Forlade</language>
 	</row>
 </body>

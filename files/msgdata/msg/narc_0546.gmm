@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="narc_0546_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The weather and the terrain here\nare much more extreme than Sinnoh.\rI imagine there would be a large\nvariety of Pokémon here.</language>
+		<language name="English">Vejret og terrænet her\nær meget mere ekstremt end Sinnoh.\rJeg forestiller mig, at der ville være et stort\nudvalg af Pokémon her.</language>
 	</row>
 	<row id="narc_0546_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s not only Sinnoh’s best that\ngather at the Battle Tower.\rWe’re talking about the best Trainers\nin the world.\rIt must be cool being able to get\nyour own Pokémon and battle against\fpeople like you around the world!</language>
+		<language name="English">Det er ikke kun Sinnohs bedste, der er i Battle Tower.\rVi taler om de bedste trænere\ni verden.\rDet skal være fedt at kunne få\din egen Pokémon og kæmpe mod\ffolk som dig rundt om i verden!</language>
 	</row>
 	<row id="narc_0546_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you’ve seen all the Pokémon in\nSinnoh?!\rThat’s awesome! I’m gonna travel with\nPokémon when I get big like you!</language>
+		<language name="English">Wow, du har set alle Pokémonerne i\nSinnoh?!\rDet er fantastisk! Jeg rejser med\nPokémon, når jeg bliver stor som dig!</language>
 	</row>
 	<row id="narc_0546_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you’ve seen all the Pokémon in\nSinnoh?!\rThat’s awesome! I’m gonna travel with\nPokémon when I get big like you!</language>
+		<language name="English">Wow, du har set alle Pokémonerne i\nSinnoh?!\rDet er fantastisk! Jeg rejser med\nPokémon, når jeg bliver stor som dig!</language>
 	</row>
 </body>

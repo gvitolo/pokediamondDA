@@ -1,24 +1,24 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0474_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buck: Yo, if it isn’t {STRVAR_1 3, 0}!\rDon’t tell me you’re going to Stark\nMountain, too?\rYou’re pretty wimpy...\nYou’re sure you’re going to be OK?\rHeh, why am I asking you that?\nIt’s not like I care.\rAnyways, if we see each other on\nStark Mountain, the race is on to\fsee who gets the Magma Stone first!\r</language>
+		<language name="English">Buck: Yo, hvis det ikke er det {STRVAR_1 3, 0}!\rFortæl mig ikke, at du skal til Stark\nOgså bjerg?\rDu er ret tøs...\nEr du sikker på, at du vil klare dig?\rHeh, hvorfor spørger jeg dig om det?\nDet er ikke sådan, at jeg er ligeglad.\rI hvert fald, hvis vi ses\nStark Mountain, løbet er i gang\fse, hvem der får Magma Stone først!\r</language>
 	</row>
 	<row id="narc_0474_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: Oh, if it isn’t {STRVAR_1 3, 0}!\nIt’s been a while!\rYou’ve grown so tough that you’re\ntraining out here now...\rEveryone keeps getting tougher and\ntougher...\rAnd, in doing that, they develop\ncloser bonds with their Pokémon...\r</language>
+		<language name="English">Wake: Åh, hvis det ikke er det {STRVAR_1 3, 0}!\nDet er et stykke tid siden!\rDu er blevet så sej, at du er\ntræning herude nu...\rAlle bliver ved med at blive hårdere og\nhårdere...\rOg ved at gøre det udvikler de sig\ntættere bånd til deres Pokémon...\r</language>
 	</row>
 	<row id="narc_0474_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1}: ...For someone born\noverseas, that tough dude doesn’t\fhave an accent or anything.\r</language>
+		<language name="English">{STRVAR_1 3, 1}: ...For en født\ni udlandet, gør den hårde fyr ikke\fhar en accent eller noget.\r</language>
 	</row>
 	<row id="narc_0474_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}, there’s a volcano\nahead of us called Stark Mountain.\rThat blowhard Buck guy is on his way\nthere, as well.\rI’m going to find the volcano’s\ntreasure before that guy does.\rIf I could do that, a 21-win streak\nat the Battle Tower’d be possible!\r</language>
+		<language name="English">{STRVAR_1 3, 0}, der er en vulkan\nforan os kaldet Stark Mountain.\rDen blæsende Buck-fyr er på vej\nder også.\rJeg skal finde vulkanen\nskat før den fyr gør det.\rHvis jeg kunne gøre det, en række med 21 sejre\nved Battle Tower ville være muligt!\r</language>
 	</row>
 	<row id="narc_0474_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: ...You’re serious?\nYou’re going to Stark Mountain?\rEven the wild Pokémon there are\nvery, very tough...\rIf your Pokémon aren’t well trained,\nthey’ll have a miserable time...\rThen again, that kind of challenge\nis an exciting prospect...\rBut no matter what, you’d better\nbe fully prepared!\rI’ve got to get ready for another\ntournament. Farewell!\r</language>
+		<language name="English">Wake: ...Er du seriøs?\nSkal du til Stark Mountain?\rSelv de vilde Pokémon der findes\nmeget, meget hårdt...\rHvis dine Pokémon ikke er veltrænede,\nde får det elendigt...\rSå igen, den slags udfordring\ner et spændende perspektiv...\rMen uanset hvad, må du hellere\nvær helt forberedt!\rJeg skal gøre mig klar til en anden\nturnering. Farvel!\r</language>
 	</row>
 	<row id="narc_0474_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="narc_0474_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 </body>

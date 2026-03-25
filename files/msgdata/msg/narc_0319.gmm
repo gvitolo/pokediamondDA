@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="narc_0319_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0} hatched from the Egg!</language>
+		<language name="English">{STRVAR_1 0, 0} udklækket fra Ægget!</language>
 	</row>
 	<row id="narc_0319_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to nickname the newly\nhatched {STRVAR_1 0, 0}?</language>
+		<language name="English">Vil du give den nyligt\nskraverede {STRVAR_1 0, 0} et kaldenavn?</language>
 	</row>
 	<row id="narc_0319_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes</language>
+		<language name="English">Ja</language>
 	</row>
 	<row id="narc_0319_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Ingen</language>
 	</row>
 </body>

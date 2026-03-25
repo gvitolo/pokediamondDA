@@ -2,115 +2,115 @@
 <body language="English">
 	<row id="narc_0135_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: Hi, {STRVAR_1 3, 0}!\nPlease, can you help me?\rI dropped my Pokédex by accident,\nand Team Galactic found it.\rNow they won’t give it back.\nPlease, I need your help.\rI’ll be waiting in front of the\nwarehouses. Please come!\r</language>
+		<language name="English">Dawn: Hej, {STRVAR_1 3, 0}!\nVenligst, kan du hjælpe mig?\rJeg tabte min Pokédex ved et uheld,\nog Team Galactic fandt den.\rNu vil de ikke give den tilbage.\nJeg har brug for din hjælp.\rJeg venter foran\nlagrene. Kom venligst!\r</language>
 	</row>
 	<row id="narc_0135_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: Hey! {STRVAR_1 3, 0}!\nListen, I need your help...\rI dropped my Pokédex by accident,\nand Team Galactic found it.\rNow they won’t give it back.\nPlease, I need you to help me.\rI’ll be waiting in front of the\nwarehouses. Please come!\r</language>
+		<language name="English">Lucas: Hej! {STRVAR_1 3, 0}!\nHør, jeg har brug for din hjælp...\rJeg tabte min Pokédex ved et uheld,\nog Team Galactic fandt den.\rNu vil de ikke give den tilbage.\nJeg har brug for, at du hjælper mig.\rJeg venter foran\nlagrene. Kom venligst!\r</language>
 	</row>
 	<row id="narc_0135_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: {STRVAR_1 3, 0}, are you going\nto take the Gym challenge?\rGee, you keep getting tougher and\ntougher, don’t you?\rMe? Well, I went shopping at the\ndepartment store, and...\rI mean, well, of course I’ve been\nworking on my Pokédex, but...\rI’ll catch you later!\r</language>
+		<language name="English">Dawn: {STRVAR_1 3, 0}, skal du\n tage imod Gym-udfordringen?\rJamen, du bliver ved med at blive hårdere og hårdere, gør du ikke?\rMig? Nå, jeg gik på indkøb i\nvarehuset, og...\rJeg mener, ja, selvfølgelig har jeg arbejdet på min Pokédex, men...\rJeg fanger dig senere!\r</language>
 	</row>
 	<row id="narc_0135_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: Hey! {STRVAR_1 3, 0}, are you\ngoing to take on the Gym Leader?\rWow, you just keep getting tougher\nand tougher.\rMe? Well, I took a look in the\nGame Corner, and...\rI mean, yeah, of course I’ve been\nworking on my Pokédex, but...\rAnyways, keep it up!\nI’ll see you around!\r</language>
+		<language name="English">Lucas: Hej! {STRVAR_1 3, 0}, skal du\n tage imod Gym Leader?\rWow, du bliver bare hårdere\nog hårdere.\rMig? Nå, jeg tog et kig i\nGame Corner, og...\rJeg mener, ja, selvfølgelig har jeg arbejdet på min Pokédex, men...\rFortsæt i hvert fald!\nVi ses!\r</language>
 	</row>
 	<row id="narc_0135_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grunt 1: Hey, you!\nYeah, you!\rThis is Team Galactic’s warehouse!\nIt ain’t no playground for kids!\r</language>
+		<language name="English">Grunt 1: Hej, du!\nJa, du!\rDette er Team Galactics lager!\nDet er ikke nogen legeplads for børn!\r</language>
 	</row>
 	<row id="narc_0135_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grunt 1: Hey, you!\nYeah, you!\rThis is Team Galactic’s warehouse!\nIt ain’t no playground for kids!</language>
+		<language name="English">Grunt 1: Hej, du!\nJa, du!\rDette er Team Galactics lager!\nDet er ikke nogen legeplads for børn!</language>
 	</row>
 	<row id="narc_0135_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grunt 2: This is the awesome Team\nGalactic’s awesome warehouse!\rA little kid like you should be playing\nat the Pokémon Gym.\rAfter all, the Gym Leader happens to\nbe a kid just like you!</language>
+		<language name="English">Grunt 2: Dette er det fantastiske Team\nGalactics fantastiske varehus!\rEt lille barn som dig burde lege\npå Pokémon Gym.\rTilfældigvis er Gym Leader tilfældigvis et barn ligesom dig!</language>
 	</row>
 	<row id="narc_0135_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grunt 1: What? Now you’ve brought\nyour buddy along so you can get your\fPokédex back?\rWe’ll be just as happy to send both\nof you crying home to your mommies!</language>
+		<language name="English">Grunt 1: Hvad? Nu har du taget din kammerat med, så du kan få din\fPokédex tilbage?\rVi sender lige så gerne jer begge grædende hjem til dine mødre!</language>
 	</row>
 	<row id="narc_0135_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grunt 2: You’re trying to get the\nPokédex back from us?\rNot when we, Team Galactic, can make\nso much better use of it!\rBut, OK, guarding the warehouse\ndoes get boring!\rWe’ll take you on two-on-two!</language>
+		<language name="English">Grunt 2: Prøver du at få\nPokédex tilbage fra os?\rIkke når vi, Team Galactic, kan gøre\nså meget bedre brug af den!\rMen okay, det bliver kedeligt at bevogte lageret!\rVi tager dig på to-mod-to!</language>
 	</row>
 	<row id="narc_0135_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grunt 1: Aww, that stinks!\nOur Pokémon are chumps!\rWe should get new ones from\nheadquarters.\rHumph! Who cares about some\nPokédex anyways?\rTeam Galactic’s going to own\nall the Pokémon in the world...\fNo, in the universe!\r</language>
+		<language name="English">Grunt 1: Aww, det stinker!\nVores Pokémon er tøser!\rVi burde få nye fra\nhovedkvarteret.\rHumph! Hvem bekymrer sig overhovedet om nogle\nPokédex?\rTeam Galactic kommer til at eje\nalle Pokémonerne i verden...\fNej, i universet!\r</language>
 	</row>
 	<row id="narc_0135_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There! Take it!\nTake your Pokédex!\r</language>
+		<language name="English">Der! Tag den!\nTag din Pokédex!\r</language>
 	</row>
 	<row id="narc_0135_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grunt 2: Those things we had in\nthe warehouse’ve already been moved\fto Pastoria City anyway...\rSo, we’ll say “You’ll get yours!”\nAnd run like the grunts we are.\r</language>
+		<language name="English">Grunt 2: De ting, vi havde på lageret, er alligevel allerede flyttet til Pastoria City...\rSå, vi siger "Du får din!"\nOg løber som de grynter, vi er.\r</language>
 	</row>
 	<row id="narc_0135_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: Hi, {STRVAR_1 3, 0}!\nPlease, can you help me?\rI dropped my Pokédex by accident,\nand Team Galactic found it.\rNow they won’t give it back.\nPlease, I need your help.\fTeam up and battle with me!</language>
+		<language name="English">Dawn: Hej, {STRVAR_1 3, 0}!\nVenligst, kan du hjælpe mig?\rJeg tabte min Pokédex ved et uheld,\nog Team Galactic fandt den.\rNu vil de ikke give den tilbage.\nVenligst, jeg har brug for din hjælp.\f Hold op og kæmp med mig!</language>
 	</row>
 	<row id="narc_0135_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: You and your Pokémon together\nwith me and my Pokémon...\rUnited like this, our dream team\nhas no chance of losing!\rI’m not letting those bad people get\naway with their dirty deeds!\r</language>
+		<language name="English">Dawn: Du og din Pokémon sammen\nmed mig og min Pokémon...\rForenet på denne måde har vores drømmehold\n ingen chance for at tabe!\rJeg lader ikke de dårlige mennesker slippe\nafsted med deres beskidte gerninger!\r</language>
 	</row>
 	<row id="narc_0135_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: I’ll be waiting.\nPlease get ready and come quickly.</language>
+		<language name="English">Dawn: Jeg venter.\nGør dig klar og kom hurtigt.</language>
 	</row>
 	<row id="narc_0135_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: What’s going on?\rWhy is Team Galactic out in the\nstreets like they own the place?\r</language>
+		<language name="English">Dawn: Hvad sker der?\rHvorfor er Team Galactic ude i\ngaderne, som om de ejer stedet?\r</language>
 	</row>
 	<row id="narc_0135_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: {STRVAR_1 3, 0}, thank you,\nsincerely.\rIf Professor Rowan ever finds out that\nI lost my Pokédex...\rEewww...\nI don’t want to think about it.\rSo, {STRVAR_1 3, 0}, what are you going\nto do now?\rI’m thinking of going to Pastoria\nCity now.\rThe Great Marsh there is home to\nmany kinds of Pokémon.\r</language>
+		<language name="English">Dawn: {STRVAR_1 3, 0}, tak,\n med venlig hilsen.\rHvis professor Rowan nogensinde finder ud af, at\njeg mistede min Pokédex...\rEewww...\nJeg vil ikke tænke på det.\rSå, {STRVAR_1 3, 0}, hvad skal du\n gøre nu?\rJeg tænker nu på at tage hjem til Great Pash. til\nmange slags Pokémon.\r</language>
 	</row>
 	<row id="narc_0135_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: Hey! {STRVAR_1 3, 0}!\nListen, I need your help...\rI dropped my Pokédex by accident,\nand Team Galactic found it.\rNow they won’t give it back.\nPlease, I need you to help me.\rWill you team up with me to take\nthem on?</language>
+		<language name="English">Lucas: Hej! {STRVAR_1 3, 0}!\nHør, jeg har brug for din hjælp...\rJeg tabte min Pokédex ved et uheld,\nog Team Galactic fandt den.\rNu vil de ikke give den tilbage.\nVenligst, jeg har brug for, at du hjælper mig.\rVil du slå dig sammen med mig for at tage\n dem på sig?</language>
 	</row>
 	<row id="narc_0135_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: You and your Pokémon together\nwith me and my Pokémon...\rOur dream team’s not going to lose.\nNot with the way we work together!\rI’m not letting those criminals get\naway with this!\r</language>
+		<language name="English">Lucas: Du og din Pokémon sammen\nmed mig og min Pokémon...\rVores drømmehold kommer ikke til at tabe.\nIkke med måden, vi arbejder sammen på!\rJeg lader ikke de kriminelle slippe\nafsted med det her!\r</language>
 	</row>
 	<row id="narc_0135_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: I’ll be waiting!\nGet ready and come quick!</language>
+		<language name="English">Lucas: Jeg venter!\nGør dig klar og kom hurtigt!</language>
 	</row>
 	<row id="narc_0135_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: What’s going on here?\rWhy is Team Galactic out in the\nstreets like they own the place?\r</language>
+		<language name="English">Lucas: Hvad sker der her?\rHvorfor er Team Galactic ude i\ngaderne, som om de ejer stedet?\r</language>
 	</row>
 	<row id="narc_0135_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: {STRVAR_1 3, 0}, thanks,\nhonestly.\rIf Professor Rowan ever hears that\nI lost my Pokédex...\rOh, man, that’s something I do not\nwant to think about!\rSo, {STRVAR_1 3, 0}, what are your\nplans now?\rI’m going off to Pastoria City.\rThe Great Marsh there has all kinds\nof Pokémon.\r</language>
+		<language name="English">Lucas: , tak, Pokémon.\r</language>
 	</row>
 	<row id="narc_0135_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There!\nWould you look at those antennae?\rI don’t know what they do, but those\nare some mighty impressive antennae!\r</language>
+		<language name="English">Der!\nVil du se på de antenner?\rJeg ved ikke, hvad de gør, men det\n er nogle mægtigt imponerende antenner!\r</language>
 	</row>
 	<row id="narc_0135_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey!\nIt’s you!\rI bet you don’t remember me, but\nI sure remember you!\rBecause of you, they took my CLEFAIRY\naway...\rMy partner called it quits and went\nback to his old country...\rI don’t know anything about any\nStorage Key!\r</language>
+		<language name="English">Hej!\nDet er dig!\rJeg vil vædde på, at du ikke kan huske mig, men\njeg husker dig!\rPå grund af dig tog de min CLEFAIRY\n væk...\rMin partner sagde det op og tog tilbage til sit gamle land...\rJeg ved ikke noget om nogen\nopbevaringsnøgle!\r\r</language>
 	</row>
 	<row id="narc_0135_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We have the Hidden Machine that teaches\nFly stored in the warehouse.\rThey said I can use it if I show them\nthat I deserve it.</language>
+		<language name="English">Vi har den Skjulte Maskine, der lærer\nFly, gemt på lageret.\rDe sagde, at jeg kan bruge den, hvis jeg viser dem\n, at jeg fortjener det.</language>
 	</row>
 	<row id="narc_0135_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah, Team Galactic is hiding all sorts\nof good stuff in their warehouse.\rI hear they even have a Hidden\nMachine in there!</language>
+		<language name="English">Ja, Team Galactic gemmer alle mulige slags gode ting på deres lager.\rJeg har hørt, at de endda har en skjult\nmaskine derinde!</language>
 	</row>
 	<row id="narc_0135_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Game Corner is dangerous!\rWhy is it dangerous?\nIt’s so fun, I lose track of time!</language>
+		<language name="English">Spillehjørnet er farligt!\rHvorfor er det farligt?\nDet er så sjovt, at jeg mister overblikket!</language>
 	</row>
 	<row id="narc_0135_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got a TM as a prize from the\nGame Corner.\rI used it on my Pokémon right away!</language>
+		<language name="English">Jeg fik en TM som præmie fra\nGame Corner.\rJeg brugte den på min Pokémon med det samme!</language>
 	</row>
 	<row id="narc_0135_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
@@ -119,19 +119,19 @@
 	</row>
 	<row id="narc_0135_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maylene is Veilstone’s Gym Leader.\nWake’s the Gym Leader in Pastoria.\fThen, there’s Fantina in Hearthome...\rThey’re all way too tough.\nI can’t even come close to them.</language>
+		<language name="English">Maylene er Veilstones Gym Leader.\nWake’s the Gym Leader i Pastoria.\fSå er der Fantina i Hearthome...\rDe er alt for hårde.\nJeg kan ikke engang komme i nærheden af ​​dem.</language>
 	</row>
 	<row id="narc_0135_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I came to this city just so I could\ngo shopping at the department store.\rBut with all these rock walls around,\nthis place feels kind of cold.</language>
+		<language name="English">Jeg kom til denne by, bare for at jeg kunne gå på indkøb i stormagasinet.\rMen med alle disse klippevægge rundt,\n føles dette sted noget koldt.</language>
 	</row>
 	<row id="narc_0135_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I bought a new parasol.\rBut I don’t want it to get rained on,\nso I watch the TV weather reports.</language>
+		<language name="English">Jeg købte en ny parasol.\rMen jeg vil ikke have, at det regner på,\nså jeg ser tv-vejrrapporterne.</language>
 	</row>
 	<row id="narc_0135_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know where one might find\na Coin Case?\rI heard that there’s a clown giving\n’em away, but...</language>
+		<language name="English">Ved du, hvor man kan finde\nen møntkasse?\rJeg hørte, at der er en klovn, der giver\n dem væk, men...</language>
 	</row>
 	<row id="narc_0135_00033" index="33">
 		<attribute name="window_context_name">garbage</attribute>
@@ -140,31 +140,31 @@
 	</row>
 	<row id="narc_0135_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Veilstone is the city of stone.\nWe even have meteorites!\rThis has nothing to do with anything,\nbut take this Technical Machine!\r</language>
+		<language name="English">Veilstone er stenens by.\nVi har endda meteoritter!\rDette har intet med noget at gøre,\nmen tag denne tekniske maskine!\r</language>
 	</row>
 	<row id="narc_0135_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If someone uses Embargo on your\nPokémon, it becomes impossible to\fuse any items on it.\rAnyway, enjoy your visit to Veilstone,\nthe city of...well, stone.</language>
+		<language name="English">Hvis nogen bruger Embargo på din\nPokémon, bliver det umuligt at\fbruge nogen genstande på den.\rNyd i hvert fald dit besøg i Veilstone,\nbyen ... ja, sten.</language>
 	</row>
 	<row id="narc_0135_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a mysterious meteorite that\nfell from the stars...</language>
+		<language name="English">Det er en mystisk meteorit, der faldt ned fra stjernerne...</language>
 	</row>
 	<row id="narc_0135_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touching the meteorite boosted\nthe Speed of a certain Pokémon.</language>
+		<language name="English">Berøring af meteoritten øgede hastigheden for en bestemt Pokémon.</language>
 	</row>
 	<row id="narc_0135_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touching the meteorite heightened\nthe defensive capabilities of\fa certain Pokémon.</language>
+		<language name="English">Berøring af meteoritten øgede en bestemt Pokémons defensive evner.</language>
 	</row>
 	<row id="narc_0135_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touching the meteorite heightened\nthe offensive capabilities of\fa certain Pokémon.</language>
+		<language name="English">Berøring af meteoritten øgede en bestemt Pokémons offensive evner.</language>
 	</row>
 	<row id="narc_0135_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touching the meteorite balanced out\nthe attributes of a certain Pokémon.</language>
+		<language name="English">Berøring af meteoritten udlignede egenskaberne for en bestemt Pokémon.</language>
 	</row>
 	<row id="narc_0135_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -172,30 +172,30 @@
 	</row>
 	<row id="narc_0135_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Veilstone City Pokémon Gym\nLeader: Maylene\fThe Barefoot, Fighting Genius!</language>
+		<language name="English">Veilstone City Pokémon Gym\nleder: Maylene\fThe Barfoot, Fighting Genius!</language>
 	</row>
 	<row id="narc_0135_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Galactic Warehouse\nNO TRESPASSING!</language>
+		<language name="English">Galactic Warehouse\nINGEN OVERTRÆDNING!</language>
 	</row>
 	<row id="narc_0135_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Galactic Veilstone Building\nWe Dream of the Universe!</language>
+		<language name="English">Galactic Veilstone Building\nVi drømmer om universet!</language>
 	</row>
 	<row id="narc_0135_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Veilstone Department Store\nA Shop Full of Dreams!</language>
+		<language name="English">Veilstone Department Store\nEn butik fuld af drømme!</language>
 	</row>
 	<row id="narc_0135_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Veilstone Game Corner\nAim for an Explosion of Luck!</language>
+		<language name="English">Veilstone Game Corner\n Sigt efter en eksplosion af held!</language>
 	</row>
 	<row id="narc_0135_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prize Exchange\nCoins Exchanged for Prizes!</language>
+		<language name="English">Præmieudveksling\nmønter ombyttet til præmier!</language>
 	</row>
 	<row id="narc_0135_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Visit Beautiful Lake Valor!\nRight off Rt. 214!</language>
+		<language name="English">Besøg Beautiful Lake Valor!\nLige ved Rt. 214!</language>
 	</row>
 </body>

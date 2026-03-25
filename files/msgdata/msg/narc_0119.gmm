@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="narc_0119_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi!\nLet’s get cooking!\rHere’s my advice on cooking tasty\nPoffins for your Pokémon crew!\rIn the beginning, while it’s still\na batter, swirl it gently and avoid\fspillage.\rWhen it starts to harden, churn it\nfast in big circles!\rAt the end, make a wish for it to\nturn scrumptious and whirl it!</language>
+		<language name="English">Hej!\nLad os komme i gang med at lave mad!\rHer er mit råd om tilberedning af velsmagende\nPoffins til dit Pokémon-hold!\rI begyndelsen, mens det stadig\n er en dej, skal du hvirvle den forsigtigt og undgå\fspild.\rNår den begynder at stivne, så kværn den for enden! at blive lækker og hvirvle den!</language>
 	</row>
 	<row id="narc_0119_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you got some Berries?\rTo make delicious Poffins, the key\ningredient is a rare Berry.\rAnd, the more cooks you have,\nthe more delicious the Poffin!</language>
+		<language name="English">Har du nogle bær?\rFor at lave lækre Poffins er nøgleingrediensen et sjældent bær.\rOg jo flere kokke du har,\njo mere lækker er Poffin!</language>
 	</row>
 	<row id="narc_0119_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eating good food makes people and\nPokémon more energetic and happy.\rIn that sense, we’re exactly alike.</language>
+		<language name="English">At spise god mad gør folk og\nPokémon mere energiske og glade.\rI den forstand er vi nøjagtig ens.</language>
 	</row>
 </body>

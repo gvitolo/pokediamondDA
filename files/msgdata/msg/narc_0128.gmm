@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="narc_0128_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Great Marsh, the home\nof Pastoria’s Safari Game!\rAll you can catch for just $500!\nWould you like to play a Safari Game?</language>
+		<language name="English">Velkommen til Great Marsh, hjemstedet\n for Pastorias Safari Game!\rAlt hvad du kan fange for kun $500!\nVil du spille et Safari-spil?</language>
 	</row>
 	<row id="narc_0128_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That will be $500, please.\r</language>
+		<language name="English">Det vil være $500, tak.\r</language>
 	</row>
 	<row id="narc_0128_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here are your Safari Balls.\r</language>
+		<language name="English">Her er dine safaribolde.\r</language>
 	</row>
 	<row id="narc_0128_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} received\n30 Safari Balls.\r</language>
+		<language name="English">{STRVAR_1 3, 0} modtaget\n30 Safari Bolde.\r</language>
 	</row>
 	<row id="narc_0128_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ll let you know when your game\nis over.\rUntil then, enjoy yourself, please!\nOff you go on your wild excursion!\r</language>
+		<language name="English">Vi giver dig besked, når dit spil\ner slut.\rIndtil da, god fornøjelse!\nDu tager afsted på din vilde udflugt!\r</language>
 	</row>
 	<row id="narc_0128_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK.\nPlease come again!\r</language>
+		<language name="English">OK.\nKom gerne igen!\r</language>
 	</row>
 	<row id="narc_0128_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough money.\nSorry.\r</language>
+		<language name="English">Du har ikke penge nok.\nBeklager.\r</language>
 	</row>
 	<row id="narc_0128_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m sorry, you don’t have enough\nroom to catch any more Pokémon.\r</language>
+		<language name="English">Jeg beklager, du har ikke plads nok til at fange flere Pokémons.\r</language>
 	</row>
 	<row id="narc_0128_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Great Marsh, the home\nof Pastoria’s Safari Game!\rRecently, there have been sightings\nof Pokémon that are new to the area.\rWhich brings us to...\rAll you can catch for just $500!\nWould you like to play a Safari Game?</language>
+		<language name="English">Velkommen til Great Marsh, hjemstedet for Pastoria's Safari Game!\rFor nylig har der været observationer\n af Pokémons, som er nye i området.\rHvilket bringer os til...\rAlt hvad du kan fange for kun 500 $!\nVil du spille et Safari-spil?</language>
 	</row>
 	<row id="narc_0128_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You still have time left. Are you sure\nyou want to exit the Great Marsh?</language>
+		<language name="English">Du har stadig tid tilbage. Er du sikker på, at du vil forlade Great Marsh?</language>
 	</row>
 	<row id="narc_0128_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK.\rI’ll relieve you of your remaining\nSafari Balls.\rThank you for playing.\nWe hope to see you again.\r</language>
+		<language name="English">OK.\rJeg fritager dig for dine resterende\nSafari-bolde.\rTak, fordi du spillede.\nVi håber at se dig igen.\r</language>
 	</row>
 	<row id="narc_0128_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enjoy the rest of your wild\nSafari Game adventure!\r</language>
+		<language name="English">Nyd venligst resten af ​​dit vilde\nSafari Game-eventyr!\r</language>
 	</row>
 	<row id="narc_0128_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Great Marsh!\nIs this your first Safari Game?</language>
+		<language name="English">Velkommen til Great Marsh!\nEr dette dit første safarispil?</language>
 	</row>
 	<row id="narc_0128_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you enter the Great Marsh, you\nstart with 30 Safari Balls.\rThat’s the only kind of Ball you’re\nallowed to use in the Safari Game.\rThe game is over when you run out of\nSafari Balls, or when you’ve walked\f500 steps.\rPlease do enjoy the untamed nature\nof the Great Marsh!</language>
+		<language name="English">Når du går ind i Great Marsh, starter du med 30 safaribolde.\rDet er den eneste slags bold, du må bruge i safarispillet.\rSpillet er slut, når du løber tør for safaribolde, eller når du har gået\f500 skridt.\rVenligst nyd den utæmmede natur.</language>
 	</row>
 	<row id="narc_0128_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see.\nEnjoy your Safari Game!</language>
+		<language name="English">Jeg forstår.\nNyd dit Safari-spil!</language>
 	</row>
 </body>

@@ -2,95 +2,95 @@
 <body language="English">
 	<row id="narc_0120_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keira: Oh! My hero!\r</language>
+		<language name="English">Keira: Åh! Min helt!\r</language>
 	</row>
 	<row id="narc_0120_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, hi, {STRVAR_1 3, 0}.\r</language>
+		<language name="English">Mor: Åh, hej, {STRVAR_1 3, 0}.\r</language>
 	</row>
 	<row id="narc_0120_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keira: Wait! No! Really?!\nJohanna is your mom?\fSo you might be a Contest star?!\r</language>
+		<language name="English">Keira: Vent! Ingen! Virkelig?!\nJohanna er din mor?\fSå du er måske en konkurrencestjerne?!\r</language>
 	</row>
 	<row id="narc_0120_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, I don’t know about that.\rI’ve never spoken to {STRVAR_1 3, 0}\nabout Contests.\rI’m surprised you two know each\nother, though.\r</language>
+		<language name="English">Mor: Åh, det ved jeg ikke om.\rJeg har aldrig talt med {STRVAR_1 3, 0}\n om konkurrencer.\rJeg er dog overrasket over, at I kender hinanden.\r</language>
 	</row>
 	<row id="narc_0120_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keira: Oh, yes, that’s right!\rI need to thank you for earlier.\nPlease take this Accessory.\r</language>
+		<language name="English">Keira: Åh, ja, det er rigtigt!\rJeg er nødt til at takke dig for tidligere.\nTag venligst dette tilbehør.\r</language>
 	</row>
 	<row id="narc_0120_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keira: Put that Accessory on your\nPokémon before a Contest.\rIt will lend a nice touch of\nsophistication and glamour.\rI’m a Contest Judge, so come join us\nfor a different kind of fun.\rIf you’re unsure of yourself,\nwe also offer practice sessions.\r</language>
+		<language name="English">Keira: Sæt det tilbehør på din\nPokémon før en konkurrence.\rDet vil give et fint strejf af\nraffinement og glamour.\rJeg er en konkurrencedommer, så kom med os\nfor en anderledes sjov.\rHvis du er usikker på dig selv,\n tilbyder vi også træningssessioner.\r</language>
 	</row>
 	<row id="narc_0120_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, Johanna, I’ll see you!\r</language>
+		<language name="English">Ok, Johanna, vi ses!\r</language>
 	</row>
 	<row id="narc_0120_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Were you surprised to see me,\n{STRVAR_1 3, 0}?\rI got bored, so I came out to\nHearthome for a little vacation.\rI’m just as surprised to see you\nhere, my dear!\rBut are you serious about entering\nContests? Not dressed that way!\rWhen your Pokémon is all dressed up,\nyou can’t be dressed your usual way.\rPut this on for a little glamour.\r</language>
+		<language name="English">Mor: Blev du overrasket over at se mig,\n{STRVAR_1 3, 0}?\rJeg kedede mig, så jeg kom ud til\nHearthome på en lille ferie.\rJeg er lige så overrasket over at se dig\nher, min skat!\rMen er du seriøs med at deltage i\nkonkurrencer? Ikke klædt på den måde!\rNår din Pokémon er helt udklædt,\nkan du ikke være klædt på som sædvanligt.\rTag dette på for lidt glamour.\r</language>
 	</row>
 	<row id="narc_0120_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} obtained\na Tuxedo!</language>
+		<language name="English">{STRVAR_1 3, 0} fået\nen Tuxedo!</language>
 	</row>
 	<row id="narc_0120_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} obtained\na Dress!</language>
+		<language name="English">{STRVAR_1 3, 0} fået\nen Kjole!</language>
 	</row>
 	<row id="narc_0120_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: I’m sure it will look good\non you. After all, I chose it.\rGo enjoy the Contests, honey!\rContests will give you a different\nlook at the many charms of Pokémon.\rIt should be an eye-opening\nexperience for you. Bye now!\r</language>
+		<language name="English">Mor: Jeg er sikker på, at det vil se godt ud på dig. Jeg valgte det trods alt.\rGå og nyd konkurrencerne, skat!\rKonkurrencer vil give dig et anderledes\nblik på Pokémons mange charme.\rDet burde være en øjenåbnende\noplevelse for dig. Farvel nu!\r</language>
 	</row>
 	<row id="narc_0120_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re going to enter Contests?\nBut I don’t see a Poffin Case.\rIt could be tough for you to win\nContests without it.\rBut if you’re determined to enter,\ndon’t let me stop you.\rIt wouldn’t hurt to get in some\npractice at the counter on the right.\r</language>
+		<language name="English">Vil du deltage i konkurrencer?\nMen jeg kan ikke se en Poffin-sag.\rDet kunne være svært for dig at vinde\nkonkurrencer uden den.\rMen hvis du er fast besluttet på at deltage,\n lad mig ikke stoppe dig.\rDet ville ikke skade at gå i en eller anden praksis ved skranken.\r</language>
 	</row>
 	<row id="narc_0120_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re going to enter Contests?\nAnd, yup, you have a Poffin Case.\rLet me gift you with this fabulously\nwonderful Poffin!\r</language>
+		<language name="English">Vil du deltage i konkurrencer?\nOg ja, du har en Poffin Case.\rLad mig forære dig denne fabelagtig\nvidunderlige Poffin!\r</language>
 	</row>
 	<row id="narc_0120_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} received\na Mild Poffin!</language>
+		<language name="English">{STRVAR_1 3, 0} modtaget\nen Mild Poffin!</language>
 	</row>
 	<row id="narc_0120_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Mild Poffin was put away\nin the Poffin Case.\r</language>
+		<language name="English">Den Milde Poffin blev lagt væk\ni Poffin Casen.\r</language>
 	</row>
 	<row id="narc_0120_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Feed that Poffin to a Pokémon you’re\ngoing to enter in Contests.\rOh, and a word of advice.\nGo take a run at the Contests!\rThe best way to get ready is to\nget some practice first.\rYou can take practice sessions at\nthe counter on the right.\r</language>
+		<language name="English">Giv den Poffin til en Pokémon, du vil deltage i konkurrencer.\rÅh, og et godt råd.\nTag en tur til konkurrencerne!\rDen bedste måde at blive klar på er at\nøve dig først.\rDu kan tage øvelser ved\nskranken til højre.\r</language>
 	</row>
 	<row id="narc_0120_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Feed that Poffin to a Pokémon you’re\ngoing to enter in Contests.\rOh, and a word of advice for you.\nGo take a run at the Contests!\rHowever, the best way to get ready\nis to get some practice first.\rYou can take practice sessions at\nthe counter on the right.</language>
+		<language name="English">Giv den Poffin til en Pokémon, som du vil deltage i i konkurrencer.\rÅh, og et råd til dig.\nTag en tur til konkurrencerne!\rDen bedste måde at blive klar på er dog først at øve dig.\rDu kan tage øvelser ved\ndisken til højre.</language>
 	</row>
 	<row id="narc_0120_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Like everything else, the basics are\nimportant.\rIt takes practice to win Contests!</language>
+		<language name="English">Som alt andet er det grundlæggende\nvigtigt.\rDet kræver øvelse at vinde konkurrencer!</language>
 	</row>
 	<row id="narc_0120_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no.\nYour Poffin Case’s full.</language>
+		<language name="English">Åh, nej.\nDin Poffin-sag er fuld.</language>
 	</row>
 	<row id="narc_0120_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no.\nYour Poffin Case is full.\fI’ll give it to you another time.\rOh, and a word of advice.\nGo take a run at the Contests!\rHowever, the best way to get ready\nis to get some practice first.\rYou can take practice sessions at\nthe counter on the right.\r</language>
+		<language name="English">Åh, nej.\nDin Poffin Case er fuld.\fJeg giver dig den en anden gang.\rÅh, og et råd.\nTag en tur til konkurrencerne!\rDen bedste måde at blive klar på er dog at få øvelse først.\rDu kan tage øvelser ved\ndisken til højre.\r</language>
 	</row>
 	<row id="narc_0120_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon fed Poffins does\nbetter in Visual Evaluations.\rI’d better learn how to cook\ndelicious Poffins at the Poffin House!</language>
+		<language name="English">En Pokémon fodret Poffins klarer sig bedre i visuelle evalueringer.\rJeg må hellere lære at tilberede lækre Poffins i Poffin House!</language>
 	</row>
 	<row id="narc_0120_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Contest has three parts: Visual!\nDance! And Acting!\rThe Contestants get graded in those\ncategories, dohoho!</language>
+		<language name="English">En konkurrence har tre dele: Visuelt!\nDans! Og skuespil!\rKonkurrenterne får karakter i de\nkategorier, dohoho!</language>
 	</row>
 	<row id="narc_0120_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They put up photos of the winners!</language>
+		<language name="English">De satte billeder op af vinderne!</language>
 	</row>
 	<row id="narc_0120_00023" index="23">
 		<attribute name="window_context_name">garbage</attribute>
@@ -109,6 +109,6 @@
 	</row>
 	<row id="narc_0120_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a frame to display a photo in.</language>
+		<language name="English">Det er en ramme at vise et billede i.</language>
 	</row>
 </body>

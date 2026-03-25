@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0604_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0604_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Andaman and Nicobar Islands</language>
+		<language name="English">Andaman- og Nicobarøerne</language>
 	</row>
 	<row id="narc_0604_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -34,11 +34,11 @@
 	</row>
 	<row id="narc_0604_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dadra and Nagar Haveli</language>
+		<language name="English">Dadra og Nagar Haveli</language>
 	</row>
 	<row id="narc_0604_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Daman and Diu</language>
+		<language name="English">Daman og Diu</language>
 	</row>
 	<row id="narc_0604_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0604_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jammu and Kashmir</language>
+		<language name="English">Jammu og Kashmir</language>
 	</row>
 	<row id="narc_0604_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -142,6 +142,6 @@
 	</row>
 	<row id="narc_0604_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">West Bengal</language>
+		<language name="English">Vestbengalen</language>
 	</row>
 </body>

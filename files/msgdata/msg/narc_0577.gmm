@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0577_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -18,11 +18,11 @@
 	</row>
 	<row id="narc_0577_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s not the right kind of Sphere!</language>
+		<language name="English">Det er ikke den rigtige slags sfære!</language>
 	</row>
 	<row id="narc_0577_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\nNo, this Sphere’s not big enough.</language>
+		<language name="English">Hmm...\nNej, denne Sphere er ikke stor nok.</language>
 	</row>
 	<row id="narc_0577_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="narc_0577_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GET TRAP</language>
+		<language name="English">FÅ FÆLDEN</language>
 	</row>
 	<row id="narc_0577_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -78,27 +78,27 @@
 	</row>
 	<row id="narc_0577_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spheres\n on hand</language>
+		<language name="English">Kugler\n ved hånden</language>
 	</row>
 	<row id="narc_0577_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Traps on\n hand</language>
+		<language name="English">Fælder på\n hånd</language>
 	</row>
 	<row id="narc_0577_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goods on\n hand</language>
+		<language name="English">Varer på\n hånd</language>
 	</row>
 	<row id="narc_0577_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0577_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Required Sphere</language>
+		<language name="English">Påkrævet sfære</language>
 	</row>
 	<row id="narc_0577_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Offered Sphere</language>
+		<language name="English">Tilbudt sfære</language>
 	</row>
 	<row id="narc_0577_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -110,7 +110,7 @@
 	</row>
 	<row id="narc_0577_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have any treasures? I’ll trade\nyou some Spheres for them.</language>
+		<language name="English">Har du nogle skatte? Jeg bytter\ndu nogle sfærer til dem.</language>
 	</row>
 	<row id="narc_0577_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -122,311 +122,311 @@
 	</row>
 	<row id="narc_0577_00030" index="30">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00031" index="31">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00032" index="32">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00033" index="33">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00034" index="34">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00036" index="36">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00037" index="37">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00038" index="38">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0577_00039" index="39">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="narc_0577_00040" index="40">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0577_00041" index="41">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0577_00042" index="42">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00043" index="43">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00044" index="44">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00045" index="45">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00046" index="46">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00047" index="47">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00048" index="48">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00049" index="49">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00050" index="50">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0577_00051" index="51">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="narc_0577_00052" index="52">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0577_00053" index="53">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0577_00054" index="54">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00055" index="55">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00056" index="56">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00057" index="57">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00058" index="58">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00059" index="59">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00060" index="60">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00061" index="61">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00062" index="62">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0577_00063" index="63">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="narc_0577_00064" index="64">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0577_00065" index="65">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
 	</row>
 	<row id="narc_0577_00066" index="66">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00067" index="67">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00068" index="68">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00069" index="69">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00070" index="70">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00071" index="71">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00072" index="72">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00073" index="73">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00074" index="74">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00075" index="75">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00076" index="76">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00077" index="77">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00078" index="78">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00079" index="79">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00080" index="80">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00081" index="81">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00082" index="82">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00083" index="83">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00084" index="84">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00085" index="85">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00086" index="86">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00087" index="87">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00088" index="88">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00089" index="89">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00090" index="90">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0577_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Roark: Hey! {STRVAR_1 3, 0}!\nIs this maybe your first time here?\rWelcome to Sinnoh’s Underground!\rHuh? Where is this, you ask?\nDoesn’t the Radar make it obvious?\rThis is a giant underground network\nof passages underneath Sinnoh.\rHuh? What am I doing down in this\nexpanse of a place?\rThat’s kind of hard to answer.\rI mean, you can do pretty much\nanything you want down here.\rFor instance, you can dig up Treasure,\nSpheres, and make a Secret Base.\rYou can play with your friends down\nhere, too.\rYou should talk to the Underground\nMan in Eterna City.\rI have to get going now.\nI’ll see you around!</language>
+		<language name="English">Roark: Hej!{STRVAR_1 3, 0}!\nEr det måske din første gang her?\rVelkommen til Sinnoh's Underground!\rHva? Hvor er det her, spørger du?\nGør radaren det ikke indlysende?\rDette er et kæmpe underjordisk netværk\naf passager under Sinnoh.\rHva? Hvad laver jeg dernede i denne\nudstrækning af et sted?\rDet er lidt svært at svare på.\rJeg mener, du kan gøre stort set\nalt, hvad du vil hernede.\rDu kan for eksempel grave Treasure,\nSfærer op og lave en hemmelig base.\rDu kan også lege med dine venner hernede\nher.\rDu burde tale med en mand i Underground.\nMan i Underground. nu.\nVi ses!</language>
 	</row>
 </body>

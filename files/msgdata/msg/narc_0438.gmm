@@ -1,28 +1,28 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0438_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The owner of Amity Square also\nowns the Pokémon Mansion!</language>
+		<language name="English">Ejeren af ​​Amity Square også\nejer Pokémon Mansion!</language>
 	</row>
 	<row id="narc_0438_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are good trees that you can\nsmear with Honey, and some you can’t.\rIf you want to lure rare Pokémon,\nyou have to find an attractive tree.</language>
+		<language name="English">Der er gode træer, som du kan\nsmøre med honning, og nogle kan du ikke.\rHvis du vil lokke sjældne Pokémon,\ndu skal finde et attraktivt træ.</language>
 	</row>
 	<row id="narc_0438_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why, hello there!\rIt’s nice to have an average citizen\nsay hi to us Policemen!</language>
+		<language name="English">Hvorfor, hej der!\rDet er rart at have en gennemsnitlig borger\nsig hej til os politifolk!</language>
 	</row>
 	<row id="narc_0438_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Patrols day and night...\nI’m feeling drowsy... Yawn...</language>
+		<language name="English">Patruljer dag og nat...\nJeg føler mig døsig... Gab...</language>
 	</row>
 	<row id="narc_0438_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo!\nWorking hard at it, Trainer?</language>
+		<language name="English">Yo!\nArbejder du hårdt på det, træner?</language>
 	</row>
 	<row id="narc_0438_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just between you and me...\nI think we’re on patrol too much.</language>
+		<language name="English">Bare mellem dig og mig...\nJeg synes, vi patruljerer for meget.</language>
 	</row>
 	<row id="narc_0438_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,10 +30,10 @@
 	</row>
 	<row id="narc_0438_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Mansion\nFor Pokémon Viewings</language>
+		<language name="English">Pokémon Mansion\nTil Pokémon-visninger</language>
 	</row>
 	<row id="narc_0438_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rThe items in the Bag can be\nreorganized by pressing SELECT.</language>
+		<language name="English">Træner tips\rVarerne i Tasken kan være\nomorganiseres ved at trykke på VÆLG.</language>
 	</row>
 </body>

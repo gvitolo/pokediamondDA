@@ -1,40 +1,40 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0429_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where departed Pokémon sleep...\nThis is the Lost Tower.</language>
+		<language name="English">Hvor forsvandt Pokémon sove...\nDette er det forsvundne tårn.</language>
 	</row>
 	<row id="narc_0429_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a broken, crumbling tower\nmade of stone...</language>
+		<language name="English">Der er et knust, smuldrende tårn\nlavet af sten...</language>
 	</row>
 	<row id="narc_0429_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a broken, crumbling tower\nmade of stone...\rThere seems to be a spot that would\nbe a perfect fit for the Odd Keystone.\rWould you like to use the Odd\nKeystone?</language>
+		<language name="English">Der er et knust, smuldrende tårn\nlavet af sten...\rDer ser ud til at være et sted, der ville\npasser perfekt til Odd Keystone.\rKunne du tænke dig at bruge Odd\nKeystone?</language>
 	</row>
 	<row id="narc_0429_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} pushed the Odd Keystone\ninto the stone tower.\rThe stone tower has been restored!\n“Hallowed Tower” is written on it.</language>
+		<language name="English">{STRVAR_1 3, 0} skubbede den ulige Keystone\nind i stentårnet.\rStentårnet er blevet restaureret!\n"Hallowed Tower" står der på den.</language>
 	</row>
 	<row id="narc_0429_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s the Hallowed Tower.\rIt appears to have been built\nmany years ago.</language>
+		<language name="English">Det er det hellige tårn.\rDet ser ud til at være bygget\nmange år siden.</language>
 	</row>
 	<row id="narc_0429_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s the Hallowed Tower.\rIts stones appear to have shifted...</language>
+		<language name="English">Det er det hellige tårn.\rDens sten ser ud til at have flyttet sig...</language>
 	</row>
 	<row id="narc_0429_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s the Hallowed Tower.\r...Is that crying coming from inside\nthe tower?</language>
+		<language name="English">Det er det hellige tårn.\r...Kommer den gråd indefra\ntårnet?</language>
 	</row>
 	<row id="narc_0429_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s the Hallowed Tower.\r...Is the tower shaking ever so\nslightly?</language>
+		<language name="English">Det er det hellige tårn.\r...Risterer tårnet nogensinde\nlidt?</language>
 	</row>
 	<row id="narc_0429_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s the Hallowed Tower.\rThere is some sort of presence...\nIt appears ready to emerge!</language>
+		<language name="English">Det er det hellige tårn.\rDer er en form for tilstedeværelse...\nDet ser ud til at være klar til at dukke op!</language>
 	</row>
 	<row id="narc_0429_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,40 +42,40 @@
 	</row>
 	<row id="narc_0429_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0429_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm!\n{STRVAR_1 8, 0} is really good!\rWouldn’t you agree?</language>
+		<language name="English">Hmm!\n{STRVAR_1 8, 0} er rigtig godt!\rEr du ikke enig?</language>
 	</row>
 	<row id="narc_0429_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm!\nWe’re of identical minds!\rHmm!\nTake this {STRVAR_1 8, 0}!\r</language>
+		<language name="English">Hmm!\nVi er af samme sind!\rHmm!\nTag det her {STRVAR_1 8, 0}!\r</language>
 	</row>
 	<row id="narc_0429_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Try fishing wherever there is\na body of water.\rOh, incidentally, do you need me to\nexplain how to use that fishing rod?</language>
+		<language name="English">Prøv at fiske, hvor end der er\nen vandmasse.\rÅh, i øvrigt, har du brug for mig\nforklare hvordan man bruger den fiskestang?</language>
 	</row>
 	<row id="narc_0429_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t like to fish?</language>
+		<language name="English">Kan du ikke lide at fiske?</language>
 	</row>
 	<row id="narc_0429_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First, you face any body of water,\nthen you use your fishing rod.\rNext, you must focus!\nIf a Pokémon bites, “!” appears.\fThat’s your cue to reel it in!</language>
+		<language name="English">Først står du over for enhver vandmasse,\nså bruger du din fiskestang.\rDernæst skal du fokusere!\nHvis en Pokémon bider, "!" vises.\fDet er dit signal til at rulle den ind!</language>
 	</row>
 	<row id="narc_0429_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you’re fishing for Pokémon,\nthe first hurdle is getting a bite.\rWhen you start to reel that Pokémon\nin, you’ve got to battle it.\rSo, fishing gives you twice the fun!</language>
+		<language name="English">Når du fisker efter Pokémon,\nden første forhindring er at få et bid.\rNår du begynder at spole den Pokémon\nind, du er nødt til at kæmpe mod det.\rSå fiskeri giver dig dobbelt så sjov!</language>
 	</row>
 	<row id="narc_0429_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you jog every morning?\nWell, I do!</language>
+		<language name="English">Jogger du hver morgen?\nNå, det gør jeg!</language>
 	</row>
 	<row id="narc_0429_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I was jogging the other day,\na wild Pokémon chased after me.\rI swear, I ran on top of the water!\nI was so freaked out!</language>
+		<language name="English">Da jeg joggede den anden dag,\nen vild Pokémon jagtede efter mig.\rJeg sværger, jeg løb oven på vandet!\nJeg var så skræmt!</language>
 	</row>
 	<row id="narc_0429_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -87,6 +87,6 @@
 	</row>
 	<row id="narc_0429_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rYou may register one of the Key\nItems in your Bag for instant use.\rSimply press the Y Button to use the\nregistered item instantly.</language>
+		<language name="English">Træner tips\rDu kan registrere en af ​​nøglerne\nGenstande i din taske til øjeblikkelig brug.\rTryk blot på Y-knappen for at bruge\nregistreret vare med det samme.</language>
 	</row>
 </body>

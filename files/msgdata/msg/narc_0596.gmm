@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0596_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0596_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0596_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Para</language>
+		<language name="English">Stk</language>
 	</row>
 	<row id="narc_0596_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -102,7 +102,7 @@
 	</row>
 	<row id="narc_0596_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sao Paulo</language>
+		<language name="English">São Paulo</language>
 	</row>
 	<row id="narc_0596_00026" index="26">
 		<attribute name="window_context_name">used</attribute>

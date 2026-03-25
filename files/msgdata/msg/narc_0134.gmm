@@ -2,51 +2,51 @@
 <body language="English">
 	<row id="narc_0134_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Howdy, there!\rLet me examine your Pokémon to see\nif it’s worthy of a scarf!\r</language>
+		<language name="English">Hej!\rLad mig undersøge din Pokémon for at se\n, om den er et tørklæde værdig!\r</language>
 	</row>
 	<row id="narc_0134_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmhm...\nI see...\r</language>
+		<language name="English">Hmhm...\nJeg kan se...\r</language>
 	</row>
 	<row id="narc_0134_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This isn’t what I had hoped to see...\rI can’t lie to you, so I’ll just have\nto tell it to you straight.\rThis Pokémon’s not bad, but it’s not\ngood, either. It’s just so-so.\rIf you want to improve this one’s\ncondition, feed it some more Poffins!</language>
+		<language name="English">Det var ikke det, jeg havde håbet at se...\rJeg kan ikke lyve for dig, så jeg bliver bare nødt\nat fortælle dig det ligeud.\rDenne Pokémon er ikke dårlig, men den er heller ikke\ngod. Det er bare halvdårligt.\rHvis du vil forbedre dennes tilstand, skal du fodre den med nogle flere Poffins!</language>
 	</row>
 	<row id="narc_0134_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon is growing up really\ngood. My hat’s off to you.\rI was going to give you a scarf,\nbut your Bag’s full.</language>
+		<language name="English">Din Pokémon vokser rigtig godt. Min hat er af for dig.\rJeg havde tænkt mig at give dig et tørklæde,\nmen din taske er fuld.</language>
 	</row>
 	<row id="narc_0134_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your {STRVAR_1 0, 0}’s looking good!\nI’d say it’s pretty impressive!\rI’ll tell you what, I’ll give you\nthis {STRVAR_1 8, 1}!\r</language>
+		<language name="English">Dit {STRVAR_1 0, 0} ser godt ud!\nJeg vil sige, det er ret imponerende!\rJeg skal fortælle dig hvad, jeg giver dig\ndenne {STRVAR_1 8, 1}!\r</language>
 	</row>
 	<row id="narc_0134_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Red Scarf stands for passion!\rLet a Pokémon hold it to give it\nan edge in Cool Contests.</language>
+		<language name="English">Det røde tørklæde står for passion!\rLad en Pokémon holde det for at give det en fordel i seje konkurrencer.</language>
 	</row>
 	<row id="narc_0134_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Blue Scarf represents the\nvastness of the sea!\rLet a Pokémon hold it to give it\nan edge in Beauty Contests.</language>
+		<language name="English">Det blå halstørklæde repræsenterer havets væld!\rLad en Pokémon holde det for at give det en fordel i skønhedskonkurrencer.</language>
 	</row>
 	<row id="narc_0134_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pink Scarf represents charm!\rLet a Pokémon hold it to give it\nan edge in Cute Contests.</language>
+		<language name="English">Det lyserøde tørklæde repræsenterer charme!\rLad en Pokémon holde det for at give det en fordel i Cute Contests.</language>
 	</row>
 	<row id="narc_0134_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Green Scarf represents the\nspring breeze!\rLet a Pokémon hold it to give it\nan edge in Smart Contests.</language>
+		<language name="English">Det grønne tørklæde repræsenterer forårets brise!\rLad en Pokémon holde det for at give det en fordel i smarte konkurrencer.</language>
 	</row>
 	<row id="narc_0134_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Yellow Scarf stands for\ntoughness!\rLet a Pokémon hold it to give it\nan edge in Tough Contests.</language>
+		<language name="English">Det gule tørklæde står for sejhed!\rLad en Pokémon holde det for at give det en fordel i hårde konkurrencer.</language>
 	</row>
 	<row id="narc_0134_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m out of scarves to give you!\nI’m out of things to say, too!</language>
+		<language name="English">Jeg mangler tørklæder at give dig!\nJeg mangler også at sige noget!</language>
 	</row>
 	<row id="narc_0134_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My brother’s girlfriend is the\nMassage Girl in Veilstone City.\rThey stay in touch by having Pokémon\nhold Mail for each other.</language>
+		<language name="English">Min brors kæreste er massagepigen i Veilstone City.\rDe holder kontakten ved at have Pokémon\nhold Mail til hinanden.</language>
 	</row>
 	<row id="narc_0134_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

@@ -1,45 +1,45 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0042_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1}: Hey, {STRVAR_1 3, 0}!\nDid you come to study, too?\rI went ahead and memorized everything\nthat was up on the blackboard.\rAfter all, it’s the Trainer’s job to\navoid having their precious Pokémon\fhurt in battle, right?\rSo, {STRVAR_1 3, 0}, what brings you?\nHuh?\fYou’ve got something for me?\r</language>
+		<language name="English">{STRVAR_1 3, 1}: Hej, {STRVAR_1 3, 0}!\nDu kom også for at studere?\rI gik videre og lærte alting udenad\n, der stod på tavlen.\rA efter alt, det er Trainer jobbet til\nunde have deres dyrebare PokémonZZ\fhurt i kamp, højre?\rSo, {STRVAR_1 3, 0}, hvad bringer dig?\nHuh?\fDu har fået noget til mig?\r:</language>
 	</row>
 	<row id="narc_0042_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} delivered the Parcel.</language>
+		<language name="English">{STRVAR_1 3, 0} leverede parcel.</language>
 	</row>
 	<row id="narc_0042_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1}: So, what is this...?\rScore!\nIt’s a Town Map!\rHuh?!\nWhy are there two in here?\rI like it a lot, but I don’t need two.\nHere, {STRVAR_1 3, 0}, you take one!\r</language>
+		<language name="English">{STRVAR_1 3, 1}: Så, hvad er dette ...?\rScore!\nDet er et bykort!\rHuh?!\nHvorfor er der to herinde?\rI kan lide det meget, men jeg behøver ikke to.\nHer, {STRVAR_1 3, 0}, du tager en!\r</language>
 	</row>
 	<row id="narc_0042_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1}: Hmm...\rWell, according to the Town Map,\nI guess Oreburgh City is where\fI should be going next.\rThere’s a Gym, so it’d be perfect for\nraising the Pokémon I just caught.\rWell, I’m on the road to becoming\nthe greatest Trainer of all time!\rSee you around!\r</language>
+		<language name="English">{STRVAR_1 3, 1}: Hmm...\rWell, ifølge Town Map,\nI gætte Oreburgh City er, hvor\fI skal gå næste.\rDer er en Gym, så det ville være perfekt til\nraising Pokémon I lige fanget.\rWell, Jeg er på vej til at blive\nden største træner nogensinde!\rSee dig rundt!\r</language>
 	</row>
 	<row id="narc_0042_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You just became a Trainer, did you?\rYou should look up topics that you’re\nnot familiar with.</language>
+		<language name="English">Du er lige blevet en træner, gjorde du?\rDu bør slå op emner, som du ikke kender til.</language>
 	</row>
 	<row id="narc_0042_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0042_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We learned about Pokémon types\ntoday. Umm...\rGrass is weak to Fire,\nFire is weak to Water, and\fWater is weak to Grass!\rI think that’s how it goes!</language>
+		<language name="English">Vi lærte om Pokémon typer\ntoday. Umm...\rZGrass er svag til Fire, \nFire er svag til vand, og\fWater er svag til Grass!\rI tror, at!</language>
 	</row>
 	<row id="narc_0042_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon are smart enough to use\nitems they’re holding.\rBut they won’t know what to do with\nman-made items like Potions and\fAntidotes.</language>
+		<language name="English">Pokémon er smart nok til at bruge\nitems de threat.\rMen de vil ikke vide, hvad de skal gøre med\nman-made elementer som Potions og\fAntidotes.</language>
 	</row>
 	<row id="narc_0042_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wrote an essay in my notebook on \nwhat makes a true Pokémon Trainer.</language>
+		<language name="English">Jeg skrev en essay i min notesbog på \nhvad gør en sand Pokémon Trainer.</language>
 	</row>
 	<row id="narc_0042_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Doing it is the best way to learn!\nCan we get a battle with you?</language>
+		<language name="English">Gøre det er den bedste måde at lære!\nKan vi få en kamp med dig?</language>
 	</row>
 	<row id="narc_0042_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -47,70 +47,70 @@
 	</row>
 	<row id="narc_0042_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww! But battling is the best way\nto learn about Pokémon!</language>
+		<language name="English">Aww! Men kamp er den bedste måde\nto lære om Pokémon!</language>
 	</row>
 	<row id="narc_0042_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s hard to win if you don’t have\nsome Pokémon to choose from.</language>
+		<language name="English">Det er svært at vinde, hvis du ikke har\nsome Pokémon at vælge imellem.</language>
 	</row>
 	<row id="narc_0042_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whew! You’re really good!\rWe’ve been studying every day, but\nwe were no match at all!\rYou’d be able to use this Technical\nMachine properly. Here you go!\r</language>
+		<language name="English">Whew! Du er virkelig god!\rVi har studeret hver dag, men\nwe var slet ikke match!\rDu ville være i stand til at bruge denne Technical\nMachine ordentligt. Here you go!\r</language>
 	</row>
 	<row id="narc_0042_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Technical Machine, or TM for short,\ncontains a Pokémon move.\rUsing a TM, you can instantly teach\nits move to a Pokémon.\rBut remember--a TM is good for one\nuse only. Don’t waste it!</language>
+		<language name="English">En teknisk maskine, eller TM for korte, \nindeholder en Pokémon flytte.\rVed hjælp af en TM, kan du straks undervise\nits flytte til en Pokémon.\rBut husk - en TM er godt for en \nuse kun. Må ikke spilde det!</language>
 	</row>
 	<row id="narc_0042_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I just became friends with my\nPokémon.\rI’m not sure if we can do this\nproperly, but may we battle?</language>
+		<language name="English">Jeg er lige blevet venner med my\nPokémon.\rI!Jeg er ikke sikker på, om vi kan gøre dette\n korrekt, men kan vi kæmpe?</language>
 	</row>
 	<row id="narc_0042_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I need to try the things I learned\nbefore I forget them!\r</language>
+		<language name="English">Jeg har brug for at prøve de ting, jeg lærte\n før jeg glemmer dem!\r</language>
 	</row>
 	<row id="narc_0042_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boo!\nWhere’s your sense of adventure?\rDon’t be shy about talking to people\nand getting into battles!</language>
+		<language name="English">Boo!\nHvor er din sans for eventyr?\rDon sky om at tale med folk\nog komme i kampe!</language>
 	</row>
 	<row id="narc_0042_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you think we would have done\nbetter if I used Potions?</language>
+		<language name="English">Tror du, vi ville have gjort \nbedre, hvis jeg brugte Potions?</language>
 	</row>
 	<row id="narc_0042_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We were actually confident that we\nwould do pretty good.\rBut I’m completely impressed by how\ntough you are.\rIf you’d like, talk to my friend and\nget a Technical Machine from him.</language>
+		<language name="English">Vi var faktisk overbevist om, at we\n ville gøre temmelig godt.\rMen jeg er helt imponeret over, hvordan\ntog du er.\rHvis du har lyst, tale med min ven og\nget en teknisk maskine fra ham.</language>
 	</row>
 	<row id="narc_0042_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The blackboard lists status changes\nthat may affect Pokémon in battle.\r</language>
+		<language name="English">Blackboardet lister statusændringer\n, der kan påvirke Pokémon i kamp.\r</language>
 	</row>
 	<row id="narc_0042_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which would you like to read about?</language>
+		<language name="English">Hvad vil du gerne læse om?</language>
 	</row>
 	<row id="narc_0042_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If a Pokémon is poisoned, it will\nsteadily lose HP.\rThe effects of poison remain after\na battle.\rA poisoned Pokémon’s HP will drop\nwhile it is traveling.\rHeal a poisoning using an Antidote.\r</language>
+		<language name="English">Hvis en Pokémon er forgiftet, det vil\nsteadily miste HP.\rE virkninger af gift forbliver efter\na kamp.\rA forgiftet Pokémon HG vil droppe\n mens det rejser.\rHeal en forgiftning ved hjælp af en Antidote.\r</language>
 	</row>
 	<row id="narc_0042_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If a Pokémon becomes paralyzed,\nits Speed stat drops.\rIn addition, it may not be able to\nmove while it is in battle.\rParalysis remains after battle.\nCure it using a Parlyz Heal.\r</language>
+		<language name="English">Hvis en Pokémon bliver lammet,\nits Speed stat dråber.\rDesuden, det kan ikke være i stand til\nmove mens det er i kamp.\rParalyse forbliver efter kamp.\nCure det ved hjælp af en Parlyz Heal.\r</language>
 	</row>
 	<row id="narc_0042_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If a Pokémon falls asleep, it will be\nunable to attack.\rThe Pokémon may wake up on its own,\nbut if a battle ends while it is\fsleeping, it will stay asleep.\rWake it up using an Awakening.\r</language>
+		<language name="English">Hvis en Pokémon falder i søvn, vil det være\nunable at angribe.\rZZZZZZ kan vågne på egen hånd,\nmen hvis en kamp ender, mens det er\fsleeping, vil det forblive i søvn.\rVågn op med en Awakening.\r</language>
 	</row>
 	<row id="narc_0042_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A burn reduces the Attack stat and\nsteadily reduces the victim’s HP.\rA burn lingers after battle.\nCure a burn using a Burn Heal.\r</language>
+		<language name="English">En brænde reducerer Attack stat og\nsteadily reducerer offeret gør HP.\rA brænde lingers efter kamp.\nCure en brænde ved hjælp af en Burn Heal.\r</language>
 	</row>
 	<row id="narc_0042_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If a Pokémon is frozen, it becomes\ncompletely helpless.\rThe Pokémon may thaw out on its own,\nbut if a battle ends while it is\ffrozen, it will stay frozen.\rThaw it out using an Ice Heal.\r</language>
+		<language name="English">Hvis en Pokémon er frossen, bliver det\nfuldstændig hjælpeløs.\rZZZZZ kan tø op på egen hånd,\nmen hvis en kamp ender, mens den er\ffrosen, vil den forblive frossen.\rThaw det ud ved hjælp af en Ice Heal.\r</language>
 	</row>
 	<row id="narc_0042_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a notebook filled with writing.\nLet’s see...\rPokémon are to be caught using\nPoké Balls.\rUp to six Pokémon can accompany\na Trainer.\rA Trainer is someone who catches\nPokémon, raises them, and battles\fwith them.\rA Trainer’s mission is to defeat the\nstrong Trainers who await challengers\fin Pokémon Gyms.</language>
+		<language name="English">Det er en notesbog fyldt med skrivning.\nLad mig spørge dig! se ...\rPokémon skal fanges ved hjælp af\nPoké bolde.\rUp to seks Pokémon kan ledsage\na Trainer.\rA Trainer er en person, der fanger\nZZPokémon, hæver dem, og kampe\f med dem.\rA Trainer opgaven er at besejre \nstrong Trainers, der venter udfordrer\fin Pokémon Gyms.</language>
 	</row>
 </body>

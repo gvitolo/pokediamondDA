@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0035_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I give my Pokémon nicknames,\nit’s like they’re my very own.\rIt gives me a warm and fuzzy feeling!</language>
+		<language name="English">Når jeg giver mine Pokémon øgenavne,\nDet er, som om de er mine egne.\rDet giver mig en varm og fuzzy følelse!</language>
 	</row>
 </body>

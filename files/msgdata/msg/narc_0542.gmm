@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0542_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon appear where there’s still\nlots of nature left.\rAnd Trainers gather where Pokémon\nappear.\rAnd where Trainers gather, that’s\nwhere Pokémon Centers appear.</language>
+		<language name="English">Pokémon dukker op, hvor der stadig er\nmasser af natur tilbage.\rOg trænere samles, hvor Pokémon\noptræder.\rOg hvor trænere samles, det er\nhvor Pokémon-centrene dukker op.</language>
 	</row>
 	<row id="narc_0542_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An Idol goes anywhere to sing for\ntheir adoring fans.\rA Trainer goes anywhere as long\nas it’s with their Pokémon.</language>
+		<language name="English">Et Idol går overalt for at synge for\nderes tilbedende fans.\rEn træner går overalt, så længe\n det er med deres Pokémon.</language>
 	</row>
 </body>

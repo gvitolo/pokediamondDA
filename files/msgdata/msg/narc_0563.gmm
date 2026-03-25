@@ -1,128 +1,128 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0563_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good morning!\nIs everyone raising Pokémon?\rIt’s time for the Battling Trainers!\r</language>
+		<language name="English">MC: Godmorgen!\nOpdrætter alle Pokémon?\rDet er tid til kamptrænerne!\r</language>
 	</row>
 	<row id="narc_0563_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good day!\nIs everyone raising Pokémon?\rIt’s time for the Battling Trainers!\r</language>
+		<language name="English">MC: God dag!\nOpdrætter alle Pokémon?\rDet er tid til kamptrænerne!\r</language>
 	</row>
 	<row id="narc_0563_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good evening!\nIs everyone raising Pokémon?\rIt’s time for the Battling Trainers!\r</language>
+		<language name="English">MC: God aften!\nOpdrætter alle Pokémon?\rDet er tid til kamptrænerne!\r</language>
 	</row>
 	<row id="narc_0563_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, let’s get with it and check in\non our Trainers!\r</language>
+		<language name="English">OK, lad os tage fat og tjekke ind\npå vores trænere!\r</language>
 	</row>
 	<row id="narc_0563_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: All righty!\nWhat’s next on Battling Trainers?\r</language>
+		<language name="English">MC: Okay!\nHvad er det næste på Battling Trainers?\r</language>
 	</row>
 	<row id="narc_0563_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: I hope you enjoyed this\nshowing of Battling Trainers.\rUntil the next broadcast...\nGood-bye, and good battling!</language>
+		<language name="English">MC: Jeg håber, du nød dette\nfremvisning af kamptrænere.\rIndtil næste udsendelse...\nFarvel og god kamp!</language>
 	</row>
 	<row id="narc_0563_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: On Battling Trainers, we’re\nalways on the hunt for news.\rOur interviewers have scattered\nthroughout Sinnoh.\rWe look forward to hearing about\nyou, Trainers!\rThat’s all the time we have today!\nGood-bye, and good battling!</language>
+		<language name="English">MC: På Battle Trainers er vi\naltid på jagt efter nyheder.\rVores interviewere har spredt sig\ni hele Sinnoh.\rVi glæder os til at høre om\njer, trænere!\rDet er al den tid, vi har i dag!\nFarvel og god kamp!</language>
 	</row>
 	<row id="narc_0563_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good morning.\nIt’s time for Trainer Research.\rWe examine the latest Pokémon trends\nby going directly to the Trainers.\r</language>
+		<language name="English">MC: Godmorgen.\nDet er tid til Trainer Research.\rVi undersøger de seneste Pokémon-trends\nved at gå direkte til Trænerne.\r</language>
 	</row>
 	<row id="narc_0563_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good day.\nIt’s time for Trainer Research.\rWe examine the latest Pokémon trends\nby going directly to the Trainers.\r</language>
+		<language name="English">MC: Goddag.\nDet er tid til Trainer Research.\rVi undersøger de seneste Pokémon-trends\nved at gå direkte til Trænerne.\r</language>
 	</row>
 	<row id="narc_0563_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good evening.\nIt’s time for Trainer Research.\rWe examine the latest Pokémon trends\nby going directly to the Trainers.\r</language>
+		<language name="English">MC: God aften.\nDet er tid til Trainer Research.\rVi undersøger de seneste Pokémon-trends\nved at gå direkte til Trænerne.\r</language>
 	</row>
 	<row id="narc_0563_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, let’s take a look at the first\npiece of research we conducted.\r</language>
+		<language name="English">OK, lad os tage et kig på det første\nstykke forskning, vi har lavet.\r</language>
 	</row>
 	<row id="narc_0563_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Next up is this piece of\nresearch.\r</language>
+		<language name="English">MC: Det næste er dette stykke\nforskning.\r</language>
 	</row>
 	<row id="narc_0563_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: We hope you enjoyed this edition\nof Trainer Research.\rWho knows, you may be the subject\nof our research next time.\rThat’s it for this show today.\nFarewell!</language>
+		<language name="English">MC: Vi håber, du nød denne udgave\naf trænerforskning.\rHvem ved, måske er du emnet\naf vores forskning næste gang.\rDet var det for dette show i dag.\nFarvel!</language>
 	</row>
 	<row id="narc_0563_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: On Trainer Research, we always\nseek Trainers willing to be interviewed\ffor the show.\rIf you spot an interviewer anywhere,\nplease stop by to say hello and grant\fus an interview.\rThat’s all today. Farewell.</language>
+		<language name="English">MC: På Trainer Research har vi altid\nsøg undervisere, der er villige til at blive interviewet\ftil showet.\rHvis du ser en interviewer hvor som helst,\nkom venligst forbi for at sige hej og bevilge\fos et interview.\rDet er alt i dag. Farvel.</language>
 	</row>
 	<row id="narc_0563_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Pokémon! Battle! Watch!\rGood morning!\nEveryone keeping up the good battle?\rIt’s time for Pokémon Battle Watch,\nwhere we do in-depth analyses of\fhot-blooded battling Trainers!\r</language>
+		<language name="English">MC: Pokémon! Kamp! Ur!\rGodmorgen!\nFortsætter alle den gode kamp?\rDet er tid til Pokémon Battle Watch,\nhvor vi laver dybdegående analysator af\fvarmblodige kæmpende trænere!\r</language>
 	</row>
 	<row id="narc_0563_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Pokémon! Battle! Watch!\rGood day!\nEveryone keeping up the good battle?\rIt’s time for Pokémon Battle Watch,\nwhere we do in-depth analyses of\fhot-blooded battling Trainers!\r</language>
+		<language name="English">MC: Pokémon! Kamp! Ur!\rGod dag!\nFortsætter alle den gode kamp?\rDet er tid til Pokémon Battle Watch,\nhvor vi laver dybdegående analysator af\fvarmblodige kæmpende trænere!\r</language>
 	</row>
 	<row id="narc_0563_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Pokémon! Battle! Watch!\rGood evening!\nEveryone keeping up the good battle?\rIt’s time for Pokémon Battle Watch,\nwhere we do in-depth analyses of\fhot-blooded battling Trainers!\r</language>
+		<language name="English">MC: Pokémon! Kamp! Ur!\rGod aften!\nFortsætter alle den gode kamp?\rDet er tid til Pokémon Battle Watch,\nhvor vi laver dybdegående analysator af\fvarmblodige kæmpende trænere!\r</language>
 	</row>
 	<row id="narc_0563_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s get on with the show!\nBattle! Watch!\r</language>
+		<language name="English">Lad os komme videre med showet!\nKamp! Ur!\r</language>
 	</row>
 	<row id="narc_0563_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Let’s move to the next segment!\nBattle! Watch!\r</language>
+		<language name="English">MC: Lad os gå til næste segment!\nKamp! Ur!\r</language>
 	</row>
 	<row id="narc_0563_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Oops, looks like we’re all out\nof time!\rLet’s meet again here!\nBattle! Watch!</language>
+		<language name="English">MC: Ups, det ser ud til, at vi alle er ude\naf tid!\rLad os mødes igen her!\nKamp! Ur!</language>
 	</row>
 	<row id="narc_0563_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Pokémon Battle Watch needs\nyour help!\rWe’re always after news about your\nhot Pokémon battles.\rWe’d also love it if you’d mix records\nwith friends in a Union Room.\rThat way, we can get battle news\nabout your friends, too.\rLet’s meet again here!\nBattle! Watch!</language>
+		<language name="English">MC: Pokémon Battle Watch behov\ndin hjælp!\rVi er altid efter nyheder om din\nhotte Pokémon-kampe.\rVi ville også elske det, hvis du ville mixe plader\nmed venner i et Union Room.\rPå den måde kan vi få kampnyheder\nogså om dine venner.\rLad os mødes igen her!\nKamp! Ur!</language>
 	</row>
 	<row id="narc_0563_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: A Trainer’s Day!\rThis program offers unique looks into\nthe daily lives of Trainers.\rWe cover a variety of topics that\naffect and concern Trainers.\r</language>
+		<language name="English">MC: En træners dag!\rDette program giver unikke indblik\ntrænernes hverdag.\rVi dækker en række forskellige emner\npåvirke og bekymrede trænere.\r</language>
 	</row>
 	<row id="narc_0563_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: A Trainer’s Day!\rThis program offers unique looks into\nthe daily lives of Trainers.\rWe cover a variety of topics that\naffect and concern Trainers.\r</language>
+		<language name="English">MC: En træners dag!\rDette program giver unikke indblik\ntrænernes hverdag.\rVi dækker en række forskellige emner\npåvirke og bekymrede trænere.\r</language>
 	</row>
 	<row id="narc_0563_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: A Trainer’s Day!\rThis program offers unique looks into\nthe daily lives of Trainers.\rWe cover a variety of topics that\naffect and concern Trainers.\r</language>
+		<language name="English">MC: En træners dag!\rDette program giver unikke indblik\ntrænernes hverdag.\rVi dækker en række forskellige emner\npåvirke og bekymrede trænere.\r</language>
 	</row>
 	<row id="narc_0563_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s examine one aspect of\na Trainer’s day.\r</language>
+		<language name="English">Lad os undersøge et aspekt af\nen trænerdag.\r</language>
 	</row>
 	<row id="narc_0563_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Let’s take a look at a Trainer’s\nday from another perspective.\r</language>
+		<language name="English">MC: Lad os tage et kig på en træners\ndag fra et andet perspektiv.\r</language>
 	</row>
 	<row id="narc_0563_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: This brings us to the conclusion\nof today’s A Trainer’s Day.\rWe hope you found it informative\nand entertaining.\rIn even seemingly ordinary daily\nroutines, there is so much drama.\rWe’ll keep bringing you more looks\ninto the days of Trainers.\rGood-bye, but just for now!</language>
+		<language name="English">MC: Dette bringer os til konklusionen\naf dagens A Trainer's Day.\rVi håber, du fandt det informativt\nog underholdende.\rJeg selv tilsyneladende almindelig dagligt\nrutiner, der er så meget drama.\rVi vil blive ved med at give dig flere looks\nind i trænernes dage.\rFarvel, men lige for nu!</language>
 	</row>
 	<row id="narc_0563_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: We seek tips on Trainer-related\nnews for coverage on the show.\rPlease also consider mixing records\nwith friends in a Union Room.\rThat will allow us to check the\nroutines of your friends, too.\rPlease tune in again next time.\nGood-bye, but just for now!</language>
+		<language name="English">MC: Vi søger tips om næste træner-relateret\nnyheder til dækning af showet.\rOvervej også at blande plader\nmed venner i et Union Room.\rDet vil give os mulighed for at kontrollere\nogså dine venners rutiner.\rStil venligst ind igen gang.\nFarvel, men lige for nu!</language>
 	</row>
 	<row id="narc_0563_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Sinnoh News Net.\rGood morning.\nThis is Sinnoh News Net.\r</language>
+		<language name="English">MC: Sinnoh News Net.\rGodmorgen.\nDette er Sinnoh News Net.\r</language>
 	</row>
 	<row id="narc_0563_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Sinnoh News Net.\rHello.\nThis is Sinnoh News Net.\r</language>
+		<language name="English">MC: Sinnoh News Net.\rHej.\nDette er Sinnoh News Net.\r</language>
 	</row>
 	<row id="narc_0563_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Sinnoh News Net.\rGood evening.\nThis is Sinnoh News Net.\r</language>
+		<language name="English">MC: Sinnoh News Net.\rGod aften.\nDette er Sinnoh News Net.\r</language>
 	</row>
 	<row id="narc_0563_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -134,83 +134,83 @@
 	</row>
 	<row id="narc_0563_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: That’s all the news today.\nThank you for watching.</language>
+		<language name="English">MC: Det er alle nyhederne i dag.\nTak fordi du så med.</language>
 	</row>
 	<row id="narc_0563_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Sinnoh News Net has crews\ngathering news all over Sinnoh.\rHelp our news-gathering efforts by\nmixing records at any Union Room.\rThat will allow us to get news that\nconcerns your friends, too.\rPlease join us for the next showing\nof the Sinnoh News Net.\rThank you for watching.</language>
+		<language name="English">MC: Sinnoh News Net har besætninger\nsamler nyheder over hele Sinnoh.\rHjælp vores nyhedsindsamlingsindsats ved\nat blande plader i ethvert Union Room.\rDet vil give os mulighed for at få nyheder om det\nvedrører også dine venner.\rVær med til næste fremvisning\nfra Sinnak News Net du så.\rT.</language>
 	</row>
 	<row id="narc_0563_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good morning!\rIt’s now time for Rack ’Em Up\nRecords!\rLike always, we look at a variety\nof cool records set by Trainers.\r</language>
+		<language name="English">MC: Godmorgen!\rDet er nu tid til Rack 'Em Up\nRekorder!\rSom altid ser vi på forskellige\naf fede rekorder sat af Trainers.\r</language>
 	</row>
 	<row id="narc_0563_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Hello!\rIt’s now time for Rack ’Em Up\nRecords!\rLike always, we look at a variety\nof cool records set by Trainers.\r</language>
+		<language name="English">MC: Hej!\rDet er nu tid til Rack 'Em Up\nRekorder!\rSom altid ser vi på forskellige\naf fede rekorder sat af Trainers.\r</language>
 	</row>
 	<row id="narc_0563_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good evening!\rIt’s now time for Rack ’Em Up\nRecords!\rLike always, we look at a variety\nof cool records set by Trainers.\r</language>
+		<language name="English">MC: God aften!\rDet er nu tid til Rack 'Em Up\nRekorder!\rSom altid ser vi på forskellige\naf fede rekorder sat af Trainers.\r</language>
 	</row>
 	<row id="narc_0563_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right, let’s have our experts\nSerge and Tanya take over.\rHere’s hoping they have some\ninteresting records to cover!\r</language>
+		<language name="English">Okay, lad os have vores eksperter\nSerge og Tanya tager over.\rHer håber de har nogle\ninteressante plader at dække!\r</language>
 	</row>
 	<row id="narc_0563_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Let’s have our experts examine\nanother eyebrow-raising record!\r</language>
+		<language name="English">MC: Lad os få vores eksperter til at undersøge\nendnu en øjenbrynsløftende rekord!\r</language>
 	</row>
 	<row id="narc_0563_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: We hope you enjoyed today’s\nRack ’Em Up Records as we did.\rThat’s all for today!\nBye-bye!</language>
+		<language name="English">MC: Vi håber, du nød dagens\nRack 'Em Up Records, som vi gjorde.\rDet var alt for i dag!\nFarvel!</language>
 	</row>
 	<row id="narc_0563_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Rack ’Em Up Records wants to\nhear from you!\rDon’t be shy about telling us if you\nset any new records.\rPlease also mix records with friends\nat any Union Room.\rThat will let us examine the records\nof your friends as well as yours.\rWe hope to catch the record-setting\nmoments of you, our loyal viewers!\rThat’s all for today!\nBye-bye!</language>
+		<language name="English">MC: Rack 'Em Up Records vil gerne\nhøre fra dig!\rVær ikke genert med at fortælle os, hvis du\nsætte eventuelle nye rekorder.\rBland gerne plader med venner\npå ethvert Unionslokale.\rDet vil lade os undersøge optegnelserne\naf dine venner såvel som dine.\rVi håber at fange alt i loyale rekorden\jernøjeblikke for vores loyale rekorden! dag!\nFarvel!</language>
 	</row>
 	<row id="narc_0563_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Sinnoh! Now!\rThis is it!\nThe one you’ve all been waiting for!\rIt’s time for Sinnoh Now, your portal\nto what’s hip and happening in Sinnoh!\r</language>
+		<language name="English">MC: Synd! Nu!\rDette er det!\nDen du alle har ventet på!\rDet er tid til Sinnoh Now, din portal\ntil hvad der er hipt og sker i Sinnoh!\r</language>
 	</row>
 	<row id="narc_0563_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Sinnoh! Now!\rThis is it!\nThe one you’ve all been waiting for!\rIt’s time for Sinnoh Now, your portal\nto what’s hip and happening in Sinnoh!\r</language>
+		<language name="English">MC: Synd! Nu!\rDette er det!\nDen du alle har ventet på!\rDet er tid til Sinnoh Now, din portal\ntil hvad der er hipt og sker i Sinnoh!\r</language>
 	</row>
 	<row id="narc_0563_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Sinnoh! Now!\rThis is it!\nThe one you’ve all been waiting for!\rIt’s time for Sinnoh Now, your portal\nto what’s hip and happening in Sinnoh!\r</language>
+		<language name="English">MC: Synd! Nu!\rDette er det!\nDen du alle har ventet på!\rDet er tid til Sinnoh Now, din portal\ntil hvad der er hipt og sker i Sinnoh!\r</language>
 	</row>
 	<row id="narc_0563_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here’s the first story on the cutting\nedge of Sinnoh trends!\r</language>
+		<language name="English">Her er den første historie om klipningen\nkanten af ​​Sinnoh-trends!\r</language>
 	</row>
 	<row id="narc_0563_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Here’s another story on the\ncutting edge!\r</language>
+		<language name="English">MC: Her er en anden historie om\nforkant!\r</language>
 	</row>
 	<row id="narc_0563_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Did you enjoy this edition of\nSinnoh Now?\rYou can always count on us to keep\nbringing you the information you want!\rSee you again!</language>
+		<language name="English">MC: Nyd du denne udgave af\nSinnoh nu?\rDu kan altid regne med, at vi beholder\ngiver dig den information, du ønsker!\rVi ses igen!</language>
 	</row>
 	<row id="narc_0563_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Sinnoh Now goes the extra\ndistance to bring you news.\rWe promise to do our best to keep\nyou informed with the news you want!\rSee you again!</language>
+		<language name="English">MC: Sinnoh Nu går det ekstra\nafstand til at bringe dig nyheder.\rVi elsker at gøre vores bedste for at holde\ndu informerer med de nyheder, du ønsker!\rVi ses igen!</language>
 	</row>
 	<row id="narc_0563_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good morning!\rTune in to this show and you’ll always\nbe on the cutting edge of fashion!\rYou guessed it!\nIt’s the Trend Tracker Show!\r</language>
+		<language name="English">MC: Godmorgen!\rLyt ind på dette show, og du vil altid\nvære på forkant med mode!\rDu gættede det!\nDet er Trend Tracker Show!\r</language>
 	</row>
 	<row id="narc_0563_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Hello!\rTune in to this show and you’ll always\nbe on the cutting edge of fashion!\rYou guessed it!\nIt’s the Trend Tracker Show!\r</language>
+		<language name="English">MC: Hej!\rLyt ind på dette show, og du vil altid\nvære på forkant med mode!\rDu gættede det!\nDet er Trend Tracker Show!\r</language>
 	</row>
 	<row id="narc_0563_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: Good evening!\rTune in to this show and you’ll always\nbe on the cutting edge of fashion!\rYou guessed it!\nIt’s the Trend Tracker Show!\r</language>
+		<language name="English">MC: God aften!\rLyt ind på dette show, og du vil altid\nvære på forkant med mode!\rDu gættede det!\nDet er Trend Tracker Show!\r</language>
 	</row>
 	<row id="narc_0563_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s go to our latest trendy news\nstory. Take it away!\r</language>
+		<language name="English">Lad os gå til vores seneste trendy nyheder\nhistorie. Tag det væk!\r</language>
 	</row>
 	<row id="narc_0563_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
@@ -218,10 +218,10 @@
 	</row>
 	<row id="narc_0563_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: We do hope you found the Trend\nTracker Show informative.\rPlease tune in on our next\nbroadcast!\rOver and out!</language>
+		<language name="English">MC: Vi håber, du fandt trenden\nTracker Vis informativ.\rVenligst tune ind på vores næste\nudsende!\rOver og ud!</language>
 	</row>
 	<row id="narc_0563_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MC: We do hope you found the Trend\nTracker Show informative.\rWe’ll be sure to keep you informed\nabout what’s in and not out!\rPlease tune in on our next\nbroadcast!\rOver and out!</language>
+		<language name="English">MC: Vi håber, du fandt trenden\nTracker Vis informativ.\rVi vil sørge for at holde dig orienteret\nom hvad der er ind og ikke ud!\rVenligst tune ind på vores næste\nudsende!\rOver og ud!</language>
 	</row>
 </body>

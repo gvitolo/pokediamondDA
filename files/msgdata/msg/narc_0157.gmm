@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="narc_0157_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I once dreamed of becoming a Gym\nLeader...\rThough that dream never came true,\nI got to live with Pokémon all\fthis time.\rIt’s been a blessed life.</language>
+		<language name="English">Jeg drømte engang om at blive Gymnastikleder...\rSelvom den drøm aldrig gik i opfyldelse,\n kom jeg til at leve med Pokémon hele\fdenne tid.\rDet har været et velsignet liv.</language>
 	</row>
 	<row id="narc_0157_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you’re really cool!\nYou have seven Gym Badges!</language>
+		<language name="English">Wow, du er virkelig sej!\nDu har syv Gym Badges!</language>
 	</row>
 	<row id="narc_0157_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! You’re awesomely cool!\nYou have all eight Gym Badges!\rNow, you have to challenge the\nPokémon League!</language>
+		<language name="English">Wow! Du er fantastisk sej!\nDu har alle otte Gym Badges!\rNu skal du udfordre\nPokémon League!</language>
 	</row>
 	<row id="narc_0157_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunyshore is situated on a narrow\nspit of land bordered by the sea and\fmountains.\rTo make up for the lack of space,\nthe city built solar panels to use for\fpower as well as for roads.\rIt’s a place where nature, Pokémon,\nand people are as one!</language>
+		<language name="English">Sunyshore ligger på et smalt landområde omkranset af hav og bjerge.\rFor at råde bod på pladsmanglen byggede byen solpaneler til brug for\fstrøm såvel som til veje.\rDet er et sted, hvor naturen, Pokémon,\nog mennesker er som én!</language>
 	</row>
 </body>

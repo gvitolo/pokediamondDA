@@ -1,39 +1,39 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0027_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Group Ranking Room is the one\nclosest to the stairs.\rThe room on the opposite side\nis the Global Ranking Room.</language>
+		<language name="English">Gruppen Ranking Room er den ene\ntættest på trappen.\rRygtet på den modesatte side\nGlobal Ranking Room.</language>
 	</row>
 	<row id="narc_0027_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I just realized something!\nIt’s going to be great!\rIf I trade lots of Pokémon, I’ll get\na better chance at winning the\fPokémon Lottery!</language>
+		<language name="English">Jeg har lige indset noget!\nDet bliver fedt!\rHvis jeg bytter masser af Pokémon, får jeg\nen bedre chance for at vinde\fPokémon Lottery!</language>
 	</row>
 	<row id="narc_0027_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Records are fine things.\nThey tell you the history of stuff.\rYou can really sense the dramatic\nstories behind all those numbers!</language>
+		<language name="English">Records er fine ting.\nDe fortæller dig historien om ting.\rDu kan virkelig fornemme det dramatiske\nHistorier bag alle de tal!</language>
 	</row>
 	<row id="narc_0027_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, there!\nHow’s it going?\rI’m a TV producer here.\nAre you watching TV?\rSo, let me ask you.\nWill you tell me your opinion on TV?</language>
+		<language name="English">Hey, der!\nHvordan fik det?\rJeg er tv- producer her.\nSer du færnsyn?\rSå lad mig se dig.\nSkal vi mødes på tv?</language>
 	</row>
 	<row id="narc_0027_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, yeah?\nThat’s interesting.\rMoving right along, what feedback\ncan you give me about TV?\r</language>
+		<language name="English">Virkel?\nInteressant.\r- Hvad er det?\nKan du give mig om tv?\r</language>
 	</row>
 	<row id="narc_0027_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, yeah?\nThat’s interesting.\rThanks for answering my questions.\nI’ll file it away for reference.\rKeep your channel tuned to\nJubilife TV!</language>
+		<language name="English">Virkelig?\nInteressant.\rTak, fordi duvarede på mine spørgsmål.\nJeg vil indgive det til reference.\rHold din kanal tunet til\nJubilife TV!</language>
 	</row>
 	<row id="narc_0027_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, all right.\rI can understand how busy it must\nget for you.\rIt’d be cool if you could answer my\nquestions when you’ve got time.\rSee you again!</language>
+		<language name="English">Okay.\rJeg kan forstå, hvor travlt det skal\nTag til udgravning.\rDet ville være fejt, hvis du kunne svare min\nSpilgsæll når du har tid.\rVi ses igen!</language>
 	</row>
 	<row id="narc_0027_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Oh?\rThe fact that you know that phrase\ntells me you’re someone in the know.\rYou’re a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal to get you\na new wallpaper for your PC Boxes.\rMake sure you keep your channel\ntuned to Jubilife TV.</language>
+		<language name="English">\rAt du kender det udtryk\nDet siger mig, at du er en, der ved det.\rDu er træner, ikke?\nJeg trækker i nogle tråde for dig.\rJeg tror, jeg kan lave en aftale for at få dig\net nyt tapet til din PC Boxes.\rSørg for at holde din kanal\nJeg har talt med Jubilife TV.</language>
 	</row>
 	<row id="narc_0027_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Oh?\rThe fact that you know that phrase\ntells me you’re someone in the know.\rYou’re a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal so you\ncan receive a Mystery Gift.\rMake sure you keep your channel\ntuned to Jubilife TV.</language>
+		<language name="English">Åh?\rPå du kan det udtryk\nDetiger mig, at du er en, der ved det.\rDu er træer, ikke?\nJeg trækker i nogle træde for dig.\rJeg tror, jeg kan lave en aftale, så du\nkan modtage en Mystery Gave.\rSørg for at holde din kanal\nJeg har talt med Jubilife TV.</language>
 	</row>
 </body>

@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0006_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The data could not be written.\n\nPlease turn off the power, then\nremove and reinsert the DS Game\nCard.</language>
+		<language name="English">Dataene kunne ikke skrives.\n\nSluk for strømmen.\nfjerne og genindsætte DS-spillet\nKort.</language>
 	</row>
 	<row id="narc_0006_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Error saving data.\n\nThe backup memory has failed.\nThe game may be played, but\nit is impossible to save.\n\nPlease turn off the power.</language>
+		<language name="English">Fejl ved lagring af data.\n\nBackup-hukommelsen mislykkedes.\nSpillet kan spilles, men\nDet er umuligt at redde.\n\nSluk for strømmen.</language>
 	</row>
 </body>

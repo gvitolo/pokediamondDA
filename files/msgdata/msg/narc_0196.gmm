@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="narc_0196_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right, thanks for your patience!\nLet’s begin the Visual Competition!\r</language>
+		<language name="English">Okay, tak for din tålmodighed!\nLad os begynde den visuelle konkurrence!\r</language>
 	</row>
 	<row id="narc_0196_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dexter: Entry number 1!\n{STRVAR_1 3, 0}!\r{STRVAR_1 3, 0} has entered the Contest\nwith {STRVAR_1 0, 1}!\r</language>
+		<language name="English">Dexter: Bidrag nummer 1!\n{STRVAR_1 3, 0}!\r{STRVAR_1 3, 0} har deltaget i konkurrencen\nmed {STRVAR_1 0, 1}!\r</language>
 	</row>
 	<row id="narc_0196_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dexter: Entry number 2!\n{STRVAR_1 3, 0}!\r{STRVAR_1 3, 0} enters our Contest with\n{STRVAR_1 0, 1}!\r</language>
+		<language name="English">Dexter: Bidrag nummer 2!\n{STRVAR_1 3, 0}!\r{STRVAR_1 3, 0} deltager i vores konkurrence med\n{STRVAR_1 0, 1}!\r</language>
 	</row>
 	<row id="narc_0196_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dexter: Entry number 3!\n{STRVAR_1 3, 0}!\r{STRVAR_1 3, 0} is in the Contest with\n{STRVAR_1 0, 1}!\r</language>
+		<language name="English">Dexter: Bidrag nummer 3!\n{STRVAR_1 3, 0}!\r{STRVAR_1 3, 0} er med i konkurrencen med\n{STRVAR_1 0, 1}!\r</language>
 	</row>
 	<row id="narc_0196_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dexter: Entry number 4!\n{STRVAR_1 3, 0}!\r{STRVAR_1 3, 0}’s Contest hopes ride\nwith {STRVAR_1 0, 1}!\r</language>
+		<language name="English">Dexter: Tilmelding nummer 4!\n{STRVAR_1 3, 0}!\r{STRVAR_1 3, 0}s konkurrence håber ride\nmed {STRVAR_1 0, 1}!\r</language>
 	</row>
 	<row id="narc_0196_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Dance Competition is next!\nIs everyone up and ready for this?!\r</language>
+		<language name="English">Dansekonkurrencen er næste gang!\nEr alle klar til dette?!\r</language>
 	</row>
 	<row id="narc_0196_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
@@ -81,6 +81,6 @@
 	</row>
 	<row id="narc_0196_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, let’s watch the reactions of the\naudience toward the Pokémon involved\fin this practice session!\rI’ll pass over the MC duties to\nDexter and call this a rehearsal!\fDexter: Sure thing! I’ve got it!\r</language>
+		<language name="English">OK, lad os se reaktionerne fra\npublikum mod de involverede Pokémon\af denne træningssession!\rJeg vil overdrage MC-pligterne til\nDexter og kalde dette en genhør!\fDexter: Selvfølgelig! Jeg har det!\r</language>
 	</row>
 </body>

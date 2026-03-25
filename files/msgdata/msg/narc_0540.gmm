@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="narc_0540_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve traveled a long way to make my\nbeloved Pokémon even more beautiful.\rThat will make it love me even more.</language>
+		<language name="English">Jeg har rejst langt for at gøre min\nelskede Pokémon endnu smukkere.\rDet vil få den til at elske mig endnu mere.</language>
 	</row>
 	<row id="narc_0540_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nothing is too good for my Pokémon.\nThere’s no mountain too high to climb.\fThat’s how I look at it.</language>
+		<language name="English">Intet er for godt for min Pokémon.\nDer er intet bjerg for højt at bestige.\fSådan ser jeg på det.</language>
 	</row>
 	<row id="narc_0540_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m kind of stuck here...\nThey tell me there’s no shop here!\rHow am I supposed to get ready for\nthe road?</language>
+		<language name="English">Jeg sidder lidt fast her...\nDe fortæller mig, at der ikke er nogen butik her!\rHvordan skal jeg gøre mig klar til vejen?</language>
 	</row>
 	<row id="narc_0540_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how you can dig up cool\nstuff underground?\rPeople are saying they’re digging up\nnew, different stuff.</language>
+		<language name="English">Ved du, hvordan du kan grave seje\nting under jorden op?\rFolk siger, at de graver op\nnye, anderledes ting.</language>
 	</row>
 	<row id="narc_0540_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I spend a lot of time in the pool.\rWill I melt into the water the way\nVAPOREON can?</language>
+		<language name="English">Jeg bruger meget tid i poolen.\rVil jeg smelte ned i vandet, som\nVAPOREON kan?</language>
 	</row>
 	<row id="narc_0540_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Resort Area\nRelax &amp; Play!</language>
+		<language name="English">Resortområde\nSlap af &amp; Spil!</language>
 	</row>
 	<row id="narc_0540_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ribbon Syndicate\nMembers Only</language>
+		<language name="English">The Ribbon Syndicate\nKun for medlemmer</language>
 	</row>
 </body>

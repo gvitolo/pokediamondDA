@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0611_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0611_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="narc_0611_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">California</language>
+		<language name="English">Californien</language>
 	</row>
 	<row id="narc_0611_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="narc_0611_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Georgia</language>
+		<language name="English">Georgien</language>
 	</row>
 	<row id="narc_0611_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

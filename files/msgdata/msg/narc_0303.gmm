@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="narc_0303_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Set Camera</language>
+		<language name="English">Indstil kamera</language>
 	</row>
 	<row id="narc_0303_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swaying grass</language>
+		<language name="English">Svajende græs</language>
 	</row>
 	<row id="narc_0303_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,19 +18,19 @@
 	</row>
 	<row id="narc_0303_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Camera</language>
+		<language name="English">Kamera</language>
 	</row>
 	<row id="narc_0303_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Change player’s height</language>
+		<language name="English">Skift spillerens højde</language>
 	</row>
 	<row id="narc_0303_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Camera Info</language>
+		<language name="English">Kamera info</language>
 	</row>
 	<row id="narc_0303_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Camera List</language>
+		<language name="English">Kamera liste</language>
 	</row>
 	<row id="narc_0303_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,15 +38,15 @@
 	</row>
 	<row id="narc_0303_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fishing</language>
+		<language name="English">Fiskeri</language>
 	</row>
 	<row id="narc_0303_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Travelling Pokémon</language>
+		<language name="English">Rejsende Pokémon</language>
 	</row>
 	<row id="narc_0303_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon mass outbreak</language>
+		<language name="English">Pokémon masseudbrud</language>
 	</row>
 	<row id="narc_0303_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,27 +54,27 @@
 	</row>
 	<row id="narc_0303_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GBA</language>
+		<language name="English">FÅ</language>
 	</row>
 	<row id="narc_0303_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Distance</language>
+		<language name="English">Afstand</language>
 	</row>
 	<row id="narc_0303_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">X-axis</language>
+		<language name="English">X-aksen</language>
 	</row>
 	<row id="narc_0303_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Y-axis</language>
+		<language name="English">Y-akse</language>
 	</row>
 	<row id="narc_0303_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Z-axis</language>
+		<language name="English">Z-akse</language>
 	</row>
 	<row id="narc_0303_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Perspective</language>
+		<language name="English">Perspektiv</language>
 	</row>
 	<row id="narc_0303_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="narc_0303_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PER</language>
+		<language name="English">OM</language>
 	</row>
 	<row id="narc_0303_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -90,23 +90,23 @@
 	</row>
 	<row id="narc_0303_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Near</language>
+		<language name="English">Nær</language>
 	</row>
 	<row id="narc_0303_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Distant</language>
+		<language name="English">Fjern</language>
 	</row>
 	<row id="narc_0303_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOOK-X</language>
+		<language name="English">SE-X</language>
 	</row>
 	<row id="narc_0303_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOOK-Y</language>
+		<language name="English">SE-Y</language>
 	</row>
 	<row id="narc_0303_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOOK-Z</language>
+		<language name="English">SE-Z</language>
 	</row>
 	<row id="narc_0303_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -118,23 +118,23 @@
 	</row>
 	<row id="narc_0303_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BLOCK</language>
+		<language name="English">BLOK</language>
 	</row>
 	<row id="narc_0303_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOCAL</language>
+		<language name="English">LOKAL</language>
 	</row>
 	<row id="narc_0303_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HEIGHT</language>
+		<language name="English">HØJDE</language>
 	</row>
 	<row id="narc_0303_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trigger</language>
+		<language name="English">Udløser</language>
 	</row>
 	<row id="narc_0303_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chain</language>
+		<language name="English">Kæde</language>
 	</row>
 	<row id="narc_0303_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -142,7 +142,7 @@
 	</row>
 	<row id="narc_0303_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Records</language>
+		<language name="English">Optegnelser</language>
 	</row>
 	<row id="narc_0303_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -154,7 +154,7 @@
 	</row>
 	<row id="narc_0303_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Special point</language>
+		<language name="English">Særligt punkt</language>
 	</row>
 	<row id="narc_0303_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -162,15 +162,15 @@
 	</row>
 	<row id="narc_0303_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Location change</language>
+		<language name="English">Stedsændring</language>
 	</row>
 	<row id="narc_0303_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Entry</language>
+		<language name="English">Indgang</language>
 	</row>
 	<row id="narc_0303_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MESPRIT</language>
+		<language name="English">FANTASTISK</language>
 	</row>
 	<row id="narc_0303_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -182,7 +182,7 @@
 	</row>
 	<row id="narc_0303_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Start</language>
+		<language name="English">Starte</language>
 	</row>
 	<row id="narc_0303_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
@@ -190,34 +190,34 @@
 	</row>
 	<row id="narc_0303_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now ON</language>
+		<language name="English">Nu TIL</language>
 	</row>
 	<row id="narc_0303_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now OFF</language>
+		<language name="English">Nu FRA</language>
 	</row>
 	<row id="narc_0303_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0303_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sapphire</language>
+		<language name="English">Safir</language>
 	</row>
 	<row id="narc_0303_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruby</language>
+		<language name="English">Rubin</language>
 	</row>
 	<row id="narc_0303_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Emerald</language>
+		<language name="English">Smaragd</language>
 	</row>
 	<row id="narc_0303_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Red</language>
+		<language name="English">Rød</language>
 	</row>
 	<row id="narc_0303_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Green</language>
+		<language name="English">Grøn</language>
 	</row>
 </body>

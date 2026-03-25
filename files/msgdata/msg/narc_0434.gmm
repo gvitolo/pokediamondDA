@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0434_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I could use the hidden move Defog,\nI’d clear up the weather.\rDefog? Bird Pokémon flap their\nwings to blow the fog away.</language>
+		<language name="English">Hvis jeg kunne bruge det skjulte træk Defog,\nJeg ville rydde op i vejret.\rAfdugning? Bird Pokémon flapper deres\nvinger for at blæse tågen væk.</language>
 	</row>
 	<row id="narc_0434_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,6 +10,6 @@
 	</row>
 	<row id="narc_0434_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grandma Wilma’s House</language>
+		<language name="English">Bedstemor Wilmas hus</language>
 	</row>
 </body>

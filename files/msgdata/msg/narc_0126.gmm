@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0126_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Great Marsh is vast!\nHow vast is it, you ask?\rTake a look from the Observatory\nand you can see for yourself!</language>
+		<language name="English">Den Store Marsk er enorm!\nHvor stor er den, spørger du?\rTag et kig fra Observatoriet\nog du kan selv se!</language>
 	</row>
 	<row id="narc_0126_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pastoria’s Great Marsh was once\na part of the sea.\rThe seawater drained away over time,\nleaving the huge marshland.\rThat’s why they say there are rare\nPokémon that you can only see here.</language>
+		<language name="English">Pastorias Store Marsk var engang\nen del af havet.\rHavvandet drænede med tiden,\nog efterlod det enorme moseområde.\rDerfor siger de, at der er sjældne\nPokémons, som du kun kan se her.</language>
 	</row>
 </body>

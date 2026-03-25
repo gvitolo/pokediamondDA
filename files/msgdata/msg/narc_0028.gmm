@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0028_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your exploits are fantastic!\rWith our TV station, we can tell\nthe whole world about you!\rIt’s merely one of many possibilities!\nHarrumph!</language>
+		<language name="English">Din bedrifter er fantastisk!\rMed vores tv- station, kan vi se\nHe verden om dig!\rDet er bare en af mange muligheder!\nHarrumph!</language>
 	</row>
 	<row id="narc_0028_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Participation for all” is our TV\nnetwork’s motto.</language>
+		<language name="English">“Deltagelse for alle” er vores TV\nNetværkets motto.</language>
 	</row>
 </body>

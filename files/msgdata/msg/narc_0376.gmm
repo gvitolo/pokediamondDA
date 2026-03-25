@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="narc_0376_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Diamond</language>
+		<language name="English">Diamant</language>
 	</row>
 	<row id="narc_0376_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="narc_0376_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Diamond</language>
+		<language name="English">Diamant</language>
 	</row>
 	<row id="narc_0376_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -166,7 +166,7 @@
 	</row>
 	<row id="narc_0376_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pearl</language>
+		<language name="English">Perle</language>
 	</row>
 	<row id="narc_0376_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="narc_0376_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pearl</language>
+		<language name="English">Perle</language>
 	</row>
 	<row id="narc_0376_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -250,7 +250,7 @@
 	</row>
 	<row id="narc_0376_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pearl</language>
+		<language name="English">Perle</language>
 	</row>
 	<row id="narc_0376_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
@@ -342,7 +342,7 @@
 	</row>
 	<row id="narc_0376_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Diamond</language>
+		<language name="English">Diamant</language>
 	</row>
 	<row id="narc_0376_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
@@ -354,10 +354,10 @@
 	</row>
 	<row id="narc_0376_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pearl</language>
+		<language name="English">Perle</language>
 	</row>
 	<row id="narc_0376_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Diamond</language>
+		<language name="English">Diamant</language>
 	</row>
 </body>

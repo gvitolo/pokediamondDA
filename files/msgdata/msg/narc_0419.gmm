@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0419_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you raising different kinds of\nPokémon?\rIf you only have the same type of\nPokémon, you’ll have a hard time\fagainst types it’s weak to.</language>
+		<language name="English">Er du opdrage forskellige slags\nPokémon?\rHvis du kun har samme type\nPokémon, du får det svært\fmod typer det er svagt at.</language>
 	</row>
 	<row id="narc_0419_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, are you the flirty type?\nI’m asking you this to make a point.\rI teach at the Trainers’ School,\nand I’d like to give you a lesson.\rBut before I do, I’d like you to\nhave this TM.\r</language>
+		<language name="English">Hej, er du den flirtende type?\nJeg beder dig om dette for at gøre en pointe.\rJeg underviser på Trænerskolen,\nog jeg vil gerne give dig en lektion.\rMen før jeg gør det, vil jeg gerne have dig til det\nhar denne TM.\r</language>
 	</row>
 	<row id="narc_0419_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how Pokémon have genders?\nLike, there are males and females?\rWell, the move Captivate only works\nagainst the opposite gender.\rFor example, it only works when used\nby a male Pokémon on a female.\rThe move sharply lowers the target’s\nSpecial Attack, or Sp. Atk for short.\rYou also probably know this, but a\nTM is good for only one use.\rChoose the Pokémon wisely if you\ndo decide to use it.</language>
+		<language name="English">Ved du, hvordan Pokémon har køn?\nLigesom der er hanner og hunner?\rNå, flytningen Captivate virker kun\nmod det modsatte køn.\rDet virker for eksempel kun, når det bruges\naf en mandlig Pokémon på en hun.\rBevægelsen sænker målet kraftigt\nSpecialangreb, eller Sp. Atk for kort.\rDet ved du sikkert også, men en\nTM er god til kun én brug.\rVælg Pokémon med omtanke, hvis du\nbeslutter at bruge det.</language>
 	</row>
 	<row id="narc_0419_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 204\nFloaroma Town</language>
+		<language name="English">Rt. 204\nFloaroma by</language>
 	</row>
 </body>

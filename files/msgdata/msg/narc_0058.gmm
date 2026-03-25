@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0058_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Hunh?\rOh, it’s you, {STRVAR_1 3, 1}!\nYou finally got here?\fYou’re slow like always.\rYou’re so slow, the Gym Leader’s\nlong gone now.\rHe said he had to go... Uh...\nOh, yeah, to Oreburgh Mine!\rI got my Badge already, so it’s no\nbig deal to me, but...</language>
+		<language name="English">Hunh?\rDet er dig, {STRVAR_1 3, 1}!\nEr du endelig kommet?\fDu er langsom som altid.\rDu er så langsom, Gym Leaders\nNu er jeg væk.\rHan sagde, han skulle... Uh...\nÅh, ja, til Oreburgh Mine!\rJeg har allerede fået min Badge, så det er ikke\nDet betyder meget for mig, men...</language>
 	</row>
 	<row id="narc_0058_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: I told you, the Gym\nLeader isn’t here.\rIf you want to take the Gym\nchallenge, you’d better go down to\fthe mine and ask him.\rBut, boy, a Gym Leader is in a\ndifferent class of toughness.\rEven I’m feeling run down.</language>
+		<language name="English">{STRVAR_1 3, 0}: Jeg fortalte dig, den Gym\nLederen er her ikke.\rHvis du ønsker at tage Gym\nudfordring, du må hellere gå ned til\fMinen og spørg ham.\rMen, dreng, en Gym Leader er i en\nforskellige klasse af sejhed.\rSelv jeg føler mig løbet ned.</language>
 	</row>
 	<row id="narc_0058_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,103 +14,103 @@
 	</row>
 	<row id="narc_0058_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Whoops! {STRVAR_1 3, 1}!\nYou got the Gym Badge, huh?\rEterna City is the next place with\na Gym that gives away Badges, right?\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Whoops! {STRVAR_1 3, 1}!\nHar du Gym Badge?\rEterna City er det næste sted med\nEn Gym, der afslører Badges, ikke?\r</language>
 	</row>
 	<row id="narc_0058_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, yeah, I went to Route 207, but\nyou can’t go there without a Bicycle.\rI made my team battle and toughened\nthem up, so it wasn’t a waste.\r</language>
+		<language name="English">Jeg tog til Route 207, men...\nDu kan ikke tage derhen uden en cykel.\rJeg gjorde mit hold kamp og hærdet\nDet var ikke spild.\r</language>
 	</row>
 	<row id="narc_0058_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, I’m going back to Jubilife City.\nNext stop, the Eterna Gym Badge!\rTen seconds before I dash!\rNine...\rBah! Who’s got time to count?!\r</language>
+		<language name="English">Jeg tager tilbage til Jubilife City.\nNæste stop, Eterna Gym Badge!\rTi sekunder før jeg smutter!\rNi...\rBah! Hvem har tid til at tælle?\r</language>
 	</row>
 	<row id="narc_0058_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Howdy, Trainer!\rIf you don’t have a single Gym Badge,\nother Trainers will look down on\fyou like you’re a total noob, right?\rSo, I’ll show you where the town’s\nPokémon Gym is.\r</language>
+		<language name="English">Davs, Trainer!\rHvis du ikke har et eneste Gym Badge,\nandre undervisere vil se ned på\fDu kan lide, at du er en total noob, ikke?\rJeg viser dig, hvor byen er.\nPokémon Gym er.\r</language>
 	</row>
 	<row id="narc_0058_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nThere’s someone there.</language>
+		<language name="English">Huh?\nDer er nogen der.</language>
 	</row>
 	<row id="narc_0058_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that guy in front of the Gym\nyour friend?\rHe’s sort of twitchy and impatient.</language>
+		<language name="English">Er den fyr foran gym\nDin ven?\rHan er nervøs og utålmodig.</language>
 	</row>
 	<row id="narc_0058_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, hi, you’re back!\nThe Gym Leader’s waiting for you.</language>
+		<language name="English">Hej, du er tilbage!\nGym-lederen venter på dig.</language>
 	</row>
 	<row id="narc_0058_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Can I see your Trainer Case?\rIt’s got the Gym Badge you just\nwon, right?</language>
+		<language name="English">Må jeg se din trainer sag?\rDen har et Gym Badge.\nVandt, ikke?</language>
 	</row>
 	<row id="narc_0058_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0058_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0058_00013" index="13">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0058_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym Leader went off to work in\nthe mine.</language>
+		<language name="English">Gym Leader gik på arbejde i\nminen.</language>
 	</row>
 	<row id="narc_0058_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym Leader is young, but he’s\nthe mine’s safety supervisor.\rHe’s an expert in more than just one\nfield!</language>
+		<language name="English">Gym Leader er ung, men han er\nminens sikkerhedschef.\rHan er ekspert i mere end en.\nfield!</language>
 	</row>
 	<row id="narc_0058_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everyone’s proud of the mine.\rThey’re digging for coal under the\nsea as we speak...\rIt’s amazing how they do it!</language>
+		<language name="English">Alle er stolte af minen.\rDe graver efter kul under\nHav lige nu...\rDet er utroligt, hvordan de gør det!</language>
 	</row>
 	<row id="narc_0058_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Up ahead there’s a huge mountain\nthat towers above everything.\rIt divides Sinnoh into two distinct\nhalves.</language>
+		<language name="English">Oppe foran er der et stort bjerg\nAt tårne over alt.\rDet deler Sinnoh i to forskellige\nHalve.</language>
 	</row>
 	<row id="narc_0058_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you seen the vents?\nThey release steam from down below.</language>
+		<language name="English">Har du set ventilationen?\nDe frigiver damp nedefra.</language>
 	</row>
 	<row id="narc_0058_00019" index="19">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0058_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">These vents exchange the hot air\ndown below with the fresh air outside.\rLooking down them gives me the urge\nto start yelling into ’em! Hello!</language>
+		<language name="English">Disse ventilatorer bytter den varme luft\nned nedenunder med frisk luft udenfor.\rAt se ned på dem giver mig trang\nat begynde at råbe ind i dem! Hallo!</language>
 	</row>
 	<row id="narc_0058_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no question. This is hard,\nhard work.\rBut working alongside Pokémon...\nIt gives me a boost somehow.\rHere, take one of these.\r</language>
+		<language name="English">Der er ingen tvivl. Det er svært.\nhårdt arbejde.\rMen at arbejde sammen med Pokémon...\nDet giver mig et løft.\rHer, tag en af disse.\r</language>
 	</row>
 	<row id="narc_0058_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Feeling hale and hearty puts a smile\non my face. And that makes me happy.</language>
+		<language name="English">Følelse hale og hjertelig sætter et smil\nI mit ansigt. Og det gør mig glad.</language>
 	</row>
 	<row id="narc_0058_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This pile of dirty sand is called\na slag heap.\rIt’s the waste from sorting coal.</language>
+		<language name="English">Denne bunke beskidt sand kaldes\nEn slaggebunke.\rDet er affaldet fra at sortere kul.</language>
 	</row>
 	<row id="narc_0058_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chop, chop, MACHOP!\nChop, chop away on rocks! ~♫</language>
+		<language name="English">Hak, hak, MACHOP!\nChop, hug på sten!</language>
 	</row>
 	<row id="narc_0058_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TMs are single use only, but HMs\ncan be used over and over.\rIt’s tricky trying to decide which\nPokémon should learn what moves.</language>
+		<language name="English">Moms er kun til engangsbrug, men\nkan bruges igen og igen.\rDet er svært at afgøre, hvilken\nPokémon bør lære, hvad der bevæger sig.</language>
 	</row>
 	<row id="narc_0058_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I run around with my Running\nShoes on, it feels like I’m the center\fof attention!</language>
+		<language name="English">Når jeg løber rundt med min Running\nSko på, det føles som om jeg er centrum\faf opmærksomhed!</language>
 	</row>
 	<row id="narc_0058_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -122,14 +122,14 @@
 	</row>
 	<row id="narc_0058_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oreburgh Pokémon Gym\nLeader: Roark\f“Call me Roark the Rock!”</language>
+		<language name="English">Oreburgh Pokémon Gym\nZLEder: Roark\f“Kald mig Roark the Rock!”</language>
 	</row>
 	<row id="narc_0058_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oreburgh Mining Museum\n“Coal Mining and You!”</language>
+		<language name="English">Oreburgh Mining Museum\n“Kul-minedrift og dig!”</language>
 	</row>
 	<row id="narc_0058_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oreburgh Coal Mine\nBeware of Busy Pokémon!</language>
+		<language name="English">Oreburgh Kulmine\nPas på travle Pokémon!</language>
 	</row>
 </body>

@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="narc_0130_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve been hiking all around the\nSinnoh region.\rI love planting Berries wherever\nI go.\rI’ll give you a Berry, too.\nPlease plant it somewhere.\r</language>
+		<language name="English">Jeg har vandret rundt i\nSinnoh-regionen.\rJeg elsker at plante bær, hvor end\n jeg går.\rJeg vil også give dig en bær.\nPlanter den et sted.\r</language>
 	</row>
 	<row id="narc_0130_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Planting Berries is good for\nPokémon.\rIt provides them with more things\nto eat in the wild.</language>
+		<language name="English">At plante bær er godt for Pokémon.\rDet giver dem flere ting at spise i naturen.</language>
 	</row>
 	<row id="narc_0130_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My sister gathers Berries every day!\nPlease come visit again!\rWe cook the Berries, too!\nWe mix them up! They’re yummy!</language>
+		<language name="English">Min søster samler bær hver dag!\nKom gerne på besøg igen!\rVi koger også bær!\nVi blander dem sammen! De er lækre!</language>
 	</row>
 </body>

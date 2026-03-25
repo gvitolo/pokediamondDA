@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0567_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLOSE</language>
+		<language name="English">TÆT</language>
 	</row>
 	<row id="narc_0567_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -30,15 +30,15 @@
 	</row>
 	<row id="narc_0567_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yellow Cushion</language>
+		<language name="English">Gul pude</language>
 	</row>
 	<row id="narc_0567_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue Cushion</language>
+		<language name="English">Blå pude</language>
 	</row>
 	<row id="narc_0567_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wooden Chair</language>
+		<language name="English">Træ stol</language>
 	</row>
 	<row id="narc_0567_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,11 +46,11 @@
 	</row>
 	<row id="narc_0567_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plain Table</language>
+		<language name="English">Almindeligt bord</language>
 	</row>
 	<row id="narc_0567_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Small Table</language>
+		<language name="English">Lille bord</language>
 	</row>
 	<row id="narc_0567_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -70,11 +70,11 @@
 	</row>
 	<row id="narc_0567_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Small Bookshelf</language>
+		<language name="English">Lille bogreol</language>
 	</row>
 	<row id="narc_0567_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Research Shelf</language>
+		<language name="English">Forskningshylde</language>
 	</row>
 	<row id="narc_0567_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -82,11 +82,11 @@
 	</row>
 	<row id="narc_0567_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shop Shelf</language>
+		<language name="English">Butikshylde</language>
 	</row>
 	<row id="narc_0567_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Display Shelf</language>
+		<language name="English">Displayhylde</language>
 	</row>
 	<row id="narc_0567_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,7 +94,7 @@
 	</row>
 	<row id="narc_0567_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wood Dresser</language>
+		<language name="English">Træ Kommode</language>
 	</row>
 	<row id="narc_0567_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -114,15 +114,15 @@
 	</row>
 	<row id="narc_0567_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Feathery Bed</language>
+		<language name="English">Fjerlig seng</language>
 	</row>
 	<row id="narc_0567_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trash Can</language>
+		<language name="English">Skraldespand</language>
 	</row>
 	<row id="narc_0567_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cardboard Box</language>
+		<language name="English">Papkasse</language>
 	</row>
 	<row id="narc_0567_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -142,11 +142,11 @@
 	</row>
 	<row id="narc_0567_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iron Beam</language>
+		<language name="English">Jernbjælke</language>
 	</row>
 	<row id="narc_0567_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Potted Plant</language>
+		<language name="English">Potteplante</language>
 	</row>
 	<row id="narc_0567_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -194,7 +194,7 @@
 	</row>
 	<row id="narc_0567_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Red Tent</language>
+		<language name="English">Rødt telt</language>
 	</row>
 	<row id="narc_0567_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -202,7 +202,7 @@
 	</row>
 	<row id="narc_0567_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clear Tent</language>
+		<language name="English">Klart telt</language>
 	</row>
 	<row id="narc_0567_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
@@ -242,7 +242,7 @@
 	</row>
 	<row id="narc_0567_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rock Tool</language>
+		<language name="English">Rock værktøj</language>
 	</row>
 	<row id="narc_0567_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -250,43 +250,43 @@
 	</row>
 	<row id="narc_0567_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Foam Tool</language>
+		<language name="English">Skumværktøj</language>
 	</row>
 	<row id="narc_0567_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bubble Tool</language>
+		<language name="English">Bobleværktøj</language>
 	</row>
 	<row id="narc_0567_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Alert Tool 1</language>
+		<language name="English">Advarselsværktøj 1</language>
 	</row>
 	<row id="narc_0567_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Alert Tool 2</language>
+		<language name="English">Advarselsværktøj 2</language>
 	</row>
 	<row id="narc_0567_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Alert Tool 3</language>
+		<language name="English">Advarselsværktøj 3</language>
 	</row>
 	<row id="narc_0567_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Alert Tool 4</language>
+		<language name="English">Advarselsværktøj 4</language>
 	</row>
 	<row id="narc_0567_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Leaf Tool</language>
+		<language name="English">Bladværktøj</language>
 	</row>
 	<row id="narc_0567_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flower Tool</language>
+		<language name="English">Blomsterværktøj</language>
 	</row>
 	<row id="narc_0567_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ember Tool</language>
+		<language name="English">Glødeværktøj</language>
 	</row>
 	<row id="narc_0567_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fire Tool</language>
+		<language name="English">Brandværktøj</language>
 	</row>
 	<row id="narc_0567_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
@@ -294,19 +294,19 @@
 	</row>
 	<row id="narc_0567_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cool Cup</language>
+		<language name="English">Cool kop</language>
 	</row>
 	<row id="narc_0567_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beauty Cup</language>
+		<language name="English">Skønhed Cup</language>
 	</row>
 	<row id="narc_0567_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tough Cup</language>
+		<language name="English">Hård Cup</language>
 	</row>
 	<row id="narc_0567_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clever Cup</language>
+		<language name="English">Smart Cup</language>
 	</row>
 	<row id="narc_0567_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
@@ -318,7 +318,7 @@
 	</row>
 	<row id="narc_0567_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Red Crystal</language>
+		<language name="English">Rød Krystal</language>
 	</row>
 	<row id="narc_0567_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
@@ -326,15 +326,15 @@
 	</row>
 	<row id="narc_0567_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pretty Gem</language>
+		<language name="English">Smuk perle</language>
 	</row>
 	<row id="narc_0567_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shiny Gem</language>
+		<language name="English">Skinnende perle</language>
 	</row>
 	<row id="narc_0567_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mystic Gem</language>
+		<language name="English">Mystisk perle</language>
 	</row>
 	<row id="narc_0567_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
@@ -342,19 +342,19 @@
 	</row>
 	<row id="narc_0567_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bronze Trophy</language>
+		<language name="English">Bronze trofæ</language>
 	</row>
 	<row id="narc_0567_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Silver Trophy</language>
+		<language name="English">Sølv trofæ</language>
 	</row>
 	<row id="narc_0567_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gold Trophy</language>
+		<language name="English">Guld trofæ</language>
 	</row>
 	<row id="narc_0567_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Great Trophy</language>
+		<language name="English">Stort trofæ</language>
 	</row>
 	<row id="narc_0567_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
@@ -366,11 +366,11 @@
 	</row>
 	<row id="narc_0567_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clear Ornament</language>
+		<language name="English">Klart ornament</language>
 	</row>
 	<row id="narc_0567_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHARMANDER Doll</language>
+		<language name="English">CHARMANDER dukke</language>
 	</row>
 	<row id="narc_0567_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
@@ -390,15 +390,15 @@
 	</row>
 	<row id="narc_0567_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOTODILE Doll</language>
+		<language name="English">TOTODILE dukke</language>
 	</row>
 	<row id="narc_0567_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TORCHIC Doll</language>
+		<language name="English">TORCHIC dukke</language>
 	</row>
 	<row id="narc_0567_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TREECKO Doll</language>
+		<language name="English">TREECKO dukke</language>
 	</row>
 	<row id="narc_0567_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
@@ -406,7 +406,7 @@
 	</row>
 	<row id="narc_0567_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHIMCHAR Doll</language>
+		<language name="English">CHIMCHAR dukke</language>
 	</row>
 	<row id="narc_0567_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
@@ -422,7 +422,7 @@
 	</row>
 	<row id="narc_0567_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PLUSLE Doll</language>
+		<language name="English">PLUS Dukke</language>
 	</row>
 	<row id="narc_0567_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
@@ -438,7 +438,7 @@
 	</row>
 	<row id="narc_0567_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WOBBUFFET Doll</language>
+		<language name="English">WOBBUFFET Dukke</language>
 	</row>
 	<row id="narc_0567_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
@@ -458,7 +458,7 @@
 	</row>
 	<row id="narc_0567_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WEAVILE Doll</language>
+		<language name="English">WEAVILE dukke</language>
 	</row>
 	<row id="narc_0567_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
@@ -470,7 +470,7 @@
 	</row>
 	<row id="narc_0567_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIME JR. Doll</language>
+		<language name="English">MIME JR. Dukke</language>
 	</row>
 	<row id="narc_0567_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
@@ -478,7 +478,7 @@
 	</row>
 	<row id="narc_0567_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MANTYKE Doll</language>
+		<language name="English">MANTYKE dukke</language>
 	</row>
 	<row id="narc_0567_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
@@ -486,7 +486,7 @@
 	</row>
 	<row id="narc_0567_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHATOT Doll</language>
+		<language name="English">CHATOT dukke</language>
 	</row>
 	<row id="narc_0567_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
@@ -502,7 +502,7 @@
 	</row>
 	<row id="narc_0567_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAGNEZONE Doll</language>
+		<language name="English">MAGNEZON dukke</language>
 	</row>
 	<row id="narc_0567_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
@@ -542,23 +542,23 @@
 	</row>
 	<row id="narc_0567_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dainty Flowers</language>
+		<language name="English">Smukke blomster</language>
 	</row>
 	<row id="narc_0567_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lovely Flowers</language>
+		<language name="English">Dejlige Blomster</language>
 	</row>
 	<row id="narc_0567_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pretty Flowers</language>
+		<language name="English">Smukke blomster</language>
 	</row>
 	<row id="narc_0567_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lavish Flowers</language>
+		<language name="English">Overdådige blomster</language>
 	</row>
 	<row id="narc_0567_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Close the Bag.</language>
+		<language name="English">Luk posen.</language>
 	</row>
 	<row id="narc_0567_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
@@ -626,11 +626,11 @@
 	</row>
 	<row id="narc_0567_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A rack that is perfect for storing\nall kinds of research documents.</language>
+		<language name="English">Et stativ, der er perfekt til opbevaring\nalle former for forskningsdokumenter.</language>
 	</row>
 	<row id="narc_0567_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A rack of tools like those seen\nin the Cycle Shop.</language>
+		<language name="English">Et stativ med værktøjer som dem, der er set\ni Cykelbutikken.</language>
 	</row>
 	<row id="narc_0567_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
@@ -674,15 +674,15 @@
 	</row>
 	<row id="narc_0567_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small cardboard box. It is\nconvenient for storing things.</language>
+		<language name="English">En lille papkasse. Det er det\npraktisk til opbevaring af ting.</language>
 	</row>
 	<row id="narc_0567_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A large wooden crate that is filled\nwith all sorts of things.</language>
+		<language name="English">En stor trækasse, der er fyldt\nmed alle mulige ting.</language>
 	</row>
 	<row id="narc_0567_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A large container that is filled with\na variety of things.</language>
+		<language name="English">En stor beholder, der er fyldt med\nen række ting.</language>
 	</row>
 	<row id="narc_0567_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
@@ -726,11 +726,11 @@
 	</row>
 	<row id="narc_0567_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A red Bicycle replica. It is like\nthose displayed at the Cycle Shop.</language>
+		<language name="English">En rød cykel replika. Det er ligesom\ndem, der vises i Cykelbutikken.</language>
 	</row>
 	<row id="narc_0567_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A green Bicycle replica. It is like\nthose displayed at the Cycle Shop.</language>
+		<language name="English">En grøn cykel replika. Det er ligesom\ndem, der vises i Cykelbutikken.</language>
 	</row>
 	<row id="narc_0567_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
@@ -738,7 +738,7 @@
 	</row>
 	<row id="narc_0567_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It attests to the fact that you have\nfriends from all over.</language>
+		<language name="English">Det vidner om, at du har\nvenner fra hele verden.</language>
 	</row>
 	<row id="narc_0567_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
@@ -758,19 +758,19 @@
 	</row>
 	<row id="narc_0567_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A block for constructing a maze.\nIt is blocked at the top.</language>
+		<language name="English">En blok til at bygge en labyrint.\nDen er blokeret i toppen.</language>
 	</row>
 	<row id="narc_0567_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A block for constructing a maze.\nIt is blocked at the right.</language>
+		<language name="English">En blok til at bygge en labyrint.\nDen er blokeret til højre.</language>
 	</row>
 	<row id="narc_0567_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A block for constructing a maze.\nIt is blocked at the bottom.</language>
+		<language name="English">En blok til at bygge en labyrint.\nDen er blokeret i bunden.</language>
 	</row>
 	<row id="narc_0567_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A block for constructing a maze.\nIt is blocked at the left.</language>
+		<language name="English">En blok til at bygge en labyrint.\nDen er blokeret til venstre.</language>
 	</row>
 	<row id="narc_0567_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
@@ -778,11 +778,11 @@
 	</row>
 	<row id="narc_0567_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Tool that makes a big pitfall\nto immobilize the victim.</language>
+		<language name="English">Et værktøj, der gør en stor faldgrube\nat immobilisere offeret.</language>
 	</row>
 	<row id="narc_0567_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Tool that makes a huge pitfall\nto immobilize the victim.</language>
+		<language name="English">Et værktøj, der udgør en stor faldgrube\nat immobilisere offeret.</language>
 	</row>
 	<row id="narc_0567_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
@@ -794,15 +794,15 @@
 	</row>
 	<row id="narc_0567_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Tool that makes blocking boulders.\nBreak the boulders to get free.</language>
+		<language name="English">Et værktøj, der laver blokerende kampesten.\nBryd stenene for at komme fri.</language>
 	</row>
 	<row id="narc_0567_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Tool that makes Big Boulders.\nBreak the boulders to get free.</language>
+		<language name="English">Et værktøj, der laver store sten.\nBryd stenene for at komme fri.</language>
 	</row>
 	<row id="narc_0567_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Tool that releases bubbles.\nPop the bubbles to get free.</language>
+		<language name="English">Et værktøj, der frigiver bobler.\nPop boblerne for at komme fri.</language>
 	</row>
 	<row id="narc_0567_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
@@ -818,7 +818,7 @@
 	</row>
 	<row id="narc_0567_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stepping on this Tool tells all nearby\nthat you are going to the Union Room.</language>
+		<language name="English">At træde på dette værktøj fortæller alle i nærheden\nat du skal i Unionsrummet.</language>
 	</row>
 	<row id="narc_0567_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
@@ -826,39 +826,39 @@
 	</row>
 	<row id="narc_0567_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Tool releases immobilizing leaves.\nBlow the leaves away to get free.</language>
+		<language name="English">Dette værktøj frigiver immobiliserende blade.\nBlæs bladene væk for at komme fri.</language>
 	</row>
 	<row id="narc_0567_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Tool releases many flowers.\nBlow the flowers away to get free.</language>
+		<language name="English">Dette værktøj frigiver mange blomster.\nPust blomsterne væk for at komme fri.</language>
 	</row>
 	<row id="narc_0567_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Tool releases immobilizing embers.\nBlow the embers away to get free.</language>
+		<language name="English">Dette værktøj frigiver immobiliserende gløder.\nPust gløderne væk for at komme fri.</language>
 	</row>
 	<row id="narc_0567_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Tool releases billowing flames.\nBlow the flames away to get free.</language>
+		<language name="English">Dette værktøj udløser bølgende flammer.\nBlæs flammerne væk for at komme fri.</language>
 	</row>
 	<row id="narc_0567_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A winner’s cup that is awarded only\nto a truly cute Pokémon.</language>
+		<language name="English">En vinderpokal, der kun uddeles\ntil en virkelig sød Pokémon.</language>
 	</row>
 	<row id="narc_0567_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A winner’s cup that is awarded only\nto a truly cool Pokémon.</language>
+		<language name="English">En vinderpokal, der kun uddeles\ntil en virkelig cool Pokémon.</language>
 	</row>
 	<row id="narc_0567_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A winner’s cup that is awarded only\nto a truly beautiful Pokémon.</language>
+		<language name="English">En vinderpokal, der kun uddeles\ntil en virkelig smuk Pokémon.</language>
 	</row>
 	<row id="narc_0567_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A winner’s cup that is awarded only\nto a truly tough Pokémon.</language>
+		<language name="English">En vinderpokal, der kun uddeles\ntil en virkelig hård Pokémon.</language>
 	</row>
 	<row id="narc_0567_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A winner’s cup that is awarded only\nto a truly smart Pokémon.</language>
+		<language name="English">En vinderpokal, der kun uddeles\ntil en virkelig smart Pokémon.</language>
 	</row>
 	<row id="narc_0567_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
@@ -870,7 +870,7 @@
 	</row>
 	<row id="narc_0567_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A rare red crystal that is awarded\nto hardworking people.</language>
+		<language name="English">En sjælden rød krystal, der præmieres\ntil hårdtarbejdende mennesker.</language>
 	</row>
 	<row id="narc_0567_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
@@ -886,7 +886,7 @@
 	</row>
 	<row id="narc_0567_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A gem that casts a mystic light.\nIt is difficult to obtain.</language>
+		<language name="English">En perle, der kaster et mystisk lys.\nDet er svært at få.</language>
 	</row>
 	<row id="narc_0567_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
@@ -894,15 +894,15 @@
 	</row>
 	<row id="narc_0567_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A trophy made of bronze that is\nawarded only to tough Pokémon.</language>
+		<language name="English">Et trofæ lavet af bronze altså\nkun tildelt hårde Pokémons.</language>
 	</row>
 	<row id="narc_0567_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A silver-colored trophy that is\nawarded only to very tough Pokémon.</language>
+		<language name="English">Et sølvfarvet trofæ altså\nkun tildelt meget hårde Pokémons.</language>
 	</row>
 	<row id="narc_0567_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A gold-colored trophy that is awarded\nonly to fantastically tough Pokémon.</language>
+		<language name="English">Et guldfarvet trofæ, der uddeles\nkun til fantastisk hårde Pokémon.</language>
 	</row>
 	<row id="narc_0567_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
@@ -918,7 +918,7 @@
 	</row>
 	<row id="narc_0567_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very valuable object that is\ncrystal clear.</language>
+		<language name="English">Det er en meget værdifuld genstand\nkrystalklar.</language>
 	</row>
 	<row id="narc_0567_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
@@ -1106,7 +1106,7 @@
 	</row>
 	<row id="narc_0567_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A planter that is bursting with a\ngorgeous selection of flowers.</language>
+		<language name="English">En plantekasse, der er sprængfyldt med en\nflot udvalg af blomster.</language>
 	</row>
 	<row id="narc_0567_00277" index="277">
 		<attribute name="window_context_name">used</attribute>

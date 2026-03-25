@@ -78,7 +78,7 @@
 	</row>
 	<row id="narc_0388_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHALLENGE</language>
+		<language name="English">UDFORDRING</language>
 	</row>
 	<row id="narc_0388_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -102,7 +102,7 @@
 	</row>
 	<row id="narc_0388_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE</language>
+		<language name="English">KAMP</language>
 	</row>
 	<row id="narc_0388_00026" index="26">
 		<attribute name="window_context_name">used</attribute>

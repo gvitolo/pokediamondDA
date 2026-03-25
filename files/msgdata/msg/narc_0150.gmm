@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0150_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Galactic’s building bugs me...\nI can’t sleep with it looming over me.</language>
+		<language name="English">Team Galactics bygning plager mig...\nJeg kan ikke sove med den truende over mig.</language>
 	</row>
 	<row id="narc_0150_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those thorny things on the\nbuilding... Are they fashionable?</language>
+		<language name="English">De der tornede ting på bygningen... Er de på mode?</language>
 	</row>
 </body>

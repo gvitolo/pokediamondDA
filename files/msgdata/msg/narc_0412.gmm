@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0412_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -10,52 +10,52 @@
 	</row>
 	<row id="narc_0412_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRASH</language>
+		<language name="English">AFFALD</language>
 	</row>
 	<row id="narc_0412_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BACK</language>
+		<language name="English">TILBAGE</language>
 	</row>
 	<row id="narc_0412_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SMOOTH / {STRVAR_1 51, 0}</language>
+		<language name="English">GLAT / {STRVAR_1 51, 0}</language>
 	</row>
 	<row id="narc_0412_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXX</language>
 	</row>
 	<row id="narc_0412_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLOSE</language>
+		<language name="English">TÆT</language>
 	</row>
 	<row id="narc_0412_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Discard this\n{STRVAR_1 9, 0}?</language>
+		<language name="English">Kassér dette\n{STRVAR_1 9, 0}?</language>
 	</row>
 	<row id="narc_0412_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 9, 0} was\nthrown out.</language>
+		<language name="English">De {STRVAR_1 9, 0} var\nsmidt ud.</language>
 	</row>
 	<row id="narc_0412_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0412_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0412_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPICY</language>
+		<language name="English">KRYDRET</language>
 	</row>
 	<row id="narc_0412_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRY</language>
+		<language name="English">TØRRE</language>
 	</row>
 	<row id="narc_0412_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWEET</language>
+		<language name="English">SØD</language>
 	</row>
 	<row id="narc_0412_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -63,31 +63,31 @@
 	</row>
 	<row id="narc_0412_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SOUR</language>
+		<language name="English">SUR</language>
 	</row>
 	<row id="narc_0412_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ALL</language>
+		<language name="English">ALLE</language>
 	</row>
 	<row id="narc_0412_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises coolness.</language>
+		<language name="English">Hæver kølighed.</language>
 	</row>
 	<row id="narc_0412_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises beauty.</language>
+		<language name="English">Hæver skønhed.</language>
 	</row>
 	<row id="narc_0412_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises cuteness.</language>
+		<language name="English">Hæver sødheden.</language>
 	</row>
 	<row id="narc_0412_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises smartness.</language>
+		<language name="English">Hæver smartness.</language>
 	</row>
 	<row id="narc_0412_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises toughness.</language>
+		<language name="English">Hæver sejheden.</language>
 	</row>
 	<row id="narc_0412_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

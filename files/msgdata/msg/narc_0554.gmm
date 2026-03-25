@@ -6,494 +6,494 @@
 	</row>
 	<row id="narc_0554_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The stench helps keep\nwild Pokémon away.</language>
+		<language name="English">Stanken hjælper med at holde\nvilde Pokémon væk.</language>
 	</row>
 	<row id="narc_0554_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon makes it rain\nif it appears in battle.</language>
+		<language name="English">Pokémon'en får det til at regne\nhvis det dukker op i kamp.</language>
 	</row>
 	<row id="narc_0554_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon’s Speed stat\nis gradually boosted.</language>
+		<language name="English">Pokémons hastighedsstat\n øges gradvist.</language>
 	</row>
 	<row id="narc_0554_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is protected\nagainst critical hits.</language>
+		<language name="English">Pokémon'en er beskyttet\mod kritiske hits.</language>
 	</row>
 	<row id="narc_0554_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is protected\nagainst 1-hit KO attacks.</language>
+		<language name="English">Pokémon'en er beskyttet mod 1-hit KO-angreb.</language>
 	</row>
 	<row id="narc_0554_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents combatants from\nself destructing.</language>
+		<language name="English">Forhindrer kombattanter i at\ndestruere sig selv.</language>
 	</row>
 	<row id="narc_0554_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is protected\nfrom paralysis.</language>
+		<language name="English">Pokémon'en er beskyttet\nmod lammelse.</language>
 	</row>
 	<row id="narc_0554_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the Pokémon’s\nevasion in a sandstorm.</language>
+		<language name="English">Øger Pokémons\nevasion i en sandstorm.</language>
 	</row>
 	<row id="narc_0554_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact with the Pokémon\nmay cause paralysis.</language>
+		<language name="English">Kontakt med Pokémon'en\nkan forårsage lammelser.</language>
 	</row>
 	<row id="narc_0554_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Restores HP if hit by an\nElectric-type move.</language>
+		<language name="English">Gendanner HP, hvis det bliver ramt af en\nelektrisk bevægelse.</language>
 	</row>
 	<row id="narc_0554_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Restores HP if hit by a\nWater-type move.</language>
+		<language name="English">Gendanner HP, hvis det bliver ramt af en vandlignende bevægelse.</language>
 	</row>
 	<row id="narc_0554_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom becoming infatuated.</language>
+		<language name="English">Forhindrer Pokémon\n i at blive forelsket.</language>
 	</row>
 	<row id="narc_0554_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eliminates the effects of\nweather.</language>
+		<language name="English">Eliminerer virkningerne af\nvejr.</language>
 	</row>
 	<row id="narc_0554_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon’s accuracy is\nboosted.</language>
+		<language name="English">Pokémons nøjagtighed er\nboostet.</language>
 	</row>
 	<row id="narc_0554_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom falling asleep.</language>
+		<language name="English">Forhindrer Pokémon\n i at falde i søvn.</language>
 	</row>
 	<row id="narc_0554_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Changes the Pokémon’s\ntype to the foe’s move.</language>
+		<language name="English">Ændrer Pokémons\ntype til fjendens træk.</language>
 	</row>
 	<row id="narc_0554_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom getting poisoned.</language>
+		<language name="English">Forhindrer Pokémon\ni at blive forgiftet.</language>
 	</row>
 	<row id="narc_0554_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up Fire-type moves\nif hit by a fire move.</language>
+		<language name="English">Aktiverer bevægelser af ildtype\nhvis de bliver ramt af et ildtræk.</language>
 	</row>
 	<row id="narc_0554_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blocks the added effects\nof attacks taken.</language>
+		<language name="English">Blokerer de tilføjede effekter\naf angreb taget.</language>
 	</row>
 	<row id="narc_0554_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom becoming confused.</language>
+		<language name="English">Forhindrer Pokémon\n i at blive forvirret.</language>
 	</row>
 	<row id="narc_0554_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Negates moves that\nforce switching out.</language>
+		<language name="English">Negerer træk, der\ntvinger udskiftning.</language>
 	</row>
 	<row id="narc_0554_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lowers the foe’s Attack\nstat.</language>
+		<language name="English">Sænker fjendens angreb\nstat.</language>
 	</row>
 	<row id="narc_0554_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the foe from\nescaping.</language>
+		<language name="English">Forhindrer fjenden i at flygte.</language>
 	</row>
 	<row id="narc_0554_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Inflicts damage to the\nfoe on contact.</language>
+		<language name="English">Påfører skade på fjenden ved kontakt.</language>
 	</row>
 	<row id="narc_0554_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Only supereffective\nmoves will hit.</language>
+		<language name="English">Kun supereffektive\ntræk vil ramme.</language>
 	</row>
 	<row id="narc_0554_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gives full immunity to all\nGround-type moves.</language>
+		<language name="English">Giver fuld immunitet til alle\nGround-type bevægelser.</language>
 	</row>
 	<row id="narc_0554_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact may paralyze,\npoison, or cause sleep.</language>
+		<language name="English">Kontakt kan lamme,\nforgifte eller forårsage søvn.</language>
 	</row>
 	<row id="narc_0554_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Passes on a burn, poison,\nor paralysis to the foe.</language>
+		<language name="English">Giver en forbrænding, gift\eller lammelse videre til fjenden.</language>
 	</row>
 	<row id="narc_0554_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon’s\nstats from being lowered.</language>
+		<language name="English">Forhindrer Pokémons\nstatistik i at blive sænket.</language>
 	</row>
 	<row id="narc_0554_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All status problems are\nhealed upon switching out.</language>
+		<language name="English">Alle statusproblemer\nafhjælpes ved udskiftning.</language>
 	</row>
 	<row id="narc_0554_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon draws in all\nElectric-type moves.</language>
+		<language name="English">Pokémon trækker alle\nbevægelser af elektrisk type.</language>
 	</row>
 	<row id="narc_0554_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the likelihood of\nadded effects appearing.</language>
+		<language name="English">Øger sandsynligheden for, at tilføjede effekter vises.</language>
 	</row>
 	<row id="narc_0554_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the Pokémon’s\nSpeed in rain.</language>
+		<language name="English">Øger Pokémons\nHastighed i regn.</language>
 	</row>
 	<row id="narc_0554_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the Pokémon’s\nSpeed in sunshine.</language>
+		<language name="English">Øger Pokémons\nhastighed i solskin.</language>
 	</row>
 	<row id="narc_0554_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises the likelihood of\nmeeting wild Pokémon.</language>
+		<language name="English">Øger sandsynligheden for\nat møde vilde Pokémon.</language>
 	</row>
 	<row id="narc_0554_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon copies the\nfoe’s ability.</language>
+		<language name="English">Pokémon kopierer fjendens evner.</language>
 	</row>
 	<row id="narc_0554_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises the Pokémon’s\nAttack stat.</language>
+		<language name="English">Hæver Pokémons\nangrebsstatistik.</language>
 	</row>
 	<row id="narc_0554_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact with the Pokémon\nmay poison the foe.</language>
+		<language name="English">Kontakt med Pokémonen\nkan forgifte fjenden.</language>
 	</row>
 	<row id="narc_0554_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is protected\nfrom flinching.</language>
+		<language name="English">Pokémon'en er beskyttet\nmod at ryste.</language>
 	</row>
 	<row id="narc_0554_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom becoming frozen.</language>
+		<language name="English">Forhindrer, at Pokémon'en\n bliver frosset.</language>
 	</row>
 	<row id="narc_0554_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom getting a burn.</language>
+		<language name="English">Forhindrer Pokémon\ni at blive forbrændt.</language>
 	</row>
 	<row id="narc_0554_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents Steel-type\nPokémon from escaping.</language>
+		<language name="English">Forhindrer Stål-type\nPokémon i at undslippe.</language>
 	</row>
 	<row id="narc_0554_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gives full immunity to all\nsound-based moves.</language>
+		<language name="English">Giver fuld immunitet til alle\nlydbaserede bevægelser.</language>
 	</row>
 	<row id="narc_0554_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon gradually\nrecovers HP in rain.</language>
+		<language name="English">Pokémon'en genvinder gradvist HP i regn.</language>
 	</row>
 	<row id="narc_0554_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon summons a\nsandstorm in battle.</language>
+		<language name="English">Pokémon'en tilkalder en\nsandstorm i kamp.</language>
 	</row>
 	<row id="narc_0554_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon raises the\nfoe’s PP usage.</language>
+		<language name="English">Pokémon hæver fjendens PP-brug.</language>
 	</row>
 	<row id="narc_0554_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises resistance to Fire-\nand Ice-type moves.</language>
+		<language name="English">Øger modstanden mod bevægelser af ild-\n- og is-typen.</language>
 	</row>
 	<row id="narc_0554_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon awakens\nquickly from sleep.</language>
+		<language name="English">Pokémon'en vågner\nhurtigt fra søvnen.</language>
 	</row>
 	<row id="narc_0554_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact with the Pokémon\nmay burn the foe.</language>
+		<language name="English">Kontakt med Pokémonen\nkan brænde fjenden.</language>
 	</row>
 	<row id="narc_0554_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enables sure getaway from\nwild Pokémon.</language>
+		<language name="English">Muliggør sikker flugt fra\nvilde Pokémon.</language>
 	</row>
 	<row id="narc_0554_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom losing accuracy.</language>
+		<language name="English">Forhindrer Pokémon\ni at miste nøjagtighed.</language>
 	</row>
 	<row id="narc_0554_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Attack stat\nfrom being lowered.</language>
+		<language name="English">Forhindrer angrebsstatistikken\ni at blive sænket.</language>
 	</row>
 	<row id="narc_0554_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon may pick up\nitems.</language>
+		<language name="English">Pokémon'en kan hente\nemner.</language>
 	</row>
 	<row id="narc_0554_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon can’t attack\non consecutive turns.</language>
+		<language name="English">Pokémon kan ikke angribe\ikke på hinanden følgende drejninger.</language>
 	</row>
 	<row id="narc_0554_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the Attack stat,\nbut lowers accuracy.</language>
+		<language name="English">Forøger angrebsstatistikken,\nmen sænker nøjagtigheden.</language>
 	</row>
 	<row id="narc_0554_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact with the Pokémon\nmay cause infatuation.</language>
+		<language name="English">Kontakt med Pokémon'en\nkan forårsage forelskelse.</language>
 	</row>
 	<row id="narc_0554_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Sp. Atk if another\nPokémon has Minus.</language>
+		<language name="English">Boosts Sp. Atk hvis en anden\nPokémon har minus.</language>
 	</row>
 	<row id="narc_0554_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Sp. Atk if another\nPokémon has Plus.</language>
+		<language name="English">Boosts Sp. Atk hvis en anden\nPokémon har Plus.</language>
 	</row>
 	<row id="narc_0554_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CASTFORM transforms with\nthe weather.</language>
+		<language name="English">CASTFORM forvandler sig med\nvejret.</language>
 	</row>
 	<row id="narc_0554_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Protects the Pokémon\nfrom item theft.</language>
+		<language name="English">Beskytter Pokémon'en mod tyveri af varer.</language>
 	</row>
 	<row id="narc_0554_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon may heal its\nown status problems.</language>
+		<language name="English">Pokémon'en kan muligvis helbrede sine\nu statusproblemer.</language>
 	</row>
 	<row id="narc_0554_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Attack if there is\na status problem.</language>
+		<language name="English">Øger angreb, hvis der er\na statusproblem.</language>
 	</row>
 	<row id="narc_0554_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Defense if there is\na status problem.</language>
+		<language name="English">Øger forsvaret, hvis der er et statusproblem.</language>
 	</row>
 	<row id="narc_0554_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Inflicts damage on foes\nusing any draining move.</language>
+		<language name="English">Påfører fjender skade\vha. enhver drænende bevægelse.</language>
 	</row>
 	<row id="narc_0554_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up Grass-type\nmoves in a pinch.</language>
+		<language name="English">Aktiverer Grass-type\nbevæger sig i en knivspids.</language>
 	</row>
 	<row id="narc_0554_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up Fire-type\nmoves in a pinch.</language>
+		<language name="English">Aktiverer Fire-type\nbevæger sig i et snuptag.</language>
 	</row>
 	<row id="narc_0554_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up Water-type\nmoves in a pinch.</language>
+		<language name="English">Tænder Water-type\nbevæger sig i en knivspids.</language>
 	</row>
 	<row id="narc_0554_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up Bug-type\nmoves in a pinch.</language>
+		<language name="English">Aktiverer Bug-type\nbevægelser på et øjeblik.</language>
 	</row>
 	<row id="narc_0554_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Protects the Pokémon\nfrom recoil damage.</language>
+		<language name="English">Beskytter Pokémon'en\nmod rekylskader.</language>
 	</row>
 	<row id="narc_0554_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon makes it\nsunny if it is in battle.</language>
+		<language name="English">Pokémon'en gør det solrigt, hvis det er i kamp.</language>
 	</row>
 	<row id="narc_0554_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the foe from\nfleeing.</language>
+		<language name="English">Forhindrer fjenden i at\nflygte.</language>
 	</row>
 	<row id="narc_0554_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom falling asleep.</language>
+		<language name="English">Forhindrer Pokémon\n i at falde i søvn.</language>
 	</row>
 	<row id="narc_0554_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon’s\nstats from being lowered.</language>
+		<language name="English">Forhindrer Pokémons\nstatistik i at blive sænket.</language>
 	</row>
 	<row id="narc_0554_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the power of\nphysical attacks.</language>
+		<language name="English">Øger kraften i\nfysiske angreb.</language>
 	</row>
 	<row id="narc_0554_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is protected\nagainst critical hits.</language>
+		<language name="English">Pokémon'en er beskyttet\mod kritiske hits.</language>
 	</row>
 	<row id="narc_0554_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eliminates the effects of\nweather.</language>
+		<language name="English">Eliminerer virkningerne af\nvejr.</language>
 	</row>
 	<row id="narc_0554_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises evasion if the\nPokémon is confused.</language>
+		<language name="English">Hæver unddragelse, hvis\nPokémon'en er forvirret.</language>
 	</row>
 	<row id="narc_0554_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Speed if hit by an\nElectric-type move.</language>
+		<language name="English">Hæver hastigheden, hvis den rammes af en\nelektrisk bevægelse.</language>
 	</row>
 	<row id="narc_0554_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Attack if the foe\nis of the same gender.</language>
+		<language name="English">Hæver angreb, hvis fjenden er af samme køn.</language>
 	</row>
 	<row id="narc_0554_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Speed each time\nthe Pokémon flinches.</language>
+		<language name="English">Hæver hastigheden hver gang\nPokémon vipper.</language>
 	</row>
 	<row id="narc_0554_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises evasion in a\nhailstorm.</language>
+		<language name="English">Hæver unddragelse i en\nhaglstorm.</language>
 	</row>
 	<row id="narc_0554_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Encourages the early use\nof a held Berry.</language>
+		<language name="English">Tilskynder til tidlig brug\naf en holdt Berry.</language>
 	</row>
 	<row id="narc_0554_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Attack upon taking\na critical hit.</language>
+		<language name="English">Hæver angreb ved at tage\na kritisk hit.</language>
 	</row>
 	<row id="narc_0554_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Speed if a held\nitem is used.</language>
+		<language name="English">Hæver hastigheden, hvis et holdt\nitem bruges.</language>
 	</row>
 	<row id="narc_0554_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Weakens the power of\nFire-type moves.</language>
+		<language name="English">Svækker kraften i\nIld-lignende bevægelser.</language>
 	</row>
 	<row id="narc_0554_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is prone to\nwild stat changes.</language>
+		<language name="English">Pokémon'en er tilbøjelig til\nvilde statændringer.</language>
 	</row>
 	<row id="narc_0554_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reduces HP if it is hot.\nWater restores HP.</language>
+		<language name="English">Reducerer HP, hvis det er varmt.\nVand genopretter HP.</language>
 	</row>
 	<row id="narc_0554_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Adjusts power according\nto the foe’s ability.</language>
+		<language name="English">Justerer kraften efter fjendens evner.</language>
 	</row>
 	<row id="narc_0554_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the power of\npunching moves.</language>
+		<language name="English">Øger kraften i\nslående bevægelser.</language>
 	</row>
 	<row id="narc_0554_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Restores HP if the\nPokémon is poisoned.</language>
+		<language name="English">Gendanner HP, hvis\nPokémon'en er forgiftet.</language>
 	</row>
 	<row id="narc_0554_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up moves of the\nsame type.</language>
+		<language name="English">Aktiverer træk af\nsamme type.</language>
 	</row>
 	<row id="narc_0554_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Increases the frequency\nof multi-strike moves.</language>
+		<language name="English">Øger frekvensen\naf multi-strike-bevægelser.</language>
 	</row>
 	<row id="narc_0554_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heals status problems if\nit is raining.</language>
+		<language name="English">Løser statusproblemer, hvis det regner.</language>
 	</row>
 	<row id="narc_0554_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Sp. Atk, but\nlowers HP in sunshine.</language>
+		<language name="English">Boosts Sp. Atk, men\nsænker HP i solskin.</language>
 	</row>
 	<row id="narc_0554_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Speed if there is a\nstatus problem.</language>
+		<language name="English">Øger hastigheden, hvis der er et statusproblem.</language>
 	</row>
 	<row id="narc_0554_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the Pokémon’s moves\nbecome the Normal type.</language>
+		<language name="English">Alle Pokémons træk\nbliver af typen Normal.</language>
 	</row>
 	<row id="narc_0554_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up moves if they\nbecome critical hits.</language>
+		<language name="English">Styrker træk, hvis de\nbliver kritiske hits.</language>
 	</row>
 	<row id="narc_0554_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon only takes\ndamage from attacks.</language>
+		<language name="English">Pokémon tager kun\ndaskade fra angreb.</language>
 	</row>
 	<row id="narc_0554_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ensures the Pokémon and\nits foe’s attacks land.</language>
+		<language name="English">Sikrer, at Pokémon'en og fjendens angreb lander.</language>
 	</row>
 	<row id="narc_0554_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon moves after\neven slower foes.</language>
+		<language name="English">Pokémon'en bevæger sig efter\aldrig langsommere fjender.</language>
 	</row>
 	<row id="narc_0554_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up the Pokémon’s\nweaker moves.</language>
+		<language name="English">Styrker Pokémons\nsvagere bevægelser.</language>
 	</row>
 	<row id="narc_0554_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents status problems\nin sunny weather.</language>
+		<language name="English">Forhindrer statusproblemer\ni solrigt vejr.</language>
 	</row>
 	<row id="narc_0554_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon can’t use\nany held items.</language>
+		<language name="English">Pokémon'en kan ikke bruge\nage genstande.</language>
 	</row>
 	<row id="narc_0554_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moves can be used\nregardless of abilities.</language>
+		<language name="English">Bevægelser kan bruges\nuanset evner.</language>
 	</row>
 	<row id="narc_0554_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heightens the critical-hit\nratios of moves.</language>
+		<language name="English">Øger antallet af kritiske hit\nforhold mellem træk.</language>
 	</row>
 	<row id="narc_0554_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Damages the foe landing\nthe finishing hit.</language>
+		<language name="English">Skader fjendens landing\ndet afsluttende hit.</language>
 	</row>
 	<row id="narc_0554_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Senses the foe’s\ndangerous moves.</language>
+		<language name="English">Fornemmer fjendens\farlige træk.</language>
 	</row>
 	<row id="narc_0554_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Determines what moves\nthe foe has.</language>
+		<language name="English">Bestemmer, hvilke træk\nfjenden har.</language>
 	</row>
 	<row id="narc_0554_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ignores any change in\nability by the foe.</language>
+		<language name="English">Ignorerer enhver ændring i\nevne fra fjenden.</language>
 	</row>
 	<row id="narc_0554_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up “not very\neffective” moves.</language>
+		<language name="English">Aktiverer "ikke særlig\neffektive" træk.</language>
 	</row>
 	<row id="narc_0554_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers down super-\neffective moves.</language>
+		<language name="English">Slår super-\neffektive træk ned.</language>
 	</row>
 	<row id="narc_0554_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Temporarily halves Attack\nand Speed.</language>
+		<language name="English">Halverer midlertidigt angreb\nog hastighed.</language>
 	</row>
 	<row id="narc_0554_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enables moves to hit\nGhost-type foes.</language>
+		<language name="English">Aktiverer træk til at ramme fjender af spøgelsestypen.</language>
 	</row>
 	<row id="narc_0554_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon draws in all\nWater-type moves.</language>
+		<language name="English">Pokémon'en trækker i alle\nVand-lignende træk.</language>
 	</row>
 	<row id="narc_0554_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon regains HP in\na hailstorm.</language>
+		<language name="English">Pokémon'en genvinder HP i\na haglvejr.</language>
 	</row>
 	<row id="narc_0554_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers down super-\neffective moves.</language>
+		<language name="English">Slår super-\neffektive træk ned.</language>
 	</row>
 	<row id="narc_0554_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon summons a\nhailstorm in battle.</language>
+		<language name="English">Pokémonen tilkalder en\nhaglstorm i kamp.</language>
 	</row>
 	<row id="narc_0554_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon may gather\nHoney from somewhere.</language>
+		<language name="English">Pokémon'erne kan samles\nHonning fra et sted.</language>
 	</row>
 	<row id="narc_0554_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon can check\nthe foe’s held item.</language>
+		<language name="English">Pokémon'en kan kontrollere\nfjendens tilbageholdte genstand.</language>
 	</row>
 	<row id="narc_0554_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up moves that\nhave recoil damage.</language>
+		<language name="English">Aktiverer bevægelser, der\nhar rekylskade.</language>
 	</row>
 	<row id="narc_0554_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Changes type to match\nthe held Plate.</language>
+		<language name="English">Ændrer type for at matche\nden holdte plade.</language>
 	</row>
 	<row id="narc_0554_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up party Pokémon\nwhen it is sunny.</language>
+		<language name="English">Sætter gang i fest-Pokémon\nnår det er solskin.</language>
 	</row>
 	<row id="narc_0554_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reduces a sleeping foe’s\nHP.</language>
+		<language name="English">Reducerer en sovende fjendes\nHP.</language>
 	</row>
 </body>

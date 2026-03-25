@@ -1,35 +1,35 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0470_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oak: Ah, {STRVAR_1 3, 0}!\nIt’s good to see you!\rWithout any further ado, I’d like you\nto examine this stone tablet.\rSomething just like it was also\ndiscovered in the Kanto region.\rI want to ask for your help in\nsolving the mystery behind this.\r</language>
+		<language name="English">Eg: Ah, {STRVAR_1 3, 0}!\nDet er godt at se dig!\rUden videre vil jeg gerne have dig\nat undersøge denne stentavle.\rNoget ligesom det også var\nopdaget i Kanto-regionen.\rJeg vil gerne bede om din hjælp til\nløse mysteriet bag dette.\r</language>
 	</row>
 	<row id="narc_0470_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oak: Ah, {STRVAR_1 3, 0}!\nIt’s good to see you!\rWithout any further ado, I’d like you\nto examine this stone tablet.\rSomething just like it was also\ndiscovered in the Kanto region.\rI want to ask for your help in\nsolving the mystery behind this.\r</language>
+		<language name="English">Eg: Ah, {STRVAR_1 3, 0}!\nDet er godt at se dig!\rUden videre vil jeg gerne have dig\nat undersøge denne stentavle.\rNoget ligesom det også var\nopdaget i Kanto-regionen.\rJeg vil gerne bede om din hjælp til\nløse mysteriet bag dette.\r</language>
 	</row>
 	<row id="narc_0470_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I tried deciphering the engravings on\nthe stone tablet.\rApparently, it is for a Trainer to\nengrave their thoughts after growing\fas a person through adventure.\rA Trainer fitting that description\nwould be you.\rThat’s why I’m asking you for your\nhelp.\rYou’ve met many people and Pokémon,\nand experienced many things that\fshaped you into the person you are.\rI want you to sincerely tell me who\naffected you the most.\rTell me, to whom do you most want\nto say your thanks?\r</language>
+		<language name="English">Jeg prøvede at tyde graveringerne på\nstentavlen.\rDet er åbenbart for en træner at\ngravere deres tanker efter vækst\fsom person gennem eventyr.\rEn træner, der passer til den beskrivelse\nville være dig.\rDet er derfor, jeg beder dig om din\nhjælp.\rDu har mødt mange mennesker og Pokémon,\nog oplevet mange ting\fformet dig til den person du er.\rJeg vil have, at du oprigtigt fortæller mig, hvem\npåvirkede dig mest.\rSig mig, hvem vil du mest til\nat sige tak?\r</language>
 	</row>
 	<row id="narc_0470_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm...\rYou most want to express your\nthanks to {STRVAR_1 28, 1}?\rYou’re absolutely certain of it?</language>
+		<language name="English">Hm...\rDu har mest lyst til at udtrykke din\ntakket være {STRVAR_1 28, 1}?\rEr du helt sikker på det?</language>
 	</row>
 	<row id="narc_0470_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oak: ?!\nWhat was that Pokémon?\rIs it somehow connected to\nthe stone tablet?\rHmm... Where did that Pokémon go?\nIts destination is intriguing...</language>
+		<language name="English">Eg:?!\nHvad var den Pokémon?\rEr det på en eller anden måde forbundet med\nstentavlen?\rHmm... Hvor blev den Pokémon af?\nDens destination er spændende...</language>
 	</row>
 	<row id="narc_0470_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oak: What’s wrong? You’re not\nsuggesting there’s no one?\rTell me, to whom do you most want\nto say your thanks?\r</language>
+		<language name="English">Oak: Hvad er der galt? Det er du ikke\ntyder på, at der ikke er nogen?\rSig mig, hvem vil du mest til\nat sige tak?\r</language>
 	</row>
 	<row id="narc_0470_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The surface is unmarked.\nIt is polished like a mirror.</language>
+		<language name="English">Overfladen er umærket.\nDet er poleret som et spejl.</language>
 	</row>
 	<row id="narc_0470_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 1}, to whom I give\nmy thanks.</language>
+		<language name="English">{STRVAR_1 28, 1}, til hvem jeg giver\nmin tak.</language>
 	</row>
 </body>

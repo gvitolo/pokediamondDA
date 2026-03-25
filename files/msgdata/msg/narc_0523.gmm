@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0523_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon has a \n{STRVAR_1 7, 0} nature?\rDid you know that a Pokémon’s nature\ndetermines how it will grow?</language>
+		<language name="English">Din Pokémon har en \n{STRVAR_1 7, 0} natur?\rVidste du, at en Pokémons natur\nbestemmer, hvordan den vil vokse?</language>
 	</row>
 	<row id="narc_0523_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This area had many Pokémon from\nthe olden days.\rThey say there were big Pokémon\nranches ’round these parts.</language>
+		<language name="English">Dette område havde mange Pokémons fra\ngamle dage.\rDe siger, at der var store Pokémon\nranches rundt om disse dele.</language>
 	</row>
 </body>

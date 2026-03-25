@@ -2,35 +2,35 @@
 <body language="English">
 	<row id="narc_0374_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} has entered.</language>
+		<language name="English">{STRVAR_1 1, 0} er kommet ind.</language>
 	</row>
 	<row id="narc_0374_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to stop drawing?</language>
+		<language name="English">Vil du stoppe med at tegne?</language>
 	</row>
 	<row id="narc_0374_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0} has left.</language>
+		<language name="English">{STRVAR_1 1, 0} er gået.</language>
 	</row>
 	<row id="narc_0374_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The leader, {STRVAR_1 1, 0}, has left.\nThis group will be disbanded.</language>
+		<language name="English">Lederen, {STRVAR_1 1, 0}, er gået.\nGruppen opløses.</language>
 	</row>
 	<row id="narc_0374_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If the leader leaves, the group will\ndisband. Is that OK?</language>
+		<language name="English">Hvis lederen går, opløses gruppen.\nEr det i orden?</language>
 	</row>
 	<row id="narc_0374_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are no members.\nThe group will be disbanded.</language>
+		<language name="English">Der er ingen medlemmer.\nGruppen opløses.</language>
 	</row>
 	<row id="narc_0374_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The drawing session was ended.</language>
+		<language name="English">Tegnesessionen blev afsluttet.</language>
 	</row>
 	<row id="narc_0374_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUIT</language>
+		<language name="English">AFSLUT</language>
 	</row>
 	<row id="narc_0374_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,22 +38,22 @@
 	</row>
 	<row id="narc_0374_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Write your autograph!</language>
+		<language name="English">Skriv din autograf!</language>
 	</row>
 	<row id="narc_0374_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is this OK?</language>
+		<language name="English">Er det i orden?</language>
 	</row>
 	<row id="narc_0374_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to\nredo your autograph?</language>
+		<language name="English">Vil du\ntegne din autograf om?</language>
 	</row>
 	<row id="narc_0374_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DONE</language>
+		<language name="English">FÆRDIG</language>
 	</row>
 	<row id="narc_0374_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Joined a drawing session!</language>
+		<language name="English">Deltager i en tegnesession!</language>
 	</row>
 </body>

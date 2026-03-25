@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0430_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is where the departed sleep.\nBe respectful and don’t misbehave.</language>
+		<language name="English">Det er her den afdøde sover.\nVær respektfuld og opfør dig ikke forkert.</language>
 	</row>
 </body>

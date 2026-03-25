@@ -1,25 +1,25 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0063_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are eight Gym Leaders in\nthe Sinnoh region.\rThe objective for Trainers is\nto get Gym Badges from them all.</language>
+		<language name="English">Der er otte Gym ledere i\nSannoh- regionen.\rMålet for undervisere er\npå få Gym Badges fra dem alle.</language>
 	</row>
 	<row id="narc_0063_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Gym Leader isn’t just like any\nTrainer you meet.\rI’d take as many Pokémon as possible\nif I were you.</language>
+		<language name="English">En Gym Leader er ikke bare som enhver\nTræer du får.\rJeg vil tage så mange Pokémon som muligt\nHvis jeg var dig.</language>
 	</row>
 	<row id="narc_0063_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0063_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0063_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Roark lets us train our Pokémon in\nthe mine.</language>
+		<language name="English">Roark lader os træne vores Pokémon i\nminen.</language>
 	</row>
 </body>

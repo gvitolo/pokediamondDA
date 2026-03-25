@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0489_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have three Coins.\nYou cannot play right now.</language>
+		<language name="English">Du har ikke tre mønter.\nDu kan ikke spille lige nu.</language>
 	</row>
 	<row id="narc_0489_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have 50,000 Coins now.\nYou cannot hold any more.</language>
+		<language name="English">Du har 50.000 mønter nu.\nDu kan ikke holde mere.</language>
 	</row>
 	<row id="narc_0489_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have no Coins.\nYou cannot play now.</language>
+		<language name="English">Du har ingen mønter.\nDu kan ikke spille nu.</language>
 	</row>
 </body>

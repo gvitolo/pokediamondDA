@@ -50,7 +50,7 @@
 	</row>
 	<row id="narc_0329_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JOIN GROUP</language>
+		<language name="English">TILMELD DIG GRUPPE</language>
 	</row>
 	<row id="narc_0329_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="narc_0329_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0329_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="narc_0329_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0329_00021" index="21">
 		<attribute name="window_context_name">used</attribute>

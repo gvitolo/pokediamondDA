@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0459_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 218\nCanalave City</language>
+		<language name="English">Rt. 218\nCanalave by</language>
 	</row>
 	<row id="narc_0459_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

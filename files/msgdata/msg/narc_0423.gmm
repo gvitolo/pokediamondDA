@@ -1,16 +1,16 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0423_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I had a Bike, I could zip down\nCycling Road in one gnarly ride!</language>
+		<language name="English">Hvis jeg havde en cykel, kunne jeg lyne ned\nCykelvej på én knastør tur!</language>
 	</row>
 	<row id="narc_0423_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that there’s a cave, but\nI can’t seem to find it.</language>
+		<language name="English">Jeg hørte, at der er en hule, men\nJeg kan tilsyneladende ikke finde det.</language>
 	</row>
 	<row id="narc_0423_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 206\nEterna City</language>
+		<language name="English">Rt. 206\nEterna by</language>
 	</row>
 	<row id="narc_0423_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,6 +18,6 @@
 	</row>
 	<row id="narc_0423_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Caution!\rDon’t throw litter here!\nDon’t throw Pokémon battles, either!</language>
+		<language name="English">Forsigtighed!\rSmid ikke affald her!\nKast heller ikke Pokémon-kampe!</language>
 	</row>
 </body>

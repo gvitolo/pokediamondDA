@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="narc_0358_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re here to make sure Snowpoint’s\nGym Leader doesn’t disturb us!</language>
+		<language name="English">Vi er her for at sikre, at Snowpoints\nSal-leder ikke forstyrrer os!</language>
 	</row>
 	<row id="narc_0358_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re here to see the lake Pokémon,\ntoo?\rYou must be bored to fight your\nway through the snow to get here...</language>
+		<language name="English">Du er også her for at se sø-Pokémonerne?\rDu må kede dig, siden du kæmpede\ndig gennem sneen for at komme hertil...</language>
 	</row>
 	<row id="narc_0358_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Standing guard is a very important\nassignment!\rI’ll make this a success and earn\nmyself a CLEFAIRY!</language>
+		<language name="English">At holde vagt er en meget vigtig\nopgave!\rJeg får det til at lykkes og tjener\nmig en CLEFAIRY!</language>
 	</row>
 	<row id="narc_0358_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon of the three lakes\nappear to be connected somehow.\rWhen they blew up Lake Valor,\na cavern appeared in the middle of\fthis lake!</language>
+		<language name="English">Pokémonene fra de tre søer\nser ud til at hænge sammen.\rDa de sprængte Valor-søen,\nkom der en hule midt i\fdenne sø!</language>
 	</row>
 	<row id="narc_0358_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake Acuity ahead</language>
+		<language name="English">Acuity-søen lige forude</language>
 	</row>
 </body>

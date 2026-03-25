@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0503_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re off to hang with {STRVAR_1 3, 0}\nagain, right? You two sure are tight!</language>
+		<language name="English">Du er ude at hænge med {STRVAR_1 3, 0}\nigen, ikke? I to er helt sikkert tætte!</language>
 	</row>
 	<row id="narc_0503_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I went on an adventure with some\nPokémon a long time ago.\rIt was only to the next town,\nthough. Yeah, good times...</language>
+		<language name="English">Jeg tog på eventyr med nogle\nPokémon for længe siden.\rDet var kun til den næste by,\nselvom. Ja, gode tider...</language>
 	</row>
 </body>

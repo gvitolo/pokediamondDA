@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0475_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, dear, are your Pokémon feeling\ntired?\rYou should rest up.\nYes, good idea! Rest up here!</language>
+		<language name="English">Åh, kære, er din Pokémon-følelse\ntræt?\rDu burde hvile dig.\nJa, god idé! Hvil heroppe!</language>
 	</row>
 	<row id="narc_0475_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, yes, that’s right.\nGet some well-earned rest.\r</language>
+		<language name="English">Ja, ja, det er rigtigt.\nFå lidt velfortjent hvile.\r</language>
 	</row>
 	<row id="narc_0475_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you’re still looking tired.\nYou’re still needing rest, are you?\rYou should rest up again.\nYes, good idea! Rest up here!</language>
+		<language name="English">Åh, du ser stadig træt ud.\nDu har stadig brug for hvile, gør du?\rDu bør hvile dig igen.\nJa, god idé! Hvil heroppe!</language>
 	</row>
 	<row id="narc_0475_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that right?\nYou’re sure now?\rI’m only concerned for your sake. No\nneed to worry about putting me out!</language>
+		<language name="English">Er det rigtigt?\nEr du sikker nu?\rJeg er kun bekymret for din skyld. Ingen\nskal bekymre dig om at slå mig ud!</language>
 	</row>
 </body>

@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="narc_0131_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm... BURMY are an\ninteresting example...\rThey hint at how the environment can\nshape people’s personality.</language>
+		<language name="English">Hmmm... BURMY er et\ninteressant eksempel...\rDe antyder, hvordan omgivelserne kan\nforme folks personlighed.</language>
 	</row>
 	<row id="narc_0131_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know about BURMY and how\nthey come in different forms?\rDo you have all forms of that there\nBURMY?\r</language>
+		<language name="English">Du kender til BURMY og hvordan\nde findes i forskellige former?\rHar du alle former for det der\nBURMY?\r</language>
 	</row>
 	<row id="narc_0131_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww, you don’t even have a single\nBURMY?\rYou don’t like ’em?\nThey’re kind of mooshy and cute!</language>
+		<language name="English">Aww, har du ikke engang en eneste\nBURMY?\rDu kan ikke lide dem?\nDe er lidt mooshy og søde!</language>
 	</row>
 	<row id="narc_0131_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\rIt’d be cool if you had all the\ndifferent-looking BURMY.</language>
+		<language name="English">Hmm...\rDet ville være fedt, hvis du havde alle de anderledes udseende BURMY.</language>
 	</row>
 	<row id="narc_0131_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cool! That’s all the different kinds\nof BURMY! I feel giddy!\rSince I feel so giddy, take this!\nGo ahead, take it!\r</language>
+		<language name="English">Afkøle! Det er alle de forskellige slags BURMY! Jeg føler mig svimmel!\rDa jeg føler mig så svimmel, så tag det her!\nSå i gang, tag det!\r</language>
 	</row>
 	<row id="narc_0131_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoops, your Bag is crammed full!\nI’ll give this to you later.</language>
+		<language name="English">Hov, din taske er proppet fuld!\nJeg giver dig den senere.</language>
 	</row>
 	<row id="narc_0131_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re good!\nYou’d make an awesome Bug Maniac!</language>
+		<language name="English">Du er god!\nDu ville være en fantastisk Bug Maniac!</language>
 	</row>
 </body>

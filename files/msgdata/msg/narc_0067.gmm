@@ -1,27 +1,27 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0067_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen. Do you have a Pokémon\ncalled MACHOP?\rWould you be willing to trade your\nMACHOP for my ABRA?</language>
+		<language name="English">Hør her. Har du en Pokémon\n- “MACHOP”?\rVille du være villig til at bytte din\nMACHOP til min ABRA?</language>
 	</row>
 	<row id="narc_0067_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Be nice to my ABRA!\rI’ll be sure to look after your\nMACHOP in return!</language>
+		<language name="English">Vær sød ved min ABRA!\rJeg skal nok passe på dig.\nMACHOP til gengæld!</language>
 	</row>
 	<row id="narc_0067_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What I asked for was a MACHOP...</language>
+		<language name="English">Jeg bad om en MACHOP...</language>
 	</row>
 	<row id="narc_0067_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, OK...\nWell, I can’t make you trade me.\rBut if you change your mind,\nI’ll be right here waiting!</language>
+		<language name="English">Okay...\nJeg kan ikke få dig til at bytte mig.\rMen hvis du skifter mening,\nJeg venter lige her!</language>
 	</row>
 	<row id="narc_0067_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks to Pokémon, I got to be\nfriends with you!</language>
+		<language name="English">Takket være Pokémon, skal jeg være\nVenner med dig!</language>
 	</row>
 	<row id="narc_0067_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon obtained in a trade\ngrows quickly.\rBut if a Pokémon grows too much,\nit will often ignore the Trainer.\rOf course, it won’t matter if you\nhave lots of Gym Badges.</language>
+		<language name="English">Et Pokémon opnået i en handel\nvokser hurtigt.\rMen hvis en Pokémon vokser for meget,\nDet vil ofte ignorere traineren.\rSelvfølgelig er det lige meget, hvis du\nHar masser af Gym Badges.</language>
 	</row>
 </body>

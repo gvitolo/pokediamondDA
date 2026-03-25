@@ -1,43 +1,43 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0443_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My big sister collects shards.\rShe says they remind her of the place\nshe worked at long ago.</language>
+		<language name="English">Min storesøster samler skår.\rHun siger, at de minder hende om stedet\nhun arbejdede for længe siden.</language>
 	</row>
 	<row id="narc_0443_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you find ten shards of the same\ncolor, please let me know.\rI would gladly trade you a Technical\nMachine for them.</language>
+		<language name="English">Hvis du finder ti skår af det samme\nfarve, lad mig det vide.\rJeg bytter dig gerne en tekniker\nMaskine til dem.</language>
 	</row>
 	<row id="narc_0443_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve got ten shards in the same\ncolor, haven’t you?\rWould you like to trade them for\na Technical Machine?</language>
+		<language name="English">Du har ti skår i det samme\nfarve, har du ikke?\rVil du bytte dem til\nen teknisk maskine?</language>
 	</row>
 	<row id="narc_0443_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For your ten Red Shards, you get\nthis {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r</language>
+		<language name="English">For dine ti Red Shards får du\ndenne {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r</language>
 	</row>
 	<row id="narc_0443_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For your ten Blue Shards, you get\nthis {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r</language>
+		<language name="English">For dine ti Blue Shards får du\ndenne {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r</language>
 	</row>
 	<row id="narc_0443_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For your ten Yellow Shards, you get\nthis {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r</language>
+		<language name="English">For dine ti gule skår får du\ndenne {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r</language>
 	</row>
 	<row id="narc_0443_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For your ten Green Shards, you get\nthis {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r</language>
+		<language name="English">For dine ti grønne skår får du\ndenne {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r</language>
 	</row>
 	<row id="narc_0443_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want anything?\nI feel unwanted...</language>
+		<language name="English">Vil du ikke have noget?\nJeg føler mig uønsket...</language>
 	</row>
 	<row id="narc_0443_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, your Bag is full.\rGiggle... It’s OK, I can trade\nanytime. Next time will be fine.</language>
+		<language name="English">Åh, din taske er fuld.\rFnis... Det er OK, jeg kan bytte\nnår som helst. Næste gang bliver fint.</language>
 	</row>
 	<row id="narc_0443_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Red Shards: Sunny Day\nBlue Shards: Rain Dance\fYellow Shards: Sandstorm\fGreen Shards: Hail\f...The Weather Institute</language>
+		<language name="English">Røde skærver: Solskinsdag\nBlue Shards: Rain Dance\fGule skærver: Sandstorm\fGrønne skår: Hagl\f...Vejrinstituttet</language>
 	</row>
 </body>

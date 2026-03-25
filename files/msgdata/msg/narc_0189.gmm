@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="narc_0189_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Zone used to attract only\nthe hardiest of the Trainers.\rThey were considered eccentric for\ngathering at a place like this.\rIt’s hard to believe how much it’s\nchanged since then.\rPlaces like the Fight Area and the\nSurvival Area just seemed to spring\fup overnight.</language>
+		<language name="English">Battle Zone plejede kun at tiltrække\nde hårdeste af Trænerne.\rDe blev betragtet som excentriske til\nforsamling på et sted som dette.\rDet er svært at tro, hvor meget det har\nændret sig siden da.\rSteder som Fight Area og\nSurvival Area så ud til at springe ud fra den ene dag til den anden.</language>
 	</row>
 	<row id="narc_0189_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">He was one of those early eccentrics\nwho were around during the early days\rof the Battle Zone. Well, I was too.</language>
+		<language name="English">Han var en af ​​de tidlige excentrikere\nder var omkring i de tidlige dage\r af Battle Zone. Nå, det var jeg også.</language>
 	</row>
 	<row id="narc_0189_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

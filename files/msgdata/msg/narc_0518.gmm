@@ -1,16 +1,16 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0518_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Floaroma Town was a barren, desolate\nhill long ago.\rPeople started planting flowers on it\nbecause it was such a sad place.\rBut nothing would grow...\nPeople didn’t know what to do...\rAnd then one day, someone expressed\nthanks for the blessings of nature.\rThen, the whole hill burst into bloom.\nIsn’t that strange and wonderful?</language>
+		<language name="English">Floaroma Town var en gold, øde\nbakke for længe siden.\rFolk begyndte at plante blomster på den\nfordi det var så trist et sted.\rMen intet ville vokse...\nFolk vidste ikke, hvad de skulle gøre...\rOg så en dag, udtrykte nogen\ntak for naturens velsignelser.\rSå brød hele bakken ud i blomst.\nEr det ikke mærkeligt og vidunderligt?</language>
 	</row>
 	<row id="narc_0518_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you think it’s cute how\nPokémon pluck Berries?</language>
+		<language name="English">Synes du det er sødt hvordan\nPlukker Pokémon bær?</language>
 	</row>
 	<row id="narc_0518_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes! You agreed!\nHere’s the TM for the move Pluck!\r</language>
+		<language name="English">Ja! Du var enig!\nHer er TM for flytningen Pluk!\r</language>
 	</row>
 	<row id="narc_0518_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

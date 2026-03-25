@@ -14,11 +14,11 @@
 	</row>
 	<row id="narc_0310_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tetsuya</language>
+		<language name="English">Bliv vågen hele natten</language>
 	</row>
 	<row id="narc_0310_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shigeru</language>
+		<language name="English">vokse sig tyk</language>
 	</row>
 	<row id="narc_0310_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0310_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Futti</language>
+		<language name="English">brudt</language>
 	</row>
 	<row id="narc_0310_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="narc_0310_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seven</language>
+		<language name="English">Syv</language>
 	</row>
 	<row id="narc_0310_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -98,11 +98,11 @@
 	</row>
 	<row id="narc_0310_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Masao</language>
+		<language name="English">Masai</language>
 	</row>
 	<row id="narc_0310_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nammer</language>
+		<language name="English">Navn</language>
 	</row>
 	<row id="narc_0310_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -114,7 +114,7 @@
 	</row>
 	<row id="narc_0310_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nozomu</language>
+		<language name="English">ønske</language>
 	</row>
 	<row id="narc_0310_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -122,7 +122,7 @@
 	</row>
 	<row id="narc_0310_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Marumain</language>
+		<language name="English">havmand</language>
 	</row>
 	<row id="narc_0310_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -178,15 +178,15 @@
 	</row>
 	<row id="narc_0310_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Diamond</language>
+		<language name="English">Diamant</language>
 	</row>
 	<row id="narc_0310_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pearl</language>
+		<language name="English">Perle</language>
 	</row>
 	<row id="narc_0310_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NG Host</language>
+		<language name="English">AF VÆRTEN</language>
 	</row>
 	<row id="narc_0310_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
@@ -218,7 +218,7 @@
 	</row>
 	<row id="narc_0310_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Torecheko</language>
+		<language name="English">Tjekkiet</language>
 	</row>
 	<row id="narc_0310_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
@@ -230,6 +230,6 @@
 	</row>
 	<row id="narc_0310_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WWWWWWW</language>
+		<language name="English">WWW</language>
 	</row>
 </body>

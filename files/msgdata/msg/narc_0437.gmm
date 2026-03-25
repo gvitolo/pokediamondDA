@@ -1,16 +1,16 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0437_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m strong!\nI’m strong!\fI’m strong!\fI’m strong!\fI’m strong!\fI’m strong!\fI’m strong!\fI’m strong!\f...Am I really?\fNo, I am strong!\fI’m strong!\fOK! I’m all good to go!\r</language>
+		<language name="English">jeg er stærk!\njeg er stærk!\fjeg er stærk!\fjeg er stærk!\fjeg er stærk!\fjeg er stærk!\fjeg er stærk!\fjeg er stærk!\f...Er jeg virkelig?\fNej, jeg er stærk!\fjeg er stærk!\fOK! Jeg er klar til at gå!\r</language>
 	</row>
 	<row id="narc_0437_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wah!\nYou startled me good!\rI think you’ll understand what I was\ndoing when you see this TM.\r</language>
+		<language name="English">Wah!\nDu forskrækkede mig godt!\rJeg tror, ​​du vil forstå, hvad jeg var\ngør, når du ser denne TM.\r</language>
 	</row>
 	<row id="narc_0437_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me explain how that move works\nwithout getting too technical.\rLet’s say your opponent raises its\nDefense using Harden.\rYour Pokémon can use Psych Up to get\nthe same Defense boost as its foe.\rBasically, your Pokémon gets the same\nstatus boosts as its target.</language>
+		<language name="English">Lad mig forklare, hvordan det træk fungerer\nuden at blive for teknisk.\rLad os sige, at din modstander hæver sit\nForsvar ved hjælp af Harden.\rDin Pokémon kan bruge Psych Up til at få\nsamme forsvarsboost som dens fjende.\rDybest set får din Pokémon det samme\nstatusforøgelser som sit mål.</language>
 	</row>
 	<row id="narc_0437_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="narc_0437_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rEven Veterans can get lost inside of\nMt. Coronet.\rTrainers should check their supply\nof medicine and items before trying\fto venture through.</language>
+		<language name="English">Træner tips\rSelv veteraner kan fare vild indeni\nMt. Coronet.\rTrænere bør tjekke deres forsyninger\naf medicin og genstande, før du prøver\fat begive sig igennem.</language>
 	</row>
 	<row id="narc_0437_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

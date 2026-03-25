@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="narc_0123_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grr... The package hasn’t arrived\nfrom the Veilstone warehouse yet...\rI have to wait here until then?\nI’m going batty from this wait...\rOh, man, I wish I could do something\nthat involved lots of explosives!\rYup, this is going to be a smashing\njob for Team Galactic...</language>
+		<language name="English">Grr... Pakken er ikke ankommet\nfra Veilstone-lageret endnu...\rJeg er nødt til at vente her indtil da?\nJeg bliver våd af denne ventetid...\rÅh, mand, jeg ville ønske, at jeg kunne gøre noget\n, der involverede masser af sprængstoffer!\rJa, det her bliver et kæmpe galaktisk job...</language>
 	</row>
 	<row id="narc_0123_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grr...\nThis is so annoying...\rWhat is it, you? Oh, some kid with\nonly three Gym Badges.\rLittle buggers like you should know\nto stay out of Team Galactic’s way!\r...Now, this package from Veilstone...\nWhere should I set it off...?\rYup, this is going to be a smashing\njob for Team Galactic...</language>
+		<language name="English">Grr...\nDet her er så irriterende...\rHvad er det, dig? Åh, et barn med\nkun tre Gym-mærker.\rSmå tullebørn som du burde vide\nfor at holde sig ude af Team Galactics måde!\r...Nu, denne pakke fra Veilstone...\nHvor skal jeg sætte den af...?\rJa, det her bliver et kæmpearbejde for Team Galactic...</language>
 	</row>
 	<row id="narc_0123_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hahah! The package finally came from\nthe Veilstone warehouse!\rSo, now it’s my job to deliver this\nto the lake!\rThis is an important mission.\nNo failure allowed!\rNo making boo-boos like wandering\noff into the Great Marsh!\r</language>
+		<language name="English">Hahah! Pakken kom endelig fra\nVeilstone-lageret!\rSå, nu er det min opgave at levere dette\ntil søen!\rDette er en vigtig mission.\nIngen fejl tilladt!\rIngen buo-bu som at vandre ud i Den Store Marsh!\r</language>
 	</row>
 	<row id="narc_0123_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You were eavesdropping!\nI was just talking loudly to myself!\rIf I wasn’t in a hurry, I’d pulverize\nyou with my Pokémon!\rBut I have to get on my way to the\nlake ASAP! So, you’re lucky! I’m out!\rOh, and listen up, you!\nDon’t you dare follow me!\r</language>
+		<language name="English">Du aflyttede!\nJeg talte bare højt til mig selv!\rHvis jeg ikke havde travlt, ville jeg pulverisere\n dig med min Pokémon!\rMen jeg skal på vej til\nsøen ASAP! Så du er heldig! Jeg er ude!\rÅh, og hør efter, du!\nTur du ikke følge mig!\r</language>
 	</row>
 	<row id="narc_0123_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gweh!\nPersistent pest!\rIf our plan works, our boss’s dream\ncomes closer to fruition!\rOur boss’s ideal world is going\nto be created!\rSo, I’m not going to waste my time\non a nobody like you!\rI’m telling you now, don’t you come\nchasing after me!\r</language>
+		<language name="English">Gweh!\nVedholdende skadedyr!\rHvis vores plan virker, kommer vores chefs drøm\ntættere på at blive udmøntet!\rVores chefs ideelle verden vil\n blive skabt!\rSå, jeg vil ikke spilde min tid\n på en ingen som dig!\rJeg fortæller dig\r du kommer efter nu!</language>
 	</row>
 	<row id="narc_0123_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Whoops!\rHehehe! I’m not always going to plow\ninto you every time we meet!\rSo how’s it going, {STRVAR_1 3, 1}?\nBuffing up your Pokémon, eh?\rI’ll test you and your Pokémon out\nto see how buff and tough you are!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Hov!\rHehehe! Jeg har ikke altid tænkt mig at pløje\nind i dig, hver gang vi mødes!\rSå hvordan går det, {STRVAR_1 3, 1}?\nAt pudse din Pokémon op, hva?\rJeg vil teste dig og din Pokémon ud\nfor at se, hvor buff og sej du er!\r</language>
 	</row>
 	<row id="narc_0123_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Heh, yeah, maybe you\ndid get a bit tougher since last time.\rThat even shocked me a bit, so yeah,\nI got beat ’cause I was careless.\rSo, hey, what was that Team Galactic\nguy all freaking out about?\rI don’t know what he’s up to, but\nyou should chase him down!\rIf you’re not a Pokémon, and you run\nlike that... You’re a bad guy.\rAll right, {STRVAR_1 3, 1}!\nNext time, I’m not holding back!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Heh, ja, måske er du blevet lidt hårdere siden sidst.\rDet chokerede mig endda en smule, så ja,\njeg fik tæsk, fordi jeg var skødesløs.\rSå, hey, hvad var det, den Team Galactic\nfyr var ved at flippe over? ned!\rHvis du ikke er en Pokémon, og du løber\n sådan... Du er en dårlig fyr.\rOkay, {STRVAR_1 3, 1}!\nNæste gang holder jeg mig ikke tilbage!\r</language>
 	</row>
 	<row id="narc_0123_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -35,31 +35,31 @@
 	</row>
 	<row id="narc_0123_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here where I am standing, I’m\nsmack-dab in the middle of town.</language>
+		<language name="English">Her, hvor jeg står, er jeg smækker midt i byen.</language>
 	</row>
 	<row id="narc_0123_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I study rare Pokémon that appear\nonly in the Great Marsh.</language>
+		<language name="English">Jeg studerer sjældne Pokémon, der kun optræder i Great Marsh.</language>
 	</row>
 	<row id="narc_0123_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Trainers deliberately prevent\ntheir Pokémon from evolving.\rThey wait until the Pokémon levels up\nand learns certain moves.</language>
+		<language name="English">Nogle trænere forhindrer bevidst\nderes Pokémon i at udvikle sig.\rDe venter, indtil Pokémon’en stiger i niveau, og lærer visse bevægelser.</language>
 	</row>
 	<row id="narc_0123_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m visiting the area because I\nwanted to see the Great Marsh.\rI’m staying at the lakeside hotel.</language>
+		<language name="English">Jeg besøger området, fordi jeg ville se Great Marsh.\rJeg bor på hotellet ved søen.</language>
 	</row>
 	<row id="narc_0123_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pastoria’s Gym Leader is like...\nBreathtaking... In a weird way.\rIt’s hard to explain.\nYou’ll know what I mean, though.</language>
+		<language name="English">Pastorias Gym Leader er ligesom...\nBetagende... På en underlig måde.\rDet er svært at forklare.\nDu ved dog, hvad jeg mener.</language>
 	</row>
 	<row id="narc_0123_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wasn’t the Pastoria Gym Leader\nkind of breathtaking in a weird way?\rBut don’t judge him by the way\nhe looks and acts.\rI hear he uses the prize money to\nhelp people and Pokémon in trouble.</language>
+		<language name="English">Var Pastoria Gym Leader\n ikke en slags betagende på en mærkelig måde?\rMen lad være med at dømme ham efter den måde\nhan ser ud og handler på.\rJeg hører, han bruger præmiepengene til at\nhjælpe folk og Pokémon i problemer.</language>
 	</row>
 	<row id="narc_0123_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Great Marsh keeps the weather\ncool in the summertime.\rThis is a good town for Water-type\nPokémon.</language>
+		<language name="English">The Great Marsh holder vejret køligt om sommeren.\rDette er en god by til Pokémon-typen.</language>
 	</row>
 	<row id="narc_0123_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -67,27 +67,27 @@
 	</row>
 	<row id="narc_0123_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re just like a totally impatient\nboy I met earlier.\rJust like you, he was very close with\nhis Pokémon.\rHey, thanks for making me smile!\nThis might put a smile on your face.\rTry dressing up a Pokémon with\nthis {STRVAR_1 31, 0}.\r</language>
+		<language name="English">Du er ligesom en totalt utålmodig\ndreng, jeg mødte tidligere.\rLigesom dig, var han meget tæt på\nsin Pokémon.\rTak, fordi du fik mig til at smile!\nDette kan give dig et smil på læben.\rPrøv at pynte en Pokémon med\ndenne {STRVAR_1 31, 0}.\r</language>
 	</row>
 	<row id="narc_0123_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Someone gave me a Berry, so I\nplanted it and grew some more.\rThen, I took the Berries and cooked\nthem into Poffins.\rAll the work is worth it when I see\nhow happy they make my Pokémon!</language>
+		<language name="English">Nogen gav mig et bær, så jeg plantede det og dyrkede nogle flere.\rSå tog jeg bærrene og kogte\ndem til Poffins.\rAlt arbejdet er det værd, når jeg ser\n hvor glade de gør min Pokémon!</language>
 	</row>
 	<row id="narc_0123_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Someone in the Great Marsh offered\nme a Hidden Machine, but I declined.\rI don’t need it ’cause the Gym\nLeader will do Defog for us\fif we ever need it in this city.</language>
+		<language name="English">Nogen i Great Marsh tilbød mig en skjult maskine, men jeg afslog.\rJeg har ikke brug for den, fordi Gym-lederen vil lave Defog for os, hvis vi nogensinde får brug for den i denne by.</language>
 	</row>
 	<row id="narc_0123_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to the Pokémon\nMansion?\rThe owner, Mr. Backlot, likes to brag\nabout his rare Pokémon.</language>
+		<language name="English">Har du været i Pokémon\nMansion?\rEjeren, Mr. Backlot, kan godt lide at prale\n af sin sjældne Pokémon.</language>
 	</row>
 	<row id="narc_0123_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pastoria City\nThe Marsh City</language>
+		<language name="English">Pastoria City\nByen ved marsken</language>
 	</row>
 	<row id="narc_0123_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pastoria City Pokémon Gym\nLeader: Crasher Wake\fThe Torrential Masked Master!</language>
+		<language name="English">Pastoria City Pokémon Gym\nleder: Crasher Wake\fDen vandraske maskerede mester!</language>
 	</row>
 	<row id="narc_0123_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -95,6 +95,6 @@
 	</row>
 	<row id="narc_0123_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Try the Safari Game in\nPastoria’s Great Marsh!</language>
+		<language name="English">Prøv Safari-spillet i Pastoria's Great Marsh!</language>
 	</row>
 </body>

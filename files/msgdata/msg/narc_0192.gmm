@@ -10,7 +10,7 @@
 	</row>
 	<row id="narc_0192_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whiskers</language>
+		<language name="English">Knurhår</language>
 	</row>
 	<row id="narc_0192_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="narc_0192_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dots</language>
+		<language name="English">Prikker</language>
 	</row>
 	<row id="narc_0192_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="narc_0192_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Precious</language>
+		<language name="English">Kostbar</language>
 	</row>
 	<row id="narc_0192_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="narc_0192_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flick</language>
+		<language name="English">Svirp</language>
 	</row>
 	<row id="narc_0192_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="narc_0192_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dizzy</language>
+		<language name="English">Svimmel</language>
 	</row>
 	<row id="narc_0192_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="narc_0192_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sprout</language>
+		<language name="English">Spire</language>
 	</row>
 	<row id="narc_0192_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -90,7 +90,7 @@
 	</row>
 	<row id="narc_0192_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pit</language>
+		<language name="English">Grube</language>
 	</row>
 	<row id="narc_0192_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="narc_0192_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Merry</language>
+		<language name="English">Lystig</language>
 	</row>
 	<row id="narc_0192_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -106,7 +106,7 @@
 	</row>
 	<row id="narc_0192_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Weasy</language>
+		<language name="English">Svag</language>
 	</row>
 	<row id="narc_0192_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -122,7 +122,7 @@
 	</row>
 	<row id="narc_0192_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choppy</language>
+		<language name="English">Hakkende</language>
 	</row>
 	<row id="narc_0192_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -130,7 +130,7 @@
 	</row>
 	<row id="narc_0192_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rocky</language>
+		<language name="English">Stenet</language>
 	</row>
 	<row id="narc_0192_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -162,11 +162,11 @@
 	</row>
 	<row id="narc_0192_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chewy</language>
+		<language name="English">Tygge</language>
 	</row>
 	<row id="narc_0192_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Isaac</language>
+		<language name="English">Isak</language>
 	</row>
 	<row id="narc_0192_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="narc_0192_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pebbles</language>
+		<language name="English">Småsten</language>
 	</row>
 	<row id="narc_0192_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -198,11 +198,11 @@
 	</row>
 	<row id="narc_0192_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chase</language>
+		<language name="English">Jage</language>
 	</row>
 	<row id="narc_0192_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slappy</language>
+		<language name="English">Slapsk</language>
 	</row>
 	<row id="narc_0192_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
@@ -226,7 +226,7 @@
 	</row>
 	<row id="narc_0192_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stripe</language>
+		<language name="English">Stribe</language>
 	</row>
 	<row id="narc_0192_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -250,7 +250,7 @@
 	</row>
 	<row id="narc_0192_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stinky</language>
+		<language name="English">Stinkende</language>
 	</row>
 	<row id="narc_0192_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
@@ -262,7 +262,7 @@
 	</row>
 	<row id="narc_0192_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chad</language>
+		<language name="English">Tchad</language>
 	</row>
 	<row id="narc_0192_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -298,7 +298,7 @@
 	</row>
 	<row id="narc_0192_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Happy</language>
+		<language name="English">Lykkelig</language>
 	</row>
 	<row id="narc_0192_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
@@ -326,7 +326,7 @@
 	</row>
 	<row id="narc_0192_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frank</language>
+		<language name="English">Åben</language>
 	</row>
 	<row id="narc_0192_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -346,7 +346,7 @@
 	</row>
 	<row id="narc_0192_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flash</language>
+		<language name="English">Blitz</language>
 	</row>
 	<row id="narc_0192_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
@@ -354,7 +354,7 @@
 	</row>
 	<row id="narc_0192_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spooky</language>
+		<language name="English">Uhyggeligt</language>
 	</row>
 	<row id="narc_0192_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
@@ -378,7 +378,7 @@
 	</row>
 	<row id="narc_0192_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ebony</language>
+		<language name="English">Ibenholt</language>
 	</row>
 	<row id="narc_0192_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
@@ -386,7 +386,7 @@
 	</row>
 	<row id="narc_0192_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Malice</language>
+		<language name="English">Ondskab</language>
 	</row>
 	<row id="narc_0192_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
@@ -394,7 +394,7 @@
 	</row>
 	<row id="narc_0192_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ponder</language>
+		<language name="English">Overvej</language>
 	</row>
 	<row id="narc_0192_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
@@ -402,7 +402,7 @@
 	</row>
 	<row id="narc_0192_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buddy</language>
+		<language name="English">Ven</language>
 	</row>
 	<row id="narc_0192_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
@@ -442,7 +442,7 @@
 	</row>
 	<row id="narc_0192_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Midnight</language>
+		<language name="English">Midnat</language>
 	</row>
 	<row id="narc_0192_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
@@ -450,7 +450,7 @@
 	</row>
 	<row id="narc_0192_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweetie</language>
+		<language name="English">Skat</language>
 	</row>
 	<row id="narc_0192_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
@@ -466,7 +466,7 @@
 	</row>
 	<row id="narc_0192_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Honey</language>
+		<language name="English">Honning</language>
 	</row>
 	<row id="narc_0192_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
@@ -514,7 +514,7 @@
 	</row>
 	<row id="narc_0192_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speedy</language>
+		<language name="English">Hurtig</language>
 	</row>
 	<row id="narc_0192_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
@@ -522,7 +522,7 @@
 	</row>
 	<row id="narc_0192_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chimpy</language>
+		<language name="English">Chimpanse</language>
 	</row>
 	<row id="narc_0192_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
@@ -562,7 +562,7 @@
 	</row>
 	<row id="narc_0192_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Twigs</language>
+		<language name="English">Kviste</language>
 	</row>
 	<row id="narc_0192_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
@@ -570,7 +570,7 @@
 	</row>
 	<row id="narc_0192_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moppet</language>
+		<language name="English">Moppe</language>
 	</row>
 	<row id="narc_0192_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
@@ -594,7 +594,7 @@
 	</row>
 	<row id="narc_0192_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Noodle</language>
+		<language name="English">Nudel</language>
 	</row>
 	<row id="narc_0192_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
@@ -610,7 +610,7 @@
 	</row>
 	<row id="narc_0192_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jumpy</language>
+		<language name="English">Humlende</language>
 	</row>
 	<row id="narc_0192_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
@@ -618,7 +618,7 @@
 	</row>
 	<row id="narc_0192_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jolt</language>
+		<language name="English">stød</language>
 	</row>
 	<row id="narc_0192_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
@@ -634,11 +634,11 @@
 	</row>
 	<row id="narc_0192_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rusty</language>
+		<language name="English">Rusten</language>
 	</row>
 	<row id="narc_0192_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine</language>
+		<language name="English">Jasmin</language>
 	</row>
 	<row id="narc_0192_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
@@ -654,7 +654,7 @@
 	</row>
 	<row id="narc_0192_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raven</language>
+		<language name="English">Ravn</language>
 	</row>
 	<row id="narc_0192_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
@@ -662,7 +662,7 @@
 	</row>
 	<row id="narc_0192_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Marquis</language>
+		<language name="English">Markis</language>
 	</row>
 	<row id="narc_0192_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
@@ -674,7 +674,7 @@
 	</row>
 	<row id="narc_0192_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quackers</language>
+		<language name="English">Kvaksalvere</language>
 	</row>
 	<row id="narc_0192_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
@@ -682,7 +682,7 @@
 	</row>
 	<row id="narc_0192_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Juicy</language>
+		<language name="English">Saftig</language>
 	</row>
 	<row id="narc_0192_00171" index="171">
 		<attribute name="window_context_name">used</attribute>

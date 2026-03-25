@@ -1,27 +1,27 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0465_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...I saw it!\nToday’s number is {STRVAR_1 51, 0}!\rShow me a Pokémon that’s Lv. {STRVAR_1 51, 0}.\nIf you can, I’ll reward you.</language>
+		<language name="English">...Jeg så det!\nDagens nummer er {STRVAR_1 51, 0}!\rVis mig en Pokémon, der er Lv. {STRVAR_1 51, 0}.\nHvis du kan, belønner jeg dig.</language>
 	</row>
 	<row id="narc_0465_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...I saw it!\nToday’s number is {STRVAR_1 51, 0}!\rShow me a Pokémon that’s Lv. {STRVAR_1 51, 0}.\nIf you can, I’ll reward you.\r...Oh, now, hunh?!\rYour {STRVAR_1 0, 1} is Lv. {STRVAR_1 51, 0}.\nWell, I’ll be! How remarkable!\rI’ll thank you for that visual treat\nwith this {STRVAR_1 8, 2}.\r</language>
+		<language name="English">...Jeg så det!\nDagens nummer er {STRVAR_1 51, 0}!\rVis mig en Pokémon, der er Lv. {STRVAR_1 51, 0}.\nHvis du kan, belønner jeg dig.\r...Åh, nu, hva'?!\rDine {STRVAR_1 0, 1} er Lv. {STRVAR_1 51, 0}.\nNå, det bliver jeg! Hvor bemærkelsesværdigt!\rJeg vil takke dig for den visuelle godbid\nmed dette {STRVAR_1 8, 2}.\r</language>
 	</row>
 	<row id="narc_0465_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? You’ve no room in your Bag.\nI’ll hold it, so come back later.</language>
+		<language name="English">Åh? Du har ikke plads i din taske.\nJeg holder det, så kom tilbage senere.</language>
 	</row>
 	<row id="narc_0465_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll thank you for that visual treat\nwith this {STRVAR_1 8, 2}.\r</language>
+		<language name="English">Jeg vil takke dig for den visuelle godbid\nmed dette {STRVAR_1 8, 2}.\r</language>
 	</row>
 	<row id="narc_0465_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">High-level Pokémon were once of low\nlevel.\rLow-level Pokémon will not remain so,\nfor they can only grow.\rThat’s how it goes, youngster.\nCome again tomorrow.</language>
+		<language name="English">Pokémon på højt niveau var engang lavt\nniveau.\rPokémon på lavt niveau vil ikke forblive sådan,\nfor de kan kun vokse.\rSådan går det, unge.\nKom igen i morgen.</language>
 	</row>
 	<row id="narc_0465_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Win Items from Me!\rBlack Belt: Powers up Fighting-type\nmoves.\rExpert Belt: Powers up moves if they\nare super effective.\rFocus Sash: The bearer avoids\na one-hit KO if its HP is full.</language>
+		<language name="English">Vind varer fra mig!\rBlack Belt: Styrker Fighting-type\nbevæger sig.\rEkspertbælte: Styrker bevægelser, hvis de\ner super effektive.\rFokus Sash: Bæreren undgår\nen one-hit KO, hvis dens HP er fuld.</language>
 	</row>
 </body>

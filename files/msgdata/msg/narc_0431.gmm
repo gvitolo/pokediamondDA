@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0431_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lost Tower is where the spirits\nof departed Pokémon are put to rest.\rThose that enjoyed long lives...\nThose whose times were short...\rAll the departed Pokémon shall\nfind solace here...\rIt is good of you to have visited.\nHere, take this Hidden Machine.\r</language>
+		<language name="English">The Lost Tower er hvor ånderne\naf afdøde Pokémon sættes til hvile.\rDem, der nød et langt liv...\nDem, hvis tider var korte...\rAlle de forladte Pokémon skal\nfind trøst her...\rDet er godt af dig at have besøgt.\nHer, tag denne skjulte maskine.\r</language>
 	</row>
 	<row id="narc_0431_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To use that hidden move Strength...\r...I’ve forgotten where exactly, but\nyou must visit a Pokémon Gym.</language>
+		<language name="English">For at bruge det skjulte træk Styrke...\r...jeg har glemt hvor præcist, men\ndu skal besøge et Pokémon Gym.</language>
 	</row>
 	<row id="narc_0431_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Fantina...\nShe’s a hard one to get a read on...\rBut she is the compassionate sort.\nYou know, she’s a regular visitor.</language>
+		<language name="English">Den Fantina...\nHun er svær at få læst på...\rMen hun er den medfølende slags.\nDu ved, hun er en regelmæssig gæst.</language>
 	</row>
 	<row id="narc_0431_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me make your journey out of this\nplace less frightening. Take this.\r</language>
+		<language name="English">Lad mig gøre din rejse ud af dette\nsted mindre skræmmende. Tag dette.\r</language>
 	</row>
 	<row id="narc_0431_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Cleanse Tag... Let the first\nPokémon in your team hold it.\rIt will help keep wild Pokémon away\nso you can leave unhindered.</language>
+		<language name="English">Rensemærket... Lad det første\nPokémon i dit hold holder den.\rDet vil hjælpe med at holde vilde Pokémon væk\nså du kan tage afsted uhindret.</language>
 	</row>
 </body>

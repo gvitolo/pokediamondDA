@@ -1,39 +1,39 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0468_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I had a dream!\nIt was a wonderful dream!\rI dreamt that a Trainer would bring\nme a giant REMORAID!</language>
+		<language name="English">Jeg havde en drøm!\nDet var en vidunderlig drøm!\rJeg drømte, at en træner ville bringe\nmig en kæmpe REMORAID!</language>
 	</row>
 	<row id="narc_0468_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I had a dream!\nIt was a wonderful dream!\rI dreamt that a Trainer would bring\nme a giant REMORAID!\rOh, my gosh!\nThat dream was no dream!\rH-how big of a REMORAID did you\nbring me?!</language>
+		<language name="English">Jeg havde en drøm!\nDet var en vidunderlig drøm!\rJeg drømte, at en træner ville bringe\nmig en kæmpe REMORAID!\rÅh, gud!\nDen drøm var ingen drøm!\rH-hvor stor en REMORAID gjorde du\nbringe mig?!</language>
 	</row>
 	<row id="narc_0468_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 52, 0}.{STRVAR_1 50, 1} inches...\nThis REMORAID is {STRVAR_1 52, 0}.{STRVAR_1 50, 1} inches...\r...I think you did better than in\nmy dream!\rI’d like you to have this.\r</language>
+		<language name="English">{STRVAR_1 52, 0}.{STRVAR_1 50, 1} tommer...\nDenne REMORAID er {STRVAR_1 52, 0}.{STRVAR_1 50, 1} tommer...\r...jeg synes, du gjorde det bedre end i\nmin drøm!\rJeg vil gerne have, at du har dette.\r</language>
 	</row>
 	<row id="narc_0468_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you!\nI really enjoyed this.\rI think I’ll dream of an even bigger\nREMORAID tonight.</language>
+		<language name="English">Tak!\nJeg nød virkelig dette.\rJeg tror, ​​jeg vil drømme om en endnu større\nREMORAID i aften.</language>
 	</row>
 	<row id="narc_0468_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 52, 0}.{STRVAR_1 50, 1} inches...\nAm I experiencing deja vu?\fI distinctly remember this size...</language>
+		<language name="English">{STRVAR_1 52, 0}.{STRVAR_1 50, 1} tommer...\nOplever jeg déja vu?\fJeg husker tydeligt denne størrelse...</language>
 	</row>
 	<row id="narc_0468_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This REMORAID was {STRVAR_1 52, 0}.{STRVAR_1 50, 1} inches.\rI know a genius who brought me\na REMORAID that was {STRVAR_1 52, 2}.{STRVAR_1 50, 3} inches...</language>
+		<language name="English">Dette REMORAID var {STRVAR_1 52, 0}.{STRVAR_1 50, 1} tommer.\rJeg kender et geni, der bragte mig\net REMORAID det var {STRVAR_1 52, 2}.{STRVAR_1 50, 3} tommer...</language>
 	</row>
 	<row id="narc_0468_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wha...\nWhat do you think you’re showing me?\rDid you even listen to what I had\nto say?</language>
+		<language name="English">Hvad...\nHvad tror du, du viser mig?\rHørte du overhovedet til, hvad jeg havde\nat sige?</language>
 	</row>
 	<row id="narc_0468_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag’s jammed full...\nI can’t give you this...</language>
+		<language name="English">Din taske er propfyldt...\nJeg kan ikke give dig dette...</language>
 	</row>
 	<row id="narc_0468_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, what? Why would you deny me\nthe chance to measure your REMORAID?</language>
+		<language name="English">Åh, hvad? Hvorfor vil du nægte mig\nchancen for at måle din REMORAID?</language>
 	</row>
 </body>

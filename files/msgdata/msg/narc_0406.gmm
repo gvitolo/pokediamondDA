@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0406_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DIGITAL WATCH</language>
+		<language name="English">DIGITAL UR</language>
 	</row>
 	<row id="narc_0406_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CALCULATOR</language>
+		<language name="English">KALKULATOR</language>
 	</row>
 	<row id="narc_0406_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,63 +14,63 @@
 	</row>
 	<row id="narc_0406_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PEDOMETER</language>
+		<language name="English">SKRIDTÆLLER</language>
 	</row>
 	<row id="narc_0406_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON LIST</language>
+		<language name="English">POKéMAN LISTE</language>
 	</row>
 	<row id="narc_0406_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FRIENDSHIP CHECKER</language>
+		<language name="English">VENSKABSKJEKKER</language>
 	</row>
 	<row id="narc_0406_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOWSING MACHINE</language>
+		<language name="English">DOWSINGMASKINE</language>
 	</row>
 	<row id="narc_0406_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BERRY SEARCHER</language>
+		<language name="English">BÆRSØGER</language>
 	</row>
 	<row id="narc_0406_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DAY-CARE CHECKER</language>
+		<language name="English">DAGLEJEKONKER</language>
 	</row>
 	<row id="narc_0406_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON HISTORY</language>
+		<language name="English">POKéMAN HISTORIE</language>
 	</row>
 	<row id="narc_0406_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COUNTER</language>
+		<language name="English">TÆLLER</language>
 	</row>
 	<row id="narc_0406_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ANALOG WATCH</language>
+		<language name="English">ANALOG UR</language>
 	</row>
 	<row id="narc_0406_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MARKING MAP</language>
+		<language name="English">MÆRKNINGSKORT</language>
 	</row>
 	<row id="narc_0406_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LINK SEARCHER</language>
+		<language name="English">LINKSØGER</language>
 	</row>
 	<row id="narc_0406_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COIN TOSS</language>
+		<language name="English">MØNTKAST</language>
 	</row>
 	<row id="narc_0406_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE TESTER</language>
+		<language name="English">FLYTTESTER</language>
 	</row>
 	<row id="narc_0406_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CALENDAR</language>
+		<language name="English">KALENDER</language>
 	</row>
 	<row id="narc_0406_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOT ARTIST</language>
+		<language name="English">DOT KUNSTNER</language>
 	</row>
 	<row id="narc_0406_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -78,15 +78,15 @@
 	</row>
 	<row id="narc_0406_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAINER COUNTER</language>
+		<language name="English">TRÆNERTÆLLER</language>
 	</row>
 	<row id="narc_0406_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KITCHEN TIMER</language>
+		<language name="English">KØKKENTIMER</language>
 	</row>
 	<row id="narc_0406_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COLOR CHANGER</language>
+		<language name="English">FARVESKIFTER</language>
 	</row>
 	<row id="narc_0406_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,10 +94,10 @@
 	</row>
 	<row id="narc_0406_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STOPWATCH</language>
+		<language name="English">STOPUR</language>
 	</row>
 	<row id="narc_0406_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ALARM CLOCK</language>
+		<language name="English">VÆKKEUR</language>
 	</row>
 </body>

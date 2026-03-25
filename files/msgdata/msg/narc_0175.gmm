@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="narc_0175_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Hold it!\nDon’t go off without me!\rYou’re challenging the Pokémon\nLeague, aren’t you?\rThat’s why I’m here, too.\rLet’s see who’s more worthy of making\nthe challenge with a battle!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Hold da op!\nLad være med at tage afsted uden mig!\rDu udfordrer Pokémon\nLeague, ikke?\rDet er derfor, jeg også er her.\rLad os se, hvem der er mere værdig til at klare\nudfordringen med en kamp!\r</language>
 	</row>
 	<row id="narc_0175_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: I guess I’m not ready\nfor the Pokémon League if I’m losing\fto you!\rDarn it!\nYou watch, though!\rI’ll get tougher and win my way\nthrough the Pokémon League!\rBecause I’m going to become the\nChampion, the toughest Trainer!\r{STRVAR_1 3, 1}! You’d better not\nlose to anyone before me!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Jeg er vist ikke klar\n til Pokémon League, hvis jeg taber\f til dig!\rFor helvede!\nSe dog med!\rJeg bliver hårdere og vinder mig gennem Pokémon League!\rFordi jeg bliver den\rfåreste\rmester, den!\rTræner! Du må hellere ikke tabe til nogen før mig!\r</language>
 	</row>
 	<row id="narc_0175_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me confirm that you are qualified\nto challenge the Pokémon League.\rSo! Let us examine the Gym Badges\nyou gathered from Sinnoh.\rOreburgh City’s Coal Badge!\rEterna City’s Forest Badge!\rVeilstone City’s Cobble Badge!\rPastoria City’s Fen Badge!\rHearthome City’s Relic Badge!\rCanalave City’s Mine Badge!\rSnowpoint City’s Icicle Badge!\rAnd...\nSunyshore City’s Beacon Badge!\r</language>
+		<language name="English">Lad mig bekræfte, at du er kvalificeret\n til at udfordre Pokémon League.\rSå! Lad os undersøge de Gym Badges\ndu har samlet fra Sinnoh.\rOreburgh City's Coal Badge!\rEterna City's Forest Badge!\rVeilstone City's Cobble Badge!\rPastoria City's Fen Badge!\rHearthome City's Relic Badge!\rCanalaveSpoint! Icicle Badge!\rOg...\nSunyshore City's Beacon Badge!\r</language>
 	</row>
 	<row id="narc_0175_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Very well!\rTrainer, you’ve indeed collected\nall the Gym Badges of Sinnoh!\rDemonstrate the power that brought\nyou here and go for glory!</language>
+		<language name="English">Meget godt!\rTræner, du har virkelig samlet\nalle Sinnohs Gym Badges!\rDemonstrer den kraft, der bragte\n dig hertil, og gå efter ære!</language>
 	</row>
 	<row id="narc_0175_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You will be facing the Elite Four\nof the Pokémon League.\rIf you can’t beat all four of them\nin a row, you have to start from\fthe first one again.</language>
+		<language name="English">Du skal møde Elite Four\ni Pokémon League.\rHvis du ikke kan slå dem alle fire i træk, skal du starte fra\fden første igen.</language>
 	</row>
 	<row id="narc_0175_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon are so calm even though\nthey’re going up against the Elite\fFour.\rI like how they’re so loose and\nrelaxed.</language>
+		<language name="English">Dine Pokémon er så rolige, selvom\nde skal op mod Elite\fFour.\rJeg kan godt lide, hvordan de er så løse og\nafslappede.</language>
 	</row>
 </body>

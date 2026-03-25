@@ -10,15 +10,15 @@
 	</row>
 	<row id="narc_0350_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FERTILIZE</language>
+		<language name="English">BEFRUGTE</language>
 	</row>
 	<row id="narc_0350_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PLANT BERRY</language>
+		<language name="English">PLANTE BÆR</language>
 	</row>
 	<row id="narc_0350_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0350_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,11 +26,11 @@
 	</row>
 	<row id="narc_0350_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0350_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0350_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,11 +38,11 @@
 	</row>
 	<row id="narc_0350_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0350_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0350_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -74,11 +74,11 @@
 	</row>
 	<row id="narc_0350_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0350_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0350_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -90,11 +90,11 @@
 	</row>
 	<row id="narc_0350_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0350_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0350_00024" index="24">
 		<attribute name="window_context_name">used</attribute>

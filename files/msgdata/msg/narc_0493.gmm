@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0493_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 1}Pokémon Diamond{COLOR 0}</language>
+		<language name="English">{COLOR 1}Pokémon diamant{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="narc_0493_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Director{COLOR 0}</language>
+		<language name="English">{COLOR 2}Direktør{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="narc_0493_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Battle Director{COLOR 0}</language>
+		<language name="English">{COLOR 2}Kampdirektør{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="narc_0493_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Program Leader{COLOR 0}</language>
+		<language name="English">{COLOR 2}Programleder{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="narc_0493_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Battle System Programmer{COLOR 0}</language>
+		<language name="English">{COLOR 2}Kampsystemprogrammør{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="narc_0493_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Field System Programmer{COLOR 0}</language>
+		<language name="English">{COLOR 2}Feltsystem programmør{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0493_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Communication System Programmer{COLOR 0}</language>
+		<language name="English">{COLOR 2}Programmering af kommunikationssystem{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="narc_0493_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Programmers{COLOR 0}</language>
+		<language name="English">{COLOR 2}Programmører{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -122,7 +122,7 @@
 	</row>
 	<row id="narc_0493_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Graphic Leader{COLOR 0}</language>
+		<language name="English">{COLOR 2}Grafisk leder{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -130,7 +130,7 @@
 	</row>
 	<row id="narc_0493_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Pokémon Designers{COLOR 0}</language>
+		<language name="English">{COLOR 2}Pokémon designere{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -138,7 +138,7 @@
 	</row>
 	<row id="narc_0493_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}{CURSOR_X 58}Graphic Designers{COLOR 0}</language>
+		<language name="English">{COLOR 2}{CURSOR_X 58}Grafiske designere{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -190,7 +190,7 @@
 	</row>
 	<row id="narc_0493_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Pokémon Designer{COLOR 0}</language>
+		<language name="English">{COLOR 2}Pokémon designer{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -198,7 +198,7 @@
 	</row>
 	<row id="narc_0493_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Graphic Designer{COLOR 0}</language>
+		<language name="English">{COLOR 2}Grafisk designer{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -206,15 +206,15 @@
 	</row>
 	<row id="narc_0493_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Music Leader{COLOR 0}</language>
+		<language name="English">{COLOR 2}Musikleder{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">    Go Ichinose</language>
+		<language name="English">    Gå Ichinose</language>
 	</row>
 	<row id="narc_0493_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Music Composition{COLOR 0}</language>
+		<language name="English">{COLOR 2}Musik komposition{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -226,7 +226,7 @@
 	</row>
 	<row id="narc_0493_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Sound Effects{COLOR 0}</language>
+		<language name="English">{COLOR 2}Lydeffekter{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -234,11 +234,11 @@
 	</row>
 	<row id="narc_0493_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Pokémon Voices{COLOR 0}</language>
+		<language name="English">{COLOR 2}Pokémon-stemmer{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">    Go Ichinose</language>
+		<language name="English">    Gå Ichinose</language>
 	</row>
 	<row id="narc_0493_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
@@ -250,7 +250,7 @@
 	</row>
 	<row id="narc_0493_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Game Designers{COLOR 0}</language>
+		<language name="English">{COLOR 2}Spildesignere{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
@@ -314,7 +314,7 @@
 	</row>
 	<row id="narc_0493_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Game Scenario{COLOR 0}</language>
+		<language name="English">{COLOR 2}Spilscenarie{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
@@ -334,7 +334,7 @@
 	</row>
 	<row id="narc_0493_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Map Designers{COLOR 0}</language>
+		<language name="English">{COLOR 2}Kortdesignere{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
@@ -366,7 +366,7 @@
 	</row>
 	<row id="narc_0493_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Pokédex Text{COLOR 0}</language>
+		<language name="English">{COLOR 2}Pokédex tekst{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
@@ -374,7 +374,7 @@
 	</row>
 	<row id="narc_0493_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Parametric Designers{COLOR 0}</language>
+		<language name="English">{COLOR 2}Parametriske designere{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
@@ -430,7 +430,7 @@
 	</row>
 	<row id="narc_0493_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Script Designers{COLOR 0}</language>
+		<language name="English">{COLOR 2}Script designere{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
@@ -450,7 +450,7 @@
 	</row>
 	<row id="narc_0493_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Environment &amp; Tool Programmers{COLOR 0}</language>
+		<language name="English">{COLOR 2}Miljø- og værktøjsprogrammører{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
@@ -474,11 +474,11 @@
 	</row>
 	<row id="narc_0493_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Nintendo Wi-Fi Connection{COLOR 0}</language>
+		<language name="English">{COLOR 2}Nintendo Wi-Fi-forbindelse{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">  {COLOR 2}Server System Director{COLOR 0}</language>
+		<language name="English">  {COLOR 2}Server systemdirektør{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
@@ -486,7 +486,7 @@
 	</row>
 	<row id="narc_0493_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">  {COLOR 2}Server System Programmers{COLOR 0}</language>
+		<language name="English">  {COLOR 2}Serversystemprogrammører{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
@@ -502,7 +502,7 @@
 	</row>
 	<row id="narc_0493_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">  {COLOR 2}Program Support{COLOR 0}</language>
+		<language name="English">  {COLOR 2}Program support{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
@@ -510,7 +510,7 @@
 	</row>
 	<row id="narc_0493_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}NCL Product Testing{COLOR 0}</language>
+		<language name="English">{COLOR 2}NCL produkttest{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
@@ -522,7 +522,7 @@
 	</row>
 	<row id="narc_0493_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Special Thanks{COLOR 0}</language>
+		<language name="English">{COLOR 2}Særlig tak{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
@@ -638,7 +638,7 @@
 	</row>
 	<row id="narc_0493_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Information Supervisors{COLOR 0}</language>
+		<language name="English">{COLOR 2}Informationsvejledere{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
@@ -654,7 +654,7 @@
 	</row>
 	<row id="narc_0493_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Artwork{COLOR 0}</language>
+		<language name="English">{COLOR 2}Kunstværk{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
@@ -670,7 +670,7 @@
 	</row>
 	<row id="narc_0493_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Coordinators{COLOR 0}</language>
+		<language name="English">{COLOR 2}Koordinatorer{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
@@ -686,7 +686,7 @@
 	</row>
 	<row id="narc_0493_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}English Version Coordinators{COLOR 0}</language>
+		<language name="English">{COLOR 2}Engelsk version koordinatorer{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
@@ -698,7 +698,7 @@
 	</row>
 	<row id="narc_0493_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}English Version Assistant Coordinator{COLOR 0}</language>
+		<language name="English">{COLOR 2}Engelsk version Assistant Coordinator{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
@@ -706,7 +706,7 @@
 	</row>
 	<row id="narc_0493_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Translator{COLOR 0}</language>
+		<language name="English">{COLOR 2}Oversætter{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
@@ -714,7 +714,7 @@
 	</row>
 	<row id="narc_0493_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Text Editors{COLOR 0}</language>
+		<language name="English">{COLOR 2}Tekstredaktører{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
@@ -726,7 +726,7 @@
 	</row>
 	<row id="narc_0493_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}NOA Product Testing{COLOR 0}</language>
+		<language name="English">{COLOR 2}NOA produkttest{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
@@ -746,7 +746,7 @@
 	</row>
 	<row id="narc_0493_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}NOA Special Thanks{COLOR 0}</language>
+		<language name="English">{COLOR 2}NOA Særlig tak{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
@@ -770,7 +770,7 @@
 	</row>
 	<row id="narc_0493_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Localization{COLOR 0}</language>
+		<language name="English">{COLOR 2}Lokalisering{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
@@ -826,7 +826,7 @@
 	</row>
 	<row id="narc_0493_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}Producers{COLOR 0}</language>
+		<language name="English">{COLOR 2}Producenter{COLOR 0}</language>
 	</row>
 	<row id="narc_0493_00207" index="207">
 		<attribute name="window_context_name">used</attribute>

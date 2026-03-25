@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="narc_0156_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...All right, challenger.\rIt’s not often, but some Trainers\nmanage to come and challenge me.\rBut they’ve all been boring battles.\nI didn’t break a sweat beating them.\r...Sigh...\nI’m Volkner, the Gym Leader.\rThey say I’m the top Gym Leader in\nSinnoh, but...\rAnyway, I guess we’d better get this\ndone.\rI hope you’re the Trainer who’ll make\nme remember how fun it is to battle!\r</language>
+		<language name="English">...Okay, udfordrer.\rDet er ikke tit, men nogle trænere\n formår at komme og udfordre mig.\rMen de har alle været kedelige kampe.\nJeg fik ikke sveden ved at slå dem.\r...Suk...\nJeg er Volkner, Gym-lederen.\rDe siger, at jeg er den bedste Gym-leder, men\n, men\n vi må hellere få det gjort.\rJeg håber, du er træneren, der får mig til at huske, hvor sjovt det er at kæmpe!\r</language>
 	</row>
 	<row id="narc_0156_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Hehehe.\rHahahah!\r...That was the most fun I’ve had\nin a battle since...I don’t know when!\rIt’s also made me excited to know\nyou and your team will keep battling\fto greater heights!\rThis is your eighth Gym Badge.\nYou’ve earned this!\r</language>
+		<language name="English">...Hehehe.\rHahahah!\r...Det var det sjoveste, jeg har haft\ni en kamp siden...Jeg ved ikke hvornår!\rDet har også gjort mig begejstret at vide\ndu og dit hold vil blive ved med at kæmpe\ftil større højder!\rDette er dit ottende Gym Badge.\rDu har fortjent dette!</language>
 	</row>
 	<row id="narc_0156_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} received\nthe Beacon Badge from Volkner.</language>
+		<language name="English">{STRVAR_1 3, 0} modtog\nBeacon Badge fra Volkner.</language>
 	</row>
 	<row id="narc_0156_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Beacon Badge lets you use\nthe hidden move Waterfall even when\fyou’re not in a battle.\rWaterfall happens to be key if you’re\ngoing to the Pokémon League.\rAlso, because you’ve collected all\neight Badges, any Pokémon at any\flevel will now obey you without fail.\rI want you to take this, too.\r</language>
+		<language name="English">Det Beacon Badge lader dig bruge\ndet skjulte træk Waterfall, selv når\fdu ikke er i en kamp.\rWaterfall er tilfældigvis nøglen, hvis du\n skal til Pokémon League.\rOgså, fordi du har samlet alle\notte Badges, vil enhver Pokémon på ethvert\rniveau, du vil, nu undlade at adlyde dette niveau. også.\r</language>
 	</row>
 	<row id="narc_0156_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s inside that {STRVAR_1 8, 0}\nis the move {STRVAR_1 6, 1}.\rIt may raise Special Attack if it\nlands. It’s pretty hot.</language>
+		<language name="English">Hvad der er inde i det {STRVAR_1 8, 0}\ner træk {STRVAR_1 6, 1}.\rDet kan hæve Special Attack, hvis det lander. Det er ret varmt.</language>
 	</row>
 	<row id="narc_0156_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your next step is the Pokémon\nLeague challenge.\rIt’s time for you to cross the sea\nand win your way through the\fgauntlet that is Victory Road.\rDemonstrate to the Pokémon League\nyour mastery of your team.\rAgainst you, even the Elite Four will\nbe pushed to fend off your challenge!</language>
+		<language name="English">Dit næste skridt er Pokémon League-udfordringen.\rDet er på tide, at du krydser havet\nog vinder dig vej gennem den\fhanske, som er Victory Road.\rDemonstrer til Pokémon League\ndin beherskelse af dit hold.\rMod dig vil selv Elite Four blive skubbet ud for at afværge din udfordring!</language>
 	</row>
 </body>

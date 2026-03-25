@@ -1,47 +1,47 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0057_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m going to be a Sailor like my\ndaddy!\rHe’s a real man among men!\nEven the sea doesn’t scare him!\rOh, but a Gym Leader’d be cool, too!\nByron is so awesome!</language>
+		<language name="English">Jeg vil være en Sailor som min\nFar!\rHan er en rigtig mand blandt mænd!\nSelv havet skræmmer ham ikke!\rMen en Gym-leder ville også være sej!\nByron er så fantastisk!</language>
 	</row>
 	<row id="narc_0057_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The little boy is thrashing about\nin his sleep.\rHe appears to be in torment...\nHe is muttering something...\r“DAR...\nDARK...is watching...me...”</language>
+		<language name="English">Den lille dreng ævler om\ni søvne.\rHan ser ud til at lide...\nHan mumler noget...\r“DAR...\nDARK holder øje med mig ”...</language>
 	</row>
 	<row id="narc_0057_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The little boy is thrashing about\nin his sleep.\r{STRVAR_1 3, 0}’s Lunar Wing began\nto glow...\rThe boy’s sleeping face became\nuntroubled and serene!\r</language>
+		<language name="English">Den lille dreng thrassing om\nin hans søvn.\r{STRVAR_1 3, 0}ês Lunar Wing begyndte\nto glød...\rDen dreng, der sover ansigt blev\nuntroubled og rolige!\r</language>
 	</row>
 	<row id="narc_0057_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The little boy woke up!</language>
+		<language name="English">Den lille dreng vågnede!</language>
 	</row>
 	<row id="narc_0057_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I couldn’t wake up...\nI saw it...\rIt was a scary dream...\nIt was a dark place...\fAnd there was a dark Pokémon...\rBut, Daddy, Mommy...\nI could always hear your voices...</language>
+		<language name="English">Jeg kunne ikke vågne...\nJeg så det...\rDet var en skræmmende drøm...\nDet var et mørkt sted...\fOg der var en mørk Pokémon...\rMen far, mor...\nJeg kunne altid høre dine stemmer...</language>
 	</row>
 	<row id="narc_0057_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, my gosh!\nYou’re awake!\rOh, my son...\nI... I don’t know what to say...\r</language>
+		<language name="English">Du godeste!\nDu er vågen!\rMin søn...\nJeg ved ikke, hvad jeg skal sige.\r</language>
 	</row>
 	<row id="narc_0057_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you!\nWe’ll never forget you!\r</language>
+		<language name="English">Tak!\nVi glemmer dig aldrig!\r</language>
 	</row>
 	<row id="narc_0057_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seeing you back to normal makes\nme feel great!\rI’ve regained my spirit as a Sailor!\nCome sail with me later!\r</language>
+		<language name="English">At se dig tilbage til normal gør\nJeg har det godt!\rJeg har genvundet min ånd som sømand!\nKom med mig senere!\r</language>
 	</row>
 	<row id="narc_0057_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our boy has too much energy!\nI wish he’d be a little quieter.</language>
+		<language name="English">Vores dreng har for meget energi!\nBare han var lidt mere stille.</language>
 	</row>
 	<row id="narc_0057_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I never thought our boy would fall\ninto this endless nightmare...\rIt’s happened in the past in\nCanalave...\rThere were people who never woke\nup from their nightmares...</language>
+		<language name="English">Jeg troede ikke, vores dreng ville falde.\nind i dette endeløse mareridt...\rDet er sket i fortiden\nCanalave...\rDer var folk, der aldrig vågnede\nop fra deres mareridt...</language>
 	</row>
 	<row id="narc_0057_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you! We can’t thank you\nenough, but thank you!</language>
+		<language name="English">Tak! Vi kan ikke takke dig.\nNok, men tak!</language>
 	</row>
 </body>

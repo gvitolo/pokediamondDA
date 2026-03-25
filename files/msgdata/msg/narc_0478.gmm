@@ -1,79 +1,79 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0478_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your quest for power has brought\nyou here...\r...Very well.\rLet me reward your passion with some\nabsolutely astounding moves.\rThey’re the ultimate moves!\nShall I teach them to your Pokémon?</language>
+		<language name="English">Din søgen efter magt har bragt\ndig her...\r... Meget godt.\rLad mig belønne din passion med noget\nhelt forbløffende bevægelser.\rDe er de ultimative træk!\nSkal jeg lære dem til din Pokémon?</language>
 	</row>
 	<row id="narc_0478_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ultimate moves!\nShall I teach them to your Pokémon?</language>
+		<language name="English">De ultimative træk!\nSkal jeg lære dem til din Pokémon?</language>
 	</row>
 	<row id="narc_0478_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To which Pokémon should I teach\na move?\r</language>
+		<language name="English">Hvilken Pokémon skal jeg undervise i\net træk?\r</language>
 	</row>
 	<row id="narc_0478_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm... Well, that is fine, as well.\nVisit if you have a change of heart.</language>
+		<language name="English">Hmm... Nå, det er også fint.\nBesøg, hvis du har en forandring i hjertet.</language>
 	</row>
 	<row id="narc_0478_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To which Pokémon should I teach\na move?</language>
+		<language name="English">Hvilken Pokémon skal jeg undervise i\net træk?</language>
 	</row>
 	<row id="narc_0478_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Pokémon can’t learn a move!\nRead the poster! Keh!</language>
+		<language name="English">Den Pokémon kan ikke lære noget!\nLæs plakaten! Keh!</language>
 	</row>
 	<row id="narc_0478_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teach a move to an Egg?\nImpossible even for me! Keh!</language>
+		<language name="English">Lær et æg at flytte?\nUmuligt selv for mig! Keh!</language>
 	</row>
 	<row id="narc_0478_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve not bonded strongly enough\nwith your Pokémon! Keh!</language>
+		<language name="English">Du har ikke bundet stærkt nok\nmed din Pokémon! Keh!</language>
 	</row>
 	<row id="narc_0478_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Pokémon already knows the move\nI’ve offered to teach! Keh!</language>
+		<language name="English">Den Pokémon kender allerede bevægelsen\nJeg har tilbudt at undervise! Keh!</language>
 	</row>
 	<row id="narc_0478_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should teach Blast Burn to\nyour {STRVAR_1 0, 0}?</language>
+		<language name="English">Jeg burde lære Blast Burn at\ndine {STRVAR_1 0, 0}?</language>
 	</row>
 	<row id="narc_0478_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should teach Hydro Cannon to\nyour {STRVAR_1 0, 0}?</language>
+		<language name="English">Jeg burde lære Hydro Cannon at\ndine {STRVAR_1 0, 0}?</language>
 	</row>
 	<row id="narc_0478_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should teach Frenzy Plant to\nyour {STRVAR_1 0, 0}?</language>
+		<language name="English">Jeg burde lære Frenzy Plant at\ndine {STRVAR_1 0, 0}?</language>
 	</row>
 	<row id="narc_0478_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0} learned\n{STRVAR_1 6, 1}!</language>
+		<language name="English">{STRVAR_1 0, 0} lært\n{STRVAR_1 6, 1}!</language>
 	</row>
 	<row id="narc_0478_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0} is trying to learn\n{STRVAR_1 6, 1}.\rBut {STRVAR_1 0, 0} can’t learn more\nthan four moves.\rDelete an older move to make\nroom for {STRVAR_1 6, 1}?</language>
+		<language name="English">{STRVAR_1 0, 0} forsøger at lære\n{STRVAR_1 6, 1}.\rMen {STRVAR_1 0, 0} kan ikke lære mere\nend fire træk.\rSlet et ældre træk for at foretage\nplads til {STRVAR_1 6, 1}?</language>
 	</row>
 	<row id="narc_0478_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it OK to forget the\nmove {STRVAR_1 6, 1}?</language>
+		<language name="English">Er det OK at glemme\nflytte {STRVAR_1 6, 1}?</language>
 	</row>
 	<row id="narc_0478_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1, 2, and... ... ... Poof!\r{STRVAR_1 0, 0} forgot how to\nuse {STRVAR_1 6, 1}.\rAnd...\n{STRVAR_1 0, 0} learned {STRVAR_1 6, 2}.</language>
+		<language name="English">1, 2 og... ... ... Puff!\r{STRVAR_1 0, 0} glemt hvordan man\nbruge {STRVAR_1 6, 1}.\rOg...\n{STRVAR_1 0, 0} lært {STRVAR_1 6, 2}.</language>
 	</row>
 	<row id="narc_0478_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop trying to teach {STRVAR_1 6, 1}?</language>
+		<language name="English">Stop med at prøve at undervise {STRVAR_1 6, 1}?</language>
 	</row>
 	<row id="narc_0478_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0} did not learn\nthe move {STRVAR_1 6, 1}.</language>
+		<language name="English">{STRVAR_1 0, 0} lærte ikke\nflytningen {STRVAR_1 6, 1}.</language>
 	</row>
 	<row id="narc_0478_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To the Pokémon listed here,\nthe ultimate moves may be taught!\rThe blazing fire Pokémon\n{CURSOR_X 7}CHARIZARD TYPHLOSION\f{CURSOR_X 7}BLAZIKEN INFERNAPE\rThe restless water Pokémon\n{CURSOR_X 7}BLASTOISE FERALIGATR\f{CURSOR_X 7}SWAMPERT EMPOLEON\rThe quiet grass Pokémon\n{CURSOR_X 7}VENUSAUR MEGANIUM\f{CURSOR_X 7}SCEPTILE TORTERRA</language>
+		<language name="English">Til de Pokémon, der er opført her,\nde ultimative træk kan læres!\rDen brændende Pokémon\n{CURSOR_X 7}CHARIZARD TYFLOSION\f{CURSOR_X 7}BLAZIKEN INFERNAPE\rDen rastløse vand Pokémon\n{CURSOR_X 7}BLASTOISE FERALIGATR\f{CURSOR_X 7}SWAMPERT EMPOLEON\rDen stille græs-Pokémon\n{CURSOR_X 7}VENUSAUR MEGANIUM\f{CURSOR_X 7}SCEPTILE TORTERRA</language>
 	</row>
 </body>

@@ -1,49 +1,49 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0432_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The PSYDUCK are standing firm.\nThey aren’t inclined to move at all.</language>
+		<language name="English">PSYDUCK'erne står fast.\nDe er slet ikke tilbøjelige til at bevæge sig.</language>
 	</row>
 	<row id="narc_0432_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The PSYDUCK are standing firm.\nThey aren’t inclined to move.\rWould you like to use the SecretPotion?</language>
+		<language name="English">PSYDUCK'erne står fast.\nDe er ikke tilbøjelige til at bevæge sig.\rKunne du tænke dig at bruge SecretPotion?</language>
 	</row>
 	<row id="narc_0432_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} used the\nSecretPotion!\rThe PSYDUCK appear to be cured\nof their chronic headache!\r</language>
+		<language name="English">{STRVAR_1 3, 0} brugte\nSecretPotion!\rPSYDUCK ser ud til at være helbredt\naf deres kroniske hovedpine!\r</language>
 	</row>
 	<row id="narc_0432_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Oh, good. You used the\nSecretPotion I gave you.\rPSYDUCK are known to suffer from\nchronic headaches.\rBut no one’s been able to figure out\nwhat triggers the headaches.\rOh, yes! Can I ask you a big favor?\rI want you to deliver this Old Charm\nto my grandma in Celestic Town.\rI know there are some rare Pokémon\nbetween here and Celestic Town, so\fit will be worth your while to go.</language>
+		<language name="English">Cynthia: Åh, godt. Du brugte\nSecretPotion jeg gav dig.\rPSYDUCK er kendt for at lide af\nkronisk hovedpine.\rMen ingen har kunnet finde ud af det\nhvad der udløser hovedpinen.\rÅh, ja! Må jeg bede dig om en stor tjeneste?\rJeg vil have dig til at levere denne gamle charme\ntil min bedstemor i Celestic Town.\rJeg ved, at der er nogle sjældne Pokémons\nmellem her og Celestic Town, så\fdet vil være umagen værd at gå.</language>
 	</row>
 	<row id="narc_0432_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: My grandma has this sort of\nbossy atmosphere about her.\rI think you’ll recognize her right\naway.\rYes, I’m sure you will. She’s the\nelder of Celestic Town.\rAnd the location... Look on your Town\nMap. You can’t miss it.\rOK, I’m counting on you!\nSee you again down the road!\r</language>
+		<language name="English">Cynthia: Min bedstemor har den slags\nbossy atmosfære om hende.\rJeg tror du vil genkende hende rigtigt\nvæk.\rJa, det er jeg sikker på, du vil. Hun er den\nældste af Celestic Town.\rOg placeringen... Se på din by\nKort. Du kan ikke gå glip af det.\rOK, jeg regner med dig!\nVi ses igen nede ad vejen!\r</language>
 	</row>
 	<row id="narc_0432_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I know I’m asking a big favor\nof you.\rBut I really want you to do it.\nWill you go to Celestic Town for me?</language>
+		<language name="English">Jeg ved, at jeg beder om en stor tjeneste\naf dig.\rMen jeg vil virkelig gerne have, at du gør det.\nVil du tage til Celestic Town for mig?</language>
 	</row>
 	<row id="narc_0432_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0432_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m taking a rest. If I were a bird\nPokémon, it would be a roost. Haha!\rUh... You should rest up, too.\r</language>
+		<language name="English">Jeg holder et hvil. Hvis jeg var en fugl\nPokémon, det ville være en fest. Haha!\rØh... Du burde også hvile dig.\r</language>
 	</row>
 	<row id="narc_0432_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If they had to keep flying forever,\nbird Pokémon would eventually crash.</language>
+		<language name="English">Hvis de skulle blive ved med at flyve for evigt,\nfugle-Pokémon ville til sidst styrte ned.</language>
 	</row>
 	<row id="narc_0432_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So long as there’s a road, we’ll\nkeep on running...</language>
+		<language name="English">Så længe der er en vej, gør vi det\nbliv ved med at løbe...</language>
 	</row>
 	<row id="narc_0432_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cafe Cabin\nFreshly Squeezed Milk</language>
+		<language name="English">Cafehytte\nFriskpresset mælk</language>
 	</row>
 	<row id="narc_0432_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

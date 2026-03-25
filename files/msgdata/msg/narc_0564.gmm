@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0564_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="narc_0564_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The preceding program has\nbeen brought to you by Jubilife TV!</language>
+		<language name="English">Kommerciel: Det foregående program har\nblevet bragt til dig af Jubilife TV!</language>
 	</row>
 	<row id="narc_0564_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,11 +18,11 @@
 	</row>
 	<row id="narc_0564_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Where there is Pokétch,\nthere is joy.</language>
+		<language name="English">Reklame: Hvor der er Pokétch,\nder er glæde.</language>
 	</row>
 	<row id="narc_0564_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Add to your smiles!\nNew Pokétch apps are available now!\rDrop by the Pokétch Company\nin Jubilife City today!</language>
+		<language name="English">Kommerciel: Tilføj til dine smil!\nNye Pokétch-apps er tilgængelige nu!\rKig forbi Pokétch Company\ni Jubilife City i dag!</language>
 	</row>
 	<row id="narc_0564_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="narc_0564_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Third gear! Fourth gear!\nShift it up, down, all the way around!\rFor the latest in Bicycles, look up\nRad Rickshaw’s Cycle Shop!</language>
+		<language name="English">Reklame: Tredje gear! Fjerde gear!\nFlyt den op, ned, hele vejen rundt!\rFor det seneste inden for Cykler, slå op\nRad Rickshaws cykelbutik!</language>
 	</row>
 	<row id="narc_0564_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The pinnacle of beauty!\nOverflowing elegance!\rShockingly emotional!\nHearthome City Contests!</language>
+		<language name="English">Reklame: Skønhedens højdepunkt!\nOverfyldte elegance!\rChokerende følelsesladet!\nHearthome City-konkurrencer!</language>
 	</row>
 	<row id="narc_0564_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,15 +42,15 @@
 	</row>
 	<row id="narc_0564_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Visit the Veilstone\nDepartment Store.\rYou’re guaranteed to find smiles!</language>
+		<language name="English">Kommerciel: Besøg Veilstone\nStormagasin.\rDu finder med garanti smil!</language>
 	</row>
 	<row id="narc_0564_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Line up the slots,\nand rack up some Coins!\rVeilstone Game Corner.\nIs there a winner in you?</language>
+		<language name="English">Kommerciel: Stil pladserne op,\nog samle nogle mønter op!\rVeilstone Game Corner.\nEr der en vinder i dig?</language>
 	</row>
 	<row id="narc_0564_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Your Pokémon raised with\nlove at Solaceon’s Pokémon Day Care.</language>
+		<language name="English">Kommerciel: Din Pokémon er rejst med\nkærlighed hos Solaceons Pokémon Day Care.</language>
 	</row>
 	<row id="narc_0564_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0564_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Want to see some snow?\nVisit the snowbound Snowpoint City!</language>
+		<language name="English">Kommerciel: Vil du se noget sne?\nBesøg den snebundne Snowpoint City!</language>
 	</row>
 	<row id="narc_0564_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -70,15 +70,15 @@
 	</row>
 	<row id="narc_0564_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Link with the world\nand join new circles of friends!\rGTS--the Global Trade Station--awaits\nyou in Jubilife City.</language>
+		<language name="English">Kommerciel: Link til verden\nog slutte sig til nye vennekredse!\rGTS – Global Trade Station – venter\ndig i Jubilife City.</language>
 	</row>
 	<row id="narc_0564_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Pokémon! Pokémon!\nWe’re full of Pokémon at the Pal Park!</language>
+		<language name="English">Reklame: Pokémon! Pokémon!\nVi er fulde af Pokémon i Pal Park!</language>
 	</row>
 	<row id="narc_0564_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: High-speed ferry service\nto and from the Battle Zone!\rDeparting daily from Snowpoint\nCity!</language>
+		<language name="English">Kommerciel: Højhastighedsfærgeforbindelse\ntil og fra Battle Zone!\rAfgang dagligt fra Snowpoint\nBy!</language>
 	</row>
 	<row id="narc_0564_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -106,14 +106,14 @@
 	</row>
 	<row id="narc_0564_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: If what you seek is the\nbest in battling...\rThe Battle Tower--the greatest\nbattles you will ever experience.</language>
+		<language name="English">Kommerciel: Hvis det, du søger, er\nbedst til at kæmpe...\rBattle Tower - det største\nkampe, du nogensinde vil opleve.</language>
 	</row>
 	<row id="narc_0564_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Do you know the true\nface of the Battle Tower?\rThe doors are thrown open to\nthe world!\rEvery Trainer on the planet can\nbecome your opponent!\rHow will you fare against the world?</language>
+		<language name="English">Kommerciel: Kender du det sande\nslagtårnets ansigt?\rDørene bliver kastet op til\nverden!\rDet kan enhver træner på planeten\nbliv din modstander!\rHvordan vil du klare dig mod verden?</language>
 	</row>
 	<row id="narc_0564_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: To the seas beyond\nsurfing!\rHigh-speed ferry S.S. Sinnoh.\nBon voyage in safety!</language>
+		<language name="English">Kommerciel: Til havene hinsides\nsurfer!\rHøjhastighedsfærge S.S. Sinnoh.\nGod rejse i sikkerhed!</language>
 	</row>
 </body>

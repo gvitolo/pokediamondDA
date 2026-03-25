@@ -1,0 +1,1975 @@
+[
+null,
+{
+"en": "Bulbasaur",
+"de": "Bisasam"
+},
+{
+"en": "Ivysaur",
+"de": "Bisaknosp"
+},
+{
+"en": "Venusaur",
+"de": "Bisaflor"
+},
+{
+"en": "Charmander",
+"de": "Glumanda"
+},
+{
+"en": "Charmeleon",
+"de": "Glutexo"
+},
+{
+"en": "Charizard",
+"de": "Glurak"
+},
+{
+"en": "Squirtle",
+"de": "Schiggy"
+},
+{
+"en": "Wartortle",
+"de": "Schillok"
+},
+{
+"en": "Blastoise",
+"de": "Turtok"
+},
+{
+"en": "Caterpie",
+"de": "Raupy"
+},
+{
+"en": "Metapod",
+"de": "Safcon"
+},
+{
+"en": "Butterfree",
+"de": "Smettbo"
+},
+{
+"en": "Weedle",
+"de": "Hornliu"
+},
+{
+"en": "Kakuna",
+"de": "Kokuna"
+},
+{
+"en": "Beedrill",
+"de": "Bibor"
+},
+{
+"en": "Pidgey",
+"de": "Taubsi"
+},
+{
+"en": "Pidgeotto",
+"de": "Tauboga"
+},
+{
+"en": "Pidgeot",
+"de": "Tauboss"
+},
+{
+"en": "Rattata",
+"de": "Rattfratz"
+},
+{
+"en": "Raticate",
+"de": "Rattikarl"
+},
+{
+"en": "Spearow",
+"de": "Habitak"
+},
+{
+"en": "Fearow",
+"de": "Ibitak"
+},
+{
+"en": "Ekans",
+"de": "Rettan"
+},
+{
+"en": "Arbok",
+"de": "Arbok"
+},
+{
+"en": "Pikachu",
+"de": "Pikachu"
+},
+{
+"en": "Raichu",
+"de": "Raichu"
+},
+{
+"en": "Sandshrew",
+"de": "Sandan"
+},
+{
+"en": "Sandslash",
+"de": "Sandamer"
+},
+{
+"en": "Nidoran♀",
+"de": "Nidoran♀"
+},
+{
+"en": "Nidorina",
+"de": "Nidorina"
+},
+{
+"en": "Nidoqueen",
+"de": "Nidoqueen"
+},
+{
+"en": "Nidoran♂",
+"de": "Nidoran♂"
+},
+{
+"en": "Nidorino",
+"de": "Nidorino"
+},
+{
+"en": "Nidoking",
+"de": "Nidoking"
+},
+{
+"en": "Clefairy",
+"de": "Piepi"
+},
+{
+"en": "Clefable",
+"de": "Pixi"
+},
+{
+"en": "Vulpix",
+"de": "Vulpix"
+},
+{
+"en": "Ninetales",
+"de": "Vulnona"
+},
+{
+"en": "Jigglypuff",
+"de": "Pummeluff"
+},
+{
+"en": "Wigglytuff",
+"de": "Knuddeluff"
+},
+{
+"en": "Zubat",
+"de": "Zubat"
+},
+{
+"en": "Golbat",
+"de": "Golbat"
+},
+{
+"en": "Oddish",
+"de": "Myrapla"
+},
+{
+"en": "Gloom",
+"de": "Duflor"
+},
+{
+"en": "Vileplume",
+"de": "Giflor"
+},
+{
+"en": "Paras",
+"de": "Paras"
+},
+{
+"en": "Parasect",
+"de": "Parasek"
+},
+{
+"en": "Venonat",
+"de": "Bluzuk"
+},
+{
+"en": "Venomoth",
+"de": "Omot"
+},
+{
+"en": "Diglett",
+"de": "Digda"
+},
+{
+"en": "Dugtrio",
+"de": "Digdri"
+},
+{
+"en": "Meowth",
+"de": "Mauzi"
+},
+{
+"en": "Persian",
+"de": "Snobilikat"
+},
+{
+"en": "Psyduck",
+"de": "Enton"
+},
+{
+"en": "Golduck",
+"de": "Entoron"
+},
+{
+"en": "Mankey",
+"de": "Menki"
+},
+{
+"en": "Primeape",
+"de": "Rasaff"
+},
+{
+"en": "Growlithe",
+"de": "Fukano"
+},
+{
+"en": "Arcanine",
+"de": "Arkani"
+},
+{
+"en": "Poliwag",
+"de": "Quapsel"
+},
+{
+"en": "Poliwhirl",
+"de": "Quaputzi"
+},
+{
+"en": "Poliwrath",
+"de": "Quappo"
+},
+{
+"en": "Abra",
+"de": "Abra"
+},
+{
+"en": "Kadabra",
+"de": "Kadabra"
+},
+{
+"en": "Alakazam",
+"de": "Simsala"
+},
+{
+"en": "Machop",
+"de": "Machollo"
+},
+{
+"en": "Machoke",
+"de": "Maschock"
+},
+{
+"en": "Machamp",
+"de": "Machomei"
+},
+{
+"en": "Bellsprout",
+"de": "Knofensa"
+},
+{
+"en": "Weepinbell",
+"de": "Ultrigaria"
+},
+{
+"en": "Victreebel",
+"de": "Sarzenia"
+},
+{
+"en": "Tentacool",
+"de": "Tentacha"
+},
+{
+"en": "Tentacruel",
+"de": "Tentoxa"
+},
+{
+"en": "Geodude",
+"de": "Kleinstein"
+},
+{
+"en": "Graveler",
+"de": "Georok"
+},
+{
+"en": "Golem",
+"de": "Geowaz"
+},
+{
+"en": "Ponyta",
+"de": "Ponita"
+},
+{
+"en": "Rapidash",
+"de": "Gallopa"
+},
+{
+"en": "Slowpoke",
+"de": "Flegmon"
+},
+{
+"en": "Slowbro",
+"de": "Lahmus"
+},
+{
+"en": "Magnemite",
+"de": "Magnetilo"
+},
+{
+"en": "Magneton",
+"de": "Magneton"
+},
+{
+"en": "Farfetch’d",
+"de": "Porenta"
+},
+{
+"en": "Doduo",
+"de": "Dodu"
+},
+{
+"en": "Dodrio",
+"de": "Dodri"
+},
+{
+"en": "Seel",
+"de": "Jurob"
+},
+{
+"en": "Dewgong",
+"de": "Jugong"
+},
+{
+"en": "Grimer",
+"de": "Sleima"
+},
+{
+"en": "Muk",
+"de": "Sleimok"
+},
+{
+"en": "Shellder",
+"de": "Muschas"
+},
+{
+"en": "Cloyster",
+"de": "Austos"
+},
+{
+"en": "Gastly",
+"de": "Nebulak"
+},
+{
+"en": "Haunter",
+"de": "Alpollo"
+},
+{
+"en": "Gengar",
+"de": "Gengar"
+},
+{
+"en": "Onix",
+"de": "Onix"
+},
+{
+"en": "Drowzee",
+"de": "Traumato"
+},
+{
+"en": "Hypno",
+"de": "Hypno"
+},
+{
+"en": "Krabby",
+"de": "Krabby"
+},
+{
+"en": "Kingler",
+"de": "Kingler"
+},
+{
+"en": "Voltorb",
+"de": "Voltobal"
+},
+{
+"en": "Electrode",
+"de": "Lektrobal"
+},
+{
+"en": "Exeggcute",
+"de": "Owei"
+},
+{
+"en": "Exeggutor",
+"de": "Kokowei"
+},
+{
+"en": "Cubone",
+"de": "Tragosso"
+},
+{
+"en": "Marowak",
+"de": "Knogga"
+},
+{
+"en": "Hitmonlee",
+"de": "Kicklee"
+},
+{
+"en": "Hitmonchan",
+"de": "Nockchan"
+},
+{
+"en": "Lickitung",
+"de": "Schlurp"
+},
+{
+"en": "Koffing",
+"de": "Smogon"
+},
+{
+"en": "Weezing",
+"de": "Smogmog"
+},
+{
+"en": "Rhyhorn",
+"de": "Rihorn"
+},
+{
+"en": "Rhydon",
+"de": "Rizeros"
+},
+{
+"en": "Chansey",
+"de": "Chaneira"
+},
+{
+"en": "Tangela",
+"de": "Tangela"
+},
+{
+"en": "Kangaskhan",
+"de": "Kangama"
+},
+{
+"en": "Horsea",
+"de": "Seeper"
+},
+{
+"en": "Seadra",
+"de": "Seemon"
+},
+{
+"en": "Goldeen",
+"de": "Goldini"
+},
+{
+"en": "Seaking",
+"de": "Golking"
+},
+{
+"en": "Staryu",
+"de": "Sterndu"
+},
+{
+"en": "Starmie",
+"de": "Starmie"
+},
+{
+"en": "Mr. Mime",
+"de": "Pantimos"
+},
+{
+"en": "Scyther",
+"de": "Sichlor"
+},
+{
+"en": "Jynx",
+"de": "Rossana"
+},
+{
+"en": "Electabuzz",
+"de": "Elektek"
+},
+{
+"en": "Magmar",
+"de": "Magmar"
+},
+{
+"en": "Pinsir",
+"de": "Pinsir"
+},
+{
+"en": "Tauros",
+"de": "Tauros"
+},
+{
+"en": "Magikarp",
+"de": "Karpador"
+},
+{
+"en": "Gyarados",
+"de": "Garados"
+},
+{
+"en": "Lapras",
+"de": "Lapras"
+},
+{
+"en": "Ditto",
+"de": "Ditto"
+},
+{
+"en": "Eevee",
+"de": "Evoli"
+},
+{
+"en": "Vaporeon",
+"de": "Aquana"
+},
+{
+"en": "Jolteon",
+"de": "Blitza"
+},
+{
+"en": "Flareon",
+"de": "Flamara"
+},
+{
+"en": "Porygon",
+"de": "Porygon"
+},
+{
+"en": "Omanyte",
+"de": "Amonitas"
+},
+{
+"en": "Omastar",
+"de": "Amoroso"
+},
+{
+"en": "Kabuto",
+"de": "Kabuto"
+},
+{
+"en": "Kabutops",
+"de": "Kabutops"
+},
+{
+"en": "Aerodactyl",
+"de": "Aerodactyl"
+},
+{
+"en": "Snorlax",
+"de": "Relaxo"
+},
+{
+"en": "Articuno",
+"de": "Arktos"
+},
+{
+"en": "Zapdos",
+"de": "Zapdos"
+},
+{
+"en": "Moltres",
+"de": "Lavados"
+},
+{
+"en": "Dratini",
+"de": "Dratini"
+},
+{
+"en": "Dragonair",
+"de": "Dragonir"
+},
+{
+"en": "Dragonite",
+"de": "Dragoran"
+},
+{
+"en": "Mewtwo",
+"de": "Mewtu"
+},
+{
+"en": "Mew",
+"de": "Mew"
+},
+{
+"en": "Chikorita",
+"de": "Endivie"
+},
+{
+"en": "Bayleef",
+"de": "Lorblatt"
+},
+{
+"en": "Meganium",
+"de": "Meganie"
+},
+{
+"en": "Cyndaquil",
+"de": "Feurigel"
+},
+{
+"en": "Quilava",
+"de": "Igelavar"
+},
+{
+"en": "Typhlosion",
+"de": "Tornupto"
+},
+{
+"en": "Totodile",
+"de": "Karnimani"
+},
+{
+"en": "Croconaw",
+"de": "Tyracroc"
+},
+{
+"en": "Feraligatr",
+"de": "Impergator"
+},
+{
+"en": "Sentret",
+"de": "Wiesor"
+},
+{
+"en": "Furret",
+"de": "Wiesenior"
+},
+{
+"en": "Hoothoot",
+"de": "Hoothoot"
+},
+{
+"en": "Noctowl",
+"de": "Noctuh"
+},
+{
+"en": "Ledyba",
+"de": "Ledyba"
+},
+{
+"en": "Ledian",
+"de": "Ledian"
+},
+{
+"en": "Spinarak",
+"de": "Webarak"
+},
+{
+"en": "Ariados",
+"de": "Ariados"
+},
+{
+"en": "Crobat",
+"de": "Iksbat"
+},
+{
+"en": "Chinchou",
+"de": "Lampi"
+},
+{
+"en": "Lanturn",
+"de": "Lanturn"
+},
+{
+"en": "Pichu",
+"de": "Pichu"
+},
+{
+"en": "Cleffa",
+"de": "Pii"
+},
+{
+"en": "Igglybuff",
+"de": "Fluffeluff"
+},
+{
+"en": "Togepi",
+"de": "Togepi"
+},
+{
+"en": "Togetic",
+"de": "Togetic"
+},
+{
+"en": "Natu",
+"de": "Natu"
+},
+{
+"en": "Xatu",
+"de": "Xatu"
+},
+{
+"en": "Mareep",
+"de": "Voltilamm"
+},
+{
+"en": "Flaaffy",
+"de": "Waaty"
+},
+{
+"en": "Ampharos",
+"de": "Ampharos"
+},
+{
+"en": "Bellossom",
+"de": "Blubella"
+},
+{
+"en": "Marill",
+"de": "Marill"
+},
+{
+"en": "Azumarill",
+"de": "Azumarill"
+},
+{
+"en": "Sudowoodo",
+"de": "Mogelbaum"
+},
+{
+"en": "Politoed",
+"de": "Quaxo"
+},
+{
+"en": "Hoppip",
+"de": "Hoppspross"
+},
+{
+"en": "Skiploom",
+"de": "Hubelupf"
+},
+{
+"en": "Jumpluff",
+"de": "Papungha"
+},
+{
+"en": "Aipom",
+"de": "Griffel"
+},
+{
+"en": "Sunkern",
+"de": "Sonnkern"
+},
+{
+"en": "Sunflora",
+"de": "Sonnflora"
+},
+{
+"en": "Yanma",
+"de": "Yanma"
+},
+{
+"en": "Wooper",
+"de": "Felino"
+},
+{
+"en": "Quagsire",
+"de": "Morlord"
+},
+{
+"en": "Espeon",
+"de": "Psiana"
+},
+{
+"en": "Umbreon",
+"de": "Nachtara"
+},
+{
+"en": "Murkrow",
+"de": "Kramurx"
+},
+{
+"en": "Slowking",
+"de": "Laschoking"
+},
+{
+"en": "Misdreavus",
+"de": "Traunfugil"
+},
+{
+"en": "Unown",
+"de": "Icognito"
+},
+{
+"en": "Wobbuffet",
+"de": "Woingenau"
+},
+{
+"en": "Girafarig",
+"de": "Girafarig"
+},
+{
+"en": "Pineco",
+"de": "Tannza"
+},
+{
+"en": "Forretress",
+"de": "Forstellka"
+},
+{
+"en": "Dunsparce",
+"de": "Dummisel"
+},
+{
+"en": "Gligar",
+"de": "Skorgla"
+},
+{
+"en": "Steelix",
+"de": "Stahlos"
+},
+{
+"en": "Snubbull",
+"de": "Snubbull"
+},
+{
+"en": "Granbull",
+"de": "Granbull"
+},
+{
+"en": "Qwilfish",
+"de": "Baldorfish"
+},
+{
+"en": "Scizor",
+"de": "Scherox"
+},
+{
+"en": "Shuckle",
+"de": "Pottrott"
+},
+{
+"en": "Heracross",
+"de": "Skaraborn"
+},
+{
+"en": "Sneasel",
+"de": "Sniebel"
+},
+{
+"en": "Teddiursa",
+"de": "Teddiursa"
+},
+{
+"en": "Ursaring",
+"de": "Ursaring"
+},
+{
+"en": "Slugma",
+"de": "Schneckmag"
+},
+{
+"en": "Magcargo",
+"de": "Magcargo"
+},
+{
+"en": "Swinub",
+"de": "Quiekel"
+},
+{
+"en": "Piloswine",
+"de": "Keifel"
+},
+{
+"en": "Corsola",
+"de": "Corasonn"
+},
+{
+"en": "Remoraid",
+"de": "Remoraid"
+},
+{
+"en": "Octillery",
+"de": "Octillery"
+},
+{
+"en": "Delibird",
+"de": "Botogel"
+},
+{
+"en": "Mantine",
+"de": "Mantax"
+},
+{
+"en": "Skarmory",
+"de": "Panzaeron"
+},
+{
+"en": "Houndour",
+"de": "Hunduster"
+},
+{
+"en": "Houndoom",
+"de": "Hundemon"
+},
+{
+"en": "Kingdra",
+"de": "Seedraking"
+},
+{
+"en": "Phanpy",
+"de": "Phanpy"
+},
+{
+"en": "Donphan",
+"de": "Donphan"
+},
+{
+"en": "Porygon2",
+"de": "Porygon2"
+},
+{
+"en": "Stantler",
+"de": "Damhirplex"
+},
+{
+"en": "Smeargle",
+"de": "Farbeagle"
+},
+{
+"en": "Tyrogue",
+"de": "Rabauz"
+},
+{
+"en": "Hitmontop",
+"de": "Kapoera"
+},
+{
+"en": "Smoochum",
+"de": "Kussilla"
+},
+{
+"en": "Elekid",
+"de": "Elekid"
+},
+{
+"en": "Magby",
+"de": "Magby"
+},
+{
+"en": "Miltank",
+"de": "Miltank"
+},
+{
+"en": "Blissey",
+"de": "Heiteira"
+},
+{
+"en": "Raikou",
+"de": "Raikou"
+},
+{
+"en": "Entei",
+"de": "Entei"
+},
+{
+"en": "Suicune",
+"de": "Suicune"
+},
+{
+"en": "Larvitar",
+"de": "Larvitar"
+},
+{
+"en": "Pupitar",
+"de": "Pupitar"
+},
+{
+"en": "Tyranitar",
+"de": "Despotar"
+},
+{
+"en": "Lugia",
+"de": "Lugia"
+},
+{
+"en": "Ho-Oh",
+"de": "Ho-Oh"
+},
+{
+"en": "Celebi",
+"de": "Celebi"
+},
+{
+"en": "Treecko",
+"de": "Geckarbor"
+},
+{
+"en": "Grovyle",
+"de": "Reptain"
+},
+{
+"en": "Sceptile",
+"de": "Gewaldro"
+},
+{
+"en": "Torchic",
+"de": "Flemmli"
+},
+{
+"en": "Combusken",
+"de": "Jungglut"
+},
+{
+"en": "Blaziken",
+"de": "Lohgock"
+},
+{
+"en": "Mudkip",
+"de": "Hydropi"
+},
+{
+"en": "Marshtomp",
+"de": "Moorabbel"
+},
+{
+"en": "Swampert",
+"de": "Sumpex"
+},
+{
+"en": "Poochyena",
+"de": "Fiffyen"
+},
+{
+"en": "Mightyena",
+"de": "Magnayen"
+},
+{
+"en": "Zigzagoon",
+"de": "Zigzachs"
+},
+{
+"en": "Linoone",
+"de": "Geradaks"
+},
+{
+"en": "Wurmple",
+"de": "Waumpel"
+},
+{
+"en": "Silcoon",
+"de": "Schaloko"
+},
+{
+"en": "Beautifly",
+"de": "Papinella"
+},
+{
+"en": "Cascoon",
+"de": "Panekon"
+},
+{
+"en": "Dustox",
+"de": "Pudox"
+},
+{
+"en": "Lotad",
+"de": "Loturzel"
+},
+{
+"en": "Lombre",
+"de": "Lombrero"
+},
+{
+"en": "Ludicolo",
+"de": "Kappalores"
+},
+{
+"en": "Seedot",
+"de": "Samurzel"
+},
+{
+"en": "Nuzleaf",
+"de": "Blanas"
+},
+{
+"en": "Shiftry",
+"de": "Tengulist"
+},
+{
+"en": "Taillow",
+"de": "Schwalbini"
+},
+{
+"en": "Swellow",
+"de": "Schwalboss"
+},
+{
+"en": "Wingull",
+"de": "Wingull"
+},
+{
+"en": "Pelipper",
+"de": "Pelipper"
+},
+{
+"en": "Ralts",
+"de": "Trasla"
+},
+{
+"en": "Kirlia",
+"de": "Kirlia"
+},
+{
+"en": "Gardevoir",
+"de": "Guardevoir"
+},
+{
+"en": "Surskit",
+"de": "Gehweiher"
+},
+{
+"en": "Masquerain",
+"de": "Maskeregen"
+},
+{
+"en": "Shroomish",
+"de": "Knilz"
+},
+{
+"en": "Breloom",
+"de": "Kapilz"
+},
+{
+"en": "Slakoth",
+"de": "Bummelz"
+},
+{
+"en": "Vigoroth",
+"de": "Muntier"
+},
+{
+"en": "Slaking",
+"de": "Letarking"
+},
+{
+"en": "Nincada",
+"de": "Nincada"
+},
+{
+"en": "Ninjask",
+"de": "Ninjask"
+},
+{
+"en": "Shedinja",
+"de": "Ninjatom"
+},
+{
+"en": "Whismur",
+"de": "Flurmel"
+},
+{
+"en": "Loudred",
+"de": "Krakeelo"
+},
+{
+"en": "Exploud",
+"de": "Krawumms"
+},
+{
+"en": "Makuhita",
+"de": "Makuhita"
+},
+{
+"en": "Hariyama",
+"de": "Hariyama"
+},
+{
+"en": "Azurill",
+"de": "Azurill"
+},
+{
+"en": "Nosepass",
+"de": "Nasgnet"
+},
+{
+"en": "Skitty",
+"de": "Eneco"
+},
+{
+"en": "Delcatty",
+"de": "Enekoro"
+},
+{
+"en": "Sableye",
+"de": "Zobiris"
+},
+{
+"en": "Mawile",
+"de": "Flunkifer"
+},
+{
+"en": "Aron",
+"de": "Stollunior"
+},
+{
+"en": "Lairon",
+"de": "Stollrak"
+},
+{
+"en": "Aggron",
+"de": "Stolloss"
+},
+{
+"en": "Meditite",
+"de": "Meditie"
+},
+{
+"en": "Medicham",
+"de": "Meditalis"
+},
+{
+"en": "Electrike",
+"de": "Frizelbliz"
+},
+{
+"en": "Manectric",
+"de": "Voltenso"
+},
+{
+"en": "Plusle",
+"de": "Plusle"
+},
+{
+"en": "Minun",
+"de": "Minun"
+},
+{
+"en": "Volbeat",
+"de": "Volbeat"
+},
+{
+"en": "Illumise",
+"de": "Illumise"
+},
+{
+"en": "Roselia",
+"de": "Roselia"
+},
+{
+"en": "Gulpin",
+"de": "Schluppuck"
+},
+{
+"en": "Swalot",
+"de": "Schlukwech"
+},
+{
+"en": "Carvanha",
+"de": "Kanivanha"
+},
+{
+"en": "Sharpedo",
+"de": "Tohaido"
+},
+{
+"en": "Wailmer",
+"de": "Wailmer"
+},
+{
+"en": "Wailord",
+"de": "Wailord"
+},
+{
+"en": "Numel",
+"de": "Camaub"
+},
+{
+"en": "Camerupt",
+"de": "Camerupt"
+},
+{
+"en": "Torkoal",
+"de": "Qurtel"
+},
+{
+"en": "Spoink",
+"de": "Spoink"
+},
+{
+"en": "Grumpig",
+"de": "Groink"
+},
+{
+"en": "Spinda",
+"de": "Pandir"
+},
+{
+"en": "Trapinch",
+"de": "Knacklion"
+},
+{
+"en": "Vibrava",
+"de": "Vibrava"
+},
+{
+"en": "Flygon",
+"de": "Libelldra"
+},
+{
+"en": "Cacnea",
+"de": "Tuska"
+},
+{
+"en": "Cacturne",
+"de": "Noktuska"
+},
+{
+"en": "Swablu",
+"de": "Wablu"
+},
+{
+"en": "Altaria",
+"de": "Altaria"
+},
+{
+"en": "Zangoose",
+"de": "Sengo"
+},
+{
+"en": "Seviper",
+"de": "Vipitis"
+},
+{
+"en": "Lunatone",
+"de": "Lunastein"
+},
+{
+"en": "Solrock",
+"de": "Sonnfel"
+},
+{
+"en": "Barboach",
+"de": "Schmerbe"
+},
+{
+"en": "Whiscash",
+"de": "Welsar"
+},
+{
+"en": "Corphish",
+"de": "Krebscorps"
+},
+{
+"en": "Crawdaunt",
+"de": "Krebutack"
+},
+{
+"en": "Baltoy",
+"de": "Puppance"
+},
+{
+"en": "Claydol",
+"de": "Lepumentas"
+},
+{
+"en": "Lileep",
+"de": "Liliep"
+},
+{
+"en": "Cradily",
+"de": "Wielie"
+},
+{
+"en": "Anorith",
+"de": "Anorith"
+},
+{
+"en": "Armaldo",
+"de": "Armaldo"
+},
+{
+"en": "Feebas",
+"de": "Barschwa"
+},
+{
+"en": "Milotic",
+"de": "Milotic"
+},
+{
+"en": "Castform",
+"de": "Formeo"
+},
+{
+"en": "Kecleon",
+"de": "Kecleon"
+},
+{
+"en": "Shuppet",
+"de": "Shuppet"
+},
+{
+"en": "Banette",
+"de": "Banette"
+},
+{
+"en": "Duskull",
+"de": "Zwirrlicht"
+},
+{
+"en": "Dusclops",
+"de": "Zwirrklop"
+},
+{
+"en": "Tropius",
+"de": "Tropius"
+},
+{
+"en": "Chimecho",
+"de": "Palimpalim"
+},
+{
+"en": "Absol",
+"de": "Absol"
+},
+{
+"en": "Wynaut",
+"de": "Isso"
+},
+{
+"en": "Snorunt",
+"de": "Schneppke"
+},
+{
+"en": "Glalie",
+"de": "Firnontor"
+},
+{
+"en": "Spheal",
+"de": "Seemops"
+},
+{
+"en": "Sealeo",
+"de": "Seejong"
+},
+{
+"en": "Walrein",
+"de": "Walraisa"
+},
+{
+"en": "Clamperl",
+"de": "Perlu"
+},
+{
+"en": "Huntail",
+"de": "Aalabyss"
+},
+{
+"en": "Gorebyss",
+"de": "Saganabyss"
+},
+{
+"en": "Relicanth",
+"de": "Relicanth"
+},
+{
+"en": "Luvdisc",
+"de": "Liebiskus"
+},
+{
+"en": "Bagon",
+"de": "Kindwurm"
+},
+{
+"en": "Shelgon",
+"de": "Draschel"
+},
+{
+"en": "Salamence",
+"de": "Brutalanda"
+},
+{
+"en": "Beldum",
+"de": "Tanhel"
+},
+{
+"en": "Metang",
+"de": "Metang"
+},
+{
+"en": "Metagross",
+"de": "Metagross"
+},
+{
+"en": "Regirock",
+"de": "Regirock"
+},
+{
+"en": "Regice",
+"de": "Regice"
+},
+{
+"en": "Registeel",
+"de": "Registeel"
+},
+{
+"en": "Latias",
+"de": "Latias"
+},
+{
+"en": "Latios",
+"de": "Latios"
+},
+{
+"en": "Kyogre",
+"de": "Kyogre"
+},
+{
+"en": "Groudon",
+"de": "Groudon"
+},
+{
+"en": "Rayquaza",
+"de": "Rayquaza"
+},
+{
+"en": "Jirachi",
+"de": "Jirachi"
+},
+{
+"en": "Deoxys",
+"de": "Deoxys"
+},
+{
+"en": "Turtwig",
+"de": "Chelast"
+},
+{
+"en": "Grotle",
+"de": "Chelcarain"
+},
+{
+"en": "Torterra",
+"de": "Chelterrar"
+},
+{
+"en": "Chimchar",
+"de": "Panflam"
+},
+{
+"en": "Monferno",
+"de": "Panpyro"
+},
+{
+"en": "Infernape",
+"de": "Panferno"
+},
+{
+"en": "Piplup",
+"de": "Plinfa"
+},
+{
+"en": "Prinplup",
+"de": "Pliprin"
+},
+{
+"en": "Empoleon",
+"de": "Impoleon"
+},
+{
+"en": "Starly",
+"de": "Staralili"
+},
+{
+"en": "Staravia",
+"de": "Staravia"
+},
+{
+"en": "Staraptor",
+"de": "Staraptor"
+},
+{
+"en": "Bidoof",
+"de": "Bidiza"
+},
+{
+"en": "Bibarel",
+"de": "Bidifas"
+},
+{
+"en": "Kricketot",
+"de": "Zirpurze"
+},
+{
+"en": "Kricketune",
+"de": "Zirpeise"
+},
+{
+"en": "Shinx",
+"de": "Sheinux"
+},
+{
+"en": "Luxio",
+"de": "Luxio"
+},
+{
+"en": "Luxray",
+"de": "Luxtra"
+},
+{
+"en": "Budew",
+"de": "Knospi"
+},
+{
+"en": "Roserade",
+"de": "Roserade"
+},
+{
+"en": "Cranidos",
+"de": "Koknodon"
+},
+{
+"en": "Rampardos",
+"de": "Rameidon"
+},
+{
+"en": "Shieldon",
+"de": "Schilterus"
+},
+{
+"en": "Bastiodon",
+"de": "Bollterus"
+},
+{
+"en": "Burmy",
+"de": "Burmy"
+},
+{
+"en": "Wormadam",
+"de": "Burmadame"
+},
+{
+"en": "Mothim",
+"de": "Moterpel"
+},
+{
+"en": "Combee",
+"de": "Wadribie"
+},
+{
+"en": "Vespiquen",
+"de": "Honweisel"
+},
+{
+"en": "Pachirisu",
+"de": "Pachirisu"
+},
+{
+"en": "Buizel",
+"de": "Bamelin"
+},
+{
+"en": "Floatzel",
+"de": "Bojelin"
+},
+{
+"en": "Cherubi",
+"de": "Kikugi"
+},
+{
+"en": "Cherrim",
+"de": "Kinoso"
+},
+{
+"en": "Shellos",
+"de": "Schalellos"
+},
+{
+"en": "Gastrodon",
+"de": "Gastrodon"
+},
+{
+"en": "Ambipom",
+"de": "Ambidiffel"
+},
+{
+"en": "Drifloon",
+"de": "Driftlon"
+},
+{
+"en": "Drifblim",
+"de": "Drifzepeli"
+},
+{
+"en": "Buneary",
+"de": "Haspiror"
+},
+{
+"en": "Lopunny",
+"de": "Schlapor"
+},
+{
+"en": "Mismagius",
+"de": "Traunmagil"
+},
+{
+"en": "Honchkrow",
+"de": "Kramshef"
+},
+{
+"en": "Glameow",
+"de": "Charmian"
+},
+{
+"en": "Purugly",
+"de": "Shnurgarst"
+},
+{
+"en": "Chingling",
+"de": "Klingplim"
+},
+{
+"en": "Stunky",
+"de": "Skunkapuh"
+},
+{
+"en": "Skuntank",
+"de": "Skuntank"
+},
+{
+"en": "Bronzor",
+"de": "Bronzel"
+},
+{
+"en": "Bronzong",
+"de": "Bronzong"
+},
+{
+"en": "Bonsly",
+"de": "Mobai"
+},
+{
+"en": "Mime Jr.",
+"de": "Pantimimi"
+},
+{
+"en": "Happiny",
+"de": "Wonneira"
+},
+{
+"en": "Chatot",
+"de": "Plaudagei"
+},
+{
+"en": "Spiritomb",
+"de": "Kryppuk"
+},
+{
+"en": "Gible",
+"de": "Kaumalat"
+},
+{
+"en": "Gabite",
+"de": "Knarksel"
+},
+{
+"en": "Garchomp",
+"de": "Knakrack"
+},
+{
+"en": "Munchlax",
+"de": "Mampfaxo"
+},
+{
+"en": "Riolu",
+"de": "Riolu"
+},
+{
+"en": "Lucario",
+"de": "Lucario"
+},
+{
+"en": "Hippopotas",
+"de": "Hippopotas"
+},
+{
+"en": "Hippowdon",
+"de": "Hippoterus"
+},
+{
+"en": "Skorupi",
+"de": "Pionskora"
+},
+{
+"en": "Drapion",
+"de": "Piondragi"
+},
+{
+"en": "Croagunk",
+"de": "Glibunkel"
+},
+{
+"en": "Toxicroak",
+"de": "Toxiquak"
+},
+{
+"en": "Carnivine",
+"de": "Venuflibis"
+},
+{
+"en": "Finneon",
+"de": "Finneon"
+},
+{
+"en": "Lumineon",
+"de": "Lumineon"
+},
+{
+"en": "Mantyke",
+"de": "Mantirps"
+},
+{
+"en": "Snover",
+"de": "Shnebedeck"
+},
+{
+"en": "Abomasnow",
+"de": "Rexblisar"
+},
+{
+"en": "Weavile",
+"de": "Snibunna"
+},
+{
+"en": "Magnezone",
+"de": "Magnezone"
+},
+{
+"en": "Lickilicky",
+"de": "Schlurplek"
+},
+{
+"en": "Rhyperior",
+"de": "Rihornior"
+},
+{
+"en": "Tangrowth",
+"de": "Tangoloss"
+},
+{
+"en": "Electivire",
+"de": "Elevoltek"
+},
+{
+"en": "Magmortar",
+"de": "Magbrant"
+},
+{
+"en": "Togekiss",
+"de": "Togekiss"
+},
+{
+"en": "Yanmega",
+"de": "Yanmega"
+},
+{
+"en": "Leafeon",
+"de": "Folipurba"
+},
+{
+"en": "Glaceon",
+"de": "Glaziola"
+},
+{
+"en": "Gliscor",
+"de": "Skorgro"
+},
+{
+"en": "Mamoswine",
+"de": "Mamutel"
+},
+{
+"en": "Porygon-Z",
+"de": "Porygon-Z"
+},
+{
+"en": "Gallade",
+"de": "Galagladi"
+},
+{
+"en": "Probopass",
+"de": "Voluminas"
+},
+{
+"en": "Dusknoir",
+"de": "Zwirrfinst"
+},
+{
+"en": "Froslass",
+"de": "Frosdedje"
+},
+{
+"en": "Rotom",
+"de": "Rotom"
+},
+{
+"en": "Uxie",
+"de": "Selfe"
+},
+{
+"en": "Mesprit",
+"de": "Vesprit"
+},
+{
+"en": "Azelf",
+"de": "Tobutz"
+},
+{
+"en": "Dialga",
+"de": "Dialga"
+},
+{
+"en": "Palkia",
+"de": "Palkia"
+},
+{
+"en": "Heatran",
+"de": "Heatran"
+},
+{
+"en": "Regigigas",
+"de": "Regigigas"
+},
+{
+"en": "Giratina",
+"de": "Giratina"
+},
+{
+"en": "Cresselia",
+"de": "Cresselia"
+},
+{
+"en": "Phione",
+"de": "Phione"
+},
+{
+"en": "Manaphy",
+"de": "Manaphy"
+},
+{
+"en": "Darkrai",
+"de": "Darkrai"
+},
+{
+"en": "Shaymin",
+"de": "Shaymin"
+},
+{
+"en": "Arceus",
+"de": "Arceus"
+}
+]

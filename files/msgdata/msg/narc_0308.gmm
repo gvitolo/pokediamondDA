@@ -34,47 +34,47 @@
 	</row>
 	<row id="narc_0308_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TV7</language>
+		<language name="English">moms</language>
 	</row>
 	<row id="narc_0308_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TV8</language>
+		<language name="English">TV</language>
 	</row>
 	<row id="narc_0308_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clear player’s data</language>
+		<language name="English">Ryd spillerens data</language>
 	</row>
 	<row id="narc_0308_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clear another player’s data</language>
+		<language name="English">Ryd en anden spillers data</language>
 	</row>
 	<row id="narc_0308_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Confirm data</language>
+		<language name="English">Bekræft data</language>
 	</row>
 	<row id="narc_0308_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Questionnaire (player)</language>
+		<language name="English">Spørgeskema (spiller)</language>
 	</row>
 	<row id="narc_0308_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Observation (player)</language>
+		<language name="English">Observation (spiller)</language>
 	</row>
 	<row id="narc_0308_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Records (player)</language>
+		<language name="English">Records (spiller)</language>
 	</row>
 	<row id="narc_0308_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Questionnaire {STRVAR_1 50, 0} (another player)</language>
+		<language name="English">Spørgeskema {STRVAR_1 50, 0} (en anden spiller)</language>
 	</row>
 	<row id="narc_0308_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Observation {STRVAR_1 50, 0} (another player)</language>
+		<language name="English">Observation {STRVAR_1 50, 0} (en anden spiller)</language>
 	</row>
 	<row id="narc_0308_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Records {STRVAR_1 50, 0} (another player)</language>
+		<language name="English">Optager {STRVAR_1 50, 0} (en anden afspiller)</language>
 	</row>
 	<row id="narc_0308_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -82,10 +82,10 @@
 	</row>
 	<row id="narc_0308_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No data</language>
+		<language name="English">Ingen data</language>
 	</row>
 	<row id="narc_0308_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ID: {STRVAR_1 54, 0} {STRVAR_1 3, 1} Country: {STRVAR_1 51, 2}</language>
+		<language name="English">ID: {STRVAR_1 54, 0} {STRVAR_1 3, 1} Land: {STRVAR_1 51, 2}</language>
 	</row>
 </body>

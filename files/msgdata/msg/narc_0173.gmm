@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="narc_0173_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League\nThe Pinnacle of Trainerdom!</language>
+		<language name="English">Pokémon Ligaen\nTrænernes tinde!</language>
 	</row>
 	<row id="narc_0173_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League Ahead</language>
+		<language name="English">Pokémon League forude</language>
 	</row>
 	<row id="narc_0173_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Victory Road Ahead</language>
+		<language name="English">Sejrsvej forude</language>
 	</row>
 </body>

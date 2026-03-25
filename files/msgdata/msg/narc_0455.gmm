@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0455_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Feel free to take a power nap in\nthat bed.\rAs you can see, this lodge is beat\nup. Do what you like here.</language>
+		<language name="English">Tag gerne en powernap ind\nden seng.\rSom du kan se, er denne lodge beat\nop. Gør hvad du kan lide her.</language>
 	</row>
 	<row id="narc_0455_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t have Thick Fat like some\nPokémon, so I have to bundle up\fin clothes to keep warm.</language>
+		<language name="English">Jeg har ikke tykt fedt som nogle\nPokémon, så jeg er nødt til at samle mig\fi tøj for at holde varmen.</language>
 	</row>
 	<row id="narc_0455_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a bed...\nWant to take a rest?</language>
+		<language name="English">Det er en seng...\nVil du hvile?</language>
 	</row>
 	<row id="narc_0455_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} quickly fell asleep\nin the bed...\r</language>
+		<language name="English">{STRVAR_1 3, 0} faldt hurtigt i søvn\ni sengen...\r</language>
 	</row>
 	<row id="narc_0455_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} and the Pokémon\nbecame fully healed from the rest!</language>
+		<language name="English">{STRVAR_1 3, 0} og Pokémon\nblev fuldstændig helbredt fra resten!</language>
 	</row>
 </body>

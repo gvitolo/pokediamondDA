@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0088_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eh? Did you want something?\rHow silly of me to even ask.\nYou want to free the Pokémon.\fYeah, that’s gonna happen!\r</language>
+		<language name="English">Hvad? Ville du have noget?\rHvor dumt af mig at spørge.\nDu ønsker at frigøre Pokémon.\fJa, det kommer til at ske!\r</language>
 	</row>
 	<row id="narc_0088_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, aren’t you tough...?\rIt’s OK, though. Our official Pokémon-\nstatue investigation is finished.\rMars has collected energy from\nthe Valley Windworks.\rWe’re pretty much finished here.\nI’ll let you in on one little thing.\rOur boss is researching the myths\nof ancient Pokémon.\rWith the power of mythical Pokémon,\nhe will become the ruler of Sinnoh...\rI suggest you keep out of Team\nGalactic’s affairs from now on.\rThis is your last warning!\r</language>
+		<language name="English">Er du ikke sej?\rDet er okay. Vores officielle Pokémon -\nStateefterforskningen er afsluttet.\rMars har indsamlet energi fra\nThe Valley Windworks.\rVi er næsten færdige her.\nJeg vil lade dig ind på en lille ting.\rVores chef undersøger myterne.\naf gamle Pokémon.\rMed kraften af mytiske Pokémon,\nHan vil blive hersker over Sinnoh...\rJeg foreslår, at du holder dig ude af Team\nGalaktiske affærer fra nu af.\rDet er din sidste advarsel!\r</language>
 	</row>
 	<row id="narc_0088_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,11 +14,11 @@
 	</row>
 	<row id="narc_0088_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What is it with this Team Galactic?\rWhy did they take our Pokémon?\nWhat are they trying to accomplish?</language>
+		<language name="English">Hvad er der med det hold Galaktisk?\rHvorfor tog de vores Pokémon?\nHvad prøver de at opnå?</language>
 	</row>
 	<row id="narc_0088_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got my CLEFAIRY back, and it’s all\nthanks to you!\rBut that Team Galactic...\rThey said, “Clefairy came from\nspace. Hand it over!”\rTheir logic baffles me still.\nIt’s like they are from space!\rAnyway, they’re gone now.\nThank you very much!\rI can’t thank you enough right now,\nbut cruise by my Cycle Shop, OK?\r</language>
+		<language name="English">Jeg fik min CLEFAIRY tilbage, og det er alt\nTakket være dig!\rMen det hold galaktisk...\rDe sagde:\nplads. Giv mig den! “\rDeres logik forbløffer mig stadig.\nDet er, som om de er fra rummet!\rDe er væk nu.\nMange tak!\rJeg kan ikke takke dig nok lige nu,\nMen krydstogt ved min Cycle Shop, OK?\r</language>
 	</row>
 	<row id="narc_0088_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

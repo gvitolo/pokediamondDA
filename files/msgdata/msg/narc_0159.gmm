@@ -2,90 +2,90 @@
 <body language="English">
 	<row id="narc_0159_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Oh, hello.\nYou’re quite the nifty Trainer.\rMy husband is a Sailor, and he’s off\nworking somewhere far away.\rI long for the day he comes back\nto me.\rAll that waiting gets to be very\nboring every day, though...\rI know! How about you visit me and\ntell me stories every so often?</language>
+		<language name="English">Julia: Åh, hej.\nDu er en ret smart træner.\rMin mand er sømand, og han skal på arbejde et sted langt væk.\rJeg længes efter den dag, han kommer tilbage\ntil mig.\rAl den venten bliver meget\nkedelig hver dag, selvom...\rJeg ved det! Hvad med at du besøger mig og fortæller mig historier en gang imellem?</language>
 	</row>
 	<row id="narc_0159_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Starting tomorrow, please visit and\ntell me stories about your travels.</language>
+		<language name="English">Fra i morgen kan du besøge og fortæl mig historier om dine rejser.</language>
 	</row>
 	<row id="narc_0159_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Today is Monday!\rIt’s time to get going on a brand-new\nweek.\rIs there a story that might help\nme perk up?\rMaybe a story about getting splashed\nwith water...</language>
+		<language name="English">Julia: Det er mandag i dag!\rDet er tid til at komme i gang med en helt ny\nuge.\rEr der en historie, der kan hjælpe mig med at blive frisk?\rMåske en historie om at blive stænket\nmed vand...</language>
 	</row>
 	<row id="narc_0159_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 0} splashed with water...\n...\rThat sounds refreshing!\nIt’s made me feel awake!\r</language>
+		<language name="English">{STRVAR_1 28, 0} sprøjtet med vand...\n...\rDet lyder forfriskende!\nDet har fået mig til at føle mig vågen!\r</language>
 	</row>
 	<row id="narc_0159_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you!\nPlease give this to your Pokémon.\r</language>
+		<language name="English">Tak!\nGiv venligst dette til din Pokémon.\r</language>
 	</row>
 	<row id="narc_0159_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 2} received\nthe {STRVAR_1 39, 3}.\r</language>
+		<language name="English">{STRVAR_1 3, 2} modtog\n den {STRVAR_1 39, 3}.\r</language>
 	</row>
 	<row id="narc_0159_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 2} put\nthe {STRVAR_1 39, 3}\fon {STRVAR_1 0, 1}.\r</language>
+		<language name="English">{STRVAR_1 3, 2} sæt\n {STRVAR_1 39, 3}\fpå {STRVAR_1 0, 1}.\r</language>
 	</row>
 	<row id="narc_0159_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Please tell me another story\ntomorrow.</language>
+		<language name="English">Julia: Fortæl mig venligst en anden historie i morgen.</language>
 	</row>
 	<row id="narc_0159_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Hello!\rOh, this is the {STRVAR_1 0, 1} I gave\na Ribbon to before.\rI’ve got lots of Ribbons--you should\nbring other Pokémon.</language>
+		<language name="English">Julia: Hej!\rÅh, det er det {STRVAR_1 0, 1} jeg gav\net bånd til før.\rJeg har masser af bånd – du bør\n tage andre Pokémon med.</language>
 	</row>
 	<row id="narc_0159_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Oh...\nYou couldn’t think up anything?</language>
+		<language name="English">Julia: Åh...\nDu kunne ikke finde på noget?</language>
 	</row>
 	<row id="narc_0159_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Today is Tuesday!\rThe first date I went on with my\nhusband was on Tuesday, too.\rI remember my heart thumping like\nI was scared, and I guess I was.\rDo you know any story that would\nscare me like that?\rLike something that jumps out\nfrom hiding?</language>
+		<language name="English">Julia: I dag er det tirsdag!\rDen første date, jeg tog på med min\nmand, var også i tirsdags.\rJeg kan huske, at mit hjerte bankede, som\njeg var bange, og det var jeg vist.\rKender du nogen historie, der ville skræmme mig sådan?\rSom noget, der springer ud\nfra at gemme sig?</language>
 	</row>
 	<row id="narc_0159_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One mean {STRVAR_1 28, 0} that bursts\nout from a closet?\f...\rYikes!\nThat would be scary!\r</language>
+		<language name="English">Et middel {STRVAR_1 28, 0}, der bryder\nud fra et skab?\f...\rYikes!\nDet ville være skræmmende!\r</language>
 	</row>
 	<row id="narc_0159_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Sigh...\nI gained a little weight...\rThis dress that my husband bought\nfor me is too tight now...\rThis makes me feel sad...\rMisery does love company.\nSomething that would make me cry?</language>
+		<language name="English">Julia: Suk...\nJeg tog lidt på i vægt...\rDenne kjole, som min mand købte\n til mig, er for stram nu...\rDet gør mig trist...\rElendighed elsker selskab.\nNoget der ville få mig til at græde?</language>
 	</row>
 	<row id="narc_0159_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tearful {STRVAR_1 28, 0}...\n...\rSniffle... That is so sad...\nI feel desolate, even!\r</language>
+		<language name="English">En tårevædet {STRVAR_1 28, 0}...\n...\rSnifs... Det er så trist...\nJeg føler mig endda øde!\r</language>
 	</row>
 	<row id="narc_0159_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: It’s Thursday already?\nI lost track of time!\rMy favorite magazine comes out today.\nI’d better go buy it quick!\rDo you know a story about being\nabsentminded?\rLike getting your shoes backward?</language>
+		<language name="English">Julia: Det er allerede torsdag?\nJeg mistede overblikket over tiden!\rMit yndlingsmagasin udkommer i dag.\nJeg må hellere gå og købe det hurtigt!\rKender du en historie om at være\nfraværende?\rLigesom at få dine sko tilbage?</language>
 	</row>
 	<row id="narc_0159_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 28, 0} had shoes\non the wrong feet?\r...\nAhahaha! That is so silly!\rHow is it possible to be that\nabsentminded?\r</language>
+		<language name="English">Den {STRVAR_1 28, 0} havde sko\n på de forkerte fødder?\r...\nAhahaha! Det er så fjollet!\rHvordan er det muligt at være så fraværende?\r</language>
 	</row>
 	<row id="narc_0159_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Today is Friday!\rMy meager cooking repertoire is\nabout to run out!\rDo you know a story that would\nhelp me get my thoughts in order?\rLike a story about numbers adding\nup perfectly?</language>
+		<language name="English">Julia: Det er fredag ​​i dag!\rMit sparsomme madlavningsrepertoire er\n ved at løbe tør!\rKender du en historie, der ville\nhjælpe mig med at få styr på mine tanker?\rSom en historie om tal, der går perfekt sammen?</language>
 	</row>
 	<row id="narc_0159_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You went {STRVAR_1 28, 0}\nshopping and paid $777 including tax?\rThat is a nice number to ring up.\nIt just has a good look to it.\rIt’s sure helped me clear my head!\r</language>
+		<language name="English">Du gik {STRVAR_1 28, 0}\n på indkøb og betalte 777 USD inklusiv skat?\rDet er et godt tal at ringe op.\nDen ser bare godt ud.\rDet har helt sikkert hjulpet mig med at rense hovedet!\r</language>
 	</row>
 	<row id="narc_0159_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Yawn...\nToday’s Saturday...\fI’m feeling lazy and sleepy...\rI wish I had a pillow...\nBut what kind of a pillow?</language>
+		<language name="English">Julia: Gab...\nI dag lørdag...\fJeg føler mig doven og søvnig...\rJeg ville ønske, jeg havde en pude...\nMen hvilken slags pude?</language>
 	</row>
 	<row id="narc_0159_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 0} snuggle pillow...\n...\rIt... It surprisingly may give me\na good night’s sleep!\rI wonder if I can buy one somewhere.\r</language>
+		<language name="English">{STRVAR_1 28, 0} puttepude...\n...\rDen... Det kan overraskende nok give mig\n en god nats søvn!\rGad vide, om jeg kan købe en et sted.\r</language>
 	</row>
 	<row id="narc_0159_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Oh, hello! You’re on your\nadventure even though it’s Sunday!\rWhen I was younger, I remember that\nevery day was like an adventure.\rIt was always fun. I loved the people\naround me... I was happy.\rOh, but I’m happy now, too.\nI love my life with my husband.\fIt’s just a different kind of happy.\rSo, what makes you happy?</language>
+		<language name="English">Julia: Åh, hej! Du er på dit\neventyr, selvom det er søndag!\rDa jeg var yngre, kan jeg huske, at\nhver dag var som et eventyr.\rDet var altid sjovt. Jeg elskede folkene\nomkring mig... Jeg var glad.\rÅh, men jeg er også glad nu.\nJeg elsker mit liv med min mand.\fDet er bare en anden slags glad.\rSå, hvad gør dig glad?</language>
 	</row>
 	<row id="narc_0159_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You love {STRVAR_1 28, 0}?\n...\rUfufu... That says something about\nyou. It puts a smile on my face!\r</language>
+		<language name="English">Du elsker {STRVAR_1 28, 0}?\n...\rUfufu... Det siger noget om\n dig. Det giver mig et smil på læben!\r</language>
 	</row>
 </body>

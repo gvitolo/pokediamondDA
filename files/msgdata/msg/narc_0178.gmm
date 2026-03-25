@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="narc_0178_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, Trainer!\rYou had me counting the days on my\nfingers waiting for you to come.\rI heard from Volkner what you \ndid in Sunyshore.\rYou managed to light a fire in that\nguy’s heart again.\rHow could you not expect me to look\nforward to seeing you in battle?\r</language>
+		<language name="English">Yo, træner!\rDu fik mig til at tælle dagene på mine fingre og ventede på, at du skulle komme.\rJeg hørte fra Volkner, hvad du \n lavede i Sunyshore.\rDu nåede at tænde en ild i den\n fyrs hjerte igen.\rHvordan kunne du ikke forvente, at jeg skulle se\n frem til at se dig i kamp?</language>
 	</row>
 	<row id="narc_0178_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re facing a Fire-type Pokémon\nuser with me.\rLet Flint see how hot your spirit\nburns!\r</language>
+		<language name="English">Du står over for en Fire-type Pokémon-bruger med mig.\rLad Flint se, hvor varm din ånd\nbrænder!\r</language>
 	</row>
 	<row id="narc_0178_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\r...\n...\r...\n...\r...Whew...\n...Burnt right down to cinders...</language>
+		<language name="English">...\n...\r...\n...\r...\n...\r...Puu...\n...Brændt helt ned til aske...</language>
 	</row>
 	<row id="narc_0178_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\r...\n...\r...\n...\r...Keep going...</language>
+		<language name="English">...\n...\r...\n...\r...\n...\r...Fortsæt...</language>
 	</row>
 	<row id="narc_0178_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was waiting for you, challenger!\rFlint, the master of the Fire type,\nis up next!\rBattles are clashes of the burning\nspirit of Pokémon.\rBattles aren’t about appearances,\nor what’s weak or strong.\rIt all comes down to whether the\ncombatants can burn hot and bright\for not.\r</language>
+		<language name="English">Jeg ventede på dig, udfordrer!\rFlint, mester i Fire-typen,\ner den næste!\rKampe er sammenstød mellem Pokémons brændende\nånd.\rKampe handler ikke om udseende,\neller hvad der er svagt eller stærkt.\rDet hele handler om, om\rkan\rbrænde\r eller lyse.</language>
 	</row>
 	<row id="narc_0178_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\r...Whew...\n...Burnt right down to cinders...</language>
+		<language name="English">...\n...\r...Puuuu...\n...Brændt helt ned til aske...</language>
 	</row>
 	<row id="narc_0178_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\r...Keep going...\rI know your spirit burns hot and\nbright. Your whole team does.</language>
+		<language name="English">...\n...\r...Fortsæt...\rJeg ved, at din ånd brænder varm og\nklar. Det gør hele dit team.</language>
 	</row>
 </body>

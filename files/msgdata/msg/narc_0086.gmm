@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0086_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Galactic is working hard to find\nnew energy sources for the future!</language>
+		<language name="English">Team Galaktic arbejder hårdt på at finde\nnye energikilder for fremtiden!</language>
 	</row>
 	<row id="narc_0086_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are conducting research on new\nforms of energy!\rWe want to harness the mysterious\npower of Pokémon and use it as energy!</language>
+		<language name="English">Vi er i gang med at forske i nye\nEnergiformer!\rVi ønsker at udnytte den mystiske\nmagt Pokémon og bruge det som energi!</language>
 	</row>
 </body>

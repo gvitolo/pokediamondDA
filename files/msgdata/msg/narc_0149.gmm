@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="narc_0149_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A myth says that Mt. Coronet parted\nSinnoh into halves.\rSeeing the Pokémon SHELLOS makes me\nthink maybe the myth is real.</language>
+		<language name="English">En myte siger, at Mt. Coronet delte Sinnoh i halve.\rAt se Pokémon SHELLOS får mig til at tro, at myten måske er ægte.</language>
 	</row>
 	<row id="narc_0149_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If there are people who desire to\nsee them, Pokémon will appear in\fmany different guises.</language>
+		<language name="English">Hvis der er folk, der ønsker at se dem, vil Pokémon optræde i mange forskellige afskygninger.</language>
 	</row>
 	<row id="narc_0149_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUNEARY: Nii nii!</language>
+		<language name="English">BUNEAR: Nii nii!</language>
 	</row>
 </body>

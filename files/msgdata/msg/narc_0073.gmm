@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0073_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you ever seen or heard about\ndifferently colored Pokémon?\rFor instance, a regular PIKACHU has\na yellow body, correct?\rWell, the different-colored PIKACHU\nhas a sort of orange body.</language>
+		<language name="English">Har du nogensinde set eller hør om\nForskelligt farvet Pokémon?\rFor eksempel har en regelmasse PIKACHU\nEn gul krop, ikke?\rNu, de forskelige- farve PIKACHU\nHar en slagger orange krop.</language>
 	</row>
 	<row id="narc_0073_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how Pokémon have different\nnatures like we have personalities?\rI don’t think it’s surprising to see\nPokémon in different colors.</language>
+		<language name="English">Pokémon er anderledes.\nNatur som vi har personligheder?\rJeg synes ikke, det er overraskende at se\nPokémon i forskellige farver.</language>
 	</row>
 	<row id="narc_0073_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIKACHU: Pikaaah!</language>
+		<language name="English">Pikaaah!</language>
 	</row>
 </body>

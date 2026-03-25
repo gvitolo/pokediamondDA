@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0486_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The battery isn’t charged enough.\rNumber of steps required to fully\ncharge the battery: {STRVAR_1 51, 0}</language>
+		<language name="English">Batteriet er ikke opladet nok.\rAntal nødvendige trin for at fuldføre\noplad batteriet: {STRVAR_1 51, 0}</language>
 	</row>
 	<row id="narc_0486_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are no Trainers within range\nwho can battle...\rThe Vs. Seeker was turned off.</language>
+		<language name="English">Der er ingen trænere inden for rækkevidde\nhvem kan kæmpe...\rVs. Seeker blev slukket.</language>
 	</row>
 	<row id="narc_0486_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The other Trainers don’t appear\nto be ready for battle.\rLet’s wait till later.</language>
+		<language name="English">De andre trænere vises ikke\nat være klar til kamp.\rLad os vente til senere.</language>
 	</row>
 </body>

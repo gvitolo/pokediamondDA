@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0422_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To sit back and fish casually...\nIt’s a grown-up’s hobby.</language>
+		<language name="English">At læne sig tilbage og fiske afslappet...\nDet er en voksens hobby.</language>
 	</row>
 	<row id="narc_0422_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 205\nEterna Forest</language>
+		<language name="English">Rt. 205\nEterna Skov</language>
 	</row>
 	<row id="narc_0422_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 205\nEterna City</language>
+		<language name="English">Rt. 205\nEterna by</language>
 	</row>
 </body>

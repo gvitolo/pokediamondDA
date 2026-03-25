@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0111_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can take a cute Pokémon out for\na stroll in Amity Square.</language>
+		<language name="English">Du kan tage en sød Pokémon ud på en spadseretur på Amity Square.</language>
 	</row>
 	<row id="narc_0111_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m appalled!\nThey refused entry to my Pokémon!\rOh, my poor GYARADOS and STEELIX!\nThis is discrimination!</language>
+		<language name="English">Jeg er rystet!\nDe nægtede adgang til min Pokémon!\rÅh, mine stakkels GYARADOS og STEELIX!\nDette er diskrimination!</language>
 	</row>
 </body>

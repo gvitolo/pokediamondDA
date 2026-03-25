@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="narc_0176_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello!\nWelcome to the Pokémon League!\rI’m Aaron of the Elite Four.\nIt’s good to meet you.\rOh, I should explain, I’m a huge fan\nof bug Pokémon.\rBug Pokémon are nasty-mean, and yet\nthey’re beautiful, too...\rWould you like to know why I take\non challengers here, in this room?\rIt’s because I want to become\nperfect, just like my bug Pokémon!\rOK! Let me take you on!\r</language>
+		<language name="English">Hej!\nVelkommen til Pokémon League!\rJeg er Aaron of the Elite Four.\nDet er godt at møde dig.\rÅh, jeg skulle forklare, jeg er en stor fan\naf bug Pokémon.\rBug Pokémon er grimme, og alligevel\nvilde du også godt forstå, hvorfor du\r også er smuk, udfordrere her, i dette rum?\rDet er fordi, jeg vil blive\n perfekt, ligesom min bug Pokémon!\rOK! Lad mig tage dig på!\r</language>
 	</row>
 	<row id="narc_0176_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I lost with the most beautiful and\ntoughest of the bug Pokémon...\rWe lost because I wasn’t good\nenough...\rThat’s it! Back to training camp!\nLet’s hear it for me!\rNo... That was wrong... Anyway...\nGo on to the next room!\rThree Trainers are waiting for you.\nThey’re all tougher than me.</language>
+		<language name="English">Jeg tabte med den smukkeste og\nhårdeste af fejlen Pokémon...\rVi tabte, fordi jeg ikke var god\nnok...\rDet var det! Tilbage til træningslejren!\nLad os høre det for mig!\rNej... Det var forkert... Anyway...\nGå videre til næste rum!\rTre trænere venter på dig.\nDe er alle hårdere end mig.</language>
 	</row>
 	<row id="narc_0176_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go on, go to the next room.\rI’m going to become a top-level\nTrainer who can’t be outclassed with\fmy beautiful and tough bug Pokémon!</language>
+		<language name="English">Fortsæt, gå til det næste rum.\rJeg skal blive en træner på topniveau, der ikke kan udklasses med\fmine smukke og hårde bug-Pokémon!</language>
 	</row>
 </body>

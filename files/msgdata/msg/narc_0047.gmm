@@ -1,84 +1,84 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0047_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Whoops!\nHey, {STRVAR_1 3, 1}!\rYou’re going to challenge the Gym\nLeader up past here, eh?\rSomeone should check to see if you’re\nready for this challenge!\rThat someone is me!\nWith my brand-new Gym Badge!\r</language>
+		<language name="English">Ups!\nHej, {STRVAR_1 3, 1}!\rDu vil udfordre Gym\nLeder heroppe, hva ’?\rNogen bør tjekke, om du er\nklar til denne udfordring!\rAt nogen er mig!\nMed min brand- nye Gym Badge!\r</language>
 	</row>
 	<row id="narc_0047_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Yeah, yeah, you’re just\na bit better than me, as usual.\rBut listen up!\rLet me tell you who’s going to take\non the Pokémon League and become\fthe Champion.\rYou guessed right!\nIt’s going to be me!\rAnyways, you should be able to\ntake the Gym Leader here.\rHurry up and go make the challenge!\r</language>
+		<language name="English">Ja, du er bare...\nlidt bedre end mig, som sædvanlig.\rMen hør efter!\rLad mig fortælle dig, hvem der vil tage\nom Pokémon League og blive\fMesteren.\rDu gættede rigtigt!\nDet bliver mig!\rNå, men du burde kunne\nTag Gym-lederen her.\rSkynd dig og gå gøre udfordringen!\r</language>
 	</row>
 	<row id="narc_0047_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Hey! That’s the Mine\nBadge! Good going!\rYou’re tough enough to consider\nbecoming the Pokémon Champ.\rOf course, I’m tougher, so it’s\nnot going to actually happen.\rAnyways, {STRVAR_1 3, 1}, come with\nme to the library.\r</language>
+		<language name="English">Hej! Det er minen.\nBadge! Godt gået!\rDu er hård nok til at overveje\nbliver Pokémon Champ.\rSelvfølgelig er jeg hårdere, så det er\nDet vil ikke ske.\rAnyways, {STRVAR_1 3, 1}, kom med\nJeg er på biblioteket.\r</language>
 	</row>
 	<row id="narc_0047_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rowan: !\r...That tremor...\nThat wasn’t a natural occurrence.\r</language>
+		<language name="English">Rowan:!\rDen rystelse...\nDet var ikke en naturlig begivenhed.\r</language>
 	</row>
 	<row id="narc_0047_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, hey! Old dude and kids!\nSomething big just happened!\rThey’re saying there was a huge\nexplosion at Lake Valor!\r{SIZE 200}Ka-boom!!{SIZE 100}\r{SIZE 200}{SIZE 100}Like that!\r</language>
+		<language name="English">Hey, hey! Gamle fyr og børn!\nDer er lige sket noget stort!\rDe siger, at der var en enorm\nEksplosion ved Lake Valor!\r{SIZE 200}Ka- boom!! {SIZE 100}\r{SIZE 200}{SIZE 100} Sådan!\r</language>
 	</row>
 	<row id="narc_0047_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Gramps!\rI’m going to the lake!\nI have a bad feeling about this!\r</language>
+		<language name="English">Bedste!\rJeg skal ned til søen!\nJeg har en dårlig fornemmelse!\r</language>
 	</row>
 	<row id="narc_0047_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rowan: !\r...That {STRVAR_1 3, 0}...\nCan’t sit still...\r{STRVAR_1 3, 1}, I’m worried about\nLake Valor.\rBut I have no idea what is taking\nplace. You must find out!\rBut before you go, let me stress:\ndon’t get in over your head.\rWe will try to join you as soon as\nwe inspect Lake Verity.\r</language>
+		<language name="English">Rowan:!\r... at {STRVAR_1 3, 0}...\nKan ikke sidde stille...\r{STRVAR_1 3, 1}, jeg er bekymret for\nLake Valor.\rMen jeg aner ikke, hvad der sker.\nsted. Du må finde ud af det!\rMen før du går, lad mig understrege:\nKom ikke over hovedet.\rVi vil forsøge at slutte sig til dig så snart\nVi inspicerer Lake Verity.\r</language>
 	</row>
 	<row id="narc_0047_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: ...{STRVAR_1 3, 0}, you’ll be OK,\nwon’t you?</language>
+		<language name="English">Dawn:... {STRVAR_1 3, 0}, vil du være OK,\nVil du ikke?</language>
 	</row>
 	<row id="narc_0047_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: Lake Valor...\nI wonder what happened?</language>
+		<language name="English">Lake Valor...\nGad vide, hvad der skete?</language>
 	</row>
 	<row id="narc_0047_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: We’re going off to Lake Verity\nfirst...\rDon’t do anything rash if something\ndoes happen.</language>
+		<language name="English">Daggry: Vi skal til Lake Verity.\nFørst...\rGør ikke noget overilet hvis noget\nDet sker.</language>
 	</row>
 	<row id="narc_0047_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: We’re going to investigate\nLake Verity before we join you.\rDon’t try to be a hero if anything\ncrazy happens.</language>
+		<language name="English">Lucas: Vi undersøger det.\nLake Verity før vi slutter os til dig.\rPrøv ikke at være en helt hvis noget\nDer sker skøre ting.</language>
 	</row>
 	<row id="narc_0047_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rowan: Hmm...\rWhat is taking place at Lake\nValor... You must find out!\rBut before you go, let me stress:\ndon’t get in over your head.\rWe will try to join you as soon as\nwe inspect Lake Verity.</language>
+		<language name="English">Rowan: Hmm...\rHvad sker der ved Lake\nValor... Du må finde ud af det!\rMen før du går, lad mig understrege:\nKom ikke over hovedet.\rVi vil forsøge at slutte sig til dig så snart\nVi inspicerer Lake Verity.</language>
 	</row>
 	<row id="narc_0047_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s up?\nYour clothes look damp.\rWere you swimming at the beach\nright by Sandgem Town?</language>
+		<language name="English">Hvad så?\nDit tøj ser fugtigt ud.\rSvømmer du på stranden?\nLige ved Sandgem Town?</language>
 	</row>
 	<row id="narc_0047_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The tremor earlier...\nIt didn’t feel like an earthquake.\rIt felt more like an explosion.\n</language>
+		<language name="English">Rysten tidligere...\nDet føltes ikke som et jordskælv.\rDet føltes mere som en eksplosion.\n</language>
 	</row>
 	<row id="narc_0047_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Canalave City, the Canal\nCity!\rIn the old days, this port used to\nbe a hub of cargo transportation.</language>
+		<language name="English">Velkommen til Canalave City, Canal\nBy!\rI gamle dage, denne havn plejede at\nvære et knudepunkt for godstransport.</language>
 	</row>
 	<row id="narc_0047_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What was that tremor?\nI thought Mt. Coronet erupted!</language>
+		<language name="English">Hvad var det for en rystelse?\nJeg troede, at Mt.</language>
 	</row>
 	<row id="narc_0047_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m going to study at the library.\nI love reading.\rI love how reading takes me to places\nfar away in time and space.</language>
+		<language name="English">Jeg skal læse på biblioteket.\nJeg elsker at læse.\rJeg elsker hvordan læsning tager mig til steder\nLangt væk i tid og rum.</language>
 	</row>
 	<row id="narc_0047_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An explosion at Lake Valor?\nBut there isn’t anything there?</language>
+		<language name="English">En eksplosion ved Lake Valor?\nMen der er ikke noget der?</language>
 	</row>
 	<row id="narc_0047_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My PSYDUCK is very close to me.\nIt can use the move Return!</language>
+		<language name="English">Min PSYDUCK er meget tæt på mig.\nDet kan bruge flytningen Return!</language>
 	</row>
 	<row id="narc_0047_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">E-even PS-PSYDUCK’s Future Sight\ncouldn’t foretell that tremor!</language>
+		<language name="English">Even PS- PSYDUCK ’s fremtidige syn\nKunne ikke forudsige den rystelse!</language>
 	</row>
 	<row id="narc_0047_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -90,15 +90,15 @@
 	</row>
 	<row id="narc_0047_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym Leader and Trainers of this Gym\noften go out to Iron Island.\rThey not only train their Pokémon,\nbut they work out as well.</language>
+		<language name="English">Gym Leader og trænere af denne Gym\nofte gå ud på Iron Island.\rDe træner ikke kun deres Pokémon,\nMen de træner også.</language>
 	</row>
 	<row id="narc_0047_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m flabbergasted!</language>
+		<language name="English">Jeg er flabet!</language>
 	</row>
 	<row id="narc_0047_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you wanna set sail?</language>
+		<language name="English">Vil du sejle?</language>
 	</row>
 	<row id="narc_0047_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -106,31 +106,31 @@
 	</row>
 	<row id="narc_0047_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You just tell me whenever you need\nto set sail!</language>
+		<language name="English">Sig til, når du vil.\nat sætte sejl!</language>
 	</row>
 	<row id="narc_0047_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ahoy! You just go on and tell me\nwhenever you want to set sail again!</language>
+		<language name="English">Ohøj! Bare fortæl mig det.\nNår du vil sejle igen!</language>
 	</row>
 	<row id="narc_0047_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve lost my love of sailing since my\nson fell into that horrid nightmare...\rI need the Lunar Wing from Fullmoon\nIsland to awaken him!\rWould you go to Fullmoon Island for me?\nIf not for me, then for my son?</language>
+		<language name="English">Jeg har mistet min kærlighed til at sejle siden min\nSøn faldt i det forfærdelige mareridt...\rJeg skal bruge Lunar Wing fra Fullmoon\nØen skal vække ham!\rVil du tage til Fullmoon Island for mig?\nHvis ikke for mig, så for min søn?</language>
 	</row>
 	<row id="narc_0047_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re both counting on you!\rOnly you can awaken my son from his\nawful nightmare...\rPlease, I need the Lunar Wing from\nFullmoon Island to awaken him!\r</language>
+		<language name="English">Vi regner begge med dig!\rKun du kan vække min søn fra hans\nForfærdeligt mareridt...\rJeg har brug for Lunar Wing fra\nFullmoon Island for at vække ham!\r</language>
 	</row>
 	<row id="narc_0047_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you need to get ready?\rI’ll be waiting here.\nWe’re desperate for your help.</language>
+		<language name="English">Skal du gøre dig klar?\rJeg venter her.\nVi er desperate efter din hjælp.</language>
 	</row>
 	<row id="narc_0047_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Lunar Wing...\nPlease! Take it to my son...</language>
+		<language name="English">Den Lunar Wing...\nPlease! Giv det til min søn...</language>
 	</row>
 	<row id="narc_0047_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve been asleep for a long,\nlong time... What happened to you?\rAnd what were you doing here?\nNo one’s lived here for fifty years.\r</language>
+		<language name="English">Du har sovet længe.\nlang tid... Hvad er der sket med dig?\rOg hvad lavede du her?\nIngen har boet her i 50 år.\r</language>
 	</row>
 	<row id="narc_0047_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -138,7 +138,7 @@
 	</row>
 	<row id="narc_0047_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Canalave City Pokémon Gym\nLeader: Byron\fThe Man with the Steel Body!</language>
+		<language name="English">Canalave City Pokémon Gym\nLeder: Byron\fManden med stålkroppen!</language>
 	</row>
 	<row id="narc_0047_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -154,14 +154,14 @@
 	</row>
 	<row id="narc_0047_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Harbor Inn...\nThe text is too faded to read.</language>
+		<language name="English">Harbor Inn...\nTeksten er for falmet til at læse.</language>
 	</row>
 	<row id="narc_0047_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Harbor Inn\nA Roost for Restless Sailors\r“Enjoy sweet dreams in our\nsumptuous beds!”</language>
+		<language name="English">Harbor Inn\nEn roost til hvilende sømænd\r“Nyd søde drømme i vores\nOverdådige senge! ”</language>
 	</row>
 	<row id="narc_0047_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The door is tightly shut.\nIt appears impossible to open.</language>
+		<language name="English">Døren er tæt lukket.\nDet virker umuligt at åbne.</language>
 	</row>
 </body>

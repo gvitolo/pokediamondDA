@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0515_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -6,10 +6,10 @@
 	</row>
 	<row id="narc_0515_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I had a battle the other day,\nand my Pokémon’s HP got low,\rand I thought we were done for,\rand then, all of a sudden, my Pokémon\nate the Berry it was holding! Whew!</language>
+		<language name="English">Jeg havde en kamp den anden dag,\nog min Pokémons HP blev lav,\rog jeg troede, vi var færdige med,\rog så, lige pludselig, min Pokémon\nspiste den bær, den holdt på! Puha!</language>
 	</row>
 	<row id="narc_0515_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re kinda close to Eterna City,\nbut it’s still quite far away.\rYou should be prepared for a long\njourney.</language>
+		<language name="English">Vi er lidt tæt på Eterna City,\nmen det er stadig ret langt væk.\rDu skal være forberedt længe\nrejse.</language>
 	</row>
 </body>

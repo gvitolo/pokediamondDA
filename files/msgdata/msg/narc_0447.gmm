@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0447_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, hello. You wish to stay a night?\nAh, but you’ve no reservations.\rI’m afraid we are totally booked.\nYou may rest a while, if you wish.\r</language>
+		<language name="English">Ah, hej. Ønsker du at blive en nat?\nAh, men du har ingen forbehold.\rJeg er bange for, at vi er helt bookede.\nDu kan hvile lidt, hvis du ønsker det.\r</language>
 	</row>
 	<row id="narc_0447_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ve restored your Pokémon\nto full health.\rWe hope to see you again!</language>
+		<language name="English">Vi har gendannet din Pokémon\ntil fuldt helbred.\rVi håber at se dig igen!</language>
 	</row>
 	<row id="narc_0447_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This hotel is so romantic...\rI hope a knight on a Pokémon will\nsweep me away for a honeymoon here!</language>
+		<language name="English">Dette hotel er så romantisk...\rJeg håber, at en ridder på en Pokémon vil\nfeje mig væk til en bryllupsrejse her!</language>
 	</row>
 </body>

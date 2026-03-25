@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0026_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t know what to do.\rWhat Accessories will go well with\nmy dress today?</language>
+		<language name="English">Jeg ved ikke, hvad jeg skal gøre.\rHvad Tilbehør vil gå godt med\nMin kjole i dag?</language>
 	</row>
 	<row id="narc_0026_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The star of tomorrow is... You!\nYour Pokémon has a glow about it!\rSo, a gift for our future star!\r</language>
+		<language name="English">Morgendagens stjerne er...\nDin Pokémon har en glød om det!\rEn gav til vores fremtidige stjerner!\r</language>
 	</row>
 	<row id="narc_0026_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s a {STRVAR_1 31, 0}!\rI hope you get into collecting\nAccessories for your Pokémon!</language>
+		<language name="English">Det er en {STRVAR_1 31, 0}!\rJeg håber, du kommer ind i indsamling\nTilbehør til din Pokémon!</language>
 	</row>
 </body>

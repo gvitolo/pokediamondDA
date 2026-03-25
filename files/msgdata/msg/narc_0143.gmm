@@ -2,39 +2,39 @@
 <body language="English">
 	<row id="narc_0143_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello.\nMay I help you with anything?</language>
+		<language name="English">Hej.\nMå jeg hjælpe dig med noget?</language>
 	</row>
 	<row id="narc_0143_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, {STRVAR_1 3, 0}.\nMay I help you with anything?</language>
+		<language name="English">Hej {STRVAR_1 3, 0}.\nMå jeg hjælpe dig med noget?</language>
 	</row>
 	<row id="narc_0143_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enjoy yourself.</language>
+		<language name="English">God fornøjelse.</language>
 	</row>
 	<row id="narc_0143_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Yellow Cushion is popular for its\nperfect balance of soft and firm.</language>
+		<language name="English">Den gule pude er populær for sin perfekte balance mellem blødt og fast.</language>
 	</row>
 	<row id="narc_0143_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You would be surprised at how many\ncustomers buy Cupboards.</language>
+		<language name="English">Du vil blive overrasket over, hvor mange\nkunder der køber skabe.</language>
 	</row>
 	<row id="narc_0143_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The BUIZEL Doll is very popular due\nto its nautical image.</language>
+		<language name="English">BUIZEL-dukken er meget populær på grund af sit nautiske image.</language>
 	</row>
 	<row id="narc_0143_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me think... The MANTYKE Doll has\nbeen a hot seller recently.</language>
+		<language name="English">Lad mig tænke... MANTYKE-dukken har været en populær sælger for nylig.</language>
 	</row>
 	<row id="narc_0143_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you encounter a wild Pokémon,\nchuck a Quick Ball right off the bat!\rIf it’s taking a long time to catch,\nthe situation calls for a Timer Ball!</language>
+		<language name="English">Hvis du støder på en vild Pokémon,\nsmid en hurtig bold lige ud!\rHvis det tager lang tid at fange,\n kræver situationen en timerbold!</language>
 	</row>
 	<row id="narc_0143_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That boy doesn’t have any Pokémon,\nbut he says he’s training his image!</language>
+		<language name="English">Den dreng har ingen Pokémon,\nmen han siger, at han træner sit image!</language>
 	</row>
 	<row id="narc_0143_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

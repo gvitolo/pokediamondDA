@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="narc_0129_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a pair of binoculars...\nPut $100 in it?</language>
+		<language name="English">Det er en kikkert...\nSæt 100 dollars i den?</language>
 	</row>
 	<row id="narc_0129_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not enough money...</language>
+		<language name="English">Ikke nok penge...</language>
 	</row>
 	<row id="narc_0129_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tell me I’m not imagining this...\rThe Great Marsh’s Pokémon seem to be\ndifferent from the ones yesterday...</language>
+		<language name="English">Fortæl mig, at jeg ikke forestiller mig dette...\rThe Great Marshs Pokémon ser ud til at være anderledes end dem i går...</language>
 	</row>
 	<row id="narc_0129_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use a pair of binoculars to look out\nover the Great Marsh.\rYou can see what kinds of Pokémon\ncan be caught, and where they are.</language>
+		<language name="English">Brug en kikkert til at se ud over Den Store Marsh.\rDu kan se, hvilke slags Pokémon\n der kan fanges, og hvor de er.</language>
 	</row>
 	<row id="narc_0129_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are shuttle trains in the\nmarsh called Quick Trams.\rYou should take those if you’re going\nto a deeper area in the marsh.</language>
+		<language name="English">Der er pendultog i\nmarsken kaldet Quick Trams.\rDu bør tage dem, hvis du skal til et dybere område i marsken.</language>
 	</row>
 	<row id="narc_0129_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you’re walking on the bog,\nyou sometimes sink right in...\rI get so flustered trying to get out,\nI have no luck catching anything.</language>
+		<language name="English">Når du går på mosen,\nsynker du nogle gange lige ind...\rJeg bliver så forvirret over at prøve at komme ud,\njeg har ikke held med at fange noget.</language>
 	</row>
 </body>

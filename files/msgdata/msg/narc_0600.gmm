@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0600_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0600_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Andalucia</language>
+		<language name="English">Andalusien</language>
 	</row>
 	<row id="narc_0600_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="narc_0600_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Asturias </language>
+		<language name="English">Asturien </language>
 	</row>
 	<row id="narc_0600_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="narc_0600_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Galicia</language>
+		<language name="English">Galicien</language>
 	</row>
 	<row id="narc_0600_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

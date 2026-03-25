@@ -2,94 +2,94 @@
 <body language="English">
 	<row id="narc_0139_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Veilstone Game Corner!\r</language>
+		<language name="English">Velkommen til Veilstone Game Corner!\r</language>
 	</row>
 	<row id="narc_0139_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you want some Coins for the\nslots?\rOh, I’m sorry, you don’t have\na Coin Case to hold your Coins.</language>
+		<language name="English">Ville du have nogle mønter til\nslots?\rÅh, jeg beklager, du har ikke\nen møntkasse til at opbevare dine mønter.</language>
 	</row>
 	<row id="narc_0139_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you want some game Coins?\rIt’s $1000 for 50 Coins.\nWould you like some?</language>
+		<language name="English">Vil du have nogle spilmønter?\rDet er $1000 for 50 mønter.\nVil du have nogle?</language>
 	</row>
 	<row id="narc_0139_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you very much!\nHere are your Coins!</language>
+		<language name="English">Mange tak!\nHer er dine mønter!</language>
 	</row>
 	<row id="narc_0139_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um... You don’t appear to have\nenough money...</language>
+		<language name="English">Øh... Du ser ikke ud til at have penge nok...</language>
 	</row>
 	<row id="narc_0139_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh?\nYour Coin Case is full.</language>
+		<language name="English">Åh?\nDin møntkasse er fuld.</language>
 	</row>
 	<row id="narc_0139_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... You don’t need Coins, then?\nPlease come again!</language>
+		<language name="English">Åh... Du behøver da ikke mønter?\nKom venligst igen!</language>
 	</row>
 	<row id="narc_0139_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ten straight bonus rounds on\nthe slots! That’s amazing!\rI would say you had an explosion\nof good luck!\rSo, please take this Technical Machine\nas a memento!\r</language>
+		<language name="English">Ti lige bonusrunder på spilleautomaterne! Det er fantastisk!\rJeg vil sige, at du havde en eksplosion\naf held og lykke!\rSå tag venligst denne tekniske maskine\nsom et minde!\r</language>
 	</row>
 	<row id="narc_0139_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please keep playing the slots for\nanother explosion of good luck!</language>
+		<language name="English">Fortsæt venligst med at spille slots for endnu en eksplosion af held og lykke!</language>
 	</row>
 	<row id="narc_0139_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, your Bag is full...\nWe will hold the TM for you.</language>
+		<language name="English">Åh, din taske er fuld...\nVi holder TM'en for dig.</language>
 	</row>
 	<row id="narc_0139_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t play if you don’t have\na Coin Case.</language>
+		<language name="English">Du kan ikke spille, hvis du ikke har et mønthus.</language>
 	</row>
 	<row id="narc_0139_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain how the slot machines\nwork at this Game Corner.\rDuring regular play, you should\nstop the reels from the left.\rDuring the bonus round, watch\nwhere CLEFAIRY points and stop\fthe reels in that order.</language>
+		<language name="English">Jeg vil forklare, hvordan spilleautomaterne\nfungerer i dette spilhjørne.\rUnder almindeligt spil bør du\nstoppe hjulene fra venstre.\rUnder bonusrunden skal du se\nhvor CLEFAIRY peger, og stoppe\fhjulene i den rækkefølge.</language>
 	</row>
 	<row id="narc_0139_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, kid, if you want to play here,\nyou need a Coin Case.\rI think the young man next door\nhad one.</language>
+		<language name="English">Hej, knægt, hvis du vil spille her,\n skal du have en møntkasse.\rJeg tror, ​​den unge mand ved siden af\nhavde en.</language>
 	</row>
 	<row id="narc_0139_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve been winning a ton today.\nHere, take some Coins!\r{STRVAR_1 3, 0} received 20 Coins\nfrom the man.\r{STRVAR_1 3, 0} put the Coins away in\nthe Coin Case.</language>
+		<language name="English">Jeg har vundet et ton i dag.\nHer, tag nogle mønter!\r{STRVAR_1 3, 0} modtog 20 mønter\nfra manden.\r{STRVAR_1 3, 0} læg mønterne væk i møntkassen.</language>
 	</row>
 	<row id="narc_0139_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, when CLEFAIRY appears, that’s\nyour chance to line up sevens.\rLine those babies up and you’re into\nthe bonus round!</language>
+		<language name="English">Hør her, når CLEFAIRY dukker op, er det\ndin chance for at stille syvere.\r Stil de babyer op, og du er i gang med bonusrunden!</language>
 	</row>
 	<row id="narc_0139_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woohoo! CLEFAIRY! Look at it!\nIt’s driving me bananas!\rOh, if only you had a Coin Case!\nThen you’d know what fun this is!</language>
+		<language name="English">Woohoo! CLEFAIRY! Se på det!\nDet driver mig bananer!\rÅh, hvis bare du havde en møntkasse!\nSå ville du vide, hvor sjovt det her er!</language>
 	</row>
 	<row id="narc_0139_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woohoo! CLEFAIRY! Look!\nYeahah! It’s a carnival!\rLet me share some of my joy with\nyou!\r{STRVAR_1 3, 0} received 50 Coins\nfrom the man.\r{STRVAR_1 3, 0} put the Coins away in\nthe Coin Case.</language>
+		<language name="English">Woohoo! CLEFAIRY! Se!\nJa! Det er et karneval!\rLad mig dele noget af min glæde med\njer!\r{STRVAR_1 3, 0} modtog 50 Mønter\nfra manden.\r{STRVAR_1 3, 0} læg Mønterne væk i Møntkassen.</language>
 	</row>
 	<row id="narc_0139_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woohoo! CLEFAIRY! It’s adorable!\nJust seeing it gets my pulse racing!\rOh, let me impart a piece of advice\nto you!\rIf the moon turns red, you don’t\nwant to get a replay because it\fmakes CLEFAIRY tired!</language>
+		<language name="English">Woohoo! CLEFAIRY! Det er yndigt!\nBare at se det får min puls!\rÅh, lad mig give dig et råd!\rHvis månen bliver rød, ønsker du ikke at få en gentagelse, for det gør CLEFAIRY træt!</language>
 	</row>
 	<row id="narc_0139_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I want Coins, of course, but\nsetting records is hot, too!</language>
+		<language name="English">Jeg vil selvfølgelig have mønter, men det er også varmt at sætte rekorder!</language>
 	</row>
 	<row id="narc_0139_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When a Poké Ball appears, it’s a\nchance to line up slot marks.\rReplays and PIKACHU line up even if\nyou don’t make an effort.\rBut you need to aim for better marks,\nlike Poké Balls and Moon Stones.</language>
+		<language name="English">Når en Poké Ball dukker op, er det en chance for at opstille slotsmærker.\rReplays og PIKACHU line up, selvom\ndu ikke gør en indsats.\rMen du skal sigte efter bedre karakterer,\nsom Poké Balls og Moon Stones.</language>
 	</row>
 	<row id="narc_0139_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A friend in my group scored a ton\nof Coins here.\rI’m going to challenge him!</language>
+		<language name="English">En ven i min gruppe scorede et ton\n af mønter her.\rJeg vil udfordre ham!</language>
 	</row>
 	<row id="narc_0139_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sigh...\nNothing’s going my way today...\rAre you a Trainer?\nDid you battle the Gym Leader?\rShe happens to be my daughter.\nShe’s some kind of tough!</language>
+		<language name="English">Suk...\nDer går ikke noget for mig i dag...\rEr du træner?\nKæmpede du mod Gym-lederen?\rHun er tilfældigvis min datter.\nHun er en slags hård!</language>
 	</row>
 	<row id="narc_0139_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shoot for 10!\nLine up those bonus rounds!\rIf you accomplish the feat of completing\n10 uninterrupted bonus rounds,\fplease go to the counter.\rYou will be presented with a fabulous\nprize!\rThe current record sits at\n{STRVAR_1 52, 0} straight bonus rounds!</language>
+		<language name="English">Skyd for 10!\nSæt disse bonusrunder op!\rHvis du opnår kunststykket at fuldføre\n10 uafbrudte bonusrunder,\fgå venligst til tælleren.\rDu vil blive præsenteret for en fabelagtig\npræmie!\rDen aktuelle rekord er\n{STRVAR_1 52, 0} lige bonusrunde!</language>
 	</row>
 </body>

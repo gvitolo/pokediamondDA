@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="narc_0116_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All my grandchildren are clamoring\nfor Pokémon of their own.\rIt may be tricky to manage it, but\nit will brighten up the mood more.</language>
+		<language name="English">Alle mine børnebørn råber efter deres egne Pokémons.</language>
 	</row>
 	<row id="narc_0116_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no, there are no stairs in\nthis house. It’s easier that way.\rThe lack of stairs makes it easy for\nthe little Pokémon to get about.</language>
+		<language name="English">Åh nej, der er ingen trapper i dette hus. Det er nemmere på den måde.\rManglen på trapper gør det nemt for den lille Pokémon at komme rundt.</language>
 	</row>
 	<row id="narc_0116_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A world in which people are\ncompassionate to others...\rThat’s all that matters to me.</language>
+		<language name="English">En verden, hvor folk er medfølende med andre...\rDet er alt, der betyder noget for mig.</language>
 	</row>
 	<row id="narc_0116_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hearthome is a kid-friendly city,\nthey say, but I disagree.\rHearthome is friendly to kids,\ngrown-ups, and Pokémon too.</language>
+		<language name="English">Hearthome er en børnevenlig by,\n siger de, men jeg er uenig.\rHearthome er venlig over for børn,\nvoksne og Pokémon også.</language>
 	</row>
 </body>

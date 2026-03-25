@@ -1,24 +1,24 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0571_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLOSE</language>
+		<language name="English">TÆT</language>
 	</row>
 	<row id="narc_0571_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Trap ↑</language>
+		<language name="English">Flyt fælden ↑</language>
 	</row>
 	<row id="narc_0571_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Trap →</language>
+		<language name="English">Flyt fælden →</language>
 	</row>
 	<row id="narc_0571_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Trap ↓</language>
+		<language name="English">Flyt fælden ↓</language>
 	</row>
 	<row id="narc_0571_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Trap ←</language>
+		<language name="English">Flyt fælden ←</language>
 	</row>
 	<row id="narc_0571_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="narc_0571_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hole Trap</language>
+		<language name="English">Hulfælde</language>
 	</row>
 	<row id="narc_0571_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,11 +54,11 @@
 	</row>
 	<row id="narc_0571_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reverse Trap</language>
+		<language name="English">Omvendt fælde</language>
 	</row>
 	<row id="narc_0571_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Confuse Trap</language>
+		<language name="English">Forvirre fælden</language>
 	</row>
 	<row id="narc_0571_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="narc_0571_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slow Trap</language>
+		<language name="English">Langsom fælde</language>
 	</row>
 	<row id="narc_0571_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -86,11 +86,11 @@
 	</row>
 	<row id="narc_0571_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rockfall Trap</language>
+		<language name="English">Stenfaldsfælde</language>
 	</row>
 	<row id="narc_0571_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Foam Trap</language>
+		<language name="English">Skumfælde</language>
 	</row>
 	<row id="narc_0571_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -114,19 +114,19 @@
 	</row>
 	<row id="narc_0571_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Leaf Trap</language>
+		<language name="English">Bladfælde</language>
 	</row>
 	<row id="narc_0571_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flower Trap</language>
+		<language name="English">Blomsterfælde</language>
 	</row>
 	<row id="narc_0571_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ember Trap</language>
+		<language name="English">Glødefælde</language>
 	</row>
 	<row id="narc_0571_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fire Trap</language>
+		<language name="English">Ildfælde</language>
 	</row>
 	<row id="narc_0571_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -138,7 +138,7 @@
 	</row>
 	<row id="narc_0571_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLOSE</language>
+		<language name="English">TÆT</language>
 	</row>
 	<row id="narc_0571_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -146,7 +146,7 @@
 	</row>
 	<row id="narc_0571_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stepping on this Trap sends the\nvictim flying to the right.</language>
+		<language name="English">At træde på denne fælde sender den\noffer, der flyver til højre.</language>
 	</row>
 	<row id="narc_0571_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -154,7 +154,7 @@
 	</row>
 	<row id="narc_0571_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stepping on this Trap sends the\nvictim flying to the left.</language>
+		<language name="English">At træde på denne fælde sender den\noffer, der flyver til venstre.</language>
 	</row>
 	<row id="narc_0571_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -162,7 +162,7 @@
 	</row>
 	<row id="narc_0571_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stepping on this Trap sends the\nvictim flying far to the right.</language>
+		<language name="English">At træde på denne fælde sender den\noffer, der flyver langt til højre.</language>
 	</row>
 	<row id="narc_0571_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -170,7 +170,7 @@
 	</row>
 	<row id="narc_0571_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stepping on this Trap sends the\nvictim flying far to the left.</language>
+		<language name="English">At træde på denne fælde sender den\noffer, der flyver langt til venstre.</language>
 	</row>
 	<row id="narc_0571_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -182,11 +182,11 @@
 	</row>
 	<row id="narc_0571_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A pit opens up underneath the Trap\nto immobilize the victim.</language>
+		<language name="English">En grube åbner sig under fælden\nat immobilisere offeret.</language>
 	</row>
 	<row id="narc_0571_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A huge pit opens up underneath the\nTrap to immobilize the victim.</language>
+		<language name="English">En enorm grube åbner sig under\nFælde for at immobilisere offeret.</language>
 	</row>
 	<row id="narc_0571_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
@@ -218,15 +218,15 @@
 	</row>
 	<row id="narc_0571_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Trap that makes blocking boulders.\nBreak the boulders to get free.</language>
+		<language name="English">En fælde, der laver blokerende kampesten.\nBryd stenene for at komme fri.</language>
 	</row>
 	<row id="narc_0571_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Trap that makes Big Boulders.\nBreak the boulders to get free.</language>
+		<language name="English">En fælde, der laver store kampesten.\nBryd stenene for at komme fri.</language>
 	</row>
 	<row id="narc_0571_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Trap that releases bubbles.\nPop the bubbles to get free.</language>
+		<language name="English">En fælde, der frigiver bobler.\nPop boblerne for at komme fri.</language>
 	</row>
 	<row id="narc_0571_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -242,7 +242,7 @@
 	</row>
 	<row id="narc_0571_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stepping on this Trap tells all nearby\nthat you are going to the Union Room.</language>
+		<language name="English">At træde på denne fælde fortæller alle i nærheden\nat du skal i Unionsrummet.</language>
 	</row>
 	<row id="narc_0571_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -250,23 +250,23 @@
 	</row>
 	<row id="narc_0571_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Trap releases immobilizing leaves.\nBlow the leaves away to get free.</language>
+		<language name="English">Denne fælde frigiver immobiliserende blade.\nBlæs bladene væk for at komme fri.</language>
 	</row>
 	<row id="narc_0571_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Trap releases many flowers.\nBlow the flowers away to get free.</language>
+		<language name="English">Denne fælde frigiver mange blomster.\nPust blomsterne væk for at komme fri.</language>
 	</row>
 	<row id="narc_0571_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Trap releases immobilizing embers.\nBlow the embers away to get free.</language>
+		<language name="English">Denne fælde frigiver immobiliserende gløder.\nPust gløderne væk for at komme fri.</language>
 	</row>
 	<row id="narc_0571_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Trap releases billowing flames.\nBlow the flames away to get free.</language>
+		<language name="English">Denne fælde udløser bølgende flammer.\nBlæs flammerne væk for at komme fri.</language>
 	</row>
 	<row id="narc_0571_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stepping on this renders the Radar\nuseless for a while.</language>
+		<language name="English">Når du træder på dette, gengives radaren\nubrugelig i et stykke tid.</language>
 	</row>
 	<row id="narc_0571_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
@@ -274,6 +274,6 @@
 	</row>
 	<row id="narc_0571_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Close the Bag.</language>
+		<language name="English">Luk posen.</language>
 	</row>
 </body>

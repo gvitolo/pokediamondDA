@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0573_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="narc_0573_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swimming</language>
+		<language name="English">Svømning</language>
 	</row>
 	<row id="narc_0573_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="narc_0573_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The sea</language>
+		<language name="English">Havet</language>
 	</row>
 	<row id="narc_0573_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="narc_0573_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Towns</language>
+		<language name="English">Byer</language>
 	</row>
 	<row id="narc_0573_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="narc_0573_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Math</language>
+		<language name="English">Matematik</language>
 	</row>
 	<row id="narc_0573_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="narc_0573_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Math</language>
+		<language name="English">Matematik</language>
 	</row>
 	<row id="narc_0573_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -98,23 +98,23 @@
 	</row>
 	<row id="narc_0573_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kind people</language>
+		<language name="English">Venlige mennesker</language>
 	</row>
 	<row id="narc_0573_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strong people</language>
+		<language name="English">Stærke mennesker</language>
 	</row>
 	<row id="narc_0573_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Funny people</language>
+		<language name="English">Sjove mennesker</language>
 	</row>
 	<row id="narc_0573_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smart people</language>
+		<language name="English">Smarte mennesker</language>
 	</row>
 	<row id="narc_0573_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clothes</language>
+		<language name="English">Tøj</language>
 	</row>
 	<row id="narc_0573_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -122,7 +122,7 @@
 	</row>
 	<row id="narc_0573_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Food</language>
+		<language name="English">Mad</language>
 	</row>
 	<row id="narc_0573_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -146,19 +146,19 @@
 	</row>
 	<row id="narc_0573_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweet food</language>
+		<language name="English">Sød mad</language>
 	</row>
 	<row id="narc_0573_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spicy food</language>
+		<language name="English">Krydret mad</language>
 	</row>
 	<row id="narc_0573_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Salty food</language>
+		<language name="English">Salt mad</language>
 	</row>
 	<row id="narc_0573_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sour food</language>
+		<language name="English">Sur mad</language>
 	</row>
 	<row id="narc_0573_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
@@ -178,15 +178,15 @@
 	</row>
 	<row id="narc_0573_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Play outside</language>
+		<language name="English">Leg udenfor</language>
 	</row>
 	<row id="narc_0573_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go shopping</language>
+		<language name="English">Gå på indkøb</language>
 	</row>
 	<row id="narc_0573_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Study</language>
+		<language name="English">Studere</language>
 	</row>
 	<row id="narc_0573_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
@@ -194,6 +194,6 @@
 	</row>
 	<row id="narc_0573_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t know</language>
+		<language name="English">ved ikke</language>
 	</row>
 </body>

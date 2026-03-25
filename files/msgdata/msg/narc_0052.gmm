@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0052_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The books on the third floor are\neasy to read.\rThe ones down here are all too tough\nfor me to understand...</language>
+		<language name="English">Bøgerne på tredje sal er:\nlet at læse.\rDem hernede er alt for hårde.\nfor mig at forstå...</language>
 	</row>
 	<row id="narc_0052_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I looked up a book called\n“Surviving Disasters” right away!</language>
+		<language name="English">Jeg slog op en bog kaldet\n“Overlevende Katastrofer” med det samme!</language>
 	</row>
 	<row id="narc_0052_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ceiling-high bookshelves are\ncrammed with books.</language>
+		<language name="English">De ophold- høje bogreoler er\nMed bøger.</language>
 	</row>
 	<row id="narc_0052_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The shelves are lined with books\nworn from being read by many.</language>
+		<language name="English">De hylder er foret med bøger\nbåret fra at blive læst af mange.</language>
 	</row>
 	<row id="narc_0052_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please refrain from bringing food\nor beverages into the library.</language>
+		<language name="English">Vær venlig ikke at medbringe mad\neller drikkevarer ind i biblioteket.</language>
 	</row>
 </body>

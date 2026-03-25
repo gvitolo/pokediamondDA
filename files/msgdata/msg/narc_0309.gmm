@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="narc_0309_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ratio</language>
+		<language name="English">Forhold</language>
 	</row>
 	<row id="narc_0309_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Height</language>
+		<language name="English">Højde</language>
 	</row>
 	<row id="narc_0309_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEFT: Shrink\nRIGHT: Enlarge\nUP: Move upward\nDOWN: Move downward\nA: Change\nB: Cancel\nL: Next Pokémon\nR: Previous Pokémon\nSELECT: Switch gender</language>
+		<language name="English">VENSTRE: Formindsk\nHØJRE: Forstør\nOP: Flyt opad\nNED: Flyt nedad\nA: Skift\nB: Annuller\nL: Næste Pokémon\nR: Forrige Pokémon\nVÆLG: Skift køn</language>
 	</row>
 	<row id="narc_0309_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Player (Girl)</language>
+		<language name="English">Spiller (pige)</language>
 	</row>
 	<row id="narc_0309_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="narc_0309_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A</language>
+		<language name="English">EN</language>
 	</row>
 	<row id="narc_0309_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -82,10 +82,10 @@
 	</row>
 	<row id="narc_0309_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Player (Boy)</language>
+		<language name="English">Spiller (dreng)</language>
 	</row>
 	<row id="narc_0309_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In progress</language>
+		<language name="English">I gang</language>
 	</row>
 </body>

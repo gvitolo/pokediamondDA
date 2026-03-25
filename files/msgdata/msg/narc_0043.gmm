@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0043_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got my PIKACHU through a trade\nfrom somewhere in the world.\rHe grows quickly, his level’s high,\nbut he doesn’t listen to me...\rIt’s not always easy, but he’s still\nmy irreplaceable partner!</language>
+		<language name="English">Jeg fik min PIKACHU gennem en handel\nFra et sted i verden.\rHan vokser hurtigt, hans niveau er højt,\nMen han lytter ikke til mig...\rDet er ikke altid nemt, men han er stadig\nMin uerstattelige partner!</language>
 	</row>
 	<row id="narc_0043_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIKACHU: Pikapikapikaaah!</language>
+		<language name="English">Pikapikapikaaah!</language>
 	</row>
 	<row id="narc_0043_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If everyone around the world had\nPokémon...\rThen everyone around the world could\ncommunicate!</language>
+		<language name="English">Hvis alle i hele verden havde\nPokémon...\rSå kunne alle verden over\nKommunikation!</language>
 	</row>
 </body>

@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0445_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Footprints are left in the sand\nwhen you walk on a beach.\rPokémon seem to enjoy leaving\nfootprints as much as people.</language>
+		<language name="English">Fodspor efterlades i sandet\nnår du går på en strand.\rPokémon ser ud til at nyde at tage af sted\nfodspor lige så meget som mennesker.</language>
 	</row>
 	<row id="narc_0445_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a long way from Veilstone.\nI’m exhausted...</language>
+		<language name="English">Der er langt fra Veilstone.\njeg er udmattet...</language>
 	</row>
 </body>

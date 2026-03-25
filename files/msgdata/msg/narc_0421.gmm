@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0421_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You seem to be tired...\nRest a while.</language>
+		<language name="English">Du ser ud til at være træt...\nHvil lidt.</language>
 	</row>
 	<row id="narc_0421_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You and your Pokémon look\ncompletely refreshed!</language>
+		<language name="English">Dig og din Pokémon ser ud\nfuldstændig forfrisket!</language>
 	</row>
 	<row id="narc_0421_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just because you’re young doesn’t\nmean you should push yourself.</language>
+		<language name="English">Bare fordi du er ung gør det ikke\nmener du skal presse dig selv.</language>
 	</row>
 	<row id="narc_0421_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You think you can get through the\nEterna Forest by yourself?</language>
+		<language name="English">Du tror, ​​du kan komme igennem\nEterna Forest alene?</language>
 	</row>
 </body>

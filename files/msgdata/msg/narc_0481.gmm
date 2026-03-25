@@ -1,16 +1,16 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0481_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE BATTLES</language>
+		<language name="English">ENKELT KAMP</language>
 	</row>
 	<row id="narc_0481_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE BATTLES</language>
+		<language name="English">DOBBELTE KAMPE</language>
 	</row>
 	<row id="narc_0481_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MULTI BATTLES</language>
+		<language name="English">MULTI KAMPE</language>
 	</row>
 	<row id="narc_0481_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="narc_0481_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WI-FI BATTLES</language>
+		<language name="English">WI-FI KAMPE</language>
 	</row>
 	<row id="narc_0481_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,35 +26,35 @@
 	</row>
 	<row id="narc_0481_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON DEFEATED</language>
+		<language name="English">POKéMON SLAGDE</language>
 	</row>
 	<row id="narc_0481_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON CAUGHT</language>
+		<language name="English">POKéMON FANG</language>
 	</row>
 	<row id="narc_0481_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON EGGS</language>
+		<language name="English">POKéMONÆG</language>
 	</row>
 	<row id="narc_0481_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ENCOUNTERED WHILE FISHING</language>
+		<language name="English">STØTTE UNDER FISKERI</language>
 	</row>
 	<row id="narc_0481_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTEST WINS</language>
+		<language name="English">KONKURRENCEN VINDER</language>
 	</row>
 	<row id="narc_0481_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTEST WIN %</language>
+		<language name="English">KONKURRENCE VIND %</language>
 	</row>
 	<row id="narc_0481_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RIBBONS</language>
+		<language name="English">BÅND</language>
 	</row>
 	<row id="narc_0481_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0481_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,11 +62,11 @@
 	</row>
 	<row id="narc_0481_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 53, 0} wins</language>
+		<language name="English">{STRVAR_1 53, 0} vinder</language>
 	</row>
 	<row id="narc_0481_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 50, 0} wins</language>
+		<language name="English">{STRVAR_1 50, 0} vinder</language>
 	</row>
 	<row id="narc_0481_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -90,59 +90,59 @@
 	</row>
 	<row id="narc_0481_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which record would you like to see?</language>
+		<language name="English">Hvilken plade vil du gerne se?</language>
 	</row>
 	<row id="narc_0481_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s win-streak record\nin Single Battles.</language>
+		<language name="English">Battle Towers sejr-streak rekord\ni enkeltslag.</language>
 	</row>
 	<row id="narc_0481_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s win-streak record\nin Double Battles.</language>
+		<language name="English">Battle Towers sejr-streak rekord\ni dobbeltkampe.</language>
 	</row>
 	<row id="narc_0481_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s win-streak record\nin Multi Battles.</language>
+		<language name="English">Battle Towers sejr-streak rekord\ni multikampe.</language>
 	</row>
 	<row id="narc_0481_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s win-streak record\nin Link Multi Battles.</language>
+		<language name="English">Battle Towers sejr-streak rekord\ni Link Multi Battles.</language>
 	</row>
 	<row id="narc_0481_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s win-streak record\nin Wi-Fi Battles.</language>
+		<language name="English">Battle Towers sejr-streak rekord\ni Wi-Fi Battles.</language>
 	</row>
 	<row id="narc_0481_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The average win-streak record\nat the Battle Tower.</language>
+		<language name="English">Den gennemsnitlige sejr-streak rekord\nved Slagtårnet.</language>
 	</row>
 	<row id="narc_0481_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The number of Pokémon defeated.</language>
+		<language name="English">Antallet af besejrede Pokémons.</language>
 	</row>
 	<row id="narc_0481_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The number of Pokémon caught using\nPoké Balls.</language>
+		<language name="English">Antallet af Pokémon fanget i brug\nPoké bolde.</language>
 	</row>
 	<row id="narc_0481_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The number of Pokémon that were\nhatched from Eggs.</language>
+		<language name="English">Antallet af Pokémon der var\nudklækket fra æg.</language>
 	</row>
 	<row id="narc_0481_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The number of Pokémon that were\ncaught fishing.</language>
+		<language name="English">Antallet af Pokémon der var\nfanget fiskeri.</language>
 	</row>
 	<row id="narc_0481_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The number of Contest wins.</language>
+		<language name="English">Antallet af konkurrencevindere.</language>
 	</row>
 	<row id="narc_0481_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The winning percentage of Contests.</language>
+		<language name="English">Den vindende procentdel af konkurrencer.</language>
 	</row>
 	<row id="narc_0481_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The number of Ribbons won in\nContests.</language>
+		<language name="English">Antallet af bånd vundet ind\nKonkurrencer.</language>
 	</row>
 	<row id="narc_0481_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -150,14 +150,14 @@
 	</row>
 	<row id="narc_0481_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Select the record you want to\ndelete, then press the A Button.</language>
+		<language name="English">Vælg den post, du vil\nslet, og tryk derefter på A-knappen.</language>
 	</row>
 	<row id="narc_0481_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete this record?</language>
+		<language name="English">Vil du slette denne post?</language>
 	</row>
 	<row id="narc_0481_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your own record can’t be deleted.</language>
+		<language name="English">Din egen registrering kan ikke slettes.</language>
 	</row>
 </body>

@@ -6,31 +6,31 @@
 	</row>
 	<row id="narc_0190_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lonely</language>
+		<language name="English">Ensom</language>
 	</row>
 	<row id="narc_0190_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brave</language>
+		<language name="English">Modig</language>
 	</row>
 	<row id="narc_0190_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Adamant</language>
+		<language name="English">Ubøjelig</language>
 	</row>
 	<row id="narc_0190_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Naughty</language>
+		<language name="English">Fræk</language>
 	</row>
 	<row id="narc_0190_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bold</language>
+		<language name="English">Dristig</language>
 	</row>
 	<row id="narc_0190_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Docile</language>
+		<language name="English">Føjelig</language>
 	</row>
 	<row id="narc_0190_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Relaxed</language>
+		<language name="English">Afslappet</language>
 	</row>
 	<row id="narc_0190_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -42,15 +42,15 @@
 	</row>
 	<row id="narc_0190_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Timid</language>
+		<language name="English">Sky</language>
 	</row>
 	<row id="narc_0190_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hasty</language>
+		<language name="English">Forhastet</language>
 	</row>
 	<row id="narc_0190_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serious</language>
+		<language name="English">Alvorlig</language>
 	</row>
 	<row id="narc_0190_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,11 +58,11 @@
 	</row>
 	<row id="narc_0190_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Naive</language>
+		<language name="English">Naiv</language>
 	</row>
 	<row id="narc_0190_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Modest</language>
+		<language name="English">Beskeden</language>
 	</row>
 	<row id="narc_0190_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -70,23 +70,23 @@
 	</row>
 	<row id="narc_0190_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quiet</language>
+		<language name="English">Stille</language>
 	</row>
 	<row id="narc_0190_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bashful</language>
+		<language name="English">Blæst</language>
 	</row>
 	<row id="narc_0190_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rash</language>
+		<language name="English">Udslæt</language>
 	</row>
 	<row id="narc_0190_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Calm</language>
+		<language name="English">Berolige</language>
 	</row>
 	<row id="narc_0190_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gentle</language>
+		<language name="English">Mild</language>
 	</row>
 	<row id="narc_0190_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,7 +94,7 @@
 	</row>
 	<row id="narc_0190_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Careful</language>
+		<language name="English">Omhyggelig</language>
 	</row>
 	<row id="narc_0190_00024" index="24">
 		<attribute name="window_context_name">used</attribute>

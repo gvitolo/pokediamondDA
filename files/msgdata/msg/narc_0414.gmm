@@ -1,76 +1,76 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0414_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spicy Poffin</language>
+		<language name="English">Krydret Poffin</language>
 	</row>
 	<row id="narc_0414_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spicy-Dry Poffin</language>
+		<language name="English">Krydret-Tør Poffin</language>
 	</row>
 	<row id="narc_0414_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spicy-Sweet Poffin</language>
+		<language name="English">Krydret-sød Poffin</language>
 	</row>
 	<row id="narc_0414_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spicy-Bitter Poffin</language>
+		<language name="English">Krydret-bitter lunde</language>
 	</row>
 	<row id="narc_0414_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spicy-Sour Poffin</language>
+		<language name="English">Krydret-sur lunde</language>
 	</row>
 	<row id="narc_0414_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dry-Spicy Poffin</language>
+		<language name="English">Tør-krydret Poffin</language>
 	</row>
 	<row id="narc_0414_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dry Poffin</language>
+		<language name="English">Tør Poffin</language>
 	</row>
 	<row id="narc_0414_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dry-Sweet Poffin</language>
+		<language name="English">Tør-Sød Poffin</language>
 	</row>
 	<row id="narc_0414_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dry-Bitter Poffin</language>
+		<language name="English">Tør-Bitter Poffin</language>
 	</row>
 	<row id="narc_0414_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dry-Sour Poffin</language>
+		<language name="English">Tør-sur lunde</language>
 	</row>
 	<row id="narc_0414_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweet-Spicy Poffin</language>
+		<language name="English">Sød-krydret Poffin</language>
 	</row>
 	<row id="narc_0414_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweet-Dry Poffin</language>
+		<language name="English">Sød-Tør Poffin</language>
 	</row>
 	<row id="narc_0414_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweet Poffin</language>
+		<language name="English">Sød Poffin</language>
 	</row>
 	<row id="narc_0414_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweet-Bitter Poffin</language>
+		<language name="English">Sød-Bitter Poffin</language>
 	</row>
 	<row id="narc_0414_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweet-Sour Poffin</language>
+		<language name="English">Sød-sur lunde</language>
 	</row>
 	<row id="narc_0414_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bitter-Spicy Poffin</language>
+		<language name="English">Bitter-krydret Poffin</language>
 	</row>
 	<row id="narc_0414_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bitter-Dry Poffin</language>
+		<language name="English">Bitter-Tør Poffin</language>
 	</row>
 	<row id="narc_0414_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bitter-Sweet Poffin</language>
+		<language name="English">Bittersød Poffin</language>
 	</row>
 	<row id="narc_0414_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -78,39 +78,39 @@
 	</row>
 	<row id="narc_0414_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bitter-Sour Poffin</language>
+		<language name="English">Bitter-Sur Poffin</language>
 	</row>
 	<row id="narc_0414_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sour-Spicy Poffin</language>
+		<language name="English">Syrlig-krydret Poffin</language>
 	</row>
 	<row id="narc_0414_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sour-Dry Poffin</language>
+		<language name="English">Sur-Tør Poffin</language>
 	</row>
 	<row id="narc_0414_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sour-Sweet Poffin</language>
+		<language name="English">Sur-Sød Poffin</language>
 	</row>
 	<row id="narc_0414_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sour-Bitter Poffin</language>
+		<language name="English">Sur-Bitter Poffin</language>
 	</row>
 	<row id="narc_0414_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sour Poffin</language>
+		<language name="English">Syrlig Poffin</language>
 	</row>
 	<row id="narc_0414_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rich Poffin</language>
+		<language name="English">Rig Poffin</language>
 	</row>
 	<row id="narc_0414_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Overripe Poffin</language>
+		<language name="English">Overmoden Poffin</language>
 	</row>
 	<row id="narc_0414_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Foul Poffin</language>
+		<language name="English">Fuldstændig Poffin</language>
 	</row>
 	<row id="narc_0414_00028" index="28">
 		<attribute name="window_context_name">used</attribute>

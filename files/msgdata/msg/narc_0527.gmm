@@ -2,70 +2,70 @@
 <body language="English">
 	<row id="narc_0527_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s an odd spaceman\nin front of the ruins.\rThere isn’t anything there, but that\nonly seemed to make him get angry.\rHe’s saying he will blow the town\nup with a bomb...\rThe nerve of it all...\rIf only I were younger, I’d punish\nthat spaceman with my Pokémon...</language>
+		<language name="English">Der er en mærkelig rummand\nforan ruinerne.\rDer er ikke noget der, men det lod ikke til at få ham til at blive vred.\rHan siger, at han vil sprænge byen\n i luften med en bombe...\rNerven ved det hele...\rHvis bare jeg var yngre, ville jeg straffe\nden rummand med min Pokémon...</language>
 	</row>
 	<row id="narc_0527_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This town is insignificant!\nThere’s nothing of value here.\rIt doesn’t need to exist, so I’ll\nblow it up with a Galactic Bomb!\rIf you try to mess with me, I’ll shut\nyou down with a Pokémon battle.\rSo, what’s it going to be?\nAre you going to mess with me?</language>
+		<language name="English">Denne by er ubetydelig!\nDer er intet af værdi her.\rDet behøver ikke at eksistere, så jeg vil\nsprænge det i luften med en galaktisk bombe!\rHvis du prøver at rode med mig, lukker jeg dig ned med en Pokémon-kamp.\rSå hvad skal det være?\nSkal du rode med mig?</language>
 	</row>
 	<row id="narc_0527_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You dare to oppose Team Galactic?\rThat means you’re taking on the\nworld... No, the universe, even!\r</language>
+		<language name="English">Tør du modsætte dig Team Galactic?\rDet betyder, at du tager på\nverdenen... Nej, universet, endda!\r</language>
 	</row>
 	<row id="narc_0527_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right! Very smart!\nYou know what’s good for you!\rTeam Galactic has come out to the\nboonies like this for everyone’s sake.\rYour cooperation is appreciated.\nNow, where is my partner...?</language>
+		<language name="English">Det er rigtigt! Meget smart!\nDu ved, hvad der er godt for dig!\rTeam Galactic er kommet ud til\nboonies som dette for alles skyld.\rDit samarbejde er værdsat.\nNu, hvor er min partner...?</language>
 	</row>
 	<row id="narc_0527_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Too much to handle...\nI can’t do anything here...\rThis place is nothing!\nI’ll be happily rid of this place!\r</language>
+		<language name="English">For meget at håndtere...\nJeg kan ikke gøre noget her...\rDette sted er ingenting!\nJeg slipper med glæde af med dette sted!\r</language>
 	</row>
 	<row id="narc_0527_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you were magnificent!\nAren’t you quite the Trainer?\rAs the elder of Celestic Town, I give\nyou my thanks.\rOh? That Old Charm...\nMay I see that, dear?\r...\nWhat’s that?\rYou say Cynthia entrusted you with\nit to deliver to me?\rThat Cynthia...\nShe’s my granddaughter.\r</language>
+		<language name="English">Åh, du var storslået!\nEr du ikke helt træneren?\rSom den ældste i Celestic Town takker jeg\dig.\rÅh? Den gamle charme...\nMå jeg se det, skat?\r...\nHvad er det?\rDu siger, at Cynthia har betroet dig\nit at levere til mig?\rDen Cynthia...\nHun er mit barnebarn.\r</language>
 	</row>
 	<row id="narc_0527_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} handed over\nthe {STRVAR_1 8, 1} to the elder.</language>
+		<language name="English">{STRVAR_1 3, 0} afleverede\n{STRVAR_1 8, 1} til den ældste.</language>
 	</row>
 	<row id="narc_0527_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Old Charm is something made in\nCelestic Town long, long ago.\rIt was made in honor of a mythical\ndeity said to have created Sinnoh.\rThese Old Charms are still discovered\nnow and again.\rSince you’re in Celestic Town, why not\nlook around inside the ruins?</language>
+		<language name="English">Denne gamle charme er noget, der er lavet i\nCelestic Town for længe, ​​længe siden.\rDen blev lavet til ære for en mytisk\ndeitet, der siges at have skabt Sinnoh.\rDisse gamle charme bliver stadig opdaget\ninden for igen.\rDa du er i Celestic Town, hvorfor ikke\nse dig omkring inde i ruinerne?</language>
 	</row>
 	<row id="narc_0527_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve gone to the trouble\nof visiting Celestic Town.\rWhy not take a little more time\nto examine the ruins?</language>
+		<language name="English">Du har gjort dig den ulejlighed\n at besøge Celestic Town.\rHvorfor ikke bruge lidt mere tid\npå at undersøge ruinerne?</language>
 	</row>
 	<row id="narc_0527_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to have been\nan insignificant struggle here.\rEveryone should step back and view\nthings from a bigger perspective.\rYes, a bigger perspective, one that\nis on a universal scale.\r</language>
+		<language name="English">Der ser ud til at have været\n en ubetydelig kamp her.\rAlle bør træde tilbage og se\nting fra et større perspektiv.\rJa, et større perspektiv, et der\er i universel skala.\r</language>
 	</row>
 	<row id="narc_0527_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My name is Cyrus.\rI seek the power to create a new\nworld, a world without strife.\rHowever, that power seems to be\nunavailable here...\rWe’ve met before, yes?\nIt was at Mt. Coronet.\rIf you discover any power derived\nfrom the legends of Sinnoh, inform me.\rFor that power is what I need to\ncreate my new world.\r</language>
+		<language name="English">Mit navn er Cyrus.\rJeg søger kraften til at skabe en ny\nverden, en verden uden stridigheder.\rMen den magt ser ud til at være\ntilgængelig her...\rVi har mødt hinanden før, ja?\nDet var på Mt. Coronet.\rHvis du opdager nogen kraft, der stammer\nfra legenderne om Sinnoh, så informer mig om, hvad min nye kraft er.\n verden.\r</language>
 	</row>
 	<row id="narc_0527_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Howdy!\nStudying up on local history?</language>
+		<language name="English">Hejsa!\nStuderer du op i lokalhistorie?</language>
 	</row>
 	<row id="narc_0527_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, do you know what they say?\rThey say a Pokémon created the\nSinnoh region.</language>
+		<language name="English">Hej, ved du, hvad de siger?\rDe siger, at en Pokémon skabte\nSinnoh-regionen.</language>
 	</row>
 	<row id="narc_0527_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no Pokémon Mart in this\ntown...\rInstead, you can buy and sell items\nin this house here.</language>
+		<language name="English">Der er ingen Pokémon Mart i denne\nby...\rI stedet kan du købe og sælge genstande\ni dette hus her.</language>
 	</row>
 	<row id="narc_0527_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celestic Town\nThe Past Lives</language>
+		<language name="English">Celestic Town\nFortidens liv</language>
 	</row>
 	<row id="narc_0527_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A giant etching of a Pokémon-like\ncreature covers the wall...\rThere is some fading text etched\nin as well...\rThe flow of time never stops...\nThe past, future, and present...</language>
+		<language name="English">En gigantisk ætsning af et Pokémon-lignende\nvæsen dækker væggen...\rDer er også noget falmende tekst ætset\nin...\rTidsstrømmen stopper aldrig...\nFortid, fremtid og nutid...</language>
 	</row>
 	<row id="narc_0527_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A giant etching of a Pokémon-like\ncreature covers the wall...\rThere is some fading text etched\nin as well...\rSpace is ever-expanding dimensions...\nOur spirits, too, are as space...</language>
+		<language name="English">En gigantisk ætsning af et Pokémon-lignende\nvæsen dækker væggen...\rDer er også noget falmende tekst ætset\nin...\rRummet udvider sig stadigt...\nVores ånder er også som rum...</language>
 	</row>
 </body>

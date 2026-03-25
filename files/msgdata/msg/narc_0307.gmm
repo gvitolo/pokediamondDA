@@ -298,7 +298,7 @@
 	</row>
 	<row id="narc_0307_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Image</language>
+		<language name="English">Billede</language>
 	</row>
 	<row id="narc_0307_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
@@ -326,11 +326,11 @@
 	</row>
 	<row id="narc_0307_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon encounter</language>
+		<language name="English">Antal Pokémon-møder</language>
 	</row>
 	<row id="narc_0307_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Close</language>
+		<language name="English">Tæt</language>
 	</row>
 	<row id="narc_0307_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
@@ -390,47 +390,47 @@
 	</row>
 	<row id="narc_0307_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SELECT: Trash all Pokémon data\nkey   A=1 right=10 up=100\nkey   Y=-1 left=-10 down=-100\nL: Start to change\nR: End to change\nSTART: Settings\nB: Exit from the debug</language>
+		<language name="English">VÆLG: Smid alle Pokémon-data\ntast A=1 højre=10 op=100\ntast Y=-1 venstre=-10 ned=-100\nL: Begynd at ændre\nR: Slut med ændring\nSTART: Indstillinger\nB: Afslut fejlretningen</language>
 	</row>
 	<row id="narc_0307_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokédex control</language>
+		<language name="English">Pokédex kontrol</language>
 	</row>
 	<row id="narc_0307_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Begin</language>
+		<language name="English">Begynde</language>
 	</row>
 	<row id="narc_0307_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">End</language>
+		<language name="English">Ende</language>
 	</row>
 	<row id="narc_0307_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">National Pokédex flag ON</language>
+		<language name="English">Nationalt Pokédex-flag TIL</language>
 	</row>
 	<row id="narc_0307_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Set Sinnoh Pokédex</language>
+		<language name="English">Sæt Sinnoh Pokédex</language>
 	</row>
 	<row id="narc_0307_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Set National Pokédex</language>
+		<language name="English">Sæt National Pokédex</language>
 	</row>
 	<row id="narc_0307_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seen National Pokédex</language>
+		<language name="English">Sæt National Pokédex</language>
 	</row>
 	<row id="narc_0307_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seen Sinnoh Pokédex</language>
+		<language name="English">Sæt Sinnoh Pokédex</language>
 	</row>
 	<row id="narc_0307_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DEOXYS save data</language>
+		<language name="English">DEOXYS gemmer data</language>
 	</row>
 	<row id="narc_0307_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SHELLOS save data</language>
+		<language name="English">SHELLOS gemmer data</language>
 	</row>
 	<row id="narc_0307_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
@@ -462,15 +462,15 @@
 	</row>
 	<row id="narc_0307_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweet Scent</language>
+		<language name="English">Sød duft</language>
 	</row>
 	<row id="narc_0307_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trade</language>
+		<language name="English">Handle</language>
 	</row>
 	<row id="narc_0307_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Image records</language>
+		<language name="English">Billedregistreringer</language>
 	</row>
 	<row id="narc_0307_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
@@ -502,19 +502,19 @@
 	</row>
 	<row id="narc_0307_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TR Grass 00</language>
+		<language name="English">TR Græs 00</language>
 	</row>
 	<row id="narc_0307_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TR Grass 01</language>
+		<language name="English">TR Græs 01</language>
 	</row>
 	<row id="narc_0307_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TR Water 00</language>
+		<language name="English">TR Vand 00</language>
 	</row>
 	<row id="narc_0307_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TR Water 01</language>
+		<language name="English">TR Vand 01</language>
 	</row>
 	<row id="narc_0307_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
@@ -526,15 +526,15 @@
 	</row>
 	<row id="narc_0307_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">sp Tower</language>
+		<language name="English">sp Tårn</language>
 	</row>
 	<row id="narc_0307_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">sp Double</language>
+		<language name="English">sp Dobbelt</language>
 	</row>
 	<row id="narc_0307_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Galactic 00</language>
+		<language name="English">Galaktisk 00</language>
 	</row>
 	<row id="narc_0307_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
@@ -542,11 +542,11 @@
 	</row>
 	<row id="narc_0307_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Legend</language>
+		<language name="English">Legende</language>
 	</row>
 	<row id="narc_0307_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Package</language>
+		<language name="English">Pakke</language>
 	</row>
 	<row id="narc_0307_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
@@ -554,7 +554,7 @@
 	</row>
 	<row id="narc_0307_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gym Eterna</language>
+		<language name="English">Gymnastik Eterna</language>
 	</row>
 	<row id="narc_0307_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
@@ -582,22 +582,22 @@
 	</row>
 	<row id="narc_0307_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Point 00</language>
+		<language name="English">Punkt 00</language>
 	</row>
 	<row id="narc_0307_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Point 01</language>
+		<language name="English">Punkt 01</language>
 	</row>
 	<row id="narc_0307_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Point 02</language>
+		<language name="English">Punkt 02</language>
 	</row>
 	<row id="narc_0307_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Point 03</language>
+		<language name="English">Punkt 03</language>
 	</row>
 	<row id="narc_0307_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHANP</language>
+		<language name="English">CHAMP</language>
 	</row>
 </body>

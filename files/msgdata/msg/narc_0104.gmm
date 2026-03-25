@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="narc_0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{SIZE 200}Ohohoho!!{SIZE 100}\rFinally, you have arrived!\rSince I came to this country, always\nI try to learn new things.\rThey hold Contests in this city?\nI say to myself, enfin, I will excel.\rThat is why I dress this way.\nC’est une performance!\rAlso, I study Pokémon very much.\nI have come to be Gym Leader.\rAnd, uh, so it shall be that you\nchallenge me.\rBut I shall win.\nThat is what a Gym Leader does, non?\r</language>
+		<language name="English">{SIZE 200}Ohohoho!!{SIZE 100}\rEndelig er du ankommet!\rSiden jeg kom til dette land, forsøger jeg altid at lære nye ting.\rDe afholder konkurrencer i denne by?\nJeg siger til mig selv, enfin, jeg vil udmærke mig.\rDet er derfor, jeg klæder mig på denne måde.\nJeg studerer meget, meget, po. er kommet for at være Gym Leader.\rOg, øh, så skal det være, at du\nudfordrer mig.\rMen jeg skal vinde.\nDet er det, en Gym Leader gør, ikke?\r</language>
 	</row>
 	<row id="narc_0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am dumbfounded!\rSo very, very strong!\nYou, your Pokémon, so strong!\rYour power is admirable!\nI shall honor it with this Gym Badge!\r</language>
+		<language name="English">Jeg er målløs!\rSå meget, meget stærk!\nDu, din Pokémon, så stærk!\rDin kraft er beundringsværdig!\nJeg vil hædre den med dette Gym Badge!\r</language>
 	</row>
 	<row id="narc_0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} received\nthe Relic Badge from Fantina!</language>
+		<language name="English">{STRVAR_1 3, 0} modtog\n Relic Badge fra Fantina!</language>
 	</row>
 	<row id="narc_0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Badge will let you use the\nhidden move Surf outside of battle.\rAlso, you can make use of this\nTechnical Machine.\rThat is what I think.\r</language>
+		<language name="English">Det badge giver dig mulighed for at bruge det\nskjulte træk Surf uden for kamp.\rDu kan også gøre brug af denne\ntekniske maskine.\rDet er, hvad jeg tror.\r</language>
 	</row>
 	<row id="narc_0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That {STRVAR_1 8, 0}...\nIt contains {STRVAR_1 6, 1}.\rA very startling move it is.\nIts hits turn critical often!</language>
+		<language name="English">At {STRVAR_1 8, 0}...\nDen indeholder {STRVAR_1 6, 1}.\rDet er et meget opsigtsvækkende træk.\nDets hits bliver ofte kritiske!</language>
 	</row>
 	<row id="narc_0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Five Gym Badges...\rBut you must not forget this.\nThere are many other Trainers.\rStrong Trainers, too.\nThere are many more in Sinnoh.\rHave patience! You must become\nstronger, one at a time.</language>
+		<language name="English">Five Gym Badges...\rMen du må ikke glemme dette.\nDer er mange andre trænere.\rStærke trænere også.\nDer er mange flere i Sinnoh.\rVær tålmodig! Du skal blive stærkere, én ad gangen.</language>
 	</row>
 </body>

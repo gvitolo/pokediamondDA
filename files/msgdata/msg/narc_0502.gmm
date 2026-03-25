@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0502_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Despite the exploration team’s best\nefforts, the rare, oddly colored\nPokémon eluded detection.\nThe rumored red GYARADOS failed to\nappear to the dispirited team...</language>
+		<language name="English">På trods af efterforskningsholdets bedste\nindsats, de sjældne, mærkeligt farvede\nPokémon undgik detektion.\nDet lykkedes ikke for den rygtede røde GYARADOS\ndukke op for det modløse hold...</language>
 	</row>
 	<row id="narc_0502_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That concludes our special report,\n“Search for the Red GYARADOS!”\rBrought to you by Jubilife TV on\nNationwide Net!\r</language>
+		<language name="English">Det afslutter vores særlige rapport,\n"Søg efter de røde GYARADOS!"\rBragt til dig af Jubilife TV på\nLandsdækkende Net!\r</language>
 	</row>
 	<row id="narc_0502_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,18 +14,18 @@
 	</row>
 	<row id="narc_0502_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The TV is showing the title screen\nof a video game.</language>
+		<language name="English">TV'et viser titelskærmen\naf et videospil.</language>
 	</row>
 	<row id="narc_0502_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The X Button\nopens the menu!</language>
+		<language name="English">X-knappen\nåbner menuen!</language>
 	</row>
 	<row id="narc_0502_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a Wii!\nIt’s controlled by a Wii Remote!</language>
+		<language name="English">Det er en Wii!\nDen styres af en Wii Remote!</language>
 	</row>
 	<row id="narc_0502_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} checked the PC.\rPokémon Basics...\rPeople live alongside Pokémon in\nthis world.\rThe people that battle Pokémon are\ncalled Pokémon Trainers.</language>
+		<language name="English">{STRVAR_1 3, 0} tjekkede pc'en.\rGrundlæggende om Pokémon...\rFolk bor sammen med Pokémon i\ndenne verden.\rDe mennesker, der kæmper mod Pokémon, er\nkaldet Pokémon Trainers.</language>
 	</row>
 </body>

@@ -23,11 +23,11 @@
 	</row>
 	<row id="narc_0615_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the rocky mountains where\nCHARMELEON live, their fiery\ntails shine at night like stars.</language>
+		<language name="English">In the rocky mountains where\nGLUTEXO live, their fiery\ntails shine at night like stars.</language>
 	</row>
 	<row id="narc_0615_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is said that CHARIZARD’s fire\nburns hotter if it has\nexperienced harsh battles.</language>
+		<language name="English">It is said that GLURAK’s fire\nburns hotter if it has\nexperienced harsh battles.</language>
 	</row>
 	<row id="narc_0615_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -75,7 +75,7 @@
 	</row>
 	<row id="narc_0615_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By flapping its wings with all its\nmight, PIDGEOT can make a gust of\nwind capable of bending tall trees.</language>
+		<language name="English">By flapping its wings with all its\nmight, TAUBOSS can make a gust of\nwind capable of bending tall trees.</language>
 	</row>
 	<row id="narc_0615_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -191,7 +191,7 @@
 	</row>
 	<row id="narc_0615_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A mushroom grown larger than the\nhost’s body controls PARASECT.\nIt scatters poisonous spores.</language>
+		<language name="English">A mushroom grown larger than the\nhost’s body controls PARASEK.\nIt scatters poisonous spores.</language>
 	</row>
 	<row id="narc_0615_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -267,11 +267,11 @@
 	</row>
 	<row id="narc_0615_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It hefts a GRAVELER repeatedly to\nstrengthen its entire body. It\nuses every type of martial arts.</language>
+		<language name="English">It hefts a GEOROK repeatedly to\nstrengthen its entire body. It\nuses every type of martial arts.</language>
 	</row>
 	<row id="narc_0615_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MACHOKE’s boundless power is very\ndangerous, so it wears a belt that\nsuppresses its energy.</language>
+		<language name="English">MASCHOCK’s boundless power is very\ndangerous, so it wears a belt that\nsuppresses its energy.</language>
 	</row>
 	<row id="narc_0615_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
@@ -303,7 +303,7 @@
 	</row>
 	<row id="narc_0615_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GRAVELER make their homes on\nsheer cliff faces by gouging out\nnumerous horizontal holes.</language>
+		<language name="English">GEOROK make their homes on\nsheer cliff faces by gouging out\nnumerous horizontal holes.</language>
 	</row>
 	<row id="narc_0615_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -323,7 +323,7 @@
 	</row>
 	<row id="narc_0615_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Though usually dim witted, it\nseems to become inspired if the\nSHELLDER on its tail bites down.</language>
+		<language name="English">Though usually dim witted, it\nseems to become inspired if the\nMUSCHAS on its tail bites down.</language>
 	</row>
 	<row id="narc_0615_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -331,7 +331,7 @@
 	</row>
 	<row id="narc_0615_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is actually three MAGNEMITE\nlinked by magnetism. A group can\nset off a magnetic storm.</language>
+		<language name="English">It is actually three MAGNETILO\nlinked by magnetism. A group can\nset off a magnetic storm.</language>
 	</row>
 	<row id="narc_0615_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
@@ -343,7 +343,7 @@
 	</row>
 	<row id="narc_0615_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When DODUO evolves into this odd\nbreed, one of its heads splits into\ntwo. It runs at nearly 40 mph.</language>
+		<language name="English">When DODU evolves into this odd\nbreed, one of its heads splits into\ntwo. It runs at nearly 40 mph.</language>
 	</row>
 	<row id="narc_0615_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
@@ -415,7 +415,7 @@
 	</row>
 	<row id="narc_0615_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an EXEGGCUTE.</language>
+		<language name="English">It is called “The Walking Jungle.”\nIf a head grows too big, it falls\noff and becomes an OWEI.</language>
 	</row>
 	<row id="narc_0615_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
@@ -747,11 +747,11 @@
 	</row>
 	<row id="narc_0615_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It gathers groups of others as\ntheir leader. Its cries make\nPOLIWAG obey.</language>
+		<language name="English">It gathers groups of others as\ntheir leader. Its cries make\nQUAPSEL obey.</language>
 	</row>
 	<row id="narc_0615_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It drifts on winds. It is said that\nwhen HOPPIP gather in fields and\nmountains, spring is on the way.</language>
+		<language name="English">It drifts on winds. It is said that\nwhen HOPPSPROSS gather in fields and\nmountains, spring is on the way.</language>
 	</row>
 	<row id="narc_0615_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
@@ -791,7 +791,7 @@
 	</row>
 	<row id="narc_0615_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The light of the moon changed\nEEVEE’s genetic structure. It\nlurks in darkness for prey.</language>
+		<language name="English">The light of the moon changed\nEVOLI’s genetic structure. It\nlurks in darkness for prey.</language>
 	</row>
 	<row id="narc_0615_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
@@ -799,7 +799,7 @@
 	</row>
 	<row id="narc_0615_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Being bitten by SHELLDER gave it\nintelligence comparable to that of\naward-winning scientists.</language>
+		<language name="English">Being bitten by MUSCHAS gave it\nintelligence comparable to that of\naward-winning scientists.</language>
 	</row>
 	<row id="narc_0615_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
@@ -807,7 +807,7 @@
 	</row>
 	<row id="narc_0615_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shaped like ancient writing, it is\na huge mystery whether\nlanguage or UNOWN came first.</language>
+		<language name="English">Shaped like ancient writing, it is\na huge mystery whether\nlanguage or ICOGNITO came first.</language>
 	</row>
 	<row id="narc_0615_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
@@ -907,7 +907,7 @@
 	</row>
 	<row id="narc_0615_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When the waves are calm, one may\nencounter a swarm of MANTINE\nswimming as if they are in flight.</language>
+		<language name="English">When the waves are calm, one may\nencounter a swarm of MANTAX\nswimming as if they are in flight.</language>
 	</row>
 	<row id="narc_0615_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
@@ -1063,7 +1063,7 @@
 	</row>
 	<row id="narc_0615_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It loves to eat leaves. If it is\nattacked by a STARLY, it will defend\nitself with its spiked rear.</language>
+		<language name="English">It loves to eat leaves. If it is\nattacked by a STARALILI, it will defend\nitself with its spiked rear.</language>
 	</row>
 	<row id="narc_0615_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
@@ -1311,7 +1311,7 @@
 	</row>
 	<row id="narc_0615_00327" index="327">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No two SPINDA have the same\npattern of spots. Its tottering\nstep fouls the aim of foes.</language>
+		<language name="English">No two PANDIR have the same\npattern of spots. Its tottering\nstep fouls the aim of foes.</language>
 	</row>
 	<row id="narc_0615_00328" index="328">
 		<attribute name="window_context_name">used</attribute>
@@ -1343,11 +1343,11 @@
 	</row>
 	<row id="narc_0615_00335" index="335">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has feuded with SEVIPER for\nmany generations. Its sharp claws\nare its biggest weapons.</language>
+		<language name="English">It has feuded with VIPITIS for\nmany generations. Its sharp claws\nare its biggest weapons.</language>
 	</row>
 	<row id="narc_0615_00336" index="336">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For many generations, it has\nfeuded with ZANGOOSE. It whets its\nbladed tail on rocks for battle.</language>
+		<language name="English">For many generations, it has\nfeuded with SENGO. It whets its\nbladed tail on rocks for battle.</language>
 	</row>
 	<row id="narc_0615_00337" index="337">
 		<attribute name="window_context_name">used</attribute>
@@ -1447,7 +1447,7 @@
 	</row>
 	<row id="narc_0615_00361" index="361">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the snow country, certain\nfolklore says a house will\nprosper if a SNORUNT lives there.</language>
+		<language name="English">In the snow country, certain\nfolklore says a house will\nprosper if a SCHNEPPKE lives there.</language>
 	</row>
 	<row id="narc_0615_00362" index="362">
 		<attribute name="window_context_name">used</attribute>
@@ -1503,7 +1503,7 @@
 	</row>
 	<row id="narc_0615_00375" index="375">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is formed by two BELDUM joining\ntogether. Its steel body won’t be\nscratched if it collides with a jet.</language>
+		<language name="English">It is formed by two TANHEL joining\ntogether. Its steel body won’t be\nscratched if it collides with a jet.</language>
 	</row>
 	<row id="narc_0615_00376" index="376">
 		<attribute name="window_context_name">used</attribute>
@@ -1659,15 +1659,15 @@
 	</row>
 	<row id="narc_0615_00414" index="414">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It loves the honey of flowers\nand steals honey collected by\nCOMBEE.</language>
+		<language name="English">It loves the honey of flowers\nand steals honey collected by\nWADRIBIE.</language>
 	</row>
 	<row id="narc_0615_00415" index="415">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon formed by three others.\nIt busily carries sweet floral\nhoney to VESPIQUEN.</language>
+		<language name="English">A Pokémon formed by three others.\nIt busily carries sweet floral\nhoney to HONWEISEL.</language>
 	</row>
 	<row id="narc_0615_00416" index="416">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its abdomen is a honeycomb for\ngrubs. It raises its grubs on\nhoney collected by COMBEE.</language>
+		<language name="English">Its abdomen is a honeycomb for\ngrubs. It raises its grubs on\nhoney collected by WADRIBIE.</language>
 	</row>
 	<row id="narc_0615_00417" index="417">
 		<attribute name="window_context_name">used</attribute>
@@ -1723,7 +1723,7 @@
 	</row>
 	<row id="narc_0615_00430" index="430">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Becoming active at night, it is\nknown to swarm with numerous\nMURKROW in tow.</language>
+		<language name="English">Becoming active at night, it is\nknown to swarm with numerous\nKRAMURX in tow.</language>
 	</row>
 	<row id="narc_0615_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
@@ -1763,7 +1763,7 @@
 	</row>
 	<row id="narc_0615_00440" index="440">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It loves round white things.\nIt carries an egg-shaped rock in\nimitation of CHANSEY.</language>
+		<language name="English">It loves round white things.\nIt carries an egg-shaped rock in\nimitation of CHANEIRA.</language>
 	</row>
 	<row id="narc_0615_00441" index="441">
 		<attribute name="window_context_name">used</attribute>
@@ -1859,7 +1859,7 @@
 	</row>
 	<row id="narc_0615_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It puts rocks in holes in its palms\nand uses its muscles to shoot them.\nGEODUDE are shot at rare times.</language>
+		<language name="English">It puts rocks in holes in its palms\nand uses its muscles to shoot them.\nKLEINSTEIN are shot at rare times.</language>
 	</row>
 	<row id="narc_0615_00465" index="465">
 		<attribute name="window_context_name">used</attribute>

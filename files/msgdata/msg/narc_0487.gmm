@@ -1,211 +1,211 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0487_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of\nsmall pink hearts.</language>
+		<language name="English">Dette segl frigiver en sky af\nsmå lyserøde hjerter.</language>
 	</row>
 	<row id="narc_0487_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of\nbig pink hearts.</language>
+		<language name="English">Dette segl frigiver en sky af\nstore lyserøde hjerter.</language>
 	</row>
 	<row id="narc_0487_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of\nsmall black hearts.</language>
+		<language name="English">Dette segl frigiver en sky af\nsmå sorte hjerter.</language>
 	</row>
 	<row id="narc_0487_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of\nbig black hearts.</language>
+		<language name="English">Dette segl frigiver en sky af\nstore sorte hjerter.</language>
 	</row>
 	<row id="narc_0487_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases pink hearts that\nfloat up a little.</language>
+		<language name="English">Dette segl frigiver lyserøde hjerter\nflyde lidt op.</language>
 	</row>
 	<row id="narc_0487_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases pink hearts that\nfloat up.</language>
+		<language name="English">Dette segl frigiver lyserøde hjerter\nflyde op.</language>
 	</row>
 	<row id="narc_0487_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a few popping yellow\nstars.</language>
+		<language name="English">Denne Seal frigiver et par knaldende gule\nstjerner.</language>
 	</row>
 	<row id="narc_0487_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases many popping yellow\nstars.</language>
+		<language name="English">Denne Seal frigiver mange knaldende gule\nstjerner.</language>
 	</row>
 	<row id="narc_0487_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a few popping blue\nstars.</language>
+		<language name="English">Dette segl frigiver et par knaldende blå\nstjerner.</language>
 	</row>
 	<row id="narc_0487_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases many popping blue\nstars.</language>
+		<language name="English">Denne Seal frigiver mange springende blå\nstjerner.</language>
 	</row>
 	<row id="narc_0487_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a few popping stars\nin changing colors.</language>
+		<language name="English">Dette segl udgiver et par springende stjerner\ni skiftende farver.</language>
 	</row>
 	<row id="narc_0487_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases many popping stars\nin changing colors.</language>
+		<language name="English">Dette segl frigiver mange springende stjerner\ni skiftende farver.</language>
 	</row>
 	<row id="narc_0487_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases white lines that\nspread out.</language>
+		<language name="English">Dette segl frigiver hvide linjer, der\nspredt ud.</language>
 	</row>
 	<row id="narc_0487_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases yellow lines that\nspread out.</language>
+		<language name="English">Dette segl frigiver gule linjer, der\nspredt ud.</language>
 	</row>
 	<row id="narc_0487_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases black lines that\nspread out.</language>
+		<language name="English">Dette segl frigiver sorte streger\nspredt ud.</language>
 	</row>
 	<row id="narc_0487_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases blue lines that\nspread out.</language>
+		<language name="English">Dette segl frigiver blå linjer, der\nspredt ud.</language>
 	</row>
 	<row id="narc_0487_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a towering cloud of\nwhite smoke.</language>
+		<language name="English">Dette segl frigiver en tårnhøj sky af\nhvid røg.</language>
 	</row>
 	<row id="narc_0487_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a towering cloud of\nblack smoke.</language>
+		<language name="English">Dette segl frigiver en tårnhøj sky af\nsort røg.</language>
 	</row>
 	<row id="narc_0487_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of white\nsmoke.</language>
+		<language name="English">Dette segl frigiver en sky af hvidt\nrøg.</language>
 	</row>
 	<row id="narc_0487_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of black\nsmoke.</language>
+		<language name="English">Dette segl frigiver en sky af sort\nrøg.</language>
 	</row>
 	<row id="narc_0487_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases yellow bolts of\nelectricity upward.</language>
+		<language name="English">Denne tætning frigiver gule bolte af\nelektricitet opad.</language>
 	</row>
 	<row id="narc_0487_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases green bolts of\nelectricity upward.</language>
+		<language name="English">Denne tætning frigiver grønne bolte af\nelektricitet opad.</language>
 	</row>
 	<row id="narc_0487_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases yellow bolts of\nelectricity downward.</language>
+		<language name="English">Denne tætning frigiver gule bolte af\nelektricitet nedad.</language>
 	</row>
 	<row id="narc_0487_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases green bolts of\nelectricity downward.</language>
+		<language name="English">Denne tætning frigiver grønne bolte af\nelektricitet nedad.</language>
 	</row>
 	<row id="narc_0487_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a small number of\nblue bubbles.</language>
+		<language name="English">Dette segl frigiver et lille antal\nblå bobler.</language>
 	</row>
 	<row id="narc_0487_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases many blue bubbles.\n</language>
+		<language name="English">Dette segl frigiver mange blå bobler.\n</language>
 	</row>
 	<row id="narc_0487_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a small number of\npink bubbles.</language>
+		<language name="English">Dette segl frigiver et lille antal\nlyserøde bobler.</language>
 	</row>
 	<row id="narc_0487_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases many pink bubbles.\n</language>
+		<language name="English">Denne Seal frigiver mange lyserøde bobler.\n</language>
 	</row>
 	<row id="narc_0487_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a small amount of\norange flames.</language>
+		<language name="English">Dette segl frigiver en lille mængde\norange flammer.</language>
 	</row>
 	<row id="narc_0487_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a lot of orange\nflames.</language>
+		<language name="English">Denne Seal frigiver en masse orange\nflammer.</language>
 	</row>
 	<row id="narc_0487_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a small amount of\nblue flames.</language>
+		<language name="English">Dette segl frigiver en lille mængde\nblå flammer.</language>
 	</row>
 	<row id="narc_0487_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a lot of blue\nflames.</language>
+		<language name="English">Denne Seal frigiver en masse blå\nflammer.</language>
 	</row>
 	<row id="narc_0487_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of red\nconfetti.</language>
+		<language name="English">Dette segl frigiver en sky af rødt\nkonfetti.</language>
 	</row>
 	<row id="narc_0487_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of blue\nconfetti.</language>
+		<language name="English">Dette segl frigiver en sky af blåt\nkonfetti.</language>
 	</row>
 	<row id="narc_0487_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of yellow\nconfetti.</language>
+		<language name="English">Denne Segl frigiver en sky af gul\nkonfetti.</language>
 	</row>
 	<row id="narc_0487_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a cloud of white\nconfetti.</language>
+		<language name="English">Dette segl frigiver en sky af hvidt\nkonfetti.</language>
 	</row>
 	<row id="narc_0487_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a shower of pink\nflower petals.</language>
+		<language name="English">Denne Seal frigiver en byge af pink\nblomsterblade.</language>
 	</row>
 	<row id="narc_0487_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases pink flower\npetals.</language>
+		<language name="English">Denne Seal frigiver pink blomst\nkronblade.</language>
 	</row>
 	<row id="narc_0487_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a shower of purple\nflower petals.</language>
+		<language name="English">Denne Seal frigiver en byge af lilla\nblomsterblade.</language>
 	</row>
 	<row id="narc_0487_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases purple flower\npetals.</language>
+		<language name="English">Denne Segl frigiver lilla blomst\nkronblade.</language>
 	</row>
 	<row id="narc_0487_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases a shower of yellow\nflower petals.</language>
+		<language name="English">Denne Seal frigiver en byge af gul\nblomsterblade.</language>
 	</row>
 	<row id="narc_0487_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Seal releases yellow flower\npetals.</language>
+		<language name="English">Denne segl frigiver gul blomst\nkronblade.</language>
 	</row>
 	<row id="narc_0487_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A green Seal featuring a treble clef\ndesign.</language>
+		<language name="English">Et grønt segl med en diskantnøgle\ndesign.</language>
 	</row>
 	<row id="narc_0487_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A red Seal featuring a musical note\ndesign.</language>
+		<language name="English">Et rødt segl med en musiktone\ndesign.</language>
 	</row>
 	<row id="narc_0487_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An orange Seal featuring a musical\nnote design.</language>
+		<language name="English">Et orange segl med en musical\nnote design.</language>
 	</row>
 	<row id="narc_0487_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A yellow Seal featuring a musical\nnote design.</language>
+		<language name="English">Et gult segl med en musical\nnote design.</language>
 	</row>
 	<row id="narc_0487_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A blue Seal featuring a musical\nnote design.</language>
+		<language name="English">Et blåt segl med en musical\nnote design.</language>
 	</row>
 	<row id="narc_0487_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A lime green Seal featuring a musical\nnote design.</language>
+		<language name="English">En limegrøn segl med en musical\nnote design.</language>
 	</row>
 	<row id="narc_0487_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A navy blue Seal featuring a musical\nnote design.</language>
+		<language name="English">Et marineblåt segl med en musical\nnote design.</language>
 	</row>
 	<row id="narc_0487_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Seal that makes a\nspectacular splash.</language>
+		<language name="English">Et særligt segl, der gør en\nspektakulære plask.</language>
 	</row>
 	<row id="narc_0487_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Seal that explodes in a\nspectacular fashion.</language>
+		<language name="English">En speciel segl, der eksploderer i en\nspektakulær mode.</language>
 	</row>
 	<row id="narc_0487_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special Seal that releases pretty\nsparkles.</language>
+		<language name="English">Et særligt segl, der frigiver smukt\nfunkler.</language>
 	</row>
 </body>

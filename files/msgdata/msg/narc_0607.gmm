@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0607_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0607_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="narc_0607_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">More og Romsdal</language>
+		<language name="English">Møre og Romsdal</language>
 	</row>
 	<row id="narc_0607_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="narc_0607_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nord-Trondelag</language>
+		<language name="English">Nord-Trøndelag</language>
 	</row>
 	<row id="narc_0607_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0607_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sor-Trondelag</language>
+		<language name="English">Sor-Trøndelag</language>
 	</row>
 	<row id="narc_0607_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -82,6 +82,6 @@
 	</row>
 	<row id="narc_0607_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ostfold</language>
+		<language name="English">Østfold</language>
 	</row>
 </body>

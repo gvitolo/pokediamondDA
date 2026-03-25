@@ -1,24 +1,24 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0075_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Oreburgh Mine is operated\nwith the utmost care.\rWe avoid causing any damage to\nthe natural habitats of Pokémon.</language>
+		<language name="English">Oreburgh-minen drives\nmed den største omhu.\rVi undgår at forårsage nogen skade på\nde naturlige levesteder for Pokémon.</language>
 	</row>
 	<row id="narc_0075_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow... Your Pokémon’s eyes are\ntwinkling brightly!\rSeeing that makes me happy!\nHere, I want you to have this!\r</language>
+		<language name="English">Wow... Din Pokémon øjne er\nLyst!\rAt se det gør mig glad!\nHer, du skal have den her!\r</language>
 	</row>
 	<row id="narc_0075_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how Pokémon stay inside\ntheir Poké Balls?\rI try to think about what would be\nthe best Poké Balls for them.</language>
+		<language name="English">Du ved hvordan Pokémon bliver indenfor\nDeres Poké Ball?\rJeg prøver at tænke over, hvad der ville være\nde bedste Poké Ball ’er til dem.</language>
 	</row>
 	<row id="narc_0075_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0075_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The whole system of taking the coal\nout of the mine is automated.\rThere’s nothing backbreaking about\nit!</language>
+		<language name="English">Hele systemet med at tage kul\nFra minen er automatiseret.\rDer er ikke noget bagslag.\nDet!</language>
 	</row>
 </body>

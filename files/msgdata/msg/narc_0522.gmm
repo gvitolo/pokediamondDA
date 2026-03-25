@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="narc_0522_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you a fan of the Day-Care\nCouple like me?\rI got hold of something quite useful.\rIt’s the latest Pokétch app from\nthe Pokétch Company.\rWhat’s more, they developed it in\ncollaboration with the Day Care.\rSince you’re a fellow fan of the Day\nCare, I’m compelled to share this!\r</language>
+		<language name="English">Er du fan af Day-Care\nParret som mig?\rJeg har fået fat i noget ganske nyttigt.\rDet er den seneste Pokétch-app fra\nthe Pokétch Company.\rDe har desuden udviklet den i\nsamarbejde med Day Care.\rDa du er en med-fan af dagen,\nforpligter jeg mig til at dele dette!\n</language>
 	</row>
 	<row id="narc_0522_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With that Day-Care Checker, you can\ncheck on the Pokémon that you’ve\fleft with the Day-Care Couple.\rBut I haven’t been able to leave\nmy Pokémon... So here I stay...</language>
+		<language name="English">Med den Day-Care Checker kan du\ntjekke på den Pokémon, du har\revet med Day-Care Couple.\rMen jeg har ikke kunnet forlade\nmin Pokémon... Så her bliver jeg...</language>
 	</row>
 	<row id="narc_0522_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your bond with your Pokémon will\ndeepen as you travel together.</language>
+		<language name="English">Dit bånd til din Pokémon bliver endnu større, når I rejser sammen.</language>
 	</row>
 </body>

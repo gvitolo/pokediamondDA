@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0507_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Talk to that nice lady at the counter\nand hand her your Pokémon.\rShe’ll heal your Pokémon to perfect\nhealth in no time at all!</language>
+		<language name="English">Tal med den søde dame ved skranken\nog giv hende din Pokémon.\rHun vil helbrede din Pokémon til perfektion\nsundhed på ingen tid overhovedet!</language>
 	</row>
 	<row id="narc_0507_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,6 +10,6 @@
 	</row>
 	<row id="narc_0507_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The top floor of any Pokémon Center\nis the Pokémon Communication Club.\rThere, you can have all sorts of fun\nwith your friends.</language>
+		<language name="English">Den øverste etage i ethvert Pokémon Center\ner Pokémon Communication Club.\rDer kan du have alt muligt sjovt\nmed dine venner.</language>
 	</row>
 </body>

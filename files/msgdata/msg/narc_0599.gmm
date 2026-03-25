@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0599_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0599_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Baden-Wurttemberg</language>
+		<language name="English">Baden-Württemberg</language>
 	</row>
 	<row id="narc_0599_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="narc_0599_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hamburg</language>
+		<language name="English">Hamborg</language>
 	</row>
 	<row id="narc_0599_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0599_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Schleswig-Holstein</language>
+		<language name="English">Slesvig-Holsten</language>
 	</row>
 	<row id="narc_0599_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

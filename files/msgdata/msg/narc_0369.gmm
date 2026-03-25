@@ -58,10 +58,10 @@
 	</row>
 	<row id="narc_0369_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes</language>
+		<language name="English">Ja</language>
 	</row>
 	<row id="narc_0369_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Ingen</language>
 	</row>
 </body>

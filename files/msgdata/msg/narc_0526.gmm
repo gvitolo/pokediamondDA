@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="narc_0526_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m using Seals to learn the\nalphabet!</language>
+		<language name="English">Jeg bruger Seals til at lære \nalfabetet!</language>
 	</row>
 	<row id="narc_0526_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, that {STRVAR_1 0, 0} looks just like\nmy Seals!\rI’ll give you a bunch of Seals that\nlook like it.\r</language>
+		<language name="English">Åh, at {STRVAR_1 0, 0} ligner\nmine sæler!\rJeg vil give dig en masse sæler, der\nligner det.\r</language>
 	</row>
 	<row id="narc_0526_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wonder which came first, that\nPokémon or the alphabet?\fI think it’s kind of neat.</language>
+		<language name="English">Jeg spekulerer på, hvad der kom først, at\nPokémon eller alfabetet?\fJeg synes, det er ret pænt.</language>
 	</row>
 	<row id="narc_0526_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wanted to give you some Seals,\nbut you don’t have a Seal Case!\fYou should talk to my mom!</language>
+		<language name="English">Jeg ville gerne give dig nogle Seals,\nmen du har ikke en Seal Case!\fDu bør tale med min mor!</language>
 	</row>
 	<row id="narc_0526_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 10, 0} were\nput away in the Seal Case.</language>
+		<language name="English">{STRVAR_1 10, 0} blev\nlagt væk i seglhuset.</language>
 	</row>
 	<row id="narc_0526_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can customize Poké Balls by\naffixing Seals on them.\rOh, you don’t have a Seal Case?\nWell, here you go!\r</language>
+		<language name="English">Du kan tilpasse Poké Balls ved at\nsætte Seals på dem.\rÅh, har du ikke en Seal Case?\nNå, nu!\r</language>
 	</row>
 	<row id="narc_0526_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First, check the heading “Ball\nCapsules” in your PC menu.\rNext, choose a Capsule and apply\nSeals to it as you wish.\rWhen you’re done, put the Capsule\non a Poké Ball.</language>
+		<language name="English">Tjek først overskriften "Kugle\nKapsler" i din pc-menu.\rVælg derefter en Kapsel og påfør\nforseglinger på den, som du ønsker.\rNår du er færdig, skal du sætte Kapslen\ikke en Poké-bold.</language>
 	</row>
 	<row id="narc_0526_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My son goes out to the ruins\nwhenever he gets the chance.\rHe says that it’s good for making\nSeals for his Ball Capsules.\rIf you don’t mind, can you show him\nthe Pokémon you catch in the ruins?</language>
+		<language name="English">Min søn går ud til ruinerne\nhver gang han får chancen.\rHan siger, at det er godt at lave\nSætninger til sine kuglekapsler.\rHvis du ikke har noget imod det, kan du så vise ham\nden Pokémon, du fanger i ruinerne?</language>
 	</row>
 </body>

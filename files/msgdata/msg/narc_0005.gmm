@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0005_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The data could not be read.\n\nPlease turn off the power, then\nremove and reinsert the DS Game\nCard.</language>
+		<language name="English">Dataene kunne ikke læses.\n\nSluk for strømmen.\nfjerne og genindsætte DS-spillet\nKort.</language>
 	</row>
 	<row id="narc_0005_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Error reading data.\n\nThe GBA Game Pak was removed.\nPlease turn off the power and retry.</language>
+		<language name="English">Fejl ved læsning af data.\n\nGBA Game Pak blev fjernet.\nSluk for strømmen og prøv igen.</language>
 	</row>
 </body>

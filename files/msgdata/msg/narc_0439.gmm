@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0439_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Backlot is the master of this\nhouse. This is his office.</language>
+		<language name="English">Mr. Backlot er mester i dette\nhus. Dette er hans kontor.</language>
 	</row>
 	<row id="narc_0439_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the way out to the trophy\ngarden.\rThe garden is open for all visitors\nto enjoy.\rHowever, please beware--wild Pokémon\nmay appear in the garden.</language>
+		<language name="English">Dette er vejen ud til trofæet\nhave.\rHaven er åben for alle besøgende\nat nyde.\rMen pas på - vilde Pokémon\nkan dukke op i haven.</language>
 	</row>
 	<row id="narc_0439_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m so sorry... Everything beyond\nthis point is secret and off-limits.</language>
+		<language name="English">Jeg er så ked af det... Alt ud over\ndette punkt er hemmeligt og off-limits.</language>
 	</row>
 	<row id="narc_0439_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m so sorry. Everything beyond this\npoint is strictly off-limits.</language>
+		<language name="English">Jeg er så ked af det. Alt ud over dette\npunkt er strengt forbudt.</language>
 	</row>
 </body>

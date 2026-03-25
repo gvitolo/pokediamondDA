@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0521_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Day-Care Man was saying Pokémon\ngrow at different rates.</language>
+		<language name="English">Dagplejemanden sagde Pokémon\ngro med forskellige hastigheder.</language>
 	</row>
 	<row id="narc_0521_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a fair distance from Solaceon\nTown to Veilstone City.\rI suppose you can rest at the cafe,\nbut that place...</language>
+		<language name="English">Det er et rimeligt stykke fra Solaceon\nTown til Veilstone City.\rJeg formoder, at du kan hvile dig på cafeen,\nmen det sted...</language>
 	</row>
 </body>

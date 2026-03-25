@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0051_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello.\nThis is the Canalave Library.\rPlease keep quiet while you’re on\nthe premises.</language>
+		<language name="English">Hej.\nDet er Canalave-biblioteket.\rVær stille, mens du er på\nlokalerne.</language>
 	</row>
 	<row id="narc_0051_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">H-hello!\nThis is the Canalave Library.\rPlease keep quiet while you’re on\nthe premises.\rIt certainly wasn’t me who screamed,\r{SIZE 200}“Gyaaah!!”{SIZE 100}\r{SIZE 200}{SIZE 100}or shouted,\r{SIZE 200}“Help meee!!”{SIZE 100}\r{SIZE 200}{SIZE 100}No, really, that wasn’t me\nscreaming!</language>
+		<language name="English">Hej!\nDet er Canalave-biblioteket.\rVær stille, mens du er på\nlokalerne.\rDet var ikke mig, der skreg.\r{SIZE 200}“Gyaaah!!”{SIZE 100}\r{SIZE 200}{SIZE 100}eller råbte\r{SIZE 200}“Hjælp mig!”{SIZE 100}\r{SIZE 200}{SIZE 100}Nej, det var ikke mig.\nSkrigende!</language>
 	</row>
 	<row id="narc_0051_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,18 +14,18 @@
 	</row>
 	<row id="narc_0051_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What is it? Please don’t disturb\nme when I’m reading.\r</language>
+		<language name="English">Hvad er det? Må ikke forstyrre\nMig, når jeg læser.\r</language>
 	</row>
 	<row id="narc_0051_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve been asking people not to\ndisturb me while I’m reading...\rI shouldn’t even have bothered...\nI’m all agitated now!</language>
+		<language name="English">Jeg har hørt folk om ikke at\nForstyrer mig, men jeg holder...\rJeg skal ikke have noget.\nJeg er ophidset nu!</language>
 	</row>
 	<row id="narc_0051_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ceiling-high bookshelves are\ncrammed with books.</language>
+		<language name="English">De ophold- høje bogreoler er\nMed bøger.</language>
 	</row>
 	<row id="narc_0051_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The shelves are lined with books\nworn from being read by many people.</language>
+		<language name="English">De hylder er foret med bøger\nbåret fra at blive læst af mange mennesker.</language>
 	</row>
 </body>

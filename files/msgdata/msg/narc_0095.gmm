@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0095_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oak: Ah, it’s you! Good to see you!\nHow is your Pokédex coming along?\rCapturing every kind of Pokémon is\nno easy feat, I’ll grant you that.\rBut I’m sure you can accomplish it!\r</language>
+		<language name="English">Det er dig! Godt at se dig!\nHvordan går det med din Pokédex?\rAt fange alle slags Pokémon er\nDet må jeg indrømme.\rMen jeg er sikker på, du kan opnå det!\r</language>
 	</row>
 	<row id="narc_0095_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oak: Ah, yes!\rAn acquaintance from Kanto has sent\nme something quite interesting.\rI think you’d make better use of it\nthan I ever could.\r</language>
+		<language name="English">Ja!\rEn bekendt fra Kanto har sendt\nNoget interessant.\rJeg tror, du vil gøre bedre brug af det.\nend jeg nogensinde kunne.\r</language>
 	</row>
 	<row id="narc_0095_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I understand there is a Pokémon that\nevolves when it is traded while holding\fthat Up-Grade.</language>
+		<language name="English">Jeg forstär, der er en Pokémon, der\nudvikler sig, når det håndteres, mens besiddelse\fPå Up-Grade.</language>
 	</row>
 </body>

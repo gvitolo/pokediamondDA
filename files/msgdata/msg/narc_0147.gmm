@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="narc_0147_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\rYou may exchange your Coins for\nfabulous prizes here!\r</language>
+		<language name="English">Velkommen!\rDu kan bytte dine mønter til\nfabelagtige præmier her!\r</language>
 	</row>
 	<row id="narc_0147_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which prize would you like?</language>
+		<language name="English">Hvilken præmie kunne du tænke dig?</language>
 	</row>
 	<row id="narc_0147_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So your choice is\nthe {STRVAR_1 8, 0}?</language>
+		<language name="English">Så dit valg er {STRVAR_1 8, 0}?</language>
 	</row>
 	<row id="narc_0147_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So your choice is {STRVAR_1 8, 0}:\n{STRVAR_1 6, 1}?</language>
+		<language name="English">Så dit valg er {STRVAR_1 8, 0}:\n{STRVAR_1 6, 1}?</language>
 	</row>
 	<row id="narc_0147_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here you go!</language>
+		<language name="English">Her går du!</language>
 	</row>
 	<row id="narc_0147_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough Coins.\r</language>
+		<language name="English">Du har ikke nok mønter.\r</language>
 	</row>
 	<row id="narc_0147_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There isn’t any room available for\nthat {STRVAR_1 8, 0}.\r</language>
+		<language name="English">Der er ikke plads til det {STRVAR_1 8, 0}.\r</language>
 	</row>
 	<row id="narc_0147_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, is that so? \nPlease come back with some Coins!</language>
+		<language name="English">Åh, er det sådan? \nVend venligst tilbage med nogle mønter!</language>
 	</row>
 	<row id="narc_0147_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love words like “walk-off,\ngrand-slam home run.”</language>
+		<language name="English">Jeg elsker ord som "walk-off, grand-slam home run."</language>
 	</row>
 	<row id="narc_0147_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They have prizes I really want, but\nit’d be tough saving up the Coins.</language>
+		<language name="English">De har præmier, jeg virkelig gerne vil have, men det ville være svært at spare mønterne op.</language>
 	</row>
 </body>

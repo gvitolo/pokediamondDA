@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="narc_0148_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You there.\nWatch this Coin.\r</language>
+		<language name="English">Du der.\nSe denne mønt.\r</language>
 	</row>
 	<row id="narc_0148_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,22 +10,22 @@
 	</row>
 	<row id="narc_0148_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now, which hand is that Coin in?\nMy left or right?</language>
+		<language name="English">Hvilken hånd er den mønt i?\nMin venstre eller højre?</language>
 	</row>
 	<row id="narc_0148_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boo!\nPoor show!</language>
+		<language name="English">Boo!\nDårligt show!</language>
 	</row>
 	<row id="narc_0148_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bravo!\nA winner is you!\rFor our winner, I have here...\nA Coin Case!\r</language>
+		<language name="English">Bravo!\nEn vinder er dig!\rTil vores vinder har jeg her...\nEn møntkasse!\r</language>
 	</row>
 	<row id="narc_0148_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me, I am but a tearful clown.\nThough I smile, I cry inside.</language>
+		<language name="English">Mig, jeg er kun en tårevædet klovn.\nSelv om jeg smiler, græder jeg indeni.</language>
 	</row>
 	<row id="narc_0148_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many magicians in the world.\nYou know, the performance artists?\rDon’t you think, that maybe, say,\nfive percent are actually psychics?</language>
+		<language name="English">Der er mange tryllekunstnere i verden.\nVed du, performancekunstnerne?\rTror du ikke, at måske, for eksempel,\nfem procent faktisk er synske?</language>
 	</row>
 </body>

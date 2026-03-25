@@ -1,40 +1,40 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0488_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\nHow may I serve you?</language>
+		<language name="English">Velkomst!\nHvordan kan jeg tjene dig?</language>
 	</row>
 	<row id="narc_0488_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please come again!</language>
+		<language name="English">Kom venligst igen!</language>
 	</row>
 	<row id="narc_0488_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is there anything else I may do\nfor you?</language>
+		<language name="English">Er der andet jeg kan gøre\nfor dig?</language>
 	</row>
 	<row id="narc_0488_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough money.</language>
+		<language name="English">Du har ikke penge nok.</language>
 	</row>
 	<row id="narc_0488_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0}? Certainly.\nHow many would you like?</language>
+		<language name="English">{STRVAR_1 8, 0}? Sikkert.\nHvor mange vil du have?</language>
 	</row>
 	<row id="narc_0488_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0}, and you want {STRVAR_1 51, 1}.\nThat will be ${STRVAR_1 55, 2}. OK?</language>
+		<language name="English">{STRVAR_1 8, 0}, og du vil {STRVAR_1 51, 1}.\nDet vil være ${STRVAR_1 55, 2}. OK?</language>
 	</row>
 	<row id="narc_0488_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here you are!\nThank you!\rYou put away the {STRVAR_1 8, 0}\nin the {STRVAR_1 27, 1} Pocket.</language>
+		<language name="English">Her er du!\nTak!\rDu lægger væk {STRVAR_1 8, 0}\ni {STRVAR_1 27, 1} Lomme.</language>
 	</row>
 	<row id="narc_0488_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have no more room for this\nitem.</language>
+		<language name="English">Du har ikke mere plads til dette\npunkt.</language>
 	</row>
 	<row id="narc_0488_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0488_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,39 +42,39 @@
 	</row>
 	<row id="narc_0488_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You also get a Premier Ball as\nan added bonus.</language>
+		<language name="English">Du får også en Premier Ball som\nen ekstra bonus.</language>
 	</row>
 	<row id="narc_0488_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you! We’ll send\nthe {STRVAR_1 10, 0} to your PC.</language>
+		<language name="English">Tak! Vi sender\nde {STRVAR_1 10, 0} til din pc.</language>
 	</row>
 	<row id="narc_0488_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your PC is full.\nYou have no more room for goods.</language>
+		<language name="English">Din pc er fuld.\nDu har ikke mere plads til varer.</language>
 	</row>
 	<row id="narc_0488_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You placed the {STRVAR_1 10, 0}\nin the Seal Case.</language>
+		<language name="English">Du placerede {STRVAR_1 10, 0}\ni Seglsagen.</language>
 	</row>
 	<row id="narc_0488_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Seal Case is full.\nYou have no more room for Seals.</language>
+		<language name="English">Seal Case er fuld.\nDu har ikke mere plads til Seals.</language>
 	</row>
 	<row id="narc_0488_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUY</language>
+		<language name="English">KØBE</language>
 	</row>
 	<row id="narc_0488_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SELL</language>
+		<language name="English">SÆLGE</language>
 	</row>
 	<row id="narc_0488_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEE YA!</language>
+		<language name="English">SE DIG!</language>
 	</row>
 	<row id="narc_0488_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Money</language>
+		<language name="English">Penge</language>
 	</row>
 	<row id="narc_0488_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="narc_0488_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In Bag: {STRVAR_1 52, 0}</language>
+		<language name="English">I taske: {STRVAR_1 52, 0}</language>
 	</row>
 	<row id="narc_0488_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -94,10 +94,10 @@
 	</row>
 	<row id="narc_0488_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0488_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 </body>

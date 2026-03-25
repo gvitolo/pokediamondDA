@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0603_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0603_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">East of England</language>
+		<language name="English">Øst for England</language>
 	</row>
 	<row id="narc_0603_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,27 +18,27 @@
 	</row>
 	<row id="narc_0603_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">North East England</language>
+		<language name="English">Nordøst England</language>
 	</row>
 	<row id="narc_0603_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">North West England</language>
+		<language name="English">Nordvestengland</language>
 	</row>
 	<row id="narc_0603_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Northern Ireland</language>
+		<language name="English">Nordirland</language>
 	</row>
 	<row id="narc_0603_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Scotland</language>
+		<language name="English">Skotland</language>
 	</row>
 	<row id="narc_0603_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">South East England</language>
+		<language name="English">Sydøstengland</language>
 	</row>
 	<row id="narc_0603_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">South West England</language>
+		<language name="English">Sydvestengland</language>
 	</row>
 	<row id="narc_0603_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -50,6 +50,6 @@
 	</row>
 	<row id="narc_0603_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yorkshire and the Humber</language>
+		<language name="English">Yorkshire og Humber</language>
 	</row>
 </body>

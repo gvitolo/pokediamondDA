@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="narc_0132_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everyone calls me the Pokémon\nMove Maniac. I prefer Move Tutor.\rI know every move that Pokémon learn\nwhile they’re leveling up, and I can\fteach Pokémon those moves.\rI can teach a move to a Pokémon\nof yours if you’d like.\rI’ll do it if you’ll trade me\na Heart Scale.\r</language>
+		<language name="English">Alle kalder mig Pokémon Move Maniac. Jeg foretrækker Move Tutor.\rJeg kender hvert eneste træk som Pokémon lærer\nmens de stiger i niveau, og jeg kan\flære Pokémon de bevægelser.\rJeg kan lære et træk til en Pokémon\n af din, hvis du vil.\rJeg gør det, hvis du vil bytte mig\nen hjerteskala.</language>
 	</row>
 	<row id="narc_0132_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! That’s it! That’s an honest-to-\ngoodness Heart Scale!\rLet me guess, you want me to teach\none of your Pokémon a move?\r</language>
+		<language name="English">Åh! Det er det! Det er en ærlig-til-godhed hjerteskala!\rLad mig gætte, du vil have, at jeg skal lære en af ​​dine Pokémon et træk?\r</language>
 	</row>
 	<row id="narc_0132_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If any of your Pokémon needs to learn a\nmove, come back with a Heart Scale.</language>
+		<language name="English">Hvis nogen af ​​dine Pokémon har brug for at lære en bevægelse, så kom tilbage med en hjerteskala.</language>
 	</row>
 	<row id="narc_0132_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon needs tutoring?\r</language>
+		<language name="English">Hvilken Pokémon har brug for vejledning?\r</language>
 	</row>
 	<row id="narc_0132_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which move should I teach?\r</language>
+		<language name="English">Hvilket træk skal jeg lære?\r</language>
 	</row>
 	<row id="narc_0132_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry...\rThere isn’t any move I can teach\nthat Pokémon.</language>
+		<language name="English">Beklager...\rDer er ingen bevægelse, jeg kan lære den Pokémon.</language>
 	</row>
 	<row id="narc_0132_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hunh?\rDon’t you think it’d be tough for\nan Egg to learn a move?</language>
+		<language name="English">Hunh?\rTror du ikke, det ville være svært for et æg at lære et træk?</language>
 	</row>
 	<row id="narc_0132_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -75,6 +75,6 @@
 	</row>
 	<row id="narc_0132_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 3} handed over\n{STRVAR_1 8, 4} in exchange.</language>
+		<language name="English">{STRVAR_1 3, 3} afleveret\n{STRVAR_1 8, 4} i bytte.</language>
 	</row>
 </body>

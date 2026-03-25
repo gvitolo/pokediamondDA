@@ -2,107 +2,107 @@
 <body language="English">
 	<row id="narc_0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Script Battle</language>
+		<language name="English">Script kamp</language>
 	</row>
 	<row id="narc_0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Script Contest</language>
+		<language name="English">Manuskriptkonkurrence</language>
 	</row>
 	<row id="narc_0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Record Max</language>
+		<language name="English">Rekord Max</language>
 	</row>
 	<row id="narc_0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friends Max</language>
+		<language name="English">Venner Max</language>
 	</row>
 	<row id="narc_0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">High odds to dig</language>
+		<language name="English">Høje odds for at grave</language>
 	</row>
 	<row id="narc_0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Channel</language>
+		<language name="English">Kanal</language>
 	</row>
 	<row id="narc_0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mystery</language>
+		<language name="English">Mysterium</language>
 	</row>
 	<row id="narc_0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quick Battle Client</language>
+		<language name="English">Quick Battle-klient</language>
 	</row>
 	<row id="narc_0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Single Client</language>
+		<language name="English">Enkelt klient</language>
 	</row>
 	<row id="narc_0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Double Client</language>
+		<language name="English">Dobbelt klient</language>
 	</row>
 	<row id="narc_0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mix Client</language>
+		<language name="English">Mix klient</language>
 	</row>
 	<row id="narc_0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Multi Client</language>
+		<language name="English">Multi klient</language>
 	</row>
 	<row id="narc_0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Multi 2 Client</language>
+		<language name="English">Multi 2 klient</language>
 	</row>
 	<row id="narc_0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quick Battle Host</language>
+		<language name="English">Hurtig kampvært</language>
 	</row>
 	<row id="narc_0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Single Host</language>
+		<language name="English">Enkelt vært</language>
 	</row>
 	<row id="narc_0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Double Host</language>
+		<language name="English">Dobbelt vært</language>
 	</row>
 	<row id="narc_0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mix Host</language>
+		<language name="English">Bland vært</language>
 	</row>
 	<row id="narc_0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Multi Host</language>
+		<language name="English">Multi vært</language>
 	</row>
 	<row id="narc_0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Multi 2 Host</language>
+		<language name="English">Multi 2 vært</language>
 	</row>
 	<row id="narc_0301_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quick Contest Client</language>
+		<language name="English">Hurtig konkurrence klient</language>
 	</row>
 	<row id="narc_0301_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quick Contest Host</language>
+		<language name="English">Hurtig konkurrencevært</language>
 	</row>
 	<row id="narc_0301_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Coolness</language>
+		<language name="English">Kølighed</language>
 	</row>
 	<row id="narc_0301_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beauty</language>
+		<language name="English">Skønhed</language>
 	</row>
 	<row id="narc_0301_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cuteness</language>
+		<language name="English">Nuttethed</language>
 	</row>
 	<row id="narc_0301_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Toughness</language>
+		<language name="English">Sejhed</language>
 	</row>
 	<row id="narc_0301_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smartness</language>
+		<language name="English">Smarthed</language>
 	</row>
 	<row id="narc_0301_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -114,15 +114,15 @@
 	</row>
 	<row id="narc_0301_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hard</language>
+		<language name="English">Hård</language>
 	</row>
 	<row id="narc_0301_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Master</language>
+		<language name="English">Mestre</language>
 	</row>
 	<row id="narc_0301_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Underground debug</language>
+		<language name="English">Underjordisk debug</language>
 	</row>
 	<row id="narc_0301_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -138,19 +138,19 @@
 	</row>
 	<row id="narc_0301_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delivery debug</language>
+		<language name="English">Fejlfinding ved levering</language>
 	</row>
 	<row id="narc_0301_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Add Items to PC</language>
+		<language name="English">Tilføj elementer til pc</language>
 	</row>
 	<row id="narc_0301_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nullify goods penalty</language>
+		<language name="English">Ophæv varebod</language>
 	</row>
 	<row id="narc_0301_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Add a Trap to BAG</language>
+		<language name="English">Tilføj en fælde til BAG</language>
 	</row>
 	<row id="narc_0301_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -158,23 +158,23 @@
 	</row>
 	<row id="narc_0301_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Underground</language>
+		<language name="English">Underjordisk</language>
 	</row>
 	<row id="narc_0301_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Underground 1</language>
+		<language name="English">Undergrund 1</language>
 	</row>
 	<row id="narc_0301_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Underground 2</language>
+		<language name="English">Undergrund 2</language>
 	</row>
 	<row id="narc_0301_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To be Host</language>
+		<language name="English">At være vært</language>
 	</row>
 	<row id="narc_0301_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To be Client</language>
+		<language name="English">At være kunde</language>
 	</row>
 	<row id="narc_0301_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
@@ -182,7 +182,7 @@
 	</row>
 	<row id="narc_0301_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flag level</language>
+		<language name="English">Flag niveau</language>
 	</row>
 	<row id="narc_0301_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
@@ -190,19 +190,19 @@
 	</row>
 	<row id="narc_0301_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Silver</language>
+		<language name="English">Sølv</language>
 	</row>
 	<row id="narc_0301_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gold</language>
+		<language name="English">Guld</language>
 	</row>
 	<row id="narc_0301_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Platinum</language>
+		<language name="English">Platin</language>
 	</row>
 	<row id="narc_0301_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Default</language>
+		<language name="English">Misligholdelse</language>
 	</row>
 	<row id="narc_0301_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
@@ -214,14 +214,14 @@
 	</row>
 	<row id="narc_0301_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take a Flag (2 players needed)</language>
+		<language name="English">Tag et flag (kræver 2 spillere)</language>
 	</row>
 	<row id="narc_0301_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bury 99 Fossils</language>
+		<language name="English">Begrav 99 fossiler</language>
 	</row>
 	<row id="narc_0301_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bag w/ full Orbs</language>
+		<language name="English">Taske m/ fulde kugler</language>
 	</row>
 </body>

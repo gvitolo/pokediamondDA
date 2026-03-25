@@ -1,38 +1,38 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0576_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="narc_0576_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="narc_0576_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="narc_0576_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="narc_0576_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="narc_0576_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="narc_0576_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="narc_0576_00007" index="7">
@@ -53,19 +53,19 @@
 	</row>
 	<row id="narc_0576_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have an offer to see\n{STRVAR_1 3, 0}’s Trainer Case.\rWould you like to show your\nTrainer Case?</language>
+		<language name="English">Du har et tilbud at se\n{STRVAR_1 3, 0}'s Trainer Case.\rVil du gerne vise din\nTrænercase?</language>
 	</row>
 	<row id="narc_0576_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the Trainer Case of\n{STRVAR_1 3, 0}, who lives in\r{STRVAR_1 37, 4},\n{STRVAR_1 36, 3}.</language>
+		<language name="English">Dette er Trainer Case af\n{STRVAR_1 3, 0}, der bor i\r{STRVAR_1 37, 4},\n{STRVAR_1 36, 3}.</language>
 	</row>
 	<row id="narc_0576_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the Trainer Case of\n{STRVAR_1 3, 0}, who lives in\f{STRVAR_1 36, 3}.\n</language>
+		<language name="English">Dette er Trainer Case af\n{STRVAR_1 3, 0}, der bor i\f{STRVAR_1 36, 3}.\n</language>
 	</row>
 	<row id="narc_0576_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the Trainer Case of\n{STRVAR_1 3, 0}, who lives in\f{STRVAR_1 37, 4}.\n</language>
+		<language name="English">Dette er Trainer Case af\n{STRVAR_1 3, 0}, der bor i\f{STRVAR_1 37, 4}.\n</language>
 	</row>
 	<row id="narc_0576_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -73,27 +73,27 @@
 	</row>
 	<row id="narc_0576_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awaiting the other player to finish.</language>
+		<language name="English">Afventer, at den anden spiller er færdig.</language>
 	</row>
 	<row id="narc_0576_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You declined the offer.</language>
+		<language name="English">Du afslog tilbuddet.</language>
 	</row>
 	<row id="narc_0576_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} has invited you to\ndraw something.\rWould you like to join the other\nplayer and draw?</language>
+		<language name="English">{STRVAR_1 3, 0} har inviteret dig til\ntegne noget.\rVil du være med til den anden\nspiller og tegner?</language>
 	</row>
 	<row id="narc_0576_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s get drawing!</language>
+		<language name="English">Lad os begynde at tegne!</language>
 	</row>
 	<row id="narc_0576_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You declined the invitation.</language>
+		<language name="English">Du afviste invitationen.</language>
 	</row>
 	<row id="narc_0576_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} challenges you to\na battle.\rWill you accept the battle\nchallenge?</language>
+		<language name="English">{STRVAR_1 3, 0} udfordrer dig til\nen kamp.\rVil du acceptere kampen\nudfordring?</language>
 	</row>
 	<row id="narc_0576_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -105,7 +105,7 @@
 	</row>
 	<row id="narc_0576_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For a battle, you need two\nPokémon that are Lv. 30 or below.</language>
+		<language name="English">Til en kamp har du brug for to\nPokémon, der er Lv. 30 eller derunder.</language>
 	</row>
 	<row id="narc_0576_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -121,7 +121,7 @@
 	</row>
 	<row id="narc_0576_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You declined the offer.</language>
+		<language name="English">Du afslog tilbuddet.</language>
 	</row>
 	<row id="narc_0576_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -137,30 +137,30 @@
 	</row>
 	<row id="narc_0576_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You declined the invitation.</language>
+		<language name="English">Du afviste invitationen.</language>
 	</row>
 	<row id="narc_0576_00033" index="33">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00034" index="34">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You declined the invitation.</language>
+		<language name="English">Du afviste invitationen.</language>
 	</row>
 	<row id="narc_0576_00036" index="36">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 2}{PAUSE 15}\rThis is {STRVAR_1 3, 0}! Is there\nsomething that you wanted to do?</language>
+		<language name="English">{STRVAR_1 28, 2}{PAUSE 15}\rDette er {STRVAR_1 3, 0}! Er der\nnoget du ville gøre?</language>
 	</row>
 	<row id="narc_0576_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -176,7 +176,7 @@
 	</row>
 	<row id="narc_0576_00041" index="41">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00042" index="42">
@@ -201,7 +201,7 @@
 	</row>
 	<row id="narc_0576_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for waiting!\nLet’s get drawing!</language>
+		<language name="English">Tak fordi du ventede!\nLad os begynde at tegne!</language>
 	</row>
 	<row id="narc_0576_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -217,16 +217,16 @@
 	</row>
 	<row id="narc_0576_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! Let’s do some drawing\ntogether!</language>
+		<language name="English">OK! Lad os tegne noget\nsammen!</language>
 	</row>
 	<row id="narc_0576_00052" index="52">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The last letter of what you draw has\nto be the first letter I draw?</language>
+		<language name="English">Det sidste bogstav i det du tegner har\nat være det første bogstav jeg tegner?</language>
 	</row>
 	<row id="narc_0576_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -238,7 +238,7 @@
 	</row>
 	<row id="narc_0576_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Uh-huh... What is that?\nThat’s supposed to be me?</language>
+		<language name="English">...Uh-huh... Hvad er det?\nskal det være mig?</language>
 	</row>
 	<row id="narc_0576_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -246,7 +246,7 @@
 	</row>
 	<row id="narc_0576_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for waiting!\nLet’s get our battle started!</language>
+		<language name="English">Tak fordi du ventede!\nLad os få vores kamp i gang!</language>
 	</row>
 	<row id="narc_0576_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -254,7 +254,7 @@
 	</row>
 	<row id="narc_0576_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to battle, you need two\nPokémon that are Lv. 30 or lower.\r</language>
+		<language name="English">Hvis du vil kæmpe, har du brug for to\nPokémon, der er Lv. 30 eller lavere.\r</language>
 	</row>
 	<row id="narc_0576_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -294,7 +294,7 @@
 	</row>
 	<row id="narc_0576_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t trade if you have only one\nPokémon with you.\r</language>
+		<language name="English">Du kan ikke handle, hvis du kun har én\nPokémon med dig.\r</language>
 	</row>
 	<row id="narc_0576_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
@@ -306,7 +306,7 @@
 	</row>
 	<row id="narc_0576_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for waiting!\nLet’s mix our records, then.</language>
+		<language name="English">Tak fordi du ventede!\nLad os så blande vores plader.</language>
 	</row>
 	<row id="narc_0576_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -322,15 +322,15 @@
 	</row>
 	<row id="narc_0576_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! Let’s mix our records!</language>
+		<language name="English">OK! Lad os blande vores plader!</language>
 	</row>
 	<row id="narc_0576_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, sorry!\nI just can’t right this instant.\fAnother time, OK?</language>
+		<language name="English">Åh, undskyld!\nJeg kan bare ikke rette op på dette øjeblik.\fEn anden gang, okay?</language>
 	</row>
 	<row id="narc_0576_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s fun mixing records!</language>
+		<language name="English">Det er sjovt at blande plader!</language>
 	</row>
 	<row id="narc_0576_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
@@ -346,72 +346,72 @@
 	</row>
 	<row id="narc_0576_00083" index="83">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00084" index="84">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00085" index="85">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00086" index="86">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00087" index="87">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00088" index="88">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00089" index="89">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00090" index="90">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00091" index="91">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00092" index="92">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00093" index="93">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00094" index="94">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00095" index="95">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 2}{PAUSE 15}\rHello, it’s {STRVAR_1 3, 0}!\nWould you like to do something?</language>
+		<language name="English">{STRVAR_1 28, 2}{PAUSE 15}\rHej, det er {STRVAR_1 3, 0}!\nKunne du tænke dig at gøre noget?</language>
 	</row>
 	<row id="narc_0576_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
@@ -427,7 +427,7 @@
 	</row>
 	<row id="narc_0576_00100" index="100">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00101" index="101">
@@ -460,7 +460,7 @@
 	</row>
 	<row id="narc_0576_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: We were drawing right\nnow.\rOh, I know! {STRVAR_1 3, 1}, would you\nlike to draw with us?</language>
+		<language name="English">{STRVAR_1 3, 0}: Vi tegnede rigtigt\nnu.\rÅh, jeg ved det! {STRVAR_1 3, 1}, ville du\nkan du lide at tegne med os?</language>
 	</row>
 	<row id="narc_0576_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
@@ -468,7 +468,7 @@
 	</row>
 	<row id="narc_0576_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! Thanks for waiting!\nLet’s get drawing!</language>
+		<language name="English">OK! Tak fordi du ventede!\nLad os begynde at tegne!</language>
 	</row>
 	<row id="narc_0576_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
@@ -480,7 +480,7 @@
 	</row>
 	<row id="narc_0576_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ahaha!\nWhat is that?!</language>
+		<language name="English">Ahaha!\nHvad er det?!</language>
 	</row>
 	<row id="narc_0576_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
@@ -488,7 +488,7 @@
 	</row>
 	<row id="narc_0576_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oops!\nI can’t stay inside the lines!</language>
+		<language name="English">Ups!\nJeg kan ikke holde mig inden for linjerne!</language>
 	</row>
 	<row id="narc_0576_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
@@ -504,7 +504,7 @@
 	</row>
 	<row id="narc_0576_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to battle, you need two\nPokémon that are Lv. 30 or lower.\r</language>
+		<language name="English">Hvis du vil kæmpe, har du brug for to\nPokémon, der er Lv. 30 eller lavere.\r</language>
 	</row>
 	<row id="narc_0576_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
@@ -512,7 +512,7 @@
 	</row>
 	<row id="narc_0576_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s it!\nThis is the right move now!</language>
+		<language name="English">Det er det!\nDette er det rigtige skridt nu!</language>
 	</row>
 	<row id="narc_0576_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
@@ -520,7 +520,7 @@
 	</row>
 	<row id="narc_0576_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have exquisite timing for\nswitching Pokémon!</language>
+		<language name="English">Du har udsøgt timing til\nskifter Pokémon!</language>
 	</row>
 	<row id="narc_0576_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
@@ -544,7 +544,7 @@
 	</row>
 	<row id="narc_0576_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t trade if you have only\none Pokémon with you.\r</language>
+		<language name="English">Du kan ikke handle, hvis du kun har\nen Pokémon med dig.\r</language>
 	</row>
 	<row id="narc_0576_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
@@ -564,7 +564,7 @@
 	</row>
 	<row id="narc_0576_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: We were just mixing\nour records.\rI know! {STRVAR_1 3, 1}, would you like\nto mix your records with us, too?</language>
+		<language name="English">{STRVAR_1 3, 0}: Vi blandede bare\nvores optegnelser.\rJeg ved det! {STRVAR_1 3, 1}, vil du gerne\nogså at blande dine plader med os?</language>
 	</row>
 	<row id="narc_0576_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
@@ -572,7 +572,7 @@
 	</row>
 	<row id="narc_0576_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for waiting!\nLet’s mix some records!</language>
+		<language name="English">Tak fordi du ventede!\nLad os mikse nogle plader!</language>
 	</row>
 	<row id="narc_0576_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
@@ -580,7 +580,7 @@
 	</row>
 	<row id="narc_0576_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s so fun to mix records!</language>
+		<language name="English">Det er så sjovt at mikse plader!</language>
 	</row>
 	<row id="narc_0576_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
@@ -588,7 +588,7 @@
 	</row>
 	<row id="narc_0576_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s mix it up!</language>
+		<language name="English">Lad os blande det sammen!</language>
 	</row>
 	<row id="narc_0576_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
@@ -596,72 +596,72 @@
 	</row>
 	<row id="narc_0576_00142" index="142">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00143" index="143">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00144" index="144">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00145" index="145">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00146" index="146">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00147" index="147">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00148" index="148">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00149" index="149">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00150" index="150">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00151" index="151">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00152" index="152">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00153" index="153">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00154" index="154">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Union Room.\rIf there is anything you need help\nwith, please let me know!</language>
+		<language name="English">Velkommen til Unionslokalet.\rHvis der er noget du har brug for hjælp\nmed, lad mig det vide!</language>
 	</row>
 	<row id="narc_0576_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
@@ -673,11 +673,11 @@
 	</row>
 	<row id="narc_0576_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the Union Room, you may battle\nwith two Pokémon of your choice\fthat are Lv. 30 or lower.\rWhen you visit here, we recommend\nthat you bring Pokémon that\fmeet this requirement.\r</language>
+		<language name="English">I Union Room kan du kæmpe\nmed to Pokémon efter eget valg\fdet er Lv. 30 eller lavere.\rNår du besøger her, anbefaler vi\nat du bringer Pokémon det\fopfylde dette krav.\r</language>
 	</row>
 	<row id="narc_0576_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may trade your Pokémon with\nother players.\rMeeting new people could be a\nshortcut to meeting rare Pokémon!\r</language>
+		<language name="English">Du kan bytte din Pokémon med\nandre spillere.\rAt møde nye mennesker kunne være en\ngenvej til at møde sjældne Pokémon!\r</language>
 	</row>
 	<row id="narc_0576_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
@@ -685,24 +685,24 @@
 	</row>
 	<row id="narc_0576_00161" index="161">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may get together with others\nand draw.\rYou all get to work on one sheet\nof paper at the same time.\rI’m sure a drawing made by friends\nwill be a memorable masterpiece!\rUp to five players can take part,\nso try it with your friends!\r</language>
+		<language name="English">Du kan komme sammen med andre\nog tegne.\rI kommer alle til at arbejde på ét ark\npapir på samme tid.\rJeg er sikker på en tegning lavet af venner\nvil være et mindeværdigt mesterværk!\rOp til fem spillere kan deltage,\nså prøv det med dine venner!\r</language>
 	</row>
 	<row id="narc_0576_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can chat with other people\nby selecting “CHAT” in the menu.\rGo out and meet other players in\nthe Union Room!\rLet people know what you’re like\nand what you’d like to do.\rMingle, chat, and add to your\ncircle of friends!\r</language>
+		<language name="English">Du kan chatte med andre mennesker\nved at vælge "CHAT" i menuen.\rGå ud og mød andre spillere\nUnionsrummet!\rFortæl folk, hvordan du er\nog hvad du gerne vil gøre.\rMingle, chat og føj til din\nvennekreds!\r</language>
 	</row>
 	<row id="narc_0576_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh!\nHere comes someone now!\rInstead of me, why not strike up\na chat with our newcomer?\r</language>
+		<language name="English">Åh!\nHer kommer nogen nu!\rI stedet for mig, hvorfor ikke slå til\nen snak med vores nytilkomne?\r</language>
 	</row>
 	<row id="narc_0576_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s rather boring if no one comes\nto visit...\rWhat might we do for\nentertainment...?\r</language>
+		<language name="English">Det er ret kedeligt, hvis der ikke kommer nogen\nat besøge...\rHvad kan vi gøre for\nunderholdning...?\r</language>
 	</row>
 	<row id="narc_0576_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
@@ -710,31 +710,31 @@
 	</row>
 	<row id="narc_0576_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello!\rThat’s right!\nIt’s important to say a greeting!\rIf someone arrives, let’s try to\nbe friendly!\r</language>
+		<language name="English">Hej!\rDet er rigtigt!\nDet er vigtigt at sige en hilsen!\rHvis der kommer nogen, så lad os prøve det\nvær venlig!\r</language>
 	</row>
 	<row id="narc_0576_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Greetings!\r{STRVAR_1 28, 0}?\nIt’s wonderful!\fI really like it, too!\rWhen you meet someone for the first\ntime, the proper etiquette is to\fintroduce yourself.\rBy introducing yourself, you’ll get to\nknow about the other person, too!\r</language>
+		<language name="English">Hilsen!\r{STRVAR_1 28, 0}?\nDet er vidunderligt!\fJeg kan også rigtig godt lide det!\rNår du møder nogen for første gang\ngang, den rette etikette er at\fpræsentere dig selv.\rVed at præsentere dig selv, kommer du til\nkender også den anden person!\r</language>
 	</row>
 	<row id="narc_0576_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 0} Trainer?\nThat’s what you are?\fIsn’t that something!\rBut I’m sorry to say, I don’t have\nany Pokémon...\rI would rather watch than battle,\nyou see.\r</language>
+		<language name="English">{STRVAR_1 28, 0} Træner?\ner det hvad du er?\fEr det ikke noget!\rMen jeg er ked af at sige, det har jeg ikke\nenhver Pokémon...\rJeg vil hellere se end kæmpe,\nser du.\r</language>
 	</row>
 	<row id="narc_0576_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! Your {STRVAR_1 28, 0}!\nI would love to have it!\fPlease trade me!\r...\rI was actually joking.\rI don’t have any Pokémon, so\nI can’t trade with anyone...\r</language>
+		<language name="English">Åh! Dine {STRVAR_1 28, 0}!\nJeg ville elske at have det!\fByt mig venligst!\r...\rJeg lavede faktisk sjov.\rJeg har ingen Pokémon, så\nJeg kan ikke handle med nogen...\r</language>
 	</row>
 	<row id="narc_0576_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 0}?\nI can understand you’d want one...\rBut you shouldn’t expect people to\nmake trades just for you.\rYou also have to consider what\nPokémon the other person wants.\r</language>
+		<language name="English">{STRVAR_1 28, 0}?\nJeg kan godt forstå du gerne vil have en...\rMen du skal ikke forvente, at folk gør det\nlav handler kun for dig.\rDu skal også overveje hvad\nPokémon den anden person vil have.\r</language>
 	</row>
 	<row id="narc_0576_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Union Room!\rI’m the only one here now, but\nplease do bring your friends for\fsome fun and excitement!\rIf you have time on your hands,\nI’m also here to chat.\rYou see, I have a lot of time on\nmy hands...\r</language>
+		<language name="English">Velkommen til Unionsrummet!\rJeg er den eneste her nu, men\ntag venligst dine venner med\flidt sjov og spænding!\rHvis du har tid på dine hænder,\nJeg er også her for at chatte.\rSer du, jeg har meget tid\nmine hænder...\r</language>
 	</row>
 	<row id="narc_0576_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m quite good at drawing!\rIf it’s {STRVAR_1 28, 0},\nleave it to me!\fNo one’s better than me at it!\r</language>
+		<language name="English">Jeg er ret god til at tegne!\rHvis det er {STRVAR_1 28, 0},\noverlad det til mig!\fIngen er bedre til det end mig!\r</language>
 	</row>
 	<row id="narc_0576_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
@@ -742,7 +742,7 @@
 	</row>
 	<row id="narc_0576_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s wrong?\nAre you feeling down about something?\rIf you’re feeling blue, it’s much\nbetter to have fun with friends\fthan to be alone.\r</language>
+		<language name="English">Hvad er der galt?\nFøler du dig nede over noget?\rHvis du føler dig blå, er det meget\nbedre at have det sjovt med venner\fend at være alene.\r</language>
 	</row>
 	<row id="narc_0576_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
@@ -754,7 +754,7 @@
 	</row>
 	<row id="narc_0576_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 0}?\nYou’re inviting me?\rOh, but I have to stay here and\nattend to our visitors.\rI’m sorry. I’d love to accept,\nbut I really can’t.\r</language>
+		<language name="English">{STRVAR_1 28, 0}?\ninviterer du mig?\rÅh, men jeg bliver nødt til at blive her og\ntage sig af vores besøgende.\rJeg er ked af det. Jeg tager gerne imod,\nmen det kan jeg virkelig ikke.\r</language>
 	</row>
 	<row id="narc_0576_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
@@ -762,31 +762,31 @@
 	</row>
 	<row id="narc_0576_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes!\nIt’s OK!\rNothing is impossible.\rThink positively and keep your\nchin up!\r</language>
+		<language name="English">Ja!\nDet er i orden!\rIntet er umuligt.\rTænk positivt og behold din\nhage op!\r</language>
 	</row>
 	<row id="narc_0576_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everyone has at least one thing\nthey aren’t good at.\rYou should never try to make someone\ndo what they don’t want to do.\rIncidentally, {STRVAR_1 28, 0} is\nsomething that I would like to do.\r</language>
+		<language name="English">Alle har mindst én ting\nde er ikke gode til.\rDu bør aldrig prøve at lave nogen\ngøre, hvad de ikke vil.\rI øvrigt {STRVAR_1 28, 0} er\nnoget jeg gerne vil gøre.\r</language>
 	</row>
 	<row id="narc_0576_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good luck! I hope you enjoy\nserious battles.\rYou can’t experience ones like\nthis in the Union Room!\r</language>
+		<language name="English">Held og lykke! Jeg håber du nyder det\nalvorlige kampe.\rDu kan ikke opleve dem som\ndette i Unionsrummet!\r</language>
 	</row>
 	<row id="narc_0576_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You want to chat?\rWell, you shouldn’t be wasting your\ntime chatting with me.\rYou need to be more active and\ntalk to other players.\rAfter all, you can’t make friends\nif you don’t talk to people.\r</language>
+		<language name="English">Vil du chatte?\rNå, du skal ikke spilde din\ntid til at chatte med mig.\rDu skal være mere aktiv og\ntale med andre spillere.\rDu kan jo ikke få venner\nhvis du ikke taler med folk.\r</language>
 	</row>
 	<row id="narc_0576_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you?\nUm... Right before my eyes.\rOh!\nAre you maybe an impostor?\rThe real player is somewhere else?\r...That’s ridiculous!\nPlease, don’t be silly!\fMy word!\r</language>
+		<language name="English">Hvor er du?\nUm... Lige foran mine øjne.\rÅh!\nEr du måske en bedrager?\rEr den rigtige spiller et andet sted?\r...Det er latterligt!\nVær venligst ikke dum!\fMit ord!\r</language>
 	</row>
 	<row id="narc_0576_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 0} trade?\nThat sounds fun!\fI would love to as well.\rBut telling me that won’t help.\nI can’t trade with anyone.\r</language>
+		<language name="English">{STRVAR_1 28, 0} handle?\nDet lyder sjovt!\fDet ville jeg også gerne.\rMen at fortælle mig det hjælper ikke.\nJeg kan ikke handle med nogen.\r</language>
 	</row>
 	<row id="narc_0576_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to have a {STRVAR_1 28, 0}\nBattle, you need to be more\fassertive and talk to other players.\rIf you can’t assert yourself, you\nmay never get a chance at a\f{STRVAR_1 28, 0} Battle!\r</language>
+		<language name="English">Hvis du vil have en {STRVAR_1 28, 0}\nKæmp, du skal være mere\fselvsikker og tal med andre spillere.\rHvis du ikke kan hævde dig selv, du\nfår måske aldrig en chance for en\f{STRVAR_1 28, 0} Kamp!\r</language>
 	</row>
 	<row id="narc_0576_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
@@ -794,7 +794,7 @@
 	</row>
 	<row id="narc_0576_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHAT</language>
+		<language name="English">SNAK</language>
 	</row>
 	<row id="narc_0576_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
@@ -814,7 +814,7 @@
 	</row>
 	<row id="narc_0576_00193" index="193">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="narc_0576_00194" index="194">
@@ -823,11 +823,11 @@
 	</row>
 	<row id="narc_0576_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHAT</language>
+		<language name="English">SNAK</language>
 	</row>
 	<row id="narc_0576_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0576_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
@@ -835,7 +835,7 @@
 	</row>
 	<row id="narc_0576_00198" index="198">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00199" index="199">
@@ -844,31 +844,31 @@
 	</row>
 	<row id="narc_0576_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Waiting for the other player’s choice.</language>
+		<language name="English">Venter på den anden spillers valg.</language>
 	</row>
 	<row id="narc_0576_00201" index="201">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00202" index="202">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00203" index="203">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00204" index="204">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00205" index="205">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0576_00206" index="206">

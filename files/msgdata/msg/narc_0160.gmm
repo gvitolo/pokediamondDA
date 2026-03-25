@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="narc_0160_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you gone underground lately?\rDepending on where you go down,\nyou end up in different places.\rThat’s why I use my Explorer Kit\nin as many places as I can.</language>
+		<language name="English">Er du gået under jorden for nylig?\rAfhængigt af hvor du går ned,\nender du forskellige steder.\rDerfor bruger jeg mit Explorer Kit\nså mange steder, jeg kan.</language>
 	</row>
 	<row id="narc_0160_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Spheres found in the underground\ntunnels are like gems.\rYou can obtain goodies by trading\nthe Spheres away.</language>
+		<language name="English">Sfærerne, der findes i de underjordiske\ntunneler, er som ædelstene.\rDu kan få lækkerier ved at bytte\nsfærerne væk.</language>
 	</row>
 	<row id="narc_0160_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you bury Spheres, they grow\na little every day.\rThey’re really weird that way.\rOh, right! I’d better dig mine up!\nI forgot I had some buried!</language>
+		<language name="English">Hvis du begraver Spheres, vokser de lidt hver dag.\rDe er virkelig mærkelige på den måde.\rÅh, rigtigt! Jeg må hellere grave min op!\nJeg glemte, at jeg havde nogle begravet!</language>
 	</row>
 	<row id="narc_0160_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Get Flags from your friends to make\nyour Secret Base better.\rTry to hide your Secret Base, and\nget good at ferreting out your\ffriend’s bases.</language>
+		<language name="English">Få flag fra dine venner for at gøre\ndin hemmelige base bedre.\rPrøv at skjule din hemmelige base, og\nbliv god til at udslette din\fvens baser.</language>
 	</row>
 	<row id="narc_0160_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go underground and have fun down\nthere. Make it an adventure!</language>
+		<language name="English">Gå under jorden og hav det sjovt dernede. Gør det til et eventyr!</language>
 	</row>
 	<row id="narc_0160_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some underground Traps need to be\ndefused by touch or by using the\fmicrophone!</language>
+		<language name="English">Nogle underjordiske fælder skal uskadeliggøres ved berøring eller ved at bruge mikrofonen!</language>
 	</row>
 	<row id="narc_0160_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Underground Man in Eterna and\nByron of Canalave are related.\rAdd Byron’s son Roark, and you have\na trio of dedicated diggers.</language>
+		<language name="English">The Underground Man in Eterna og Byron of Canalave er beslægtet.\rFøj Byrons søn Roark, og du har\nen trio af dedikerede gravere.</language>
 	</row>
 </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0512_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -6,6 +6,6 @@
 	</row>
 	<row id="narc_0512_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A good Trainer is one that takes care\nnot to let their Pokémon faint from\flosing HP.</language>
+		<language name="English">En god træner er en, der tager sig af\nikke at lade deres Pokémon besvime af\fmiste HP.</language>
 	</row>
 </body>

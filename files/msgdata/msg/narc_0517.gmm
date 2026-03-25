@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0517_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some kinds of Pokémon appear only\nif they’re attracted by the sweet\fscent of Honey.</language>
+		<language name="English">Nogle slags Pokémon vises kun\nhvis de er tiltrukket af det søde\fduft af honning.</language>
 	</row>
 	<row id="narc_0517_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon must have an acute sense\nof smell.\rThey can sense the aroma of Honey\nfrom very far away.</language>
+		<language name="English">Pokémon skal have en akut sans\naf lugt.\rDe kan mærke duften af ​​honning\nfra meget langt væk.</language>
 	</row>
 </body>

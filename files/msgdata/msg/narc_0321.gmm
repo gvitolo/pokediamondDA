@@ -2,43 +2,43 @@
 <body language="English">
 	<row id="narc_0321_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POISONED</language>
+		<language name="English">FORGIFTET</language>
 	</row>
 	<row id="narc_0321_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PARALYZED</language>
+		<language name="English">LAMMET</language>
 	</row>
 	<row id="narc_0321_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ASLEEP</language>
+		<language name="English">SOVE</language>
 	</row>
 	<row id="narc_0321_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BURNED</language>
+		<language name="English">BRÆNDT</language>
 	</row>
 	<row id="narc_0321_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FROZEN</language>
+		<language name="English">FROSSEN</language>
 	</row>
 	<row id="narc_0321_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE BATTLE</language>
+		<language name="English">ENKEL KAMP</language>
 	</row>
 	<row id="narc_0321_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE BATTLE</language>
+		<language name="English">DOBBELT KAMP</language>
 	</row>
 	<row id="narc_0321_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIX BATTLE</language>
+		<language name="English">MIX KAMP</language>
 	</row>
 	<row id="narc_0321_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MULTI BATTLE</language>
+		<language name="English">MULTI KAMP</language>
 	</row>
 	<row id="narc_0321_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,23 +46,23 @@
 	</row>
 	<row id="narc_0321_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JOIN GROUP</language>
+		<language name="English">TILMELD DIG GRUPPE</language>
 	</row>
 	<row id="narc_0321_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BECOME LEADER</language>
+		<language name="English">BLIV LEDER</language>
 	</row>
 	<row id="narc_0321_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Current Floor</language>
+		<language name="English">Nuværende etage</language>
 	</row>
 	<row id="narc_0321_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -70,19 +70,19 @@
 	</row>
 	<row id="narc_0321_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COOL</language>
+		<language name="English">AFKØLE</language>
 	</row>
 	<row id="narc_0321_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BEAUTY</language>
+		<language name="English">SKØNHED</language>
 	</row>
 	<row id="narc_0321_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CUTE</language>
+		<language name="English">SØT</language>
 	</row>
 	<row id="narc_0321_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOUGH</language>
+		<language name="English">HÅRD</language>
 	</row>
 	<row id="narc_0321_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -90,11 +90,11 @@
 	</row>
 	<row id="narc_0321_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRADE</language>
+		<language name="English">HANDLE</language>
 	</row>
 	<row id="narc_0321_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0321_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -102,19 +102,19 @@
 	</row>
 	<row id="narc_0321_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YELLOW CUP</language>
+		<language name="English">GUL KOP</language>
 	</row>
 	<row id="narc_0321_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LITTLE CUP</language>
+		<language name="English">LILLE KOP</language>
 	</row>
 	<row id="narc_0321_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIDDLE CUP</language>
+		<language name="English">MELLEM CUP</language>
 	</row>
 	<row id="narc_0321_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HEAVY CUP</language>
+		<language name="English">TUNG KOP</language>
 	</row>
 	<row id="narc_0321_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -147,7 +147,7 @@
 	</row>
 	<row id="narc_0321_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH OFF</language>
+		<language name="English">SLUK</language>
 	</row>
 	<row id="narc_0321_00037" index="37">
 		<attribute name="window_context_name">garbage</attribute>
@@ -161,39 +161,39 @@
 	</row>
 	<row id="narc_0321_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONFIRM</language>
+		<language name="English">BEKRÆFTE</language>
 	</row>
 	<row id="narc_0321_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RULES</language>
+		<language name="English">REGLER</language>
 	</row>
 	<row id="narc_0321_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0321_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0321_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0321_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIRE</language>
+		<language name="English">BRAND</language>
 	</row>
 	<row id="narc_0321_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WATER</language>
+		<language name="English">VAND</language>
 	</row>
 	<row id="narc_0321_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GRASS</language>
+		<language name="English">GRÆS</language>
 	</row>
 	<row id="narc_0321_00048" index="48">
 		<attribute name="window_context_name">garbage</attribute>
@@ -202,7 +202,7 @@
 	</row>
 	<row id="narc_0321_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE</language>
+		<language name="English">KAMP</language>
 	</row>
 	<row id="narc_0321_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -222,15 +222,15 @@
 	</row>
 	<row id="narc_0321_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FERTILIZE</language>
+		<language name="English">BEFRUGTE</language>
 	</row>
 	<row id="narc_0321_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PLANT BERRY</language>
+		<language name="English">PLANTE BÆR</language>
 	</row>
 	<row id="narc_0321_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRAW</language>
+		<language name="English">TEGNE</language>
 	</row>
 	<row id="narc_0321_00057" index="57">
 		<attribute name="window_context_name">garbage</attribute>
@@ -239,15 +239,15 @@
 	</row>
 	<row id="narc_0321_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SOMEONE’S PC</language>
+		<language name="English">NOGENS PC</language>
 	</row>
 	<row id="narc_0321_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BEBE’S PC</language>
+		<language name="English">BEBES PC</language>
 	</row>
 	<row id="narc_0321_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}’s PC</language>
+		<language name="English">{STRVAR_1 3, 0}s pc</language>
 	</row>
 	<row id="narc_0321_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
@@ -255,91 +255,91 @@
 	</row>
 	<row id="narc_0321_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OAK’S PC</language>
+		<language name="English">OAK'S PC</language>
 	</row>
 	<row id="narc_0321_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROWAN’S PC</language>
+		<language name="English">ROWANS PC</language>
 	</row>
 	<row id="narc_0321_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH OFF</language>
+		<language name="English">SLUK</language>
 	</row>
 	<row id="narc_0321_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DEPOSIT POKéMON</language>
+		<language name="English">INDSÆT POKéMON</language>
 	</row>
 	<row id="narc_0321_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WITHDRAW POKéMON</language>
+		<language name="English">TRÆK POKéMON TILBAGE</language>
 	</row>
 	<row id="narc_0321_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE POKéMON</language>
+		<language name="English">FLYT POKéMON</language>
 	</row>
 	<row id="narc_0321_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE ITEMS</language>
+		<language name="English">FLYT VARER</language>
 	</row>
 	<row id="narc_0321_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COMPARE POKéMON</language>
+		<language name="English">SAMMENLIGN POKéMON</language>
 	</row>
 	<row id="narc_0321_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEE YA!</language>
+		<language name="English">SE DIG!</language>
 	</row>
 	<row id="narc_0321_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAILBOX</language>
+		<language name="English">POSTKASSE</language>
 	</row>
 	<row id="narc_0321_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BALL CAPSULES</language>
+		<language name="English">KUGLEKAPSULER</language>
 	</row>
 	<row id="narc_0321_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOG OUT</language>
+		<language name="English">LOG UD</language>
 	</row>
 	<row id="narc_0321_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon in your party may be stored\nin the storage system’s Boxes.</language>
+		<language name="English">Pokémon i din gruppe kan gemmes\i lagersystemet Boxes.</language>
 	</row>
 	<row id="narc_0321_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon stored in Boxes may be added\nto your party.</language>
+		<language name="English">Pokémon gemt i kasser kan tilføjes\til din fest.</language>
 	</row>
 	<row id="narc_0321_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may sort the Pokémon in Boxes\nand in your party.</language>
+		<language name="English">Du kan sortere Pokémon i kasser\nog i din fest.</language>
 	</row>
 	<row id="narc_0321_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may sort the items held by your\nPokémon in Boxes and in your party.</language>
+		<language name="English">Du kan sortere genstandene i din\nPokémon i kasser og i din fest.</language>
 	</row>
 	<row id="narc_0321_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may compare two Pokémon in Boxes\nor your party side by side.</language>
+		<language name="English">Du kan sammenligne to Pokémon i kasser\eller din fest side om side.</language>
 	</row>
 	<row id="narc_0321_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Log out of the Pokémon Storage\nSystem.</language>
+		<language name="English">Log ud af Pokémon Storage\System.</language>
 	</row>
 	<row id="narc_0321_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Up to 20 pieces of Mail can be\nstored.</language>
+		<language name="English">Op til 20 stykker post kan gemmes.</language>
 	</row>
 	<row id="narc_0321_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may set or edit capsules for\ndecorating Poké Balls.</language>
+		<language name="English">Du kan indstille eller redigere kapsler til\ndekoration af Poké-bolde.</language>
 	</row>
 	<row id="narc_0321_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Log out of your PC.</language>
+		<language name="English">Log ud af din pc.</language>
 	</row>
 	<row id="narc_0321_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0321_00084" index="84">
 		<attribute name="window_context_name">garbage</attribute>
@@ -393,7 +393,7 @@
 	</row>
 	<row id="narc_0321_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0321_00095" index="95">
 		<attribute name="window_context_name">garbage</attribute>
@@ -402,19 +402,19 @@
 	</row>
 	<row id="narc_0321_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTEST BASICS</language>
+		<language name="English">GRUNDLÆGGENDE KONKURRENCE</language>
 	</row>
 	<row id="narc_0321_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TYPES OF CONTESTS</language>
+		<language name="English">TYPER AF KONKURRENCER</language>
 	</row>
 	<row id="narc_0321_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTEST RANKS</language>
+		<language name="English">KONKURRENCE RÆKKER</language>
 	</row>
 	<row id="narc_0321_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0321_00100" index="100">
 		<attribute name="window_context_name">garbage</attribute>
@@ -447,7 +447,7 @@
 	</row>
 	<row id="narc_0321_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GREAT RANK</language>
+		<language name="English">STOR RANK</language>
 	</row>
 	<row id="narc_0321_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
@@ -459,31 +459,31 @@
 	</row>
 	<row id="narc_0321_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COOL CONTEST</language>
+		<language name="English">SEJ KONKURRENCE</language>
 	</row>
 	<row id="narc_0321_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BEAUTY CONTEST</language>
+		<language name="English">SKØNHEDSKONKURRENCE</language>
 	</row>
 	<row id="narc_0321_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CUTE CONTEST</language>
+		<language name="English">SØD KONKURRENCE</language>
 	</row>
 	<row id="narc_0321_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SMART CONTEST</language>
+		<language name="English">SMART KONKURRENCE</language>
 	</row>
 	<row id="narc_0321_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOUGH CONTEST</language>
+		<language name="English">HÅRD KONKURRENCE</language>
 	</row>
 	<row id="narc_0321_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
@@ -491,11 +491,11 @@
 	</row>
 	<row id="narc_0321_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">2F</language>
+		<language name="English">Af</language>
 	</row>
 	<row id="narc_0321_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">3F</language>
+		<language name="English">Benådning</language>
 	</row>
 	<row id="narc_0321_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
@@ -515,23 +515,23 @@
 	</row>
 	<row id="narc_0321_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOOKOUT</language>
+		<language name="English">UDSIGTIG</language>
 	</row>
 	<row id="narc_0321_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">50 Coins{CURSOR_X 60}$1,000</language>
+		<language name="English">50 mønter{CURSOR_X 60}$1.000</language>
 	</row>
 	<row id="narc_0321_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">500 Coins{CURSOR_X 60}$10,000</language>
+		<language name="English">500 mønter{CURSOR_X 60}$10.000</language>
 	</row>
 	<row id="narc_0321_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO THANKS</language>
+		<language name="English">NEJ TAK</language>
 	</row>
 	<row id="narc_0321_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
@@ -539,43 +539,43 @@
 	</row>
 	<row id="narc_0321_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRADE</language>
+		<language name="English">HANDLE</language>
 	</row>
 	<row id="narc_0321_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OFFER POKéMON?</language>
+		<language name="English">TILBYDE POKéMON?</language>
 	</row>
 	<row id="narc_0321_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEEK POKéMON?</language>
+		<language name="English">SØG POKéMON?</language>
 	</row>
 	<row id="narc_0321_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNDERSTOOD!</language>
+		<language name="English">FORSTÅET!</language>
 	</row>
 	<row id="narc_0321_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0}{STRVAR_1 2, 2}{CURSOR_X 90}Lv. {STRVAR_1 52, 1}</language>
+		<language name="English">{STRVAR_1 0, 0}{STRVAR_1 2, 2}{CURSOR_X 90}Lv.{STRVAR_1 52, 1}</language>
 	</row>
 	<row id="narc_0321_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0}{STRVAR_1 2, 2}{CURSOR_X 90}Lv. {STRVAR_1 52, 1}</language>
+		<language name="English">{STRVAR_1 0, 0}{STRVAR_1 2, 2}{CURSOR_X 90}Lv.{STRVAR_1 52, 1}</language>
 	</row>
 	<row id="narc_0321_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">OPHÆVE</language>
 	</row>
 	<row id="narc_0321_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RIGHT</language>
+		<language name="English">HØJRE</language>
 	</row>
 	<row id="narc_0321_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEFT</language>
+		<language name="English">VENSTRE</language>
 	</row>
 	<row id="narc_0321_00139" index="139">
 		<attribute name="window_context_name">garbage</attribute>
@@ -584,11 +584,11 @@
 	</row>
 	<row id="narc_0321_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RECORDS</language>
+		<language name="English">REKORDER</language>
 	</row>
 	<row id="narc_0321_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHALLENGE</language>
+		<language name="English">UDFORDRING</language>
 	</row>
 	<row id="narc_0321_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
@@ -596,59 +596,59 @@
 	</row>
 	<row id="narc_0321_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE</language>
+		<language name="English">ENKELT</language>
 	</row>
 	<row id="narc_0321_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE</language>
+		<language name="English">DOBBELT</language>
 	</row>
 	<row id="narc_0321_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KEEP GOING</language>
+		<language name="English">Bliv ved</language>
 	</row>
 	<row id="narc_0321_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REST</language>
+		<language name="English">HVILE</language>
 	</row>
 	<row id="narc_0321_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RETIRE</language>
+		<language name="English">TRÆKKE SIG TILBAGE</language>
 	</row>
 	<row id="narc_0321_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BECOME LEADER</language>
+		<language name="English">BLIV LEDER</language>
 	</row>
 	<row id="narc_0321_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JOIN GROUP</language>
+		<language name="English">TILMELD DIG GRUPPE</language>
 	</row>
 	<row id="narc_0321_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHECK LEADERS</language>
+		<language name="English">TJEK LEDERE</language>
 	</row>
 	<row id="narc_0321_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHALLENGE EARLIER ROOM</language>
+		<language name="English">UDFORDRER TIDLIGERE VÆRELSE</language>
 	</row>
 	<row id="narc_0321_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REGISTER A FRIEND?</language>
+		<language name="English">TILMELD EN VEN?</language>
 	</row>
 	<row id="narc_0321_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNDERSTOOD!</language>
+		<language name="English">FORSTÅET!</language>
 	</row>
 	<row id="narc_0321_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TELL ME AGAIN</language>
+		<language name="English">FORTÆL MIG IGEN</language>
 	</row>
 	<row id="narc_0321_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OLD AMBER</language>
+		<language name="English">GAMLE RAV</language>
 	</row>
 	<row id="narc_0321_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
@@ -656,15 +656,15 @@
 	</row>
 	<row id="narc_0321_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOME FOSSIL</language>
+		<language name="English">KUPPEFOSSIL</language>
 	</row>
 	<row id="narc_0321_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROOT FOSSIL</language>
+		<language name="English">RODFOSSIL</language>
 	</row>
 	<row id="narc_0321_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLAW FOSSIL</language>
+		<language name="English">KLOFOSSIL</language>
 	</row>
 	<row id="narc_0321_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
@@ -672,27 +672,27 @@
 	</row>
 	<row id="narc_0321_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKULL FOSSIL</language>
+		<language name="English">SKULLEFOSSIL</language>
 	</row>
 	<row id="narc_0321_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLES FOR TWO</language>
+		<language name="English">KAMPE FOR TO</language>
 	</row>
 	<row id="narc_0321_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLES FOR FOUR</language>
+		<language name="English">KAMP FOR FIRE</language>
 	</row>
 	<row id="narc_0321_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GREET</language>
+		<language name="English">HILSE</language>
 	</row>
 	<row id="narc_0321_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONVERSE</language>
+		<language name="English">KONVERSERE</language>
 	</row>
 	<row id="narc_0321_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHAT</language>
+		<language name="English">SNAK</language>
 	</row>
 	<row id="narc_0321_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
@@ -700,7 +700,7 @@
 	</row>
 	<row id="narc_0321_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO THANKS</language>
+		<language name="English">NEJ TAK</language>
 	</row>
 	<row id="narc_0321_00170" index="170">
 		<attribute name="window_context_name">garbage</attribute>
@@ -724,119 +724,119 @@
 	</row>
 	<row id="narc_0321_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RIGHT</language>
+		<language name="English">HØJRE</language>
 	</row>
 	<row id="narc_0321_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEFT</language>
+		<language name="English">VENSTRE</language>
 	</row>
 	<row id="narc_0321_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VISUAL</language>
+		<language name="English">VISUEL</language>
 	</row>
 	<row id="narc_0321_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DANCE</language>
+		<language name="English">DANSE</language>
 	</row>
 	<row id="narc_0321_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ACTING</language>
+		<language name="English">skuespil</language>
 	</row>
 	<row id="narc_0321_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PRACTICE</language>
+		<language name="English">PRAKSIS</language>
 	</row>
 	<row id="narc_0321_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FLAGS</language>
+		<language name="English">FLAG</language>
 	</row>
 	<row id="narc_0321_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPHERES</language>
+		<language name="English">Sfærer</language>
 	</row>
 	<row id="narc_0321_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAPS</language>
+		<language name="English">FÆLLER</language>
 	</row>
 	<row id="narc_0321_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GOODS</language>
+		<language name="English">GODS</language>
 	</row>
 	<row id="narc_0321_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TREASURES</language>
+		<language name="English">SKATTE</language>
 	</row>
 	<row id="narc_0321_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHALLENGE EARLIER ROOM</language>
+		<language name="English">UDFORDRER TIDLIGERE VÆRELSE</language>
 	</row>
 	<row id="narc_0321_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AREA 1</language>
+		<language name="English">OMRÅDE 1</language>
 	</row>
 	<row id="narc_0321_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AREA 2</language>
+		<language name="English">OMRÅDE 2</language>
 	</row>
 	<row id="narc_0321_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AREA 3</language>
+		<language name="English">OMRÅDE 3</language>
 	</row>
 	<row id="narc_0321_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AREA 4</language>
+		<language name="English">OMRÅDE 4</language>
 	</row>
 	<row id="narc_0321_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AREA 5</language>
+		<language name="English">OMRÅDE 5</language>
 	</row>
 	<row id="narc_0321_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AREA 6</language>
+		<language name="English">OMRÅDE 6</language>
 	</row>
 	<row id="narc_0321_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RED SHARD</language>
+		<language name="English">RØD SKERV</language>
 	</row>
 	<row id="narc_0321_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BLUE SHARD</language>
+		<language name="English">BLÅ SKIV</language>
 	</row>
 	<row id="narc_0321_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YELLOW SHARD</language>
+		<language name="English">GUL SKIV</language>
 	</row>
 	<row id="narc_0321_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GREEN SHARD</language>
+		<language name="English">GRØN SKIV</language>
 	</row>
 	<row id="narc_0321_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 54, 0} Coins</language>
+		<language name="English">{STRVAR_1 54, 0} mønter</language>
 	</row>
 	<row id="narc_0321_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BASIC RULES</language>
+		<language name="English">GRUNDLÆGGENDE REGLER</language>
 	</row>
 	<row id="narc_0321_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CATCHING SHOW</language>
+		<language name="English">FANGST SHOW</language>
 	</row>
 	<row id="narc_0321_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STOCKING POKéMON</language>
+		<language name="English">STOCK POKéMON</language>
 	</row>
 	<row id="narc_0321_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STOCKING 2</language>
+		<language name="English">LAGER 2</language>
 	</row>
 	<row id="narc_0321_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNDERSTOOD!</language>
+		<language name="English">FORSTÅET!</language>
 	</row>
 	<row id="narc_0321_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
@@ -848,7 +848,7 @@
 	</row>
 	<row id="narc_0321_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00206" index="206">
 		<attribute name="window_context_name">garbage</attribute>
@@ -867,19 +867,19 @@
 	</row>
 	<row id="narc_0321_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RED SHARD</language>
+		<language name="English">RØD SKERV</language>
 	</row>
 	<row id="narc_0321_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BLUE SHARD</language>
+		<language name="English">BLÅ SKIV</language>
 	</row>
 	<row id="narc_0321_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YELLOW SHARD</language>
+		<language name="English">GUL SKIV</language>
 	</row>
 	<row id="narc_0321_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GREEN SHARD</language>
+		<language name="English">GRØN SKIV</language>
 	</row>
 	<row id="narc_0321_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
@@ -887,7 +887,7 @@
 	</row>
 	<row id="narc_0321_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FULLMOON ISLAND</language>
+		<language name="English">FULDMÅNEØEN</language>
 	</row>
 	<row id="narc_0321_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
@@ -895,7 +895,7 @@
 	</row>
 	<row id="narc_0321_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIGHT AREA</language>
+		<language name="English">KAMPOMRÅDE</language>
 	</row>
 	<row id="narc_0321_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
@@ -903,11 +903,11 @@
 	</row>
 	<row id="narc_0321_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FRESH WATER{CURSOR_X 80}$200</language>
+		<language name="English">FRISK VAND{CURSOR_X 80}$200</language>
 	</row>
 	<row id="narc_0321_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
@@ -919,7 +919,7 @@
 	</row>
 	<row id="narc_0321_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO THANKS</language>
+		<language name="English">NEJ TAK</language>
 	</row>
 	<row id="narc_0321_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
@@ -931,7 +931,7 @@
 	</row>
 	<row id="narc_0321_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STABLE MULCH{CURSOR_X 90}$200</language>
+		<language name="English">STABIL MULCH{CURSOR_X 90}$200</language>
 	</row>
 	<row id="narc_0321_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
@@ -939,15 +939,15 @@
 	</row>
 	<row id="narc_0321_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nothing, thanks.</language>
+		<language name="English">Intet, tak.</language>
 	</row>
 	<row id="narc_0321_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s recommended?</language>
+		<language name="English">Hvad anbefales?</language>
 	</row>
 	<row id="narc_0321_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
@@ -959,19 +959,19 @@
 	</row>
 	<row id="narc_0321_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO THANKS</language>
+		<language name="English">NEJ TAK</language>
 	</row>
 	<row id="narc_0321_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DIGITAL WATCH</language>
+		<language name="English">DIGITAL UR</language>
 	</row>
 	<row id="narc_0321_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STOPWATCH</language>
+		<language name="English">STOPUR</language>
 	</row>
 	<row id="narc_0321_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CALCULATOR</language>
+		<language name="English">KALKULATOR</language>
 	</row>
 	<row id="narc_0321_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
@@ -979,35 +979,35 @@
 	</row>
 	<row id="narc_0321_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ANALOG WATCH</language>
+		<language name="English">ANALOG UR</language>
 	</row>
 	<row id="narc_0321_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOT ARTIST</language>
+		<language name="English">DOT KUNSTNER</language>
 	</row>
 	<row id="narc_0321_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON LIST</language>
+		<language name="English">POKéMON LISTE</language>
 	</row>
 	<row id="narc_0321_00240" index="240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FRIENDSHIP CHECKER</language>
+		<language name="English">VENSKABSKJEKKER</language>
 	</row>
 	<row id="narc_0321_00241" index="241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOWSING MACHINE</language>
+		<language name="English">DOWSING MASKINE</language>
 	</row>
 	<row id="narc_0321_00242" index="242">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COUNTER</language>
+		<language name="English">TÆLLER</language>
 	</row>
 	<row id="narc_0321_00243" index="243">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PEDOMETER</language>
+		<language name="English">SKRIDTÆLLER</language>
 	</row>
 	<row id="narc_0321_00244" index="244">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DAY-CARE CHECKER</language>
+		<language name="English">DAGLEJEKONTROL</language>
 	</row>
 	<row id="narc_0321_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
@@ -1015,11 +1015,11 @@
 	</row>
 	<row id="narc_0321_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COIN TOSS</language>
+		<language name="English">MØNTKAST</language>
 	</row>
 	<row id="narc_0321_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE TESTER</language>
+		<language name="English">FLYT TESTER</language>
 	</row>
 	<row id="narc_0321_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
@@ -1027,63 +1027,63 @@
 	</row>
 	<row id="narc_0321_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ALARM CLOCK</language>
+		<language name="English">VÆKKEUR</language>
 	</row>
 	<row id="narc_0321_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KITCHEN TIMER</language>
+		<language name="English">KØKKENTIMER</language>
 	</row>
 	<row id="narc_0321_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MARKING MAP</language>
+		<language name="English">MÆRKNINGSKORT</language>
 	</row>
 	<row id="narc_0321_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BERRY SEARCHER</language>
+		<language name="English">BÆRSØGER</language>
 	</row>
 	<row id="narc_0321_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COLOR CHANGER</language>
+		<language name="English">FARVESKIFTER</language>
 	</row>
 	<row id="narc_0321_00254" index="254">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CALENDAR</language>
+		<language name="English">KALENDER</language>
 	</row>
 	<row id="narc_0321_00255" index="255">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LINK SEARCHER</language>
+		<language name="English">LINKSØGER</language>
 	</row>
 	<row id="narc_0321_00256" index="256">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAINER COUNTER</language>
+		<language name="English">TRÆNERTÆLLER</language>
 	</row>
 	<row id="narc_0321_00257" index="257">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON HISTORY</language>
+		<language name="English">POKéMON HISTORIE</language>
 	</row>
 	<row id="narc_0321_00258" index="258">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00259" index="259">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PART 1</language>
+		<language name="English">DEL 1</language>
 	</row>
 	<row id="narc_0321_00260" index="260">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PART 2</language>
+		<language name="English">DEL 2</language>
 	</row>
 	<row id="narc_0321_00261" index="261">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PART 3</language>
+		<language name="English">DEL 3</language>
 	</row>
 	<row id="narc_0321_00262" index="262">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00263" index="263">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DUSK BALL</language>
+		<language name="English">SKUMRINGSKUGL</language>
 	</row>
 	<row id="narc_0321_00264" index="264">
 		<attribute name="window_context_name">used</attribute>
@@ -1091,26 +1091,26 @@
 	</row>
 	<row id="narc_0321_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUICK BALL</language>
+		<language name="English">HURTIG BOLD</language>
 	</row>
 	<row id="narc_0321_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0321_00267" index="267">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">THE CREATION OF SPACE</language>
+		<language name="English">SKABELSEN AF RUM</language>
 	</row>
 	<row id="narc_0321_00268" index="268">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MYTHICAL POKéMON</language>
+		<language name="English">MYTISK POKéMON</language>
 	</row>
 	<row id="narc_0321_00269" index="269">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RED CHAIN</language>
+		<language name="English">RØD KÆDE</language>
 	</row>
 	<row id="narc_0321_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 </body>

@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0436_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0436_00001" index="1">
@@ -11,6 +11,6 @@
 	</row>
 	<row id="narc_0436_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 211\nEterna City</language>
+		<language name="English">Rt. 211\nEterna by</language>
 	</row>
 </body>

@@ -1,191 +1,191 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0097_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am! I am the first to have gone\nunderground and dug some tunnels.\rYou can call me the Underground Man.\nEveryone else does.\rI’ll make a gift of this to you.\nYou hold up your end of the deal\fand put it to good use!\r</language>
+		<language name="English">Jo, det er mig! Jeg var den første, der gik\nunder jorden og gravede tunneler.\rDu kan kalde mig Underground Man.\nDet gør alle andre også.\rJeg giver dig en gave.\nHold din del af aftalen\fog brug den fornuftigt!\r</language>
 	</row>
 	<row id="narc_0097_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My gift to you, the Explorer Kit,\nwill instantly take you underground!\rYou need only to use it, and you\nwill be down in the tunnels!\rThe Underground is a different world\nwhere you can do this, that,\fand the other thing, too!\rLet me mentor you into becoming\na full-fledged spelunker!\rWill you take on that challenge?</language>
+		<language name="English">Min gave til dig, Explorer Kit,\nvil straks tage dig under jorden!\rDu behøver kun at bruge den, så er du\nnede i tunnelerne!\rUndergrunden er en anden verden,\nhvor du kan gøre det ene og det andet\fog meget mere!\rLad mig vejlede dig, så du kan blive\nen fuldgyldig spelunker!\rTager du udfordringen op?</language>
 	</row>
 	<row id="narc_0097_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me mentor you as you become\na full-fledged spelunker!\rWill you take on that challenge?</language>
+		<language name="English">Lad mig vejlede dig, mens du bliver\nen fuldgyldig spelunker!\rTager du udfordringen op?</language>
 	</row>
 	<row id="narc_0097_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I had hoped to teach a youngster\nlike you about the many charms of\fthe underground tunnels...\rBut I can’t force you to accept my\nproposal if you’re not inclined.\rSigh...\nI get so lonely sometimes...</language>
+		<language name="English">Jeg havde håbet at undervise en ung\nsom dig om de mange charmer ved\fde underjordiske tunneler...\rMen jeg kan ikke tvinge dig til at acceptere mit\nforslag, hvis du ikke er tilbøjelig.\rSuk...\nJeg bliver så ensom nogle gange...</language>
 	</row>
 	<row id="narc_0097_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm!\nWell said, my young friend!\rI will teach you by assigning missions.\nFirst, go underground!\rGoing underground is quite easy.\nSimply use your Explorer Kit.\rIf you accomplish that, I will give\nyou your next test.</language>
+		<language name="English">Hm!\nGodt sagt, min unge ven!\rJeg vil lære dig det ved at tildele missioner.\nFørst, gå under jorden!\rDet er let at gå under jorden.\nBare brug din Explorer Kit.\rHvis du opnår det, vil jeg give\ndig din næste prøve.</language>
 	</row>
 	<row id="narc_0097_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve not gone underground yet?\rTo get down to the underground\ntunnels, you need only to use your\fExplorer Kit.\rBut you need to be outside. It can’t\nbe used indoors or in a cave.\rNow, off you go!</language>
+		<language name="English">Er du ikke gået under jorden endnu?\rAt komme ned til undergrunden\ntunneller, du behøver kun at bruge din\fExplorer Kit.\rMen du skal være udenfor. Det kan ikke\nanvendes indendørs eller i en hule.\rAf sted med dig!</language>
 	</row>
 	<row id="narc_0097_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm! I see that you’ve gone down to\nthe underground tunnels!\rWell done!\nTake these as rewards!\r</language>
+		<language name="English">Hm! Jeg kan se, at du er gået ned til\nDe underjordiske tunneller!\rGodt gået!\nTag dem som belønning!\r</language>
 	</row>
 	<row id="narc_0097_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those are called Traps.\nThey’re triggered when stepped on.\rThe Underground is a place where\nyou can go with your friends.\rYou might try setting those Traps\nwhen you’re down there with others.\rNow, what should I assign you next...</language>
+		<language name="English">De kaldes fælder.\nDe udløses, når man træder på dem.\rUndergrunden er et sted, hvor\ndu kan være sammen med dine venner.\rDu kan prøve at sætte de fælder ud,\nnår du er dernede sammen med andre.\rHvad skal jeg nu tildele dig?</language>
 	</row>
 	<row id="narc_0097_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How was it in the underground\ntunnels?\rBig and empty, I would think.\rBut that’s only because you are\na novice spelunker!\rThere are many hidden things down there\nthat are not visible to the eye.\rFor my next test, I want you to dig\nup some Treasure or Spheres for me.\rWhile underground, check the Radar\nfor yellow spots.\rGo to such a location and search\nfor Treasure using the Touch Screen.</language>
+		<language name="English">Hvordan var det i undergrunden?\nTunneler?\rStor og tom, tror jeg.\rMen det er kun fordi du er\nEn novice spelunker!\rDer er mange skjulte ting dernede.\nsom ikke er synlige for øjet.\rTil min næste prøve, skal du grave\nOp nogle Treasure eller Spheres for mig.\rUnder jorden, tjek Radar\nfor gule pletter.\rGå til sådan et sted og søg\nfor Treasure ved hjælp af Touch Screen.</language>
 	</row>
 	<row id="narc_0097_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve not located any Treasure \nor Spheres yet?\rListen. Check the Radar and go to\nany yellow spot that’s shown.\rNext, use the Touch Screen to\nidentify places to dig.\rTry to get right on top of a yellow\nspot on the Radar, OK?\rOnce you are right in front of it,\npress the A Button!\rNow, off you go on your search!</language>
+		<language name="English">Du har ikke fundet nogen Treasure\nEller Spheres endnu?\rHør her. Tjek Radar og gå til\nenhver gul plet, der er vist.\rNæste, bruge Touch Screen til\nidentificere steder at grave.\rPrøv at komme lige på toppen af en gul\nDer er plads på Radar, okay?\rNår du er lige foran det,\nTryk på A-knappen!\rGå ud og søg!</language>
 	</row>
 	<row id="narc_0097_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! You dug up what I was looking for!\nGood job on finding it!\rWell done, indeed!\nTake these as your reward!\r</language>
+		<language name="English">Ah! Du gravede det op, jeg ledte efter!\nGodt gået med at finde den!\rGodt klaret!\nTag disse som din belønning!\r</language>
 	</row>
 	<row id="narc_0097_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dig in the walls of the underground\ntunnels to unearth hidden stuff.\rFossils and Stones can be dug up and\nbrought out from down under.\rSpheres, which are gems, cannot be\nbrought out, but they can be\fexchanged for goods down there.\rNow, what should I assign you\nnext...?</language>
+		<language name="English">Grav i væggene i undergrunden\ntunneler til at fjerne skjulte ting.\rFossils og Stones kan graves op og\nbragt ud fra ned under.\rSpares, som er perler, kan ikke være\nbragt ud, men de kan være\fbyttet for varer dernede.\rHvad skal jeg tildele dig?\nNæste...?</language>
 	</row>
 	<row id="narc_0097_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My tests aren’t over yet!\nNext, let’s use some Spheres!\rThe Spheres one can find underground\nare very peculiar.\rWhen buried in the ground, they grow\ndaily, a little bit at a time.\rI want you to go bury these strange\nSpheres in the underground tunnels.\rThat is my latest test!</language>
+		<language name="English">Mine prøver er ikke færdige endnu!\nNæste, lad os bruge nogle Spheres!\rSphereone kan finde under jorden\ner meget mærkelig.\rNår de begraves i jorden, vokser de\ndagligt, lidt ad gangen.\rJeg vil have dig til at begrave disse mærkelige\nSporer i underjordiske tunneller.\rDet er min seneste prøve!</language>
 	</row>
 	<row id="narc_0097_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve not buried the Spheres yet?\nYou’re afraid of losing them?\rHave no fear! Spheres are easily\nburied and just as easily dug up.\rDon’t be afraid. Go bury those\nSpheres like I’ve said.\rJust don’t forget where you’ve buried\nthem--the Underground is huge!</language>
+		<language name="English">Har du ikke begravet Spheres endnu?\nEr du bange for at miste dem?\rFrygt ikke! Sporer er nemme\nbegravet og lige så let gravet op.\rVær ikke bange. Begrav dem.\nSom jeg sagde.\rBare glem ikke hvor du har begravet\nUndergrunden er enorm!</language>
 	</row>
 	<row id="narc_0097_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good, good!\nYou’ve buried your Spheres!\rThe next time you go underground,\nthey should have grown bigger!\rJust don’t forget where you’ve buried\nyour Spheres!\rAnyway, well done!\nThis is your reward!\r</language>
+		<language name="English">Godt, godt!\nDu har begravet dine Spheres!\rNæste gang du går under jorden,\nDe burde være blevet større!\rBare glem ikke hvor du har begravet\nDine Spheres!\rGodt gået!\nDet er din belønning!\r</language>
 	</row>
 	<row id="narc_0097_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may have seen them already, but\nthere are Sphere collectors.\rThey wander about in the underground\ntunnels seeking Spheres.\rThey’ll happily trade you items for\nbig Spheres.\rNow, what shall I assign you next...?</language>
+		<language name="English">Du har måske set dem, men...\nDer er Sphere samlere.\rDe vandrer rundt i undergrunden.\ntunneler, der søger Spheres.\rDe vil med glæde bytte dig ting for\nStore Spheres.\rHvad skal jeg nu tildele dig?</language>
 	</row>
 	<row id="narc_0097_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you grown weary of repeatedly\ngoing back to the Underground?\rWell, it’s not over yet!\nNext up is your Secret Base!\rThat’s right, I will teach you how to\nmake your own Secret Base!\rAll you need is the Digger Drill\nI gave you earlier.\rSimply go underground and use the\nDigger Drill wherever you like.\rThat will instantly make you your\nvery own Secret Base!\rSo, your next assignment is: go make\nyour own Secret Base!</language>
+		<language name="English">Er du blevet træt af gentagne gange\nSkal du tilbage til Underground?\rDet er ikke slut endnu!\nNæste er din hemmelige base!\rDet er rigtigt, jeg vil lære dig at\nLav din egen hemmelige base!\rAlt du behøver er Digger Drill\nJeg gav dig tidligere.\rDu skal blot gå under jorden og bruge\nDigger Drill, hvor du vil.\rDet vil øjeblikkeligt gøre dig din\nmeget egen Secret Base!\rSå din næste opgave er:\nDin egen hemmelige base!</language>
 	</row>
 	<row id="narc_0097_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? You don’t know how to use\nthe Digger Drill?\rOK, I’ll admit this test may have\nbeen a little tricky for you.\rAll you need to do is find the\nDigger Drill among your Traps.\rThen, face a wall and use the Digger\nDrill. That’s all it takes.\rDo that and you’ll have your Secret\nBase before you can say...\r{SIZE 200}Boo!{SIZE 100}\rNo, seriously though!</language>
+		<language name="English">Hm? Du ved ikke, hvordan man bruger\nDigger Drill?\rOkay, jeg indrømmer, at denne test måske har\nDet har været lidt svært for dig.\rAlt du skal gøre er at finde\nDigger Drill blandt dine traps.\rDerefter, ansigt en væg og bruge Digger\nBor. Det er alt, hvad der skal til.\rGør det, og du vil have din hemmelighed\nBase før du kan sige...\r{SIZE 200}Boo! {SIZE 100}\rMen seriøst!</language>
 	</row>
 	<row id="narc_0097_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, you’ve made your Secret Base!\nExcellent!\rI thought I might have been asking\ntoo much of you, but you did it!\rWell done!\nTake these as your reward!\r</language>
+		<language name="English">Du har lavet din hemmelige base!\nFremragende!\rJeg troede, jeg måske havde spurgt.\nFor meget af dig, men du gjorde det!\rGodt gået!\nTag disse som din belønning!\r</language>
 	</row>
 	<row id="narc_0097_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Incidentally, a Digger Drill can\nbe used only once.\rIf you wish to move your Secret\nBase, you will need to obtain another\fDigger Drill.\rYou can trade a Sphere for one\nunderground.\rWhat should I make you do next...</language>
+		<language name="English">I øvrigt, en Digger Drill kan\nmå kun anvendes én gang.\rHvis du ønsker at flytte din hemmelighed\nBase, du bliver nødt til at få en anden\fDigger Drill.\rDu kan bytte en sfære for en\nUnder jorden.\rHvad skal jeg gøre nu?</language>
 	</row>
 	<row id="narc_0097_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm! You’ve stuck it out to the end!\nThis is my final test.\rYou’ve made yourself a Secret Base,\nbut it’s totally empty, is it not?\rNot to worry! You can decorate your\nown Secret Base as you see fit!\rSo! For my final test, I want you to\ndecorate your Secret Base.\rUse furniture and interior goods\nto give your Secret Base character!</language>
+		<language name="English">Hm! Du har sat det ud til enden!\nDet er min sidste prøve.\rDu har gjort dig selv til en hemmelig base,\nMen den er helt tom, ikke?\rBare rolig! Du kan dekorere din\nEjer Secret Base, som du vil!\rSå! Til min sidste prøve, vil jeg have dig til\ndekorere din hemmelige base.\rBrug møbler og interiør varer\nat give din hemmelige base karakter!</language>
 	</row>
 	<row id="narc_0097_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, have I finally managed to stump\nyou?\rPerhaps you’ve left your Secret\nBase’s door open?\rYou see, the underground tunnels are\nvisited by many Trainers.\rIt wouldn’t do to have someone\nbarge in on you while you’re working\fon your Secret Base.\rDon’t forget to close the door while\nyou’re redecorating!</language>
+		<language name="English">Ah, har jeg endelig formået at stumpe\nDig?\rMåske har du forladt din hemmelighed\nEr basens dør åben?\rDe underjordiske tunneller er...\nbesøgt af mange undervisere.\rDet ville ikke gøre at have nogen\nHop ind, mens du arbejder.\fPå din hemmelige base.\rGlem ikke at lukke døren mens\nDu omdekorerer!</language>
 	</row>
 	<row id="narc_0097_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! You’ve even managed to decorate\nyour Secret Base!\rI knew I recognized a spelunker\nin you!\rDon’t forget to close the door when\nyou’re decorating!\rWe don’t want any visitors getting\nhurt by walking in on you!\rAlso, if you want to place goods\nyou’ve received, store them in the\fPC first.\rAnyways, well done!\nThis is your reward!\r</language>
+		<language name="English">Ah! Du har endda formået at dekorere\nDin hemmelige base!\rJeg vidste, jeg genkendte en spelunker\nI dig!\rGlem ikke at lukke døren når\nDu dekorerer!\rVi vil ikke have nogen besøgende får\nGør ondt ved at gå ind på dig!\rOgså, hvis du ønsker at placere varer\ndu har modtaget, gemme dem i\fPC først.\rGodt gået!\nDet er din belønning!\r</language>
 	</row>
 	<row id="narc_0097_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are ways of collecting more\ndecoration goods.\rYou can grow Spheres you’ve found\nand trade them for goods.\rIt’s also possible to obtain goods\nfrom friends.</language>
+		<language name="English">Der er måder at indsamle mere\ndekorationsgenstande.\rDu kan dyrke spheres du har fundet\nog bytte dem for varer.\rDet er også muligt at få varer\nFra venner.</language>
 	</row>
 	<row id="narc_0097_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve taught you all I know, but if\nyou insist, there is one more thing\fI should tell you.\rThe Secret Base you’ve made has Big\nBoulders that get in the way, yes?\rThere is actually a way of moving\nthose boulders aside...\rHowever, the task may be dangerous\nfor you now.\rI suppose I could tell you how when\nyou get better as a spelunker...\r</language>
+		<language name="English">Jeg har lært dig alt, hvad jeg ved, men hvis\nDu insisterer, der er en ting mere.\fJeg burde fortælle dig det.\rDen hemmelige base du har lavet har Big\nBoulders, der kommer i vejen, ikke?\rDer er faktisk en måde at bevæge sig på\nTil side...\rOpgaven kan dog være farlig\nFor dig nu.\rJeg kan vel fortælle dig, hvornår\nDu bliver bedre som spelunker...\r</language>
 	</row>
 	<row id="narc_0097_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Hm! However, you are someone I’d\nrecognized as a born spelunker...\rFine! I will tell you, but only\nbecause you’re exceptional!\rYou know that you may go underground\nwith your friends, correct?\rThat means your friends are certain\nto have Secret Bases of their own.\rNow, this is what you must do:\nFirst, find a friend’s Secret Base.\rNext, go to the PC and steal your\nfriend’s Flag.\rThen, run back to your Secret Base\nand take the Flag to your PC!\rIf you can do that, I will permit\nyou to move boulders.</language>
+		<language name="English">... Hm! Men du er en jeg ville\nAnerkendt som en født spelunker...\rFint! Jeg vil fortælle dig, men kun\nFordi du er enestående!\rDu ved, at du kan gå under jorden\nMed dine venner, ikke?\rDet betyder, at dine venner er sikre\nat have deres egne hemmelige baser.\rDet her er, hvad du skal gøre:\nFind først en vens hemmelige base.\rNæste, gå til pc ’en og stjæle din\nEn vens Flag.\rSå løb tilbage til din hemmelige base\nog tage Flag til din PC!\rHvis du kan gøre det, vil jeg tillade\nDu skal flytte kampesten.</language>
 	</row>
 	<row id="narc_0097_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! My spelunker!\nAre you spelunking with your friends?\rIt’s a hundred times more fun to play\nwith friends underground!\rIf you manage to steal a Flag from\na friend’s Secret Base, you be sure\fto come show me!</language>
+		<language name="English">Ah! Min spelunker!\n- Er du sammen med dine venner?\rDet er hundrede gange sjovere at spille.\nmed venner under jorden!\rHvis du formår at stjæle en Flag fra\nen vens hemmelige base, du være sikker\fKom og vis mig det!</language>
 	</row>
 	<row id="narc_0097_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wait! Don’t tell me!\nYou’ve captured a Flag?\rExcellent! You should already be\ncapable of moving Big Boulders\finside your Secret Base!\rYou can shunt aside a boulder by\nstoring it like furniture.\rAnyways, well done!\nThis is your reward!\r</language>
+		<language name="English">Vent! Sig det ikke!\nHar du fanget en Flag?\rFremragende! Du burde allerede være\nI stand til at flytte Big Boulders\fInde i din hemmelige base!\rDu kan shunt til side en kampesten ved\nAt opbevare det som møbler.\rGodt gået!\nDet er din belønning!\r</language>
 	</row>
 	<row id="narc_0097_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There really is nothing else that\nI can teach you.\rIf you wish to put away more Big\nBoulders or put out more goods,\fkeep capturing more Flags.\rBecome the spelunking master for me!</language>
+		<language name="English">Der er virkelig intet andet,\nJeg kan lære dig det.\rHvis du ønsker at sætte væk mere Big\nBov eller flere varer\fBliv ved med at fange flere Flag.\rBliv Spelunking mester for mig!</language>
 	</row>
 	<row id="narc_0097_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, my spelunker, are you going\nunderground with your friends?\rThe underground tunnels are vast.\nThey can be a place where you meet\rmany others like you.</language>
+		<language name="English">Så, min spelunker, skal du med?\nUnder jorden med dine venner?\rTunnelerne er enorme.\nDe kan være et sted, hvor man møder\rMange andre som dig.</language>
 	</row>
 	<row id="narc_0097_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, you’ve captured three Flags!\rWell done!\nTake this as your reward!\r</language>
+		<language name="English">Du har fanget tre flag!\rGodt gået!\nTag det som din belønning!\r</language>
 	</row>
 	<row id="narc_0097_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, you’ve captured ten Flags!\rWell done!\nTake this as your reward!\r</language>
+		<language name="English">Du har fanget ti flag!\rGodt gået!\nTag det som din belønning!\r</language>
 	</row>
 	<row id="narc_0097_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! Oh! My goodness!\nYou’ve captured fifty Flags!\rFantastic!\nTake this as your reward!\r</language>
+		<language name="English">Oh! Oh! Du godeste!\nDu har fanget 50 flag!\rFantastisk!\nTag det som din belønning!\r</language>
 	</row>
 	<row id="narc_0097_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have been outstanding! There\nreally is nothing left to teach you.\rFrom now on, you are the spelunking\nmaster!</language>
+		<language name="English">Du har været fremragende! Der\nDer er ikke mere at lære dig.\rFra nu af er du Spelunking\nHerre!</language>
 	</row>
 	<row id="narc_0097_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? Your underground PC appears\nto be full.\rDiscard a decorative item or two,\nthen come see me again.</language>
+		<language name="English">Oh? Din underjordiske PC vises\nfor at være fuld.\rKassér en dekorativ genstand eller to,\nSå kom og besøg mig igen.</language>
 	</row>
 	<row id="narc_0097_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm!\nThis belongs to you!\r</language>
+		<language name="English">Hm!\nDet her tilhører dig!\r</language>
 	</row>
 	<row id="narc_0097_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The underground tunnels go\neverywhere!\rGrab your friends and let’s play\ntogether using DS Wireless\fCommunications!</language>
+		<language name="English">De underjordiske tunneller går\nOveralt!\rTag dine venner og lad os spille\nsammen med DS Wireless\fKommunikation!</language>
 	</row>
 	<row id="narc_0097_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s dig up some Treasure!\rI’m from Oreburgh.\nI work at the mining museum there.\rI got advice from the Underground\nMan on digging up Treasure and Spheres.\rBefore I get digging, let me share\nhis advice with you.\rWhile you’re digging, you may uncover\ndark rocks.\rThey are very hard! If you keep\nhitting them, the wall will collapse.\rDon’t forget that, and you’ll be\ndigging up Treasure in no time!</language>
+		<language name="English">Lad os grave noget Treasure op!\rJeg er fra Oreburgh.\nJeg arbejder på minemuseet der.\rJeg fik råd fra Underground\nEn mand, der graver Treasure og Spheres op.\rFør jeg graver, lad mig dele\nHans råd med dig.\rMens du graver, kan du afdække\nMørke sten.\rDe er meget hårde! Hvis De holder\nrammer dem, vil muren kollapse.\rGlem ikke, at, og du vil være\nGrave Treasure op på ingen tid!</language>
 	</row>
 	<row id="narc_0097_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you’d like more advice on digging\nup Treasure and Spheres?\rWell, your Explorer Kit contains\na sledgehammer and a pickax.\rChoose either of these tools and\ntouch the lower screen to dig.\rYou get to keep the stuff you fully\nuncover before the wall collapses.\rDon’t forget, the dark rocks are\nimpossible to break.\rIf you hit them too often, the wall\nwill collapse.\rDon’t forget that, and you’ll be\ndigging up Treasure in no time!</language>
+		<language name="English">Vil du have flere råd om at grave?\nOp med Treasure and Spheres?\rNå, din Explorer Kit indeholder\nEn forhammer og en hammer.\rVælg et af disse værktøjer og\nrøre den nederste skærm for at grave.\rDu får lov til at beholde tingene fuldt ud.\nAfdække før væggen kollapser.\rGlem ikke, at de mørke sten er\numuligt at bryde.\rHvis du rammer dem for ofte, væggen\nvil kollapse.\rGlem ikke, at, og du vil være\nGrave Treasure op på ingen tid!</language>
 	</row>
 	<row id="narc_0097_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">New and on sale!\nUnderground Radar!\rThe upper radar screen indicates\npossible Treasure locations.\rThe lower Touch Radar indicates\nprecise locations!</language>
+		<language name="English">Ny og til salg!\nUndergrundsradar!\rDen øverste radarskærm angiver\nmulige skattesteder.\rDen nedre Touch Radar angiver\npræcise steder!</language>
 	</row>
 	<row id="narc_0097_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a book titled “Shortcut\nto the Underground.”\r</language>
+		<language name="English">Der er en bog med titlen “Genvej\ntil undergrunden ”.\r</language>
 	</row>
 	<row id="narc_0097_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which page would you like to read?</language>
+		<language name="English">Hvilken side vil du læse?</language>
 	</row>
 	<row id="narc_0097_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flags: A Flag can be found in every\nSecret Base.\rCapture a friend’s Flag and take it\nto your own Secret Base to make\fimprovements to it!\rFind your friends’ Secret Bases and\ncapture their Flags!\r</language>
+		<language name="English">Flag: En Flag kan findes i hver\nHemmelig base.\rFange en vens flag og tage det\ntil din egen hemmelige base at gøre\fForbedringer!\rFind dine venners hemmelige baser og\nFang deres Flags!\r</language>
 	</row>
 	<row id="narc_0097_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spheres: In the underground tunnels,\nyou can dig up pretty stones that\fare called Spheres.\rThere are people underground that\ntreat Spheres like money.\rTrade them your Spheres in exchange\nfor decoration goods and other items.\rThese Spheres also have the strange\nproperty of growing if they are\fburied in the ground.\r</language>
+		<language name="English">Sporer: I de underjordiske tunneller,\nDu kan grave smukke sten op, som\fkaldes Spheres.\rDer er folk under jorden som\nBehandl Spheres som penge.\rHandel dem din Spheres i bytte\nfor dekorationsgenstande og andre genstande.\rDisse spheres har også den mærkelige\nejendom til dyrkning, hvis de er\fbegravet i jorden.\r</language>
 	</row>
 	<row id="narc_0097_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Traps: There are Traps that can be\nput down in the underground tunnels.\rThere are many kinds of Traps for\nunwary Trainers under the ground.\rSome Traps need to be blown away.\nSome need to be removed by touch.\r</language>
+		<language name="English">Fælder: Der er Traps, der kan være\nI underjordiske tunneller.\rDer er mange slags fælder for\nunwary trænere under jorden.\rNogle fælder skal skydes væk.\nNogle skal fjernes ved berøring.\r</language>
 	</row>
 	<row id="narc_0097_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goods: These are furniture and\ndecorative items for Secret Bases.\rCollect goods by exchanging Spheres for\nthem, or by getting gifts from friends!\r</language>
+		<language name="English">Varer: Dette er møbler og\ndekorative genstande til hemmelige Baser.\rIndsamle varer ved at udveksle spheres til\nDem, eller ved at få gaver fra venner!\r</language>
 	</row>
 	<row id="narc_0097_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Treasure: These are rare items that\nappear while digging underground.\rThey can be taken out of the\nUnderground if placed in your Bag\fwhile in the tunnels.\rDig around all over and find\nTreasure!\r</language>
+		<language name="English">Skat: Dette er sjældne ting, der\nvises, mens grave under jorden.\rDe kan tages ud af\nUndergrund hvis placeret i din taske\fI tunnelerne.\rGrav rundt overalt og find\nSkat!\r</language>
 	</row>
 </body>

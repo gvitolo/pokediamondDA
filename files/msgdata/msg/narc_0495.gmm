@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0495_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -6,15 +6,15 @@
 	</row>
 	<row id="narc_0495_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Attack</language>
+		<language name="English">Angreb</language>
 	</row>
 	<row id="narc_0495_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Defense</language>
+		<language name="English">Forsvar</language>
 	</row>
 	<row id="narc_0495_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speed</language>
+		<language name="English">Hastighed</language>
 	</row>
 	<row id="narc_0495_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,14 +26,14 @@
 	</row>
 	<row id="narc_0495_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">accuracy</language>
+		<language name="English">nøjagtighed</language>
 	</row>
 	<row id="narc_0495_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">evasiveness</language>
+		<language name="English">undvigelse</language>
 	</row>
 	<row id="narc_0495_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Max. HP</language>
+		<language name="English">Maks. HP</language>
 	</row>
 </body>

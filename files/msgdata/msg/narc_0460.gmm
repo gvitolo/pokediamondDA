@@ -1,31 +1,31 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0460_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 218 up ahead is a great fishing\nhole that’s almost unknown to people.</language>
+		<language name="English">Rute 218 foran er et fantastisk fiskeri\nhul, der er næsten ukendt for folk.</language>
 	</row>
 	<row id="narc_0460_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, sir!\nAn Old Rod is a good thing!\rYou think so too, am I right?</language>
+		<language name="English">Ja, sir!\nEn gammel stang er en god ting!\rDet synes du også, har jeg ret?</language>
 	</row>
 	<row id="narc_0460_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes! Good answer!\nWe can be friends!\rHere you go.\nThat’s my {STRVAR_1 8, 0}!\r</language>
+		<language name="English">Ja! Godt svar!\nVi kan være venner!\rHer går du.\nDet er min {STRVAR_1 8, 0}!\r</language>
 	</row>
 	<row id="narc_0460_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You should fish wherever there is\na body of water.\rOh, and by the way, did you need\nany tips on using that fishing rod?</language>
+		<language name="English">Du skal fiske, hvor end der er\nen vandmasse.\rÅh, og forresten, havde du brug for det\nnogle tips til at bruge den fiskestang?</language>
 	</row>
 	<row id="narc_0460_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, really?\nYou don’t like to fish?</language>
+		<language name="English">Åh, virkelig?\nKan du ikke lide at fiske?</language>
 	</row>
 	<row id="narc_0460_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First, you face any body of water,\nthen you use your fishing rod.\rNext, you focus!\nIf a Pokémon bites, “!” appears.\fThat’s your cue to reel it in!</language>
+		<language name="English">Først står du over for enhver vandmasse,\nså bruger du din fiskestang.\rDernæst fokuserer du!\nHvis en Pokémon bider, "!" vises.\fDet er dit signal til at rulle den ind!</language>
 	</row>
 	<row id="narc_0460_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you’re fishing for Pokémon,\nthe first hurdle is getting a bite.\rWhen you reel the Pokémon in, you’ve\ngot to battle it.\rSo, fishing gives you twice the fun!</language>
+		<language name="English">Når du fisker efter Pokémon,\nden første forhindring er at få et bid.\rNår du ruller Pokémon'en ind, har du\nskal kæmpe mod det.\rSå fiskeri giver dig dobbelt så sjov!</language>
 	</row>
 </body>

@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0605_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0605_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="narc_0605_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Calabria</language>
+		<language name="English">Calabrien</language>
 	</row>
 	<row id="narc_0605_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -34,11 +34,11 @@
 	</row>
 	<row id="narc_0605_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Liguria</language>
+		<language name="English">Ligurien</language>
 	</row>
 	<row id="narc_0605_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lombardia</language>
+		<language name="English">Lombardiet</language>
 	</row>
 	<row id="narc_0605_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0605_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sicilia</language>
+		<language name="English">Sicilien</language>
 	</row>
 	<row id="narc_0605_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -74,11 +74,11 @@
 	</row>
 	<row id="narc_0605_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Umbria</language>
+		<language name="English">Umbrien</language>
 	</row>
 	<row id="narc_0605_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Valle d’Aosta</language>
+		<language name="English">Valle d'Aosta</language>
 	</row>
 	<row id="narc_0605_00020" index="20">
 		<attribute name="window_context_name">used</attribute>

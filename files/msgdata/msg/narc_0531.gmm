@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="narc_0531_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Coronet towers at the center\nof Sinnoh.\rIn a way, it’s the closest place to\nthe sky in this region.</language>
+		<language name="English">Mt. Coronet tårner sig op i midten\naf Sinnoh.\rPå en måde er det det tætteste sted på\nhimlen i denne region.</language>
 	</row>
 	<row id="narc_0531_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I climb on top of Mt. Coronet,\nwill I be able to see all of Sinnoh?</language>
+		<language name="English">Hvis jeg klatrer på toppen af ​​Mt. Coronet,\nvil jeg være i stand til at se hele Sinnoh?</language>
 	</row>
 </body>

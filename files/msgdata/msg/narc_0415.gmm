@@ -1,72 +1,72 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0415_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Hey, you saw that news\nreport that was on TV, right?\rYou know, “Search for the Red\nGYARADOS! The mysterious appearance\fof the furious Pokémon in a lake!”\rThat show got me to thinking.\rI’ll bet our local lake has a Pokémon\nlike that in it, too!\rSo, that’s what we’re gonna do.\nWe’ll go find a Pokémon like that!</language>
+		<language name="English">{STRVAR_1 3, 0}: Hej, du så den nyhed\nrapport, der var på tv, ikke?\rDu ved, "Søg efter det røde\nGYARADOS! Det mystiske udseende\faf den rasende Pokémon i en sø!"\rDet show fik mig til at tænke.\rJeg vil vædde på, at vores lokale sø har en Pokémon\nsådan i den også!\rSå det er det, vi vil gøre.\nVi skal finde sådan en Pokémon!</language>
 	</row>
 	<row id="narc_0415_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Hey!\nWhere are you wandering off to?!\rThat mystery Pokémon on TV!\nIt’s calling out to me!\rForget about going back home!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Hej!\nHvor vandrer du hen?!\rDen mystiske Pokémon på TV!\nDet kalder på mig!\rGlem alt om at tage hjem igen!\r</language>
 	</row>
 	<row id="narc_0415_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Remember what your mother said?\rMom: “{STRVAR_1 3, 0}!\nDon’t go into the tall grass!\r“Remember, wild Pokémon may attack\nyou if you’re walking in tall grass.\r“It would be OK if you had your\nown Pokémon, but...”</language>
+		<language name="English">Kan du huske, hvad din mor sagde?\rMor: "{STRVAR_1 3, 0}!\nGå ikke i det høje græs!\r"Husk, vilde Pokémon kan angribe\ndig, hvis du går i højt græs.\r"Det ville være ok, hvis du havde din\negen Pokémon, men...”</language>
 	</row>
 	<row id="narc_0415_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Hey, it’s those people!\nIs that old guy staring at us?\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Hej, det er de mennesker!\nStirrer den gamle fyr på os?\r</language>
 	</row>
 	<row id="narc_0415_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor: Hmm...\rI heard from {STRVAR_1 3, 0} that\nyou used our Pokémon?\fLet me see them, please.\rHmm...\n{STRVAR_1 0, 1} and {STRVAR_1 0, 2}...\r...\rHmm...\fI see...\nThat’s how it is...\r</language>
+		<language name="English">Professor: Hmm...\rjeg hørte fra {STRVAR_1 3, 0} at\nbrugte du vores Pokémon?\fLad mig se dem, tak.\rHmm...\n{STRVAR_1 0, 1} og {STRVAR_1 0, 2}...\r...\rHmm...\fjeg ser...\nSådan er det...\r</language>
 	</row>
 	<row id="narc_0415_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}!\nI’m going back to my lab!\r</language>
+		<language name="English">{STRVAR_1 3, 0}!\nJeg går tilbage til mit laboratorium!\r</language>
 	</row>
 	<row id="narc_0415_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawn: Um... Yes!\nProfessor, please wait for me!\r</language>
+		<language name="English">Dawn: Um... Ja!\nProfessor, vent venligst på mig!\r</language>
 	</row>
 	<row id="narc_0415_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think you should visit our lab\nlater.\rOK, see you!\r</language>
+		<language name="English">Jeg synes, du skal besøge vores laboratorium\nsenere.\rOkay, vi ses!\r</language>
 	</row>
 	<row id="narc_0415_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lucas: Uh... Yeah, of course!\nProfessor, wait for me!\r</language>
+		<language name="English">Lucas: Øh... Ja, selvfølgelig!\nProfessor, vent på mig!\r</language>
 	</row>
 	<row id="narc_0415_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You should visit us at our lab later,\nI think.\rWe’ll be seeing you!\r</language>
+		<language name="English">Du bør besøge os i vores laboratorium senere,\ntror jeg.\rVi ses!\r</language>
 	</row>
 	<row id="narc_0415_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: What was all that\ncraziness about?\rI mean, if he was angry, he could’ve\njust yelled at us, or whatever...\rAnd didn’t he want their Pokémon\nback...?\r{STRVAR_1 3, 1}...\nWe should go home, too...\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Hvad var alt det\ngalskab med?\rJeg mener, hvis han var vred, kunne han have gjort det\nbare råbte af os, eller hvad...\rOg ville han ikke have deres Pokémon\ntilbage...?\r{STRVAR_1 3, 1}...\nVi burde også tage hjem...\r</language>
 	</row>
 	<row id="narc_0415_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wild Pokémon lurk in tall grass. They\ncan come bursting out at any time.\rSo, if you’re wanting to battle wild\nPokémon, just walk in tall grass.\rIf you want to avoid wild Pokémon,\nthen stay out of the tall grass.</language>
+		<language name="English">Vilde Pokémon lurer i højt græs. De\nkan springe ud når som helst.\rSå hvis du vil kæmpe vildt\nPokémon, bare gå i højt græs.\rHvis du vil undgå vilde Pokémon,\nså hold dig væk fra det høje græs.</language>
 	</row>
 	<row id="narc_0415_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi!\nI work at a Pokémon Mart.\rDid you know that a Pokémon’s health\nis measured by Hit Points (HP)?\rIf a Pokémon runs out of HP, it\nfaints and can’t battle anymore.\rIf a Pokémon’s HP gets low, you\nshould heal it with a Potion.\rHere, let me give you a Potion as\na free sample. First one’s free!\rIt will automatically go in the\nMedicine Pocket of your Bag.\r</language>
+		<language name="English">Hej!\nJeg arbejder på en Pokémon Mart.\rVidste du, at en Pokémons sundhed\nmåles ved Hit Points (HP)?\rHvis en Pokémon løber tør for HP, vil den\nbesvimer og kan ikke kæmpe mere.\rHvis en Pokémons HP bliver lav, vil du\nskulle helbrede det med en potion.\rHer, lad mig give dig en potion som\nen gratis prøve. Den første er gratis!\rDet vil automatisk gå i\nMedicinlomme i din taske.\r</language>
 	</row>
 	<row id="narc_0415_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can find a Pokémon Mart in cities\nand most major towns.</language>
+		<language name="English">Du kan finde en Pokémon Mart i byer\nog de fleste større byer.</language>
 	</row>
 	<row id="narc_0415_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That ledge is one way. Jump down\nfor a shortcut to Twinleaf Town!</language>
+		<language name="English">Den afsats er én vej. Hop ned\nfor en genvej til Twinleaf Town!</language>
 	</row>
 	<row id="narc_0415_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If your Pokémon’s health--that’s its\nHP--is getting low, you should go\fhome and get some rest.</language>
+		<language name="English">Hvis din Pokémons sundhed - det er dens\nHP - er ved at være lav, du burde gå\fhjem og hvile lidt.</language>
 	</row>
 	<row id="narc_0415_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If your Pokémon’s health--that’s its\nHP--is getting low, you should go\fto a Pokémon Center!</language>
+		<language name="English">Hvis din Pokémons sundhed - det er dens\nHP - er ved at være lav, du burde gå\ftil et Pokémon Center!</language>
 	</row>
 	<row id="narc_0415_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,10 +74,10 @@
 	</row>
 	<row id="narc_0415_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 201\nSandgem Town</language>
+		<language name="English">Rt. 201\nSandgem by</language>
 	</row>
 	<row id="narc_0415_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips!\rDon’t be shy! Talk to anyone and\neveryone you happen to see.\rBy talking to people, you will get\ninvaluable information and advice.</language>
+		<language name="English">Træner tips!\rVær ikke genert! Tal med hvem som helst og\nalle du tilfældigvis ser.\rVed at tale med folk, vil du få\nuvurderlig information og rådgivning.</language>
 	</row>
 </body>

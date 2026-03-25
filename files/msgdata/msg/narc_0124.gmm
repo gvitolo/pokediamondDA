@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="narc_0124_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon CROAGUNK is the city’s\nofficial mascot.\rCROAGUNK sure is purdy--we’re hopin’\nit’ll get popular ’round the world.</language>
+		<language name="English">Pokémon CROAGUNK er byens\nofficielle maskot.\rCROAGUNK er helt sikkert purdy--vi håber,\n den bliver populær 'over hele verden.</language>
 	</row>
 	<row id="narc_0124_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Put Seals on the Capsule, then put\nit on a Poké Ball...\rAnd done! Another Poké Ball made by\nme! It’s one of a kind!</language>
+		<language name="English">Sæt Seals på kapslen, og sæt den derefter på en Poké Ball...\rOg færdig! Endnu en Poké Ball lavet af mig! Det er en af ​​slagsen!</language>
 	</row>
 	<row id="narc_0124_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a wood carving of the Pokémon\nCROAGUNK.\rEven though it’s made of wood, it\nlooks like it’s seeping poison...</language>
+		<language name="English">Det er en træudskæring af Pokémon\nCROAGUNK.\rSelvom den er lavet af træ, ser det ud som om den siver gift...</language>
 	</row>
 </body>

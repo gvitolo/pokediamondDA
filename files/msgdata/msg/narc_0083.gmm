@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0083_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Multi Battles are the ultimate in\npulse-pounding action!\rYou won’t know how exciting they are\nuntil you’ve actually experienced one!</language>
+		<language name="English">Multi Battles er den ultimative i\nPulserende handling!\rDu vil ikke vide, hvor spændende de er\nindtil du faktisk har oplevet en!</language>
 	</row>
 </body>

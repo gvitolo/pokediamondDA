@@ -226,7 +226,7 @@
 	</row>
 	<row id="narc_0391_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DANCE</language>
+		<language name="English">DANSE</language>
 	</row>
 	<row id="narc_0391_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -278,7 +278,7 @@
 	</row>
 	<row id="narc_0391_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ITEM</language>
+		<language name="English">PUNKT</language>
 	</row>
 	<row id="narc_0391_00070" index="70">
 		<attribute name="window_context_name">used</attribute>

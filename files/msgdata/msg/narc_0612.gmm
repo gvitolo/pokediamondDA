@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0612_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Ingen</language>
 	</row>
 	<row id="narc_0612_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,15 +10,15 @@
 	</row>
 	<row id="narc_0612_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Albania</language>
+		<language name="English">Albanien</language>
 	</row>
 	<row id="narc_0612_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Algeria</language>
+		<language name="English">Algeriet</language>
 	</row>
 	<row id="narc_0612_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">American Samoa</language>
+		<language name="English">Amerikansk Samoa</language>
 	</row>
 	<row id="narc_0612_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="narc_0612_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Antigua and Barbuda</language>
+		<language name="English">Antigua og Barbuda</language>
 	</row>
 	<row id="narc_0612_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="narc_0612_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Armenia</language>
+		<language name="English">Armenien</language>
 	</row>
 	<row id="narc_0612_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,15 +50,15 @@
 	</row>
 	<row id="narc_0612_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Australia</language>
+		<language name="English">Australien</language>
 	</row>
 	<row id="narc_0612_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Austria</language>
+		<language name="English">Østrig</language>
 	</row>
 	<row id="narc_0612_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azerbaijan</language>
+		<language name="English">Aserbajdsjan</language>
 	</row>
 	<row id="narc_0612_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -78,11 +78,11 @@
 	</row>
 	<row id="narc_0612_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Belarus</language>
+		<language name="English">Hviderusland</language>
 	</row>
 	<row id="narc_0612_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Belgium</language>
+		<language name="English">Belgien</language>
 	</row>
 	<row id="narc_0612_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -106,7 +106,7 @@
 	</row>
 	<row id="narc_0612_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bosnia and Herzegovina</language>
+		<language name="English">Bosnien-Hercegovina</language>
 	</row>
 	<row id="narc_0612_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -114,11 +114,11 @@
 	</row>
 	<row id="narc_0612_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brazil</language>
+		<language name="English">Brasilien</language>
 	</row>
 	<row id="narc_0612_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">British Virgin Islands</language>
+		<language name="English">Britiske Jomfruøer</language>
 	</row>
 	<row id="narc_0612_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -126,7 +126,7 @@
 	</row>
 	<row id="narc_0612_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bulgaria</language>
+		<language name="English">Bulgarien</language>
 	</row>
 	<row id="narc_0612_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -138,11 +138,11 @@
 	</row>
 	<row id="narc_0612_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cambodia</language>
+		<language name="English">Cambodja</language>
 	</row>
 	<row id="narc_0612_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cameroon</language>
+		<language name="English">Cameroun</language>
 	</row>
 	<row id="narc_0612_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -150,23 +150,23 @@
 	</row>
 	<row id="narc_0612_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cape Verde</language>
+		<language name="English">Kap Verde</language>
 	</row>
 	<row id="narc_0612_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cayman Islands</language>
+		<language name="English">Caymanøerne</language>
 	</row>
 	<row id="narc_0612_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Central African Republic</language>
+		<language name="English">Centralafrikanske Republik</language>
 	</row>
 	<row id="narc_0612_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chad</language>
+		<language name="English">Tchad</language>
 	</row>
 	<row id="narc_0612_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Channel Islands</language>
+		<language name="English">Kanaløerne</language>
 	</row>
 	<row id="narc_0612_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
@@ -174,11 +174,11 @@
 	</row>
 	<row id="narc_0612_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">China</language>
+		<language name="English">Kina</language>
 	</row>
 	<row id="narc_0612_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Christmas Island</language>
+		<language name="English">Juleøen</language>
 	</row>
 	<row id="narc_0612_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -186,11 +186,11 @@
 	</row>
 	<row id="narc_0612_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Comoros</language>
+		<language name="English">Comorerne</language>
 	</row>
 	<row id="narc_0612_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Democratic Republic of the Congo</language>
+		<language name="English">Den Demokratiske Republik Congo</language>
 	</row>
 	<row id="narc_0612_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -198,7 +198,7 @@
 	</row>
 	<row id="narc_0612_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cook Islands</language>
+		<language name="English">Cookøerne</language>
 	</row>
 	<row id="narc_0612_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -206,11 +206,11 @@
 	</row>
 	<row id="narc_0612_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cote d’Ivoire</language>
+		<language name="English">Côte d'Ivoire</language>
 	</row>
 	<row id="narc_0612_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Croatia</language>
+		<language name="English">Kroatien</language>
 	</row>
 	<row id="narc_0612_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
@@ -218,15 +218,15 @@
 	</row>
 	<row id="narc_0612_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cyprus</language>
+		<language name="English">Cypern</language>
 	</row>
 	<row id="narc_0612_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czech Republic</language>
+		<language name="English">Tjekkiet</language>
 	</row>
 	<row id="narc_0612_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Denmark</language>
+		<language name="English">Danmark</language>
 	</row>
 	<row id="narc_0612_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -238,7 +238,7 @@
 	</row>
 	<row id="narc_0612_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dominican Republic</language>
+		<language name="English">Dominikanske Republik</language>
 	</row>
 	<row id="narc_0612_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
@@ -246,7 +246,7 @@
 	</row>
 	<row id="narc_0612_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Egypt</language>
+		<language name="English">Egypten</language>
 	</row>
 	<row id="narc_0612_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
@@ -254,7 +254,7 @@
 	</row>
 	<row id="narc_0612_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Equatorial Guinea</language>
+		<language name="English">Ækvatorialguinea</language>
 	</row>
 	<row id="narc_0612_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -262,19 +262,19 @@
 	</row>
 	<row id="narc_0612_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Estonia</language>
+		<language name="English">Estland</language>
 	</row>
 	<row id="narc_0612_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethiopia</language>
+		<language name="English">Etiopien</language>
 	</row>
 	<row id="narc_0612_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Faroe Islands</language>
+		<language name="English">Færøerne</language>
 	</row>
 	<row id="narc_0612_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkland Islands</language>
+		<language name="English">Falklandsøerne</language>
 	</row>
 	<row id="narc_0612_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
@@ -286,15 +286,15 @@
 	</row>
 	<row id="narc_0612_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">France</language>
+		<language name="English">Frankrig</language>
 	</row>
 	<row id="narc_0612_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">French Guiana</language>
+		<language name="English">Fransk Guyana</language>
 	</row>
 	<row id="narc_0612_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">French Polynesia</language>
+		<language name="English">Fransk Polynesien</language>
 	</row>
 	<row id="narc_0612_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -306,11 +306,11 @@
 	</row>
 	<row id="narc_0612_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Georgia</language>
+		<language name="English">Georgien</language>
 	</row>
 	<row id="narc_0612_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Germany</language>
+		<language name="English">Tyskland</language>
 	</row>
 	<row id="narc_0612_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
@@ -322,11 +322,11 @@
 	</row>
 	<row id="narc_0612_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Greece</language>
+		<language name="English">Grækenland</language>
 	</row>
 	<row id="narc_0612_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Greenland</language>
+		<language name="English">Grønland</language>
 	</row>
 	<row id="narc_0612_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -370,19 +370,19 @@
 	</row>
 	<row id="narc_0612_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hungary</language>
+		<language name="English">Ungarn</language>
 	</row>
 	<row id="narc_0612_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iceland</language>
+		<language name="English">Ø</language>
 	</row>
 	<row id="narc_0612_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">India</language>
+		<language name="English">Indien</language>
 	</row>
 	<row id="narc_0612_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Indonesia</language>
+		<language name="English">Indonesien</language>
 	</row>
 	<row id="narc_0612_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
@@ -390,11 +390,11 @@
 	</row>
 	<row id="narc_0612_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iraq</language>
+		<language name="English">Irak</language>
 	</row>
 	<row id="narc_0612_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ireland</language>
+		<language name="English">Irland</language>
 	</row>
 	<row id="narc_0612_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
@@ -406,7 +406,7 @@
 	</row>
 	<row id="narc_0612_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Italy</language>
+		<language name="English">Italien</language>
 	</row>
 	<row id="narc_0612_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
@@ -426,7 +426,7 @@
 	</row>
 	<row id="narc_0612_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kazakhstan</language>
+		<language name="English">Kasakhstan</language>
 	</row>
 	<row id="narc_0612_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
@@ -438,11 +438,11 @@
 	</row>
 	<row id="narc_0612_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">D.P. Republic of Korea</language>
+		<language name="English">D.P. Republikken Korea</language>
 	</row>
 	<row id="narc_0612_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Republic of Korea</language>
+		<language name="English">Republikken Korea</language>
 	</row>
 	<row id="narc_0612_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
@@ -450,19 +450,19 @@
 	</row>
 	<row id="narc_0612_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kyrgyzstan</language>
+		<language name="English">Kirgisistan</language>
 	</row>
 	<row id="narc_0612_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lao People’s Democratic Republic</language>
+		<language name="English">Laos Demokratiske Folkerepublik</language>
 	</row>
 	<row id="narc_0612_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Latvia</language>
+		<language name="English">Letland</language>
 	</row>
 	<row id="narc_0612_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lebanon</language>
+		<language name="English">Libanon</language>
 	</row>
 	<row id="narc_0612_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
@@ -474,7 +474,7 @@
 	</row>
 	<row id="narc_0612_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Libyan Arab Jamahiriya</language>
+		<language name="English">Libya Arab Jamahiriya</language>
 	</row>
 	<row id="narc_0612_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
@@ -482,7 +482,7 @@
 	</row>
 	<row id="narc_0612_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lithuania</language>
+		<language name="English">Litauen</language>
 	</row>
 	<row id="narc_0612_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
@@ -494,11 +494,11 @@
 	</row>
 	<row id="narc_0612_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Macedonia (FYROM)</language>
+		<language name="English">Makedonien (FYROM)</language>
 	</row>
 	<row id="narc_0612_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Madagascar</language>
+		<language name="English">Madagaskar</language>
 	</row>
 	<row id="narc_0612_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
@@ -510,7 +510,7 @@
 	</row>
 	<row id="narc_0612_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maldives</language>
+		<language name="English">Maldiverne</language>
 	</row>
 	<row id="narc_0612_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
@@ -522,7 +522,7 @@
 	</row>
 	<row id="narc_0612_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Marshall Islands</language>
+		<language name="English">Marshalløerne</language>
 	</row>
 	<row id="narc_0612_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
@@ -530,7 +530,7 @@
 	</row>
 	<row id="narc_0612_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mauritania</language>
+		<language name="English">Mauretanien</language>
 	</row>
 	<row id="narc_0612_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
@@ -546,11 +546,11 @@
 	</row>
 	<row id="narc_0612_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Micronesia</language>
+		<language name="English">Mikronesien</language>
 	</row>
 	<row id="narc_0612_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Republic of Moldova</language>
+		<language name="English">Republikken Moldova</language>
 	</row>
 	<row id="narc_0612_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
@@ -558,11 +558,11 @@
 	</row>
 	<row id="narc_0612_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mongolia</language>
+		<language name="English">Mongoliet</language>
 	</row>
 	<row id="narc_0612_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morocco</language>
+		<language name="English">Marokko</language>
 	</row>
 	<row id="narc_0612_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
@@ -586,15 +586,15 @@
 	</row>
 	<row id="narc_0612_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Netherlands</language>
+		<language name="English">Holland</language>
 	</row>
 	<row id="narc_0612_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Netherlands Antilles</language>
+		<language name="English">Hollandske Antiller</language>
 	</row>
 	<row id="narc_0612_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">New Caledonia</language>
+		<language name="English">Ny Kaledonien</language>
 	</row>
 	<row id="narc_0612_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
@@ -622,11 +622,11 @@
 	</row>
 	<row id="narc_0612_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Northern Mariana Islands</language>
+		<language name="English">Nordmarianerne</language>
 	</row>
 	<row id="narc_0612_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Norway</language>
+		<language name="English">Norge</language>
 	</row>
 	<row id="narc_0612_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
@@ -646,7 +646,7 @@
 	</row>
 	<row id="narc_0612_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Papua New Guinea</language>
+		<language name="English">Papua Ny Guinea</language>
 	</row>
 	<row id="narc_0612_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
@@ -658,15 +658,15 @@
 	</row>
 	<row id="narc_0612_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Philippines</language>
+		<language name="English">Filippinerne</language>
 	</row>
 	<row id="narc_0612_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pitcairn Islands</language>
+		<language name="English">Pitcairnøerne</language>
 	</row>
 	<row id="narc_0612_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poland</language>
+		<language name="English">Polen</language>
 	</row>
 	<row id="narc_0612_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
@@ -682,15 +682,15 @@
 	</row>
 	<row id="narc_0612_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reunion</language>
+		<language name="English">Genforening</language>
 	</row>
 	<row id="narc_0612_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Romania</language>
+		<language name="English">Rumænien</language>
 	</row>
 	<row id="narc_0612_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Russian Federation</language>
+		<language name="English">Russiske Føderation</language>
 	</row>
 	<row id="narc_0612_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
@@ -698,23 +698,23 @@
 	</row>
 	<row id="narc_0612_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint Helena</language>
+		<language name="English">Sankt Helena</language>
 	</row>
 	<row id="narc_0612_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint Kitts and Nevis</language>
+		<language name="English">Saint Kitts og Nevis</language>
 	</row>
 	<row id="narc_0612_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint Lucia</language>
+		<language name="English">Sankt Lucia</language>
 	</row>
 	<row id="narc_0612_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint-Pierre and Miquelon</language>
+		<language name="English">Saint-Pierre og Miquelon</language>
 	</row>
 	<row id="narc_0612_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint Vincent and the Grenadines</language>
+		<language name="English">Saint Vincent og Grenadinerne</language>
 	</row>
 	<row id="narc_0612_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
@@ -726,11 +726,11 @@
 	</row>
 	<row id="narc_0612_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sao Tome and Principe</language>
+		<language name="English">Sao Tome og Principe</language>
 	</row>
 	<row id="narc_0612_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saudi Arabia</language>
+		<language name="English">Saudi-Arabien</language>
 	</row>
 	<row id="narc_0612_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
@@ -738,11 +738,11 @@
 	</row>
 	<row id="narc_0612_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serbia and Montenegro</language>
+		<language name="English">Serbien og Montenegro</language>
 	</row>
 	<row id="narc_0612_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seychelles</language>
+		<language name="English">Seychellerne</language>
 	</row>
 	<row id="narc_0612_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
@@ -754,15 +754,15 @@
 	</row>
 	<row id="narc_0612_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slovakia</language>
+		<language name="English">Slovakiet</language>
 	</row>
 	<row id="narc_0612_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slovenia</language>
+		<language name="English">Slovenien</language>
 	</row>
 	<row id="narc_0612_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Solomon Islands</language>
+		<language name="English">Salomonøerne</language>
 	</row>
 	<row id="narc_0612_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
@@ -770,11 +770,11 @@
 	</row>
 	<row id="narc_0612_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">South Africa</language>
+		<language name="English">Sydafrika</language>
 	</row>
 	<row id="narc_0612_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spain</language>
+		<language name="English">Spanien</language>
 	</row>
 	<row id="narc_0612_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
@@ -786,7 +786,7 @@
 	</row>
 	<row id="narc_0612_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Suriname</language>
+		<language name="English">Surinam</language>
 	</row>
 	<row id="narc_0612_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
@@ -798,15 +798,15 @@
 	</row>
 	<row id="narc_0612_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweden</language>
+		<language name="English">Sverige</language>
 	</row>
 	<row id="narc_0612_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swiss Confederation</language>
+		<language name="English">Schweiziske Forbund</language>
 	</row>
 	<row id="narc_0612_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Syrian Arab Republic</language>
+		<language name="English">Syrien Arabiske Republik</language>
 	</row>
 	<row id="narc_0612_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
@@ -814,11 +814,11 @@
 	</row>
 	<row id="narc_0612_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tajikistan</language>
+		<language name="English">Tadsjikistan</language>
 	</row>
 	<row id="narc_0612_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United Republic of Tanzania</language>
+		<language name="English">Forenede Republik Tanzania</language>
 	</row>
 	<row id="narc_0612_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
@@ -826,7 +826,7 @@
 	</row>
 	<row id="narc_0612_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Democratic Republic of Timor-Leste</language>
+		<language name="English">Demokratiske Republik Timor-Leste</language>
 	</row>
 	<row id="narc_0612_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
@@ -842,15 +842,15 @@
 	</row>
 	<row id="narc_0612_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trinidad and Tobago</language>
+		<language name="English">Trinidad og Tobago</language>
 	</row>
 	<row id="narc_0612_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tunisia</language>
+		<language name="English">Tunesien</language>
 	</row>
 	<row id="narc_0612_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turkey</language>
+		<language name="English">Kalkun</language>
 	</row>
 	<row id="narc_0612_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
@@ -858,7 +858,7 @@
 	</row>
 	<row id="narc_0612_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turks and Caicos Islands</language>
+		<language name="English">Turks- og Caicosøerne</language>
 	</row>
 	<row id="narc_0612_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
@@ -874,19 +874,19 @@
 	</row>
 	<row id="narc_0612_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United Arab Emirates</language>
+		<language name="English">Forenede Arabiske Emirater</language>
 	</row>
 	<row id="narc_0612_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United Kingdom</language>
+		<language name="English">Storbritannien</language>
 	</row>
 	<row id="narc_0612_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United States of America</language>
+		<language name="English">Amerikas Forenede Stater</language>
 	</row>
 	<row id="narc_0612_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United States Virgin Islands</language>
+		<language name="English">De Forenede Staters Jomfruøer</language>
 	</row>
 	<row id="narc_0612_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
@@ -894,7 +894,7 @@
 	</row>
 	<row id="narc_0612_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uzbekistan</language>
+		<language name="English">Usbekistan</language>
 	</row>
 	<row id="narc_0612_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
@@ -902,7 +902,7 @@
 	</row>
 	<row id="narc_0612_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vatican City</language>
+		<language name="English">Vatikanstaten</language>
 	</row>
 	<row id="narc_0612_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
@@ -914,15 +914,15 @@
 	</row>
 	<row id="narc_0612_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wallis and Futuna</language>
+		<language name="English">Wallis og Futuna</language>
 	</row>
 	<row id="narc_0612_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Palestine</language>
+		<language name="English">Palæstina</language>
 	</row>
 	<row id="narc_0612_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Western Sahara</language>
+		<language name="English">Vestsahara</language>
 	</row>
 	<row id="narc_0612_00231" index="231">
 		<attribute name="window_context_name">used</attribute>

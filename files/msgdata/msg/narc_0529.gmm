@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="narc_0529_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you from?\r...\rHm, Twinleaf Town, you say.\nIsn’t that close to Lake Verity?\rThat lake is said to be home to\nMESPRIT, the being of emotion.\rIt must be looking over you.</language>
+		<language name="English">Hvor kommer du fra?\r...\rHm, Twinleaf Town, siger du.\nEr det ikke tæt på Lake Verity?\rDen sø siges at være hjemsted for\nMESPRIT, følelsernes væsen.\rDen må se ud over dig.</language>
 	</row>
 	<row id="narc_0529_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? If you get the Gym Badge from\nHearthome, you can use Surf anytime.\rUsing Surf, you’ll be able to go to\nplaces that were once out of reach.\rYou may be in for some surprises\nas to where you can go using Surf.</language>
+		<language name="English">Hm? Hvis du får Gym Badge fra\nHearthome, kan du bruge Surf når som helst.\rVed at bruge Surf vil du være i stand til at gå til\nsteder, der engang var uden for rækkevidde.\rDu kan få nogle overraskelser\nas, hvor du kan tage hen med Surf.</language>
 	</row>
 	<row id="narc_0529_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celestic Town is the oldest town in\nall of Sinnoh.\rThe town was founded to honor\nPokémon from the distant past.\rOr at least that’s the legend...</language>
+		<language name="English">Celestic Town er den ældste by i\nhele Sinnoh.\rByen blev grundlagt for at ære\nPokémon fra en fjern fortid.\rEller det er i det mindste legenden...</language>
 	</row>
 	<row id="narc_0529_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, hello!\nYou look good.\rI did some research of my own since\nthat spot of trouble last time.\rMt. Coronet acting up had me very\nconcerned, too.\rWell, this is what I found in the\nshrine.\rIt’s a book, and it’s quite old.\nSee for yourself.\r</language>
+		<language name="English">Nå, hej!\nDu ser godt ud.\rJeg har selv lavet nogle undersøgelser, siden\nden der var problemer sidste gang.\rMt. Coronet, der optrådte, gjorde mig også meget\nbekymret.\rNå, det er det, jeg fandt i\nshelligdommen.\rDet er en bog, og den er ret gammel.\nSe selv.\r</language>
 	</row>
 	<row id="narc_0529_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“PALKIA, the Pokémon that binds the\nspatial dimensions,” it is written...\r</language>
+		<language name="English">"PALKIA, Pokémon'en, der binder de\nrumlige dimensioner," står der skrevet...\r</language>
 	</row>
 	<row id="narc_0529_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“DIALGA, the guardian Pokémon of\ntime,” it is written...\r</language>
+		<language name="English">"DIALGA, tidens vogter Pokémon," står der...\r</language>
 	</row>
 	<row id="narc_0529_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems that there were two\nPokémon in ancient Sinnoh.\rThey respectively stood as symbols\nof time and spatial dimensions...</language>
+		<language name="English">Det ser ud til, at der var to\nPokémon i det gamle Sinnoh.\rDe stod henholdsvis som symboler\npå tid og rumlige dimensioner...</language>
 	</row>
 	<row id="narc_0529_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My big sister is studying the myths\nof Sinnoh.\rShe wants to know how people and\nPokémon interacted in the days of\fmyths.\rWere things different back then?\nOr were they the same as now?\rShe says that’s the focus of her\nresearch.</language>
+		<language name="English">Min storesøster studerer myterne\nom Sinnoh.\rHun vil gerne vide, hvordan folk og\nPokémon interagerede i \fmyternes dage.\rVar tingene anderledes dengang?\nEller var de de samme som nu?\rHun siger, at det er i fokus for hendes\nforskning.</language>
 	</row>
 	<row id="narc_0529_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s hard to tell for sure, but it’s\nprobably an invaluable scroll.</language>
+		<language name="English">Det er svært at sige med sikkerhed, men det er\nsandsynligvis en uvurderlig rulle.</language>
 	</row>
 	<row id="narc_0529_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s an old book.\n{STRVAR_1 3, 0} began reading it.\r“When that Pokémon was born,\nintelligence bloomed among us,\fenriching our lives.\r“When that Pokémon was born,\nemotions bloomed among us,\fgiving us joy and sorrow.\r“When that Pokémon was born,\nwillpower bloomed among us,\fspurring us into action...”</language>
+		<language name="English">Det er en gammel bog.\n{STRVAR_1 3, 0} begyndte at læse den.\r"Da den Pokémon blev født,\nintelligens blomstrede blandt os og berigede vores liv.\r"Da den Pokémon blev født, blomstrede\nemotioner blandt os,\fgav os glæde og sorg, da Pokémon blev født,\r“magten blev født os, \f ansporer os til handling..."</language>
 	</row>
 </body>

@@ -54,7 +54,7 @@
 	</row>
 	<row id="narc_0345_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DUSK BALL</language>
+		<language name="English">SKUMRINGSKUGL</language>
 	</row>
 	<row id="narc_0345_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="narc_0345_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUICK BALL</language>
+		<language name="English">HURTIG BOLD</language>
 	</row>
 	<row id="narc_0345_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -290,19 +290,19 @@
 	</row>
 	<row id="narc_0345_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RED SHARD</language>
+		<language name="English">RØD SKERV</language>
 	</row>
 	<row id="narc_0345_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BLUE SHARD</language>
+		<language name="English">BLÅ SKIV</language>
 	</row>
 	<row id="narc_0345_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YELLOW SHARD</language>
+		<language name="English">GUL SKIV</language>
 	</row>
 	<row id="narc_0345_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GREEN SHARD</language>
+		<language name="English">GRØN SKIV</language>
 	</row>
 	<row id="narc_0345_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -398,11 +398,11 @@
 	</row>
 	<row id="narc_0345_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROOT FOSSIL</language>
+		<language name="English">RODFOSSIL</language>
 	</row>
 	<row id="narc_0345_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLAW FOSSIL</language>
+		<language name="English">KLOFOSSIL</language>
 	</row>
 	<row id="narc_0345_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
@@ -410,11 +410,11 @@
 	</row>
 	<row id="narc_0345_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOME FOSSIL</language>
+		<language name="English">KUPPEFOSSIL</language>
 	</row>
 	<row id="narc_0345_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OLD AMBER</language>
+		<language name="English">GAMLE RAV</language>
 	</row>
 	<row id="narc_0345_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
@@ -422,7 +422,7 @@
 	</row>
 	<row id="narc_0345_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKULL FOSSIL</language>
+		<language name="English">SKULLEFOSSIL</language>
 	</row>
 	<row id="narc_0345_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
@@ -1766,7 +1766,7 @@
 	</row>
 	<row id="narc_0345_00441" index="441">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RED CHAIN</language>
+		<language name="English">RØD KÆDE</language>
 	</row>
 	<row id="narc_0345_00442" index="442">
 		<attribute name="window_context_name">used</attribute>

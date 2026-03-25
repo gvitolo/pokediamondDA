@@ -1,27 +1,27 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0485_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ding-dong! Time’s up!\nYour Safari Game is over.</language>
+		<language name="English">Ding-dong! Tiden er gået!\nDit Safari-spil er slut.</language>
 	</row>
 	<row id="narc_0485_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ding-dong! You’ve run out of Safari\nBalls. Your Safari Game is over.</language>
+		<language name="English">Ding-dong! Du er løbet tør for Safari\nBolde. Dit Safari-spil er slut.</language>
 	</row>
 	<row id="narc_0485_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ding-dong!\nYou’re out of room for more Pokémon.\rYour Safari Game is over!</language>
+		<language name="English">Ding-dong!\nDu er løbet tør for plads til flere Pokémon.\rDit Safari-spil er slut!</language>
 	</row>
 	<row id="narc_0485_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where would you like to go?</language>
+		<language name="English">Hvor vil du gerne hen?</language>
 	</row>
 	<row id="narc_0485_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0} didn’t board\nthe Quick Tram.</language>
+		<language name="English">{STRVAR_1 3, 0} gik ikke ombord\nden hurtige sporvogn.</language>
 	</row>
 	<row id="narc_0485_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to exit the Great Marsh\nright now?</language>
+		<language name="English">Kunne du tænke dig at forlade Great Marsh\nlige nu?</language>
 	</row>
 </body>

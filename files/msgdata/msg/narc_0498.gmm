@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0498_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -6,58 +6,58 @@
 	</row>
 	<row id="narc_0498_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: What was that about?!\rOh, hey, {STRVAR_1 3, 1}!\rHey! I’m going to the lake!\nYou come too! And be quick about it!\rOK, {STRVAR_1 3, 1}? I’m fining\nyou $1 million if you’re late!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Hvad handlede det om?!\rÅh, hej, {STRVAR_1 3, 1}!\rHej! Jeg skal til søen!\nDu kommer også! Og vær hurtig med det!\rOK, {STRVAR_1 3, 1}? jeg bøder\ndu 1 million dollars, hvis du kommer for sent!\r</language>
 	</row>
 	<row id="narc_0498_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}: Oh, jeez!\nForgot something!\r</language>
+		<language name="English">{STRVAR_1 3, 0}: Åh, jeps!\nGlemt noget!\r</language>
 	</row>
 	<row id="narc_0498_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hiya, {STRVAR_1 3, 0}.\n{STRVAR_1 3, 1} was looking for you.\rI think he’s home now.\nWhy don’t you go check it out?\r</language>
+		<language name="English">Hej {STRVAR_1 3, 0}.\n{STRVAR_1 3, 1} ledte efter dig.\rJeg tror, ​​han er hjemme nu.\nHvorfor går du ikke og tjekker det ud?\r</language>
 	</row>
 	<row id="narc_0498_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hiya, {STRVAR_1 3, 0}.\n{STRVAR_1 3, 1} was looking for you.\rI think he’s home now.\nWhy don’t you go check it out?</language>
+		<language name="English">Hej {STRVAR_1 3, 0}.\n{STRVAR_1 3, 1} ledte efter dig.\rJeg tror, ​​han er hjemme nu.\nHvorfor går du ikke og tjekker det ud?</language>
 	</row>
 	<row id="narc_0498_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hiya, {STRVAR_1 3, 0}.\nYou’re looking for {STRVAR_1 3, 1}?\rHe just went tearing off a little\nwhile ago.\rHe’s probably not gone too far.\nWhy not go chase after him?</language>
+		<language name="English">Hej {STRVAR_1 3, 0}.\ndu leder efter {STRVAR_1 3, 1}?\rHan gik bare lidt i stykker\net stykke tid siden.\rHan er nok ikke gået for langt.\nHvorfor ikke gå efter ham?</language>
 	</row>
 	<row id="narc_0498_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}? He went tearing off\nin a huge rush a while ago.</language>
+		<language name="English">{STRVAR_1 3, 0}? Han gik i stykker\ni et kæmpe hastværk for et stykke tid siden.</language>
 	</row>
 	<row id="narc_0498_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everyone goes off on adventures,\nand then they gradually grow up...</language>
+		<language name="English">Alle tager på eventyr,\nog så vokser de gradvist op...</language>
 	</row>
 	<row id="narc_0498_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s true that wild Pokémon do attack\npeople sometimes...\rHowever, Pokémon also let you become\nfriends with them.</language>
+		<language name="English">Det er rigtigt, at vilde Pokémon angriber\nmennesker nogle gange...\rDog lader Pokémon dig også blive\nvenner med dem.</language>
 	</row>
 	<row id="narc_0498_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! A Pokémon!\nYou look good together!</language>
+		<language name="English">Åh! En Pokémon!\nI ser godt ud sammen!</language>
 	</row>
 	<row id="narc_0498_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you’re helping put together\na Pokédex?\rThat means you’re going to travel\nall over the region with Pokémon!\rThat sounds like a lot of fun!\nI’m a little envious, to be honest!</language>
+		<language name="English">Åh, du er med til at sætte sammen\nen Pokédex?\rDet betyder, at du skal ud at rejse\nover hele regionen med Pokémon!\rDet lyder som meget sjovt!\nJeg er lidt misundelig, for at være ærlig!</language>
 	</row>
 	<row id="narc_0498_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Technology just blows me away!\rI mean, now you can play with people\naround the world...wirelessly!</language>
+		<language name="English">Teknologien blæser mig bare væk!\rJeg mener, nu kan du lege med folk\nrundt om i verden...trådløst!</language>
 	</row>
 	<row id="narc_0498_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Twinleaf Town\nFresh and Free!</language>
+		<language name="English">Twinleaf Town\nFrisk og gratis!</language>
 	</row>
 	<row id="narc_0498_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}’s House</language>
+		<language name="English">{STRVAR_1 3, 0}'s Hus</language>
 	</row>
 	<row id="narc_0498_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0}’s House</language>
+		<language name="English">{STRVAR_1 3, 0}'s Hus</language>
 	</row>
 </body>

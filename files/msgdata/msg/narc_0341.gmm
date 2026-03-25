@@ -138,11 +138,11 @@
 	</row>
 	<row id="narc_0341_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0341_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0341_00036" index="36">
 		<attribute name="window_context_name">used</attribute>

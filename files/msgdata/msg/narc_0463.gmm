@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0463_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pal Park isn’t open yet.\nWe’re still setting up.</language>
+		<language name="English">Pal Park er ikke åben endnu.\nVi er stadig ved at konfigurere.</language>
 	</row>
 	<row id="narc_0463_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re getting Pal Park ready.\nI wonder what you can do there?</language>
+		<language name="English">Vi gør Pal Park klar.\nJeg spekulerer på, hvad du kan gøre der?</language>
 	</row>
 	<row id="narc_0463_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pal Park\nA Place for New Beginnings</language>
+		<language name="English">Pal Park\nEt sted for ny begyndelse</language>
 	</row>
 </body>

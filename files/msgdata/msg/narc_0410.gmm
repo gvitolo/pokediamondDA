@@ -1,24 +1,24 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0410_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LINK SEARCHER</language>
+		<language name="English">LINKSØGER</language>
 	</row>
 	<row id="narc_0410_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Searching for wireless\ncommunications activity\nPlease wait.</language>
+		<language name="English">Søger efter trådløs\nkommunikationsaktivitet\nVent venligst.</language>
 	</row>
 	<row id="narc_0410_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Error!</language>
+		<language name="English">Fejl!</language>
 	</row>
 	<row id="narc_0410_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Search is unusable here.</language>
+		<language name="English">Søgning er ubrugelig her.</language>
 	</row>
 	<row id="narc_0410_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please don’t move\nwhile searching.</language>
+		<language name="English">Bevæg dig venligst ikke\nmens du søger.</language>
 	</row>
 	<row id="narc_0410_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,11 +26,11 @@
 	</row>
 	<row id="narc_0410_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Union Room</language>
+		<language name="English">Union værelse</language>
 	</row>
 	<row id="narc_0410_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Underground</language>
+		<language name="English">Underjordisk</language>
 	</row>
 	<row id="narc_0410_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,10 +38,10 @@
 	</row>
 	<row id="narc_0410_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Other Links</language>
+		<language name="English">Andre links</language>
 	</row>
 	<row id="narc_0410_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touch to begin communication!</language>
+		<language name="English">Tryk for at begynde kommunikation!</language>
 	</row>
 </body>

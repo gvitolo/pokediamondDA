@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0037_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Isn’t my Pokétch quite fetching?\rA Trainer would be simply lost without\na Pokétch, after all.</language>
+		<language name="English">Er mit Pokétch ikke ret spændende?\rEn træner ville simpelthen være tabt uden\nen Pokétch, trads alt.</language>
 	</row>
 	<row id="narc_0037_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,10 +14,10 @@
 	</row>
 	<row id="narc_0037_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, your Pokémon is quite adorable!\rHere, try making it hold this\n{STRVAR_1 8, 0}.\r</language>
+		<language name="English">Din Pokémon er ret yndig!\rHer, prøv at gøre det holde dette\n{STRVAR_1 8, 0}.\r</language>
 	</row>
 	<row id="narc_0037_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon holding that Quick Claw can\nsometimes attack first, even if it\fis normally a little bit slow.\rThere are other items that are only\nuseful when given to a Pokémon.\rTry finding other items that you can\nmake your Pokémon hold.\r...I sound like I’m a teacher or\nsomething.</language>
+		<language name="English">En Pokémon bedrift, at Quick Claw kan\nNogle gange angribe først, selv om det\fer normalt lidt langsom.\rDer er andre elementer, der kun\nnyttigt, når det gives til en Pokémon.\rPrøv at finde andre elementer, som du kan\ngøre din Pokémon hold.\r... Jeg lyder som en lærer eller\nNoget.</language>
 	</row>
 </body>

@@ -2,58 +2,58 @@
 <body language="English">
 	<row id="narc_0306_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Start debug</language>
+		<language name="English">Start fejlretning</language>
 	</row>
 	<row id="narc_0306_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Select Name</language>
+		<language name="English">Vælg Navn</language>
 	</row>
 	<row id="narc_0306_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Continue</language>
+		<language name="English">Fortsætte</language>
 	</row>
 	<row id="narc_0306_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Opening</language>
+		<language name="English">Åbning</language>
 	</row>
 	<row id="narc_0306_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sound test</language>
+		<language name="English">Lydtest</language>
 	</row>
 	<row id="narc_0306_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon graphics</language>
+		<language name="English">Pokémon grafik</language>
 	</row>
 	<row id="narc_0306_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Back</language>
+		<language name="English">Tilbage</language>
 	</row>
 	<row id="narc_0306_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Debug Fight</language>
+		<language name="English">Fejlretningskamp</language>
 	</row>
 	<row id="narc_0306_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wi-Fi settings</language>
+		<language name="English">Wi-Fi-indstillinger</language>
 	</row>
 	<row id="narc_0306_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wi-Fi Test</language>
+		<language name="English">Wi-Fi test</language>
 	</row>
 	<row id="narc_0306_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer graphics</language>
+		<language name="English">Træner grafik</language>
 	</row>
 	<row id="narc_0306_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Save data corrupted</language>
+		<language name="English">Gem data er beskadiget</language>
 	</row>
 	<row id="narc_0306_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Modify RTC</language>
+		<language name="English">Rediger RTC</language>
 	</row>
 	<row id="narc_0306_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 74, 0} {STRVAR_1 51, 1} Time: {STRVAR_1 51, 2}:{STRVAR_1 51, 3}</language>
+		<language name="English">{STRVAR_1 74, 0} {STRVAR_1 51, 1} Tid: {STRVAR_1 51, 2}:{STRVAR_1 51, 3}</language>
 	</row>
 </body>

@@ -14,11 +14,11 @@
 	</row>
 	<row id="narc_0381_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">JA</language>
 	</row>
 	<row id="narc_0381_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">INGEN</language>
 	</row>
 	<row id="narc_0381_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
@@ -51,7 +51,7 @@
 	</row>
 	<row id="narc_0381_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">UDGANG</language>
 	</row>
 	<row id="narc_0381_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

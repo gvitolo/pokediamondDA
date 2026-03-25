@@ -1,26 +1,26 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <body language="English">
 	<row id="narc_0513_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, you have a Pokétch?\nYou will find it indispensable.\rScience will become increasingly\nnecessary in the world of Pokémon.\r</language>
+		<language name="English">Ah, har du en Pokétch?\nDu vil finde det uundværligt.\rVidenskab vil blive mere og mere\nnødvendigt i Pokémons verden.\r</language>
 	</row>
 	<row id="narc_0513_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My name is Cyrus.\rI am but another human seeking to\nbecome Sinnoh’s greatest Trainer.\rIf you’re also a Trainer, then do\nyour best to gain power.\rBe all that you can become.</language>
+		<language name="English">Mit navn er Cyrus.\rJeg er blot et andet menneske, der søger det\nblive Sinnohs største træner.\rHvis du også er træner, så gør det\ndit bedste for at få magt.\rVær alt hvad du kan blive.</language>
 	</row>
 	<row id="narc_0513_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0513_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0513_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="narc_0513_00005" index="5">
@@ -45,19 +45,19 @@
 	</row>
 	<row id="narc_0513_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I simply love it here...\nThe atmosphere is so uplifting.\rYou came to get emotionally healed\ntoo, didn’t you?</language>
+		<language name="English">Jeg elsker det her...\nStemningen er så opløftende.\rDu kom for at blive følelsesmæssigt helbredt\nogså, gjorde du ikke?</language>
 	</row>
 	<row id="narc_0513_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Floaroma, the town of\nflowers, flowers, and more flowers!\rYou should plant some flowers of\nyour own, too. Yay for flowers!</language>
+		<language name="English">Velkommen til Floaroma, byen\nblomster, blomster og flere blomster!\rDu bør plante nogle blomster af\nogså din egen. Yay for blomster!</language>
 	</row>
 	<row id="narc_0513_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Berries you pick can be used as\nfood for Pokémon.\rYou can also exchange them at\nthe florist’s for Accessories to\fdress up your Pokémon.</language>
+		<language name="English">De bær du plukker kan bruges som\nmad til Pokémon.\rDu kan også bytte dem på\nblomsterhandlerens for Tilbehør til\fklæde din Pokémon på.</language>
 	</row>
 	<row id="narc_0513_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got drawn here by the sweet scent\nof Honey...\rSeriously, what’s that? What am I?\nA Pokémon or something? Mmm... Honey.</language>
+		<language name="English">Jeg blev trukket hertil af den søde duft\naf honning...\rSeriøst, hvad er det? Hvad er jeg?\nEn Pokémon eller noget? Mmm... Skat.</language>
 	</row>
 	<row id="narc_0513_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
